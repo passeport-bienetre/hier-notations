@@ -1,0 +1,16 @@
+{
+  "carte": "38418",
+  "name": "Emilie",
+  "yesterday_date": "2026-05-21",
+  "yesterday_date_pretty": "le 21 mai 2026",
+  "visits": [
+    {
+      "etab_name": "Royal Savoy Hôtel & Spa",
+      "etab_slug": "royal-savoy-hotel-spa",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+      "visite_id": "v_82ea0ed9844e",
+      "category": "Future Maman",
+      "date_iso": "2026-05-21"
+    }
+  ]
+}

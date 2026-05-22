@@ -1,0 +1,16 @@
+{
+  "carte": "38722",
+  "name": "anne",
+  "yesterday_date": "2026-05-21",
+  "yesterday_date_pretty": "le 21 mai 2026",
+  "visits": [
+    {
+      "etab_name": "Espace Beauté Sarah",
+      "etab_slug": "espace-beaute-sarah",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/espace-beaute-sarah.jpg",
+      "visite_id": "v_8ad0c185389e",
+      "category": "Epilation",
+      "date_iso": "2026-05-21"
+    }
+  ]
+}

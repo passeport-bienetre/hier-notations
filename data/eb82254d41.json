@@ -1,0 +1,16 @@
+{
+  "carte": "38244",
+  "name": "Corinne",
+  "yesterday_date": "2026-05-21",
+  "yesterday_date_pretty": "le 21 mai 2026",
+  "visits": [
+    {
+      "etab_name": "Institut Kaori",
+      "etab_slug": "institut-kaori",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/institut-kaori.jpg",
+      "visite_id": "v_fe2b28413f61",
+      "category": "Lausanne région",
+      "date_iso": "2026-05-21"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "carte": "31056",
+  "name": "Marc",
+  "yesterday_date": "2026-05-21",
+  "yesterday_date_pretty": "le 21 mai 2026",
+  "visits": [
+    {
+      "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
+      "etab_slug": "hotel-intercontinental-spa-5-mondes",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/hotel-intercontinental-spa-5-mondes.jpg",
+      "visite_id": "v_9ca2a888c5ee",
+      "category": "Soins Duo",
+      "date_iso": "2026-05-21"
+    }
+  ]
+}

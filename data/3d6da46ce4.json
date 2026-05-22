@@ -1,0 +1,16 @@
+{
+  "carte": "30256",
+  "name": "Kim",
+  "yesterday_date": "2026-05-21",
+  "yesterday_date_pretty": "le 21 mai 2026",
+  "visits": [
+    {
+      "etab_name": "Le Bal des Créateurs",
+      "etab_slug": "le-bal-des-createurs-3",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/le-bal-des-createurs-3.jpg",
+      "visite_id": "v_98d7a1be9016",
+      "category": "Coiffure",
+      "date_iso": "2026-05-21"
+    }
+  ]
+}

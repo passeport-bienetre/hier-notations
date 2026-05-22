@@ -1,0 +1,16 @@
+{
+  "carte": "36377",
+  "name": "Catherine",
+  "yesterday_date": "2026-05-21",
+  "yesterday_date_pretty": "le 21 mai 2026",
+  "visits": [
+    {
+      "etab_name": "Saai Nam Massage – Manor",
+      "etab_slug": "saai-nam-massage-manor",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/saai-nam-massage-manor.jpg",
+      "visite_id": "v_93aee8ffbb55",
+      "category": "Massage",
+      "date_iso": "2026-05-21"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "carte": "30515",
+  "name": "Clara",
+  "yesterday_date": "2026-05-21",
+  "yesterday_date_pretty": "le 21 mai 2026",
+  "visits": [
+    {
+      "etab_name": "INTUITIVE JESS",
+      "etab_slug": "intuitive-jess",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/intuitive-jess.jpg",
+      "visite_id": "v_103bc8fbf1e0",
+      "category": "Soins Hommes",
+      "date_iso": "2026-05-21"
+    }
+  ]
+}

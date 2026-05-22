@@ -1,0 +1,24 @@
+{
+  "carte": "36940",
+  "name": "Caroline",
+  "yesterday_date": "2026-05-21",
+  "yesterday_date_pretty": "le 21 mai 2026",
+  "visits": [
+    {
+      "etab_name": "So Hair",
+      "etab_slug": "so-hair",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/so-hair.jpg",
+      "visite_id": "v_2559728d81dc",
+      "category": "Coiffure",
+      "date_iso": "2026-05-21"
+    },
+    {
+      "etab_name": "Swiss Beauty Studio",
+      "etab_slug": "swiss-beauty-studio",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/swiss-beauty-studio.jpg",
+      "visite_id": "v_bccd881531e2",
+      "category": "Soins Hommes",
+      "date_iso": "2026-05-21"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "carte": "35991",
+  "name": "Magda",
+  "yesterday_date": "2026-05-21",
+  "yesterday_date_pretty": "le 21 mai 2026",
+  "visits": [
+    {
+      "etab_name": "JOIA NEUCHATEL",
+      "etab_slug": "joia-studio",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/joia-studio.jpg",
+      "visite_id": "v_58d56b73dc68",
+      "category": "Pilates",
+      "date_iso": "2026-05-21"
+    }
+  ]
+}

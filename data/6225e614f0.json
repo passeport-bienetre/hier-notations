@@ -1,0 +1,16 @@
+{
+  "carte": "31041",
+  "name": "Ingrid",
+  "yesterday_date": "2026-05-21",
+  "yesterday_date_pretty": "le 21 mai 2026",
+  "visits": [
+    {
+      "etab_name": "BLISS",
+      "etab_slug": "bliss",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/bliss.jpg",
+      "visite_id": "v_eca93d9ff40f",
+      "category": "Epilation",
+      "date_iso": "2026-05-21"
+    }
+  ]
+}

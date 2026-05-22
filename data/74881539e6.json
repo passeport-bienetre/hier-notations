@@ -1,0 +1,16 @@
+{
+  "carte": "33367",
+  "name": "Bettina",
+  "yesterday_date": "2026-05-21",
+  "yesterday_date_pretty": "le 21 mai 2026",
+  "visits": [
+    {
+      "etab_name": "Salon Privé Gare",
+      "etab_slug": "salon-prive",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/salon-prive.jpg",
+      "visite_id": "v_142f364eef73",
+      "category": "Soins Hommes",
+      "date_iso": "2026-05-21"
+    }
+  ]
+}

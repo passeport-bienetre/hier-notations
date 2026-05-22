@@ -1,0 +1,16 @@
+{
+  "carte": "39257",
+  "name": "Luce",
+  "yesterday_date": "2026-05-21",
+  "yesterday_date_pretty": "le 21 mai 2026",
+  "visits": [
+    {
+      "etab_name": "Namasté",
+      "etab_slug": "namaste",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/namaste.jpg",
+      "visite_id": "v_29b6a3a6635e",
+      "category": "Epilation",
+      "date_iso": "2026-05-21"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "carte": "36069",
+  "name": "Rosy",
+  "yesterday_date": "2026-05-21",
+  "yesterday_date_pretty": "le 21 mai 2026",
+  "visits": [
+    {
+      "etab_name": "Arte Beauty Lutry",
+      "etab_slug": "arte-beauty-lutry",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
+      "visite_id": "v_9575f23edb0b",
+      "category": "Soins Hommes",
+      "date_iso": "2026-05-21"
+    }
+  ]
+}

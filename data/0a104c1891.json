@@ -1,0 +1,16 @@
+{
+  "carte": "32748",
+  "name": "Elena",
+  "yesterday_date": "2026-05-21",
+  "yesterday_date_pretty": "le 21 mai 2026",
+  "visits": [
+    {
+      "etab_name": "EUPHORIA & BEAUTY STUDIO",
+      "etab_slug": "euphoria-beauty-studio",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
+      "visite_id": "v_82356d344fab",
+      "category": "Coiffure",
+      "date_iso": "2026-05-21"
+    }
+  ]
+}
