@@ -165,7 +165,7 @@
 </template>
 
 <script>
-  const WEBHOOK_URL = "https://bodypass.app.n8n.cloud/webhook/bp-notation-submit";
+  const WEBHOOK_URL = "https://script.google.com/macros/s/AKfycbx3QL3Rh91clskYLMhPRgzv3QJQA3ggg6unLGl5e0g19XRlhZJweZ3Hw2TqHzawC2yT/exec";
   const CRITERIA = [
     { key: "note_lieu",    label: "Beauté du lieu" },
     { key: "note_accueil", label: "Qualité de l'accueil" },
@@ -253,19 +253,34 @@
   }
 
   function collect(data) {
-    const out = { token, carte: data.carte, yesterday_date: data.yesterday_date, ratings: [] };
+    const ratings = [];
     document.querySelectorAll(".estab").forEach(card => {
       const i = card.dataset.idx;
-      const rec = { visite_id: card.dataset.visiteId, etab_name: data.visits[i].etab_name, etab_slug: data.visits[i].etab_slug };
-      CRITERIA.forEach(c => {
-        const sel = card.querySelector(`input[name="v${i}_${c.key}"]:checked`);
-        rec[c.key] = sel ? Number(sel.value) : null;
-      });
+      const v = data.visits[i];
+      const get = key => {
+        const sel = card.querySelector(`input[name="v${i}_${key}"]:checked`);
+        return sel ? Number(sel.value) : "";
+      };
       const ta = card.querySelector(".comment textarea");
-      rec.comment = ta.value.trim();
-      out.ratings.push(rec);
+      ratings.push({
+        etablissement: v.etab_name,
+        beaute: get("note_lieu"),
+        accueil: get("note_accueil"),
+        soins: get("note_soins"),
+        commentaire: ta.value.trim(),
+        // métadonnées hier-notations (Apps Script peut les capter plus tard)
+        visite_id: v.visite_id,
+        etab_slug: v.etab_slug,
+        date_visite: v.date_iso || data.yesterday_date,
+      });
     });
-    return out;
+    return {
+      carte: data.carte,
+      prenom: data.name,
+      token,
+      campagne: "hier-notations",
+      ratings,
+    };
   }
 
   async function submit(data) {
@@ -274,9 +289,11 @@
     btn.textContent = "Envoi…";
     const payload = collect(data);
     try {
+      // text/plain bypass CORS preflight, Apps Script lit e.postData.contents
       await fetch(WEBHOOK_URL, {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
+        mode: "no-cors",
+        headers: { "Content-Type": "text/plain;charset=utf-8" },
         body: JSON.stringify(payload),
       });
     } catch (e) { /* best-effort : on remercie quand même */ }
