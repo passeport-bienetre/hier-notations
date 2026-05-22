@@ -61,13 +61,24 @@
   }
   .estab:hover { border-color: var(--champagne); }
   .estab-photo {
-    width: 100%; aspect-ratio: 16 / 9; object-fit: cover; display: block;
-    background: var(--cream-deep);
+    width: 100%; aspect-ratio: 16 / 9; object-fit: cover;
+    display: block; background: var(--cream-deep);
   }
   .estab-body { padding: 30px 40px 30px; }
   .estab-head { margin-bottom: 24px; padding-bottom: 16px; border-bottom: 1px solid var(--border); }
-  .estab-name { font-family: 'Playfair Display', serif; font-size: 24px; line-height: 1.2; color: var(--title); font-weight: 500; }
-  .estab-meta { font-size: 13px; color: var(--text-muted); letter-spacing: 0.04em; margin-top: 5px; }
+  .estab-meta {
+    font-size: 11px; text-transform: uppercase; letter-spacing: 0.14em;
+    color: var(--burgundy); font-weight: 600; margin-bottom: 8px;
+  }
+  .estab-name {
+    font-family: 'Playfair Display', serif; font-size: 24px; line-height: 1.2;
+    color: var(--title); font-weight: 500;
+  }
+  a.estab-name {
+    text-decoration: none; border-bottom: 1px solid var(--champagne);
+    padding-bottom: 2px; transition: border-color 0.2s, color 0.2s;
+  }
+  a.estab-name:hover { color: var(--burgundy); border-bottom-color: var(--burgundy); }
 
   .rating-row {
     display: flex; align-items: center; justify-content: space-between;
@@ -141,8 +152,8 @@
     <img class="estab-photo" alt="" loading="lazy">
     <div class="estab-body">
       <div class="estab-head">
-        <div class="estab-name"></div>
         <div class="estab-meta"></div>
+        <div class="estab-name-slot"></div>
       </div>
       <div class="ratings"></div>
       <div class="comment">
@@ -180,15 +191,14 @@
 
   function render(data) {
     const visits = data.visits || [];
+    const firstEtab = visits[0] ? visits[0].etab_name : "";
     const intro = document.createElement("section");
     intro.className = "intro";
-    const plural = visits.length > 1;
     intro.innerHTML = `
       <div class="eyebrow">Body Pass · ${data.yesterday_date_pretty}</div>
-      <h1>Bonjour <span class="name">${data.name}</span>,<br>comment s'est passée votre journée d'hier ?</h1>
-      <p>Vous avez profité ${plural ? "de plusieurs expériences" : "d'une expérience"} Body Pass hier.
-         ${plural ? "Quelques secondes pour chacune" : "Quelques secondes"} suffisent pour partager votre ressenti.</p>
-      <p>Votre regard nous aide à faire grandir le réseau.</p>`;
+      <h1>Bonjour <span class="name">${data.name}</span>,</h1>
+      <p>Nous espérons que votre moment chez ${firstEtab} hier vous a plu.</p>
+      <p>En quelques secondes, vous pouvez nous dire ce que vous avez pensé de votre expérience. Votre avis nous aide à améliorer chaque détail.</p>`;
     app.innerHTML = "";
     app.appendChild(intro);
 
@@ -199,7 +209,23 @@
       img.src = v.etab_photo_url;
       img.alt = v.etab_name;
       img.onerror = () => { img.src = "https://bodypass-ch.github.io/bodypass-assets/etablissements/_default.jpg"; };
-      node.querySelector(".estab-name").textContent = v.etab_name;
+
+      const nameSlot = node.querySelector(".estab-name-slot");
+      if (v.etab_slug) {
+        const a = document.createElement("a");
+        a.className = "estab-name";
+        a.href = `https://www.bodypass.ch/etablissements/${v.etab_slug}/`;
+        a.target = "_blank";
+        a.rel = "noopener";
+        a.textContent = v.etab_name;
+        nameSlot.replaceWith(a);
+      } else {
+        const div = document.createElement("div");
+        div.className = "estab-name";
+        div.textContent = v.etab_name;
+        nameSlot.replaceWith(div);
+      }
+
       node.querySelector(".estab-meta").textContent = v.category || "Votre visite d'hier";
       const ratings = node.querySelector(".ratings");
       ratings.innerHTML = CRITERIA.map(c => `
