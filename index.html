@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Body Pass — Votre journée d'hier</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Source+Sans+Pro:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --cream-deep: #F2EBDF;
+    --cream-light: #FBF7F1;
+    --burgundy: #A3695B;
+    --burgundy-deep: #8B5448;
+    --champagne: #C2B59B;
+    --champagne-light: #D8CDB6;
+    --text-warm: #54504E;
+    --text-muted: #7A7470;
+    --title: #2C2826;
+    --border: #E5DBC8;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; }
+  body {
+    font-family: 'Source Sans Pro', -apple-system, sans-serif;
+    background: var(--cream-light);
+    color: var(--text-warm);
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    min-height: 100vh;
+    padding: 56px 24px;
+  }
+  h1, h2, h3 {
+    font-family: 'Playfair Display', Georgia, serif;
+    color: var(--title);
+    font-weight: 500;
+    letter-spacing: -0.01em;
+  }
+  .container { max-width: 680px; margin: 0 auto; }
+
+  .intro {
+    background: var(--cream-deep);
+    border: 1px solid var(--border);
+    padding: 48px 44px 44px;
+    margin-bottom: 32px;
+  }
+  .intro .eyebrow {
+    text-transform: uppercase; letter-spacing: 0.22em; font-size: 11px;
+    color: var(--burgundy); font-weight: 600; margin-bottom: 18px;
+  }
+  .intro h1 { font-size: 34px; line-height: 1.15; margin-bottom: 18px; font-style: italic; font-weight: 400; }
+  .intro h1 .name { font-style: italic; color: var(--burgundy); }
+  .intro p { font-size: 16px; line-height: 1.65; color: var(--text-warm); margin-bottom: 12px; }
+  .intro p:last-child { margin-bottom: 0; }
+
+  .estab {
+    background: white; border: 1px solid var(--border);
+    margin-bottom: 22px; overflow: hidden;
+    transition: border-color 0.2s ease;
+  }
+  .estab:hover { border-color: var(--champagne); }
+  .estab-photo {
+    width: 100%; aspect-ratio: 16 / 9; object-fit: cover; display: block;
+    background: var(--cream-deep);
+  }
+  .estab-body { padding: 30px 40px 30px; }
+  .estab-head { margin-bottom: 24px; padding-bottom: 16px; border-bottom: 1px solid var(--border); }
+  .estab-name { font-family: 'Playfair Display', serif; font-size: 24px; line-height: 1.2; color: var(--title); font-weight: 500; }
+  .estab-meta { font-size: 13px; color: var(--text-muted); letter-spacing: 0.04em; margin-top: 5px; }
+
+  .rating-row {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 12px 0; border-bottom: 1px dashed var(--border);
+  }
+  .rating-row:last-of-type { border-bottom: 0; padding-bottom: 16px; }
+  .rating-label { font-size: 14px; color: var(--text-warm); font-weight: 500; }
+
+  .stars { display: inline-flex; flex-direction: row-reverse; gap: 4px; }
+  .stars input { display: none; }
+  .stars label {
+    cursor: pointer; font-size: 26px; color: var(--champagne-light); line-height: 1;
+    transition: color 0.15s ease, transform 0.15s ease; user-select: none;
+  }
+  .stars label:hover, .stars label:hover ~ label { color: var(--burgundy); transform: scale(1.05); }
+  .stars input:checked ~ label { color: var(--burgundy); }
+  .stars:hover input:checked ~ label { color: var(--champagne-light); }
+  .stars:hover label:hover, .stars:hover label:hover ~ label { color: var(--burgundy); }
+
+  .comment { margin-top: 18px; }
+  .comment label {
+    display: block; font-size: 12px; text-transform: uppercase; letter-spacing: 0.18em;
+    color: var(--text-muted); margin-bottom: 8px; font-weight: 600;
+  }
+  .comment textarea {
+    width: 100%; min-height: 76px; padding: 14px 16px; background: var(--cream-light);
+    border: 1px solid var(--border); font-family: inherit; font-size: 15px;
+    color: var(--text-warm); resize: vertical; line-height: 1.55; transition: border-color 0.18s;
+  }
+  .comment textarea:focus { outline: none; border-color: var(--burgundy); background: white; }
+  .comment textarea::placeholder { color: #B5AFA8; font-style: italic; }
+
+  .actions { text-align: center; margin: 36px 0 32px; }
+  .submit {
+    display: inline-block; padding: 18px 48px; background: var(--burgundy); color: white;
+    border: none; cursor: pointer; font-family: inherit; font-size: 13px; font-weight: 600;
+    letter-spacing: 0.18em; text-transform: uppercase; transition: background-color 0.2s ease, transform 0.15s ease;
+  }
+  .submit:hover { background: var(--burgundy-deep); transform: translateY(-1px); }
+  .submit:active { transform: translateY(0); }
+  .submit:disabled { opacity: 0.5; cursor: default; transform: none; }
+
+  .signature { text-align: center; padding: 32px 0 8px; border-top: 1px solid var(--border); color: var(--text-muted); font-size: 13px; }
+  .signature .sign-name { font-family: 'Playfair Display', serif; font-style: italic; color: var(--text-warm); font-size: 16px; margin-bottom: 4px; display: block; }
+
+  .state-screen { text-align: center; padding: 80px 40px; background: var(--cream-deep); border: 1px solid var(--border); }
+  .state-screen .eyebrow { text-transform: uppercase; letter-spacing: 0.22em; font-size: 11px; color: var(--burgundy); font-weight: 600; margin-bottom: 18px; }
+  .state-screen h2 { font-size: 30px; margin-bottom: 16px; font-style: italic; font-weight: 400; }
+  .state-screen p { font-size: 16px; color: var(--text-warm); }
+  .state-screen a { color: var(--burgundy); }
+
+  @media (max-width: 600px) {
+    body { padding: 24px 16px; }
+    .intro { padding: 32px 24px 28px; }
+    .intro h1 { font-size: 26px; }
+    .estab-body { padding: 22px 22px; }
+    .estab-name { font-size: 20px; }
+    .stars label { font-size: 22px; }
+    .rating-row { flex-direction: column; align-items: flex-start; gap: 8px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="container" id="app">
+  <div class="state-screen" id="loading"><div class="eyebrow">Body Pass</div><h2>Un instant…</h2></div>
+</div>
+
+<template id="tpl-card">
+  <section class="estab">
+    <img class="estab-photo" alt="" loading="lazy">
+    <div class="estab-body">
+      <div class="estab-head">
+        <div class="estab-name"></div>
+        <div class="estab-meta"></div>
+      </div>
+      <div class="ratings"></div>
+      <div class="comment">
+        <label>Un mot à partager ? <span style="text-transform:none;letter-spacing:0;color:#B5AFA8;font-weight:400;">(optionnel)</span></label>
+        <textarea placeholder="Une attention particulière, un soin qui vous a marquée, quelque chose à améliorer…"></textarea>
+      </div>
+    </div>
+  </section>
+</template>
+
+<script>
+  const WEBHOOK_URL = "https://bodypass.app.n8n.cloud/webhook/bp-notation-submit";
+  const CRITERIA = [
+    { key: "note_lieu",    label: "Beauté du lieu" },
+    { key: "note_accueil", label: "Qualité de l'accueil" },
+    { key: "note_soins",   label: "Qualité des soins" },
+  ];
+
+  const app = document.getElementById("app");
+  const params = new URLSearchParams(location.search);
+  const token = params.get("t");
+
+  function showState(eyebrow, title, html) {
+    app.innerHTML = `<div class="state-screen"><div class="eyebrow">${eyebrow}</div><h2>${title}</h2>${html}</div>`;
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  }
+
+  function buildStars(name) {
+    let h = `<div class="stars" data-field="${name}">`;
+    for (let v = 5; v >= 1; v--) {
+      h += `<input type="radio" name="${name}" id="${name}_${v}" value="${v}"><label for="${name}_${v}">★</label>`;
+    }
+    return h + `</div>`;
+  }
+
+  function render(data) {
+    const visits = data.visits || [];
+    const intro = document.createElement("section");
+    intro.className = "intro";
+    const plural = visits.length > 1;
+    intro.innerHTML = `
+      <div class="eyebrow">Body Pass · ${data.yesterday_date_pretty}</div>
+      <h1>Bonjour <span class="name">${data.name}</span>,<br>comment s'est passée votre journée d'hier ?</h1>
+      <p>Vous avez profité ${plural ? "de plusieurs expériences" : "d'une expérience"} Body Pass hier.
+         ${plural ? "Quelques secondes pour chacune" : "Quelques secondes"} suffisent pour partager votre ressenti.</p>
+      <p>Votre regard nous aide à faire grandir le réseau.</p>`;
+    app.innerHTML = "";
+    app.appendChild(intro);
+
+    const tpl = document.getElementById("tpl-card");
+    visits.forEach((v, i) => {
+      const node = tpl.content.cloneNode(true);
+      const img = node.querySelector(".estab-photo");
+      img.src = v.etab_photo_url;
+      img.alt = v.etab_name;
+      img.onerror = () => { img.src = "https://bodypass-ch.github.io/bodypass-assets/etablissements/_default.jpg"; };
+      node.querySelector(".estab-name").textContent = v.etab_name;
+      node.querySelector(".estab-meta").textContent = v.category || "Votre visite d'hier";
+      const ratings = node.querySelector(".ratings");
+      ratings.innerHTML = CRITERIA.map(c => `
+        <div class="rating-row">
+          <div class="rating-label">${c.label}</div>
+          ${buildStars(`v${i}_${c.key}`)}
+        </div>`).join("");
+      node.querySelector(".comment textarea").dataset.field = `v${i}_comment`;
+      node.querySelector("section").dataset.visiteId = v.visite_id;
+      node.querySelector("section").dataset.idx = i;
+      app.appendChild(node);
+    });
+
+    const actions = document.createElement("div");
+    actions.className = "actions";
+    actions.innerHTML = `<button class="submit" id="submitBtn">Envoyer mon avis</button>`;
+    app.appendChild(actions);
+
+    const sig = document.createElement("footer");
+    sig.className = "signature";
+    sig.innerHTML = `<span class="sign-name">Merci, ${data.name}.</span><span>Avec gratitude, l'équipe Body Pass</span>`;
+    app.appendChild(sig);
+
+    document.getElementById("submitBtn").addEventListener("click", () => submit(data));
+  }
+
+  function collect(data) {
+    const out = { token, carte: data.carte, yesterday_date: data.yesterday_date, ratings: [] };
+    document.querySelectorAll(".estab").forEach(card => {
+      const i = card.dataset.idx;
+      const rec = { visite_id: card.dataset.visiteId, etab_name: data.visits[i].etab_name, etab_slug: data.visits[i].etab_slug };
+      CRITERIA.forEach(c => {
+        const sel = card.querySelector(`input[name="v${i}_${c.key}"]:checked`);
+        rec[c.key] = sel ? Number(sel.value) : null;
+      });
+      const ta = card.querySelector(".comment textarea");
+      rec.comment = ta.value.trim();
+      out.ratings.push(rec);
+    });
+    return out;
+  }
+
+  async function submit(data) {
+    const btn = document.getElementById("submitBtn");
+    btn.disabled = true;
+    btn.textContent = "Envoi…";
+    const payload = collect(data);
+    try {
+      await fetch(WEBHOOK_URL, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(payload),
+      });
+    } catch (e) { /* best-effort : on remercie quand même */ }
+    showState("Body Pass",
+      `Merci infiniment, ${data.name}.`,
+      `<p>Votre avis vient d'arriver chez nous. Il aide vos établissements préférés à grandir.</p>
+       <p style="margin-top:18px;">À très vite chez l'un de nos partenaires.</p>`);
+  }
+
+  if (!token) {
+    showState("Body Pass", "Cette page a expiré",
+      `<p>Le lien n'est plus valide. Retrouvez vos avantages sur <a href="https://www.bodypass.ch">bodypass.ch</a>.</p>`);
+  } else {
+    fetch(`data/${token}.json`, { cache: "no-store" })
+      .then(r => { if (!r.ok) throw new Error("404"); return r.json(); })
+      .then(render)
+      .catch(() => showState("Body Pass", "Cette page a expiré",
+        `<p>Ce lien de notation n'est plus actif. Retrouvez vos avantages sur <a href="https://www.bodypass.ch">bodypass.ch</a>.</p>`));
+  }
+</script>
+</body>
+</html>
