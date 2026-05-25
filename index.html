@@ -177,6 +177,16 @@
   .reco-meta span + span::before {
     content: "·"; margin-right: 10px; color: var(--champagne);
   }
+  .reco-cta {
+    display: inline-block; margin-top: 20px; padding: 12px 28px;
+    background: var(--burgundy); color: white !important;
+    font-family: inherit; font-size: 12px; font-weight: 600;
+    letter-spacing: 0.16em; text-transform: uppercase;
+    text-decoration: none; text-align: center;
+    transition: background-color 0.2s ease, transform 0.15s ease;
+  }
+  .reco-cta:hover { background: var(--burgundy-deep); transform: translateY(-1px); }
+  .reco-cta:active { transform: translateY(0); }
 
   @media (max-width: 600px) {
     body { padding: 24px 16px; }
@@ -403,6 +413,17 @@
         meta.className = "reco-meta";
         meta.innerHTML = metaBits.map(b => `<span>${b}</span>`).join("");
         body.appendChild(meta);
+      }
+
+      const publicUrl = s.etab_url_public || buildEtabPublicUrl(s.etab_slug);
+      if (publicUrl) {
+        const cta = document.createElement("a");
+        cta.className = "reco-cta";
+        cta.href = publicUrl;
+        cta.target = "_blank";
+        cta.rel = "noopener";
+        cta.textContent = "Découvrir";
+        body.appendChild(cta);
       }
 
       card.appendChild(body);
