@@ -130,6 +130,54 @@
   .state-screen p { font-size: 16px; color: var(--text-warm); }
   .state-screen a { color: var(--burgundy); }
 
+  .recos { margin-top: 40px; }
+  .recos-header { text-align: center; margin-bottom: 24px; }
+  .recos-header .eyebrow {
+    text-transform: uppercase; letter-spacing: 0.22em; font-size: 11px;
+    color: var(--burgundy); font-weight: 600; margin-bottom: 10px; display: block;
+  }
+  .recos-header h3 {
+    font-size: 26px; font-style: italic; font-weight: 400; color: var(--title);
+    margin-bottom: 6px;
+  }
+  .recos-header .subtitle {
+    font-size: 14px; line-height: 1.5; color: var(--text-muted); font-weight: 400;
+  }
+  .reco {
+    background: white; border: 1px solid var(--border); overflow: hidden;
+    margin-bottom: 20px; transition: border-color 0.2s ease;
+  }
+  .reco:hover { border-color: var(--champagne); }
+  .reco-photo {
+    width: 100%; aspect-ratio: 16 / 9; object-fit: cover; display: block;
+    background: var(--cream-deep);
+  }
+  .reco-body { padding: 24px 32px 26px; }
+  .reco-eyebrow {
+    font-size: 11px; text-transform: uppercase; letter-spacing: 0.14em;
+    color: var(--burgundy); font-weight: 600; margin-bottom: 8px;
+  }
+  .reco-name {
+    font-family: 'Playfair Display', serif; font-size: 22px; line-height: 1.2;
+    color: var(--title); font-weight: 500; margin-bottom: 10px; display: block;
+  }
+  a.reco-name {
+    text-decoration: none; border-bottom: 1px solid var(--champagne);
+    padding-bottom: 2px; transition: border-color 0.2s, color 0.2s;
+  }
+  a.reco-name:hover { color: var(--burgundy); border-bottom-color: var(--burgundy); }
+  .reco-blurb {
+    font-size: 14px; line-height: 1.55; color: var(--text-warm); margin-top: 12px;
+  }
+  .reco-meta {
+    font-size: 12px; color: var(--text-muted); margin-top: 10px;
+    letter-spacing: 0.04em;
+  }
+  .reco-meta span + span { margin-left: 10px; }
+  .reco-meta span + span::before {
+    content: "·"; margin-right: 10px; color: var(--champagne);
+  }
+
   @media (max-width: 600px) {
     body { padding: 24px 16px; }
     .intro { padding: 32px 24px 28px; }
@@ -138,6 +186,11 @@
     .estab-name { font-size: 20px; }
     .stars label { font-size: 22px; }
     .rating-row { flex-direction: column; align-items: flex-start; gap: 8px; }
+    .reco-body { padding: 20px 20px 22px; }
+    .reco-name { font-size: 20px; }
+    .recos-header h3 { font-size: 22px; }
+    .state-screen { padding: 56px 24px; }
+    .state-screen h2 { font-size: 24px; }
   }
 </style>
 </head>
@@ -283,6 +336,82 @@
     };
   }
 
+  function buildEtabPublicUrl(slug) {
+    return slug ? `https://www.bodypass.ch/etablissements/${slug}/` : null;
+  }
+
+  function renderSuggestions(suggestions) {
+    if (!suggestions || suggestions.length === 0) return;
+    const recos = document.createElement("section");
+    recos.className = "recos";
+
+    const header = document.createElement("div");
+    header.className = "recos-header";
+    header.innerHTML = `
+      <span class="eyebrow">Pour votre prochaine pause</span>
+      <h3>Quelques idées pour la suite</h3>
+      <p class="subtitle">Pensé pour vous, d'après vos dernières visites.</p>`;
+    recos.appendChild(header);
+
+    suggestions.forEach(s => {
+      const card = document.createElement("article");
+      card.className = "reco";
+
+      const img = document.createElement("img");
+      img.className = "reco-photo";
+      img.alt = s.etab_name || "";
+      img.loading = "lazy";
+      img.src = s.etab_photo_url;
+      img.onerror = () => { img.src = "https://bodypass-ch.github.io/bodypass-assets/etablissements/_default.jpg"; };
+      card.appendChild(img);
+
+      const body = document.createElement("div");
+      body.className = "reco-body";
+
+      const eyebrow = document.createElement("div");
+      eyebrow.className = "reco-eyebrow";
+      eyebrow.textContent = s.reason || s.category || "Suggestion";
+      body.appendChild(eyebrow);
+
+      if (s.etab_slug) {
+        const a = document.createElement("a");
+        a.className = "reco-name";
+        a.href = buildEtabPublicUrl(s.etab_slug);
+        a.target = "_blank";
+        a.rel = "noopener";
+        a.textContent = s.etab_name;
+        body.appendChild(a);
+      } else {
+        const div = document.createElement("div");
+        div.className = "reco-name";
+        div.textContent = s.etab_name;
+        body.appendChild(div);
+      }
+
+      if (s.blurb) {
+        const blurb = document.createElement("p");
+        blurb.className = "reco-blurb";
+        blurb.textContent = s.blurb;
+        body.appendChild(blurb);
+      }
+
+      const metaBits = [];
+      if (s.canton) metaBits.push(s.canton);
+      if (s.note) metaBits.push(`Note ${s.note}`);
+      if (metaBits.length > 0) {
+        const meta = document.createElement("div");
+        meta.className = "reco-meta";
+        meta.innerHTML = metaBits.map(b => `<span>${b}</span>`).join("");
+        body.appendChild(meta);
+      }
+
+      card.appendChild(body);
+      recos.appendChild(card);
+    });
+
+    app.appendChild(recos);
+  }
+
   async function submit(data) {
     const btn = document.getElementById("submitBtn");
     btn.disabled = true;
@@ -301,6 +430,7 @@
       `Merci infiniment, ${data.name}.`,
       `<p>Votre avis vient d'arriver chez nous. Il aide vos établissements préférés à grandir.</p>
        <p style="margin-top:18px;">À très vite chez l'un de nos partenaires.</p>`);
+    renderSuggestions(data.suggestions);
   }
 
   if (!token) {
