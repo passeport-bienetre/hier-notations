@@ -1,16 +1,16 @@
 {
-  "carte": "34924",
-  "name": "Golubovic",
-  "yesterday_date": "2026-06-01",
-  "yesterday_date_pretty": "le 1 juin 2026",
+  "carte": "33203",
+  "name": "Laurence",
+  "yesterday_date": "2026-06-02",
+  "yesterday_date_pretty": "le 2 juin 2026",
   "visits": [
     {
-      "etab_name": "Arte Beauty Lutry",
-      "etab_slug": "arte-beauty-lutry",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
-      "visite_id": "v_74e76f4678a1",
+      "etab_name": "Nueva Luna Yoga",
+      "etab_slug": "nueva-luna-yoga",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nueva-luna-yoga.jpg",
+      "visite_id": "v_0fea31af77bd",
       "category": "Soins Hommes",
-      "date_iso": "2026-06-01"
+      "date_iso": "2026-06-02"
     }
   ],
   "suggestions": [
@@ -21,7 +21,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "category": "Soins Hommes",
       "canton": "Vaud",
-      "visites": 707,
+      "visites": 711,
       "note": "5/5",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "reason": "Parce que vous aimez Soins Hommes"

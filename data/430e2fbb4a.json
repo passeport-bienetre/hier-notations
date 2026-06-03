@@ -1,16 +1,16 @@
 {
-  "carte": "34891",
-  "name": "Céline",
-  "yesterday_date": "2026-06-01",
-  "yesterday_date_pretty": "le 1 juin 2026",
+  "carte": "35060",
+  "name": "Elisa",
+  "yesterday_date": "2026-06-02",
+  "yesterday_date_pretty": "le 2 juin 2026",
   "visits": [
     {
-      "etab_name": "Arte Beauty EPFL",
-      "etab_slug": "arte-beauty-epfl",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
-      "visite_id": "v_467d97482936",
-      "category": "Soins Hommes",
-      "date_iso": "2026-06-01"
+      "etab_name": "Maison Perle",
+      "etab_slug": "maison-perle",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-perle.jpg",
+      "visite_id": "v_ea8cee0fa499",
+      "category": "Lausanne région",
+      "date_iso": "2026-06-02"
     }
   ],
   "suggestions": [
@@ -19,19 +19,19 @@
       "etab_slug": "1er-acte-coiffure",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
-      "category": "Soins Hommes",
+      "category": "Lausanne région",
       "canton": "Vaud",
-      "visites": 707,
+      "visites": 711,
       "note": "5/5",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
-      "reason": "Parce que vous aimez Soins Hommes"
+      "reason": "Parce que vous aimez Lausanne région"
     },
     {
       "etab_name": "Atmosp'hair",
       "etab_slug": "atmosphair",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
-      "category": "Soins Hommes",
+      "category": "Lausanne région",
       "canton": "Vaud",
       "visites": 175,
       "note": "5/5",

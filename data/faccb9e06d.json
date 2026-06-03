@@ -1,16 +1,16 @@
 {
-  "carte": "38737",
-  "name": "Andréa",
-  "yesterday_date": "2026-06-01",
-  "yesterday_date_pretty": "le 1 juin 2026",
+  "carte": "31414",
+  "name": "Julia",
+  "yesterday_date": "2026-06-02",
+  "yesterday_date_pretty": "le 2 juin 2026",
   "visits": [
     {
-      "etab_name": "Arte Beauty EPFL",
-      "etab_slug": "arte-beauty-epfl",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
-      "visite_id": "v_aa9d3043041c",
+      "etab_name": "Institut ZenSkin",
+      "etab_slug": "institut-fs",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-fs.jpg",
+      "visite_id": "v_b83f5b3d5928",
       "category": "Soins Hommes",
-      "date_iso": "2026-06-01"
+      "date_iso": "2026-06-02"
     }
   ],
   "suggestions": [
@@ -21,7 +21,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "category": "Soins Hommes",
       "canton": "Vaud",
-      "visites": 707,
+      "visites": 711,
       "note": "5/5",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "reason": "Parce que vous aimez Soins Hommes"

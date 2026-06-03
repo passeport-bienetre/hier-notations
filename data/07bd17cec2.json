@@ -1,16 +1,16 @@
 {
-  "carte": "33714",
-  "name": "Velida",
-  "yesterday_date": "2026-06-01",
-  "yesterday_date_pretty": "le 1 juin 2026",
+  "carte": "38078",
+  "name": "Natacha",
+  "yesterday_date": "2026-06-02",
+  "yesterday_date_pretty": "le 2 juin 2026",
   "visits": [
     {
       "etab_name": "Royal Savoy Hôtel & Spa",
       "etab_slug": "royal-savoy-hotel-spa",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
-      "visite_id": "v_e401fc7480b2",
+      "visite_id": "v_1560d6bf2552",
       "category": "Future Maman",
-      "date_iso": "2026-06-01"
+      "date_iso": "2026-06-02"
     }
   ],
   "suggestions": [
@@ -21,7 +21,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/",
       "category": "Future Maman",
       "canton": "Vaud",
-      "visites": 78,
+      "visites": 79,
       "note": "5/5",
       "blurb": "La Villa Dermo-Esthétique by Lorella, duo Lorella et Orphane. Kobido avancé, technologies de régénération et esthétique médicale : l'art du mieux-vieillir.",
       "reason": "Parce que vous aimez Future Maman"
@@ -33,7 +33,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa/",
       "category": "Future Maman",
       "canton": "Vaud",
-      "visites": 215,
+      "visites": 220,
       "note": "5/5",
       "blurb": "La Villa à St-Légier, ancien institut Karin Herzog avec vue lac. Kobido à la rose, sauna infrarouge et Lipo Slim Massage exclusif, le bien-être nocturne en after-work.",
       "reason": "À découvrir dans le canton de Vaud"

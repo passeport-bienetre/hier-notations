@@ -1,16 +1,16 @@
 {
-  "carte": "39089",
-  "name": "Mark",
-  "yesterday_date": "2026-06-01",
-  "yesterday_date_pretty": "le 1 juin 2026",
+  "carte": "39390",
+  "name": "Ludivine",
+  "yesterday_date": "2026-06-02",
+  "yesterday_date_pretty": "le 2 juin 2026",
   "visits": [
     {
-      "etab_name": "La VILLA Kobido et Massage",
-      "etab_slug": "la-villa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa.jpg",
-      "visite_id": "v_2ab60665754a",
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "visite_id": "v_ac7efa53b8b6",
       "category": "Future Maman",
-      "date_iso": "2026-06-01"
+      "date_iso": "2026-06-02"
     }
   ],
   "suggestions": [
@@ -21,21 +21,21 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/",
       "category": "Future Maman",
       "canton": "Vaud",
-      "visites": 78,
+      "visites": 79,
       "note": "5/5",
       "blurb": "La Villa Dermo-Esthétique by Lorella, duo Lorella et Orphane. Kobido avancé, technologies de régénération et esthétique médicale : l'art du mieux-vieillir.",
       "reason": "Parce que vous aimez Future Maman"
     },
     {
-      "etab_name": "Royal Savoy Hôtel & Spa",
-      "etab_slug": "royal-savoy-hotel-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
+      "etab_name": "La VILLA Kobido et Massage",
+      "etab_slug": "la-villa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa/",
       "category": "Future Maman",
       "canton": "Vaud",
-      "visites": 2896,
+      "visites": 220,
       "note": "5/5",
-      "blurb": "Adresse Belle Époque face au Léman, le Royal Savoy abrite le spa Wellbeing Sanctuary, ses soins signature et une piscine intérieure pour prolonger l'instant.",
+      "blurb": "La Villa à St-Légier, ancien institut Karin Herzog avec vue lac. Kobido à la rose, sauna infrarouge et Lipo Slim Massage exclusif, le bien-être nocturne en after-work.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
