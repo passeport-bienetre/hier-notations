@@ -1,15 +1,15 @@
 {
-  "carte": "39253",
-  "name": "Emma",
+  "carte": "31413",
+  "name": "Marlyse",
   "yesterday_date": "2026-06-01",
   "yesterday_date_pretty": "le 1 juin 2026",
   "visits": [
     {
-      "etab_name": "Institut ZenSkin",
-      "etab_slug": "institut-fs",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-fs.jpg",
-      "visite_id": "v_b309f0314870",
-      "category": "Soins Hommes",
+      "etab_name": "Institut Kaori",
+      "etab_slug": "institut-kaori",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-kaori.jpg",
+      "visite_id": "v_7252ba0ee747",
+      "category": "Lausanne région",
       "date_iso": "2026-06-01"
     }
   ],
@@ -19,19 +19,19 @@
       "etab_slug": "1er-acte-coiffure",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
-      "category": "Soins Hommes",
+      "category": "Lausanne région",
       "canton": "Vaud",
       "visites": 712,
       "note": "5/5",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
-      "reason": "Parce que vous aimez Soins Hommes"
+      "reason": "Parce que vous aimez Lausanne région"
     },
     {
       "etab_name": "Atmosp'hair",
       "etab_slug": "atmosphair",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
-      "category": "Soins Hommes",
+      "category": "Lausanne région",
       "canton": "Vaud",
       "visites": 175,
       "note": "5/5",

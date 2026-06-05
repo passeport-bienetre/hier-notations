@@ -1,15 +1,15 @@
 {
-  "carte": "36835",
-  "name": "Siham",
+  "carte": "38429",
+  "name": "Francine",
   "yesterday_date": "2026-06-01",
   "yesterday_date_pretty": "le 1 juin 2026",
   "visits": [
     {
-      "etab_name": "Thai Corner",
-      "etab_slug": "thai-corner-3",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thai-corner-3.jpg",
-      "visite_id": "v_b1fe7392ef82",
-      "category": "Massage",
+      "etab_name": "SUBLIMEYES",
+      "etab_slug": "institut-sublimeyes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
+      "visite_id": "v_c009377c3a75",
+      "category": "Soins Hommes",
       "date_iso": "2026-06-01"
     }
   ],
@@ -19,19 +19,19 @@
       "etab_slug": "bv-institut",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
-      "category": "Massage",
+      "category": "Soins Hommes",
       "canton": "Genève",
       "visites": 145,
       "note": "5/5",
       "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
-      "reason": "Parce que vous aimez Massage"
+      "reason": "Parce que vous aimez Soins Hommes"
     },
     {
       "etab_name": "Blossom Institut",
       "etab_slug": "blossom-institut",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
-      "category": "Massage",
+      "category": "Soins Hommes",
       "canton": "Genève",
       "visites": 521,
       "note": "5/5",
