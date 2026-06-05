@@ -289,7 +289,7 @@
         nameSlot.replaceWith(div);
       }
 
-      node.querySelector(".estab-meta").textContent = v.category || "Votre visite d'hier";
+      node.querySelector(".estab-meta").textContent = v.canton || "Votre visite d'hier";
       const ratings = node.querySelector(".ratings");
       ratings.innerHTML = CRITERIA.map(c => `
         <div class="rating-row">
