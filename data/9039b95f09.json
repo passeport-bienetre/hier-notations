@@ -6,10 +6,10 @@
   "visits": [
     {
       "etab_name": "LES FITNESS HARMONY",
-      "etab_slug": "les-fitness-harmony/versoix",
+      "etab_slug": null,
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--versoix.jpg",
       "visite_id": "v_7bdf4419d675",
-      "canton": "Genève",
+      "canton": " ",
       "date_iso": "2026-06-05"
     }
   ],
@@ -27,16 +27,16 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "FITNESS HARMONY - VERSOIX",
-      "etab_slug": "les-fitness-harmony/versoix",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--versoix.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/les-fitness-harmony/versoix/",
+      "etab_name": "FITNESS HARMONY - DENGES",
+      "etab_slug": "les-fitness-harmony/denges",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--denges.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-fitness-harmony/denges/",
       "category": "Fitness",
-      "canton": "Genève",
+      "canton": "Vaud",
       "visites": 0,
       "note": null,
-      "blurb": "Harmony Fitness Versoix, vue lac et Alpes. Grandes baies vitrées et technologie alliant force et douceur, avec le sentiment d'être en vacances à chaque séance.",
-      "reason": "À découvrir dans le canton de Genève"
+      "blurb": "Harmony Fitness Denges, dans un cadre de verdure et de calme. Loft sportif lumineux et appareils performants pour bouger au naturel.",
+      "reason": "À découvrir dans le canton de Vaud"
     },
     {
       "etab_name": "HÔTEL BORSARI",
