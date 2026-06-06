@@ -9,7 +9,7 @@
       "etab_slug": "deep-nature-les-granges-den-haut",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/deep-nature-les-granges-den-haut.jpg",
       "visite_id": "v_003b5a912ec2",
-      "category": "Soins Duo",
+      "canton": null,
       "date_iso": "2026-06-03"
     }
   ],
@@ -21,21 +21,21 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "category": "Soins Duo",
       "canton": "Genève",
-      "visites": 399,
+      "visites": 402,
       "note": "4.5/5",
       "blurb": "Au cœur de Genève, l'adresse urbaine signée Cinq Mondes. Rituels d'ailleurs et piscine au 30e étage pour une pause hors du monde.",
-      "reason": "Parce que vous aimez Soins Duo"
+      "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "INTUITIVE JESS",
-      "etab_slug": "intuitive-jess",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/intuitive-jess.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/intuitive-jess/",
+      "etab_name": "Namaka - Centre de Longévité et Bienêtre",
+      "etab_slug": "namaka",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/namaka.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/namaka/",
       "category": "Soins Duo",
       "canton": "Genève",
-      "visites": 14,
+      "visites": 201,
       "note": "4.5/5",
-      "blurb": "Jessica Rizzo, thérapeute corporelle d'origine suisse et italienne, de retour à Genève après dix ans à Berlin. Approche holistique et intuitive au service du corps.",
+      "blurb": "Namaka, bain de flottaison à 500 kg de sel d'Epsom. Apesanteur, chants de baleines, silence vrai : la régénération en magnésium naturel.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {

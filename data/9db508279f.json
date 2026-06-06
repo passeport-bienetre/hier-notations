@@ -9,7 +9,7 @@
       "etab_slug": "belle-et-naturelle",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/belle-et-naturelle.jpg",
       "visite_id": "v_07ed0ef05170",
-      "category": "Soins Hommes",
+      "canton": "Genève",
       "date_iso": "2026-06-03"
     }
   ],
@@ -21,10 +21,10 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "category": "Soins Hommes",
       "canton": "Genève",
-      "visites": 519,
+      "visites": 522,
       "note": "5/5",
       "blurb": "L'institut genevois spécialiste visage, mené par Nadège. Plus de dix ans de soins faciaux et de massages pointus au service d'une beauté naturelle.",
-      "reason": "Parce que vous aimez Soins Hommes"
+      "reason": "Nous pensons que vous allez aimer"
     },
     {
       "etab_name": "CLINIQUE LA JOUVENCE GENÈVE",

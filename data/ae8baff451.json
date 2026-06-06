@@ -9,7 +9,7 @@
       "etab_slug": "institut-guinot-2",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
       "visite_id": "v_48b0cb0a6e1a",
-      "category": "Epilation",
+      "canton": "Vaud",
       "date_iso": "2026-06-03"
     }
   ],
@@ -24,7 +24,7 @@
       "visites": 12,
       "note": "4.5/5",
       "blurb": "M&Vous, un espace de douceur sur-mesure. Aménagement et soins sélectionnés minutieusement, décoration distinctive : un cabinet de soin qui ne ressemble à aucun autre.",
-      "reason": "Parce que vous aimez Epilation"
+      "reason": "Nous pensons que vous allez aimer"
     },
     {
       "etab_name": "Eunoia institut",

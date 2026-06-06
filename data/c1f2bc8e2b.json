@@ -9,7 +9,7 @@
       "etab_slug": "hotel-intercontinental-spa-5-mondes",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-intercontinental-spa-5-mondes.jpg",
       "visite_id": "v_a99f3bd77930",
-      "category": "Soins Duo",
+      "canton": "Genève",
       "date_iso": "2026-06-03"
     }
   ],
@@ -24,7 +24,7 @@
       "visites": 201,
       "note": "4.5/5",
       "blurb": "Namaka, bain de flottaison à 500 kg de sel d'Epsom. Apesanteur, chants de baleines, silence vrai : la régénération en magnésium naturel.",
-      "reason": "Parce que vous aimez Soins Duo"
+      "reason": "Nous pensons que vous allez aimer"
     },
     {
       "etab_name": "Origin Float Spa",
@@ -33,7 +33,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/origin-float-spa/",
       "category": "Soins Duo",
       "canton": "Genève",
-      "visites": 202,
+      "visites": 203,
       "note": "4.5/5",
       "blurb": "ORIGIN, espace de flottaison et de boutique éthique. Tisane, lecture en repos et produits locaux engagés pour la sérénité avant et après la séance.",
       "reason": "À découvrir dans le canton de Genève"
