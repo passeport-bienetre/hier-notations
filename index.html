@@ -283,10 +283,13 @@
         a.textContent = v.etab_name;
         nameSlot.replaceWith(a);
       } else {
-        const div = document.createElement("div");
-        div.className = "estab-name";
-        div.textContent = v.etab_name;
-        nameSlot.replaceWith(div);
+        const a = document.createElement("a");
+        a.className = "estab-name";
+        a.href = `https://www.bodypass.ch/?s=${encodeURIComponent(v.etab_name)}`;
+        a.target = "_blank";
+        a.rel = "noopener";
+        a.textContent = v.etab_name;
+        nameSlot.replaceWith(a);
       }
 
       node.querySelector(".estab-meta").textContent = v.canton || "Votre visite d'hier";
