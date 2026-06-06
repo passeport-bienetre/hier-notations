@@ -6,14 +6,38 @@
   "visits": [
     {
       "etab_name": "LES FITNESS HARMONY",
-      "etab_slug": null,
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "etab_slug": "les-fitness-harmony/versoix",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--versoix.jpg",
       "visite_id": "v_7bdf4419d675",
-      "canton": null,
+      "canton": "Genève",
       "date_iso": "2026-06-05"
     }
   ],
   "suggestions": [
+    {
+      "etab_name": "FITNESS HARMONY - BLANDONNET",
+      "etab_slug": "les-fitness-harmony/blandonnet",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--blandonnet.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-fitness-harmony/blandonnet/",
+      "category": "Fitness",
+      "canton": "Genève",
+      "visites": 0,
+      "note": null,
+      "blurb": "Harmony Fitness Blandonnet, face au centre commercial. Aménagement résolument contemporain et conditions d'entraînement pensées : le club nouvelle génération.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "FITNESS HARMONY - VERSOIX",
+      "etab_slug": "les-fitness-harmony/versoix",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--versoix.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-fitness-harmony/versoix/",
+      "category": "Fitness",
+      "canton": "Genève",
+      "visites": 0,
+      "note": null,
+      "blurb": "Harmony Fitness Versoix, vue lac et Alpes. Grandes baies vitrées et technologie alliant force et douceur, avec le sentiment d'être en vacances à chaque séance.",
+      "reason": "À découvrir dans le canton de Genève"
+    },
     {
       "etab_name": "HÔTEL BORSARI",
       "etab_slug": "bpnight-hotel-borsari",
