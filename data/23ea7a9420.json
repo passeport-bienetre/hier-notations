@@ -1,14 +1,14 @@
 {
-  "carte": "34898",
-  "name": "Touria",
+  "carte": "38787",
+  "name": "Carla",
   "yesterday_date": "2026-05-27",
   "yesterday_date_pretty": "le 27 mai 2026",
   "visits": [
     {
-      "etab_name": "Namasté",
-      "etab_slug": "namaste",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/namaste.jpg",
-      "visite_id": "v_fb934b53f543",
+      "etab_name": "Espace Beauté Sarah",
+      "etab_slug": "espace-beaute-sarah",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/espace-beaute-sarah.jpg",
+      "visite_id": "v_3adf5b8e40e6",
       "canton": "Vaud",
       "date_iso": "2026-05-27"
     }
