@@ -1,15 +1,15 @@
 {
-  "carte": "33313",
-  "name": "Cecile",
+  "carte": "34687",
+  "name": "Raytrallen",
   "yesterday_date": "2026-06-05",
   "yesterday_date_pretty": "le 5 juin 2026",
   "visits": [
     {
-      "etab_name": "FLEUR D’EPIDERME",
-      "etab_slug": "fleur-depiderme",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
-      "visite_id": "v_d436799ce56b",
-      "canton": "Genève",
+      "etab_name": "Arte Beauty EPFL",
+      "etab_slug": "arte-beauty-epfl",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
+      "visite_id": "v_c6ed6d00bf2d",
+      "canton": "Vaud",
       "date_iso": "2026-06-05"
     }
   ],

@@ -1,15 +1,15 @@
 {
-  "carte": "33313",
-  "name": "Cecile",
+  "carte": "36105",
+  "name": "Pepita",
   "yesterday_date": "2026-06-05",
   "yesterday_date_pretty": "le 5 juin 2026",
   "visits": [
     {
-      "etab_name": "FLEUR D’EPIDERME",
-      "etab_slug": "fleur-depiderme",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
-      "visite_id": "v_d436799ce56b",
-      "canton": "Genève",
+      "etab_name": "Salon Privé Chailly",
+      "etab_slug": "salon-prive-chailly",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-chailly.jpg",
+      "visite_id": "v_4bd3b1f628fe",
+      "canton": "Vaud",
       "date_iso": "2026-06-05"
     }
   ],

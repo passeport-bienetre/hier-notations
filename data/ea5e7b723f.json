@@ -1,0 +1,54 @@
+{
+  "carte": "35629",
+  "name": "Veronique",
+  "yesterday_date": "2026-06-05",
+  "yesterday_date_pretty": "le 5 juin 2026",
+  "visits": [
+    {
+      "etab_name": "CS Caro Création Studio",
+      "etab_slug": "cs-caro-creation-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/cs-caro-creation-studio.jpg",
+      "visite_id": "v_bf1e2f272131",
+      "canton": "Neuchâtel",
+      "date_iso": "2026-06-05"
+    }
+  ],
+  "suggestions": [
+    {
+      "etab_name": "Institut M&Vous",
+      "etab_slug": "institut-mvous",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-mvous.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-mvous/",
+      "category": "Onglerie",
+      "canton": "Neuchâtel",
+      "visites": 12,
+      "note": "4.5/5",
+      "blurb": "M&Vous, un espace de douceur sur-mesure. Aménagement et soins sélectionnés minutieusement, décoration distinctive : un cabinet de soin qui ne ressemble à aucun autre.",
+      "reason": "Parce que vous aimez Onglerie"
+    },
+    {
+      "etab_name": "Serenityblue",
+      "etab_slug": "serenityblue",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/serenityblue.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/serenityblue/",
+      "category": "Onglerie",
+      "canton": "Neuchâtel",
+      "visites": 222,
+      "note": "4.5/5",
+      "blurb": "Serenityblue, dix ans d'expérience. Deux espaces : un dédié au corps et à la détente, un autre à l'esthétique, pour combiner bien-être et beauté.",
+      "reason": "À découvrir dans le canton de Neuchâtel"
+    },
+    {
+      "etab_name": "HÔTEL BORSARI",
+      "etab_slug": "bpnight-hotel-borsari",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/",
+      "category": "Hôtels",
+      "canton": "Valais",
+      "visites": null,
+      "note": null,
+      "blurb": "L'Hôtel Borsari, niché au cœur des Alpes près de Martigny. Chambres aux murs de béton teinté main, palette chaude : un refuge pour suspendre le temps.",
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}

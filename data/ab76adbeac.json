@@ -1,14 +1,14 @@
 {
-  "carte": "33313",
-  "name": "Cecile",
+  "carte": "36379",
+  "name": "Valentina",
   "yesterday_date": "2026-06-05",
   "yesterday_date_pretty": "le 5 juin 2026",
   "visits": [
     {
-      "etab_name": "FLEUR D’EPIDERME",
-      "etab_slug": "fleur-depiderme",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
-      "visite_id": "v_d436799ce56b",
+      "etab_name": "AVEDA VIEILLE-VILLE",
+      "etab_slug": "aveda-vieille-ville",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/aveda-vieille-ville.jpg",
+      "visite_id": "v_4dd71f048df6",
       "canton": "Genève",
       "date_iso": "2026-06-05"
     }

@@ -1,16 +1,16 @@
 {
   "carte": "35064",
   "name": "Joanne",
-  "yesterday_date": "2026-06-03",
-  "yesterday_date_pretty": "le 3 juin 2026",
+  "yesterday_date": "2026-06-05",
+  "yesterday_date_pretty": "le 5 juin 2026",
   "visits": [
     {
-      "etab_name": "Naïda Massothérapie",
-      "etab_slug": "naida-massotherapie",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/naida-massotherapie.jpg",
-      "visite_id": "v_2e25e1a4c698",
-      "category": "Lausanne région",
-      "date_iso": "2026-06-03"
+      "etab_name": "Maison B",
+      "etab_slug": "maison-b",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
+      "visite_id": "v_6982f17961a4",
+      "canton": null,
+      "date_iso": "2026-06-05"
     }
   ],
   "suggestions": [
@@ -21,7 +21,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "category": "Lausanne région",
       "canton": "Vaud",
-      "visites": 711,
+      "visites": 712,
       "note": "5/5",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "reason": "Parce que vous aimez Lausanne région"

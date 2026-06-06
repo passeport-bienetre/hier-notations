@@ -1,41 +1,41 @@
 {
-  "carte": "33313",
-  "name": "Cecile",
+  "carte": "36385",
+  "name": "Mariuccia",
   "yesterday_date": "2026-06-05",
   "yesterday_date_pretty": "le 5 juin 2026",
   "visits": [
     {
-      "etab_name": "FLEUR D’EPIDERME",
-      "etab_slug": "fleur-depiderme",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
-      "visite_id": "v_d436799ce56b",
-      "canton": "Genève",
+      "etab_name": "Signature Coiffure",
+      "etab_slug": "signature-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/signature-coiffure.jpg",
+      "visite_id": "v_2c4a0f69fce7",
+      "canton": "Vaud",
       "date_iso": "2026-06-05"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "1er Acte Coiffure",
-      "etab_slug": "1er-acte-coiffure",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
-      "category": "Soins Hommes",
-      "canton": "Vaud",
-      "visites": 712,
-      "note": "5/5",
-      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
-      "reason": "Parce que vous aimez Soins Hommes"
-    },
-    {
       "etab_name": "Atmosp'hair",
       "etab_slug": "atmosphair",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
-      "category": "Soins Hommes",
+      "category": "Coiffeur",
       "canton": "Vaud",
       "visites": 175,
       "note": "5/5",
       "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
+      "reason": "Parce que vous aimez Coiffeur"
+    },
+    {
+      "etab_name": "CJ Coiffure",
+      "etab_slug": "cj-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/cj-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/cj-coiffure/",
+      "category": "Coiffeur",
+      "canton": "Vaud",
+      "visites": 571,
+      "note": "5/5",
+      "blurb": "Le salon de deux amies, Caroline et Jenny. Convivialité, tendance et formation continue auprès des partenaires : le salon comme deuxième salon.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
