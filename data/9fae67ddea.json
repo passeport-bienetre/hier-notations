@@ -6,10 +6,10 @@
   "visits": [
     {
       "etab_name": "Les Cliniques Matignon",
-      "etab_slug": "les-cliniques-matignon/capsule-lausanne-clinique-matignon",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--capsule-lausanne-clinique-matignon.jpg",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--geneve.jpg",
       "visite_id": "v_85f4a02f0b50",
-      "canton": "Vaud",
+      "canton": " ",
       "date_iso": "2026-06-04"
     }
   ],
