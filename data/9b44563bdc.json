@@ -1,14 +1,14 @@
 {
-  "carte": "36230",
-  "name": "Audrey",
+  "carte": "31584",
+  "name": "Rosanna",
   "yesterday_date": "2026-06-06",
   "yesterday_date_pretty": "le 6 juin 2026",
   "visits": [
     {
-      "etab_name": "Arte Beauty Lutry",
-      "etab_slug": "arte-beauty-lutry",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
-      "visite_id": "v_e79023f8c6e1",
+      "etab_name": "Institut ZenSkin",
+      "etab_slug": "institut-fs",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-fs.jpg",
+      "visite_id": "v_d85432ff7aea",
       "canton": "Vaud",
       "date_iso": "2026-06-06"
     }
