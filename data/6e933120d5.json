@@ -1,14 +1,14 @@
 {
-  "carte": "36674",
-  "name": "samer",
+  "carte": "36933",
+  "name": "Pareesa",
   "yesterday_date": "2026-06-08",
   "yesterday_date_pretty": "le 8 juin 2026",
   "visits": [
     {
-      "etab_name": "Institut Kaori",
-      "etab_slug": "institut-kaori",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-kaori.jpg",
-      "visite_id": "v_1cf34eb477db",
+      "etab_name": "Naïda Massothérapie",
+      "etab_slug": "naida-massotherapie",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/naida-massotherapie.jpg",
+      "visite_id": "v_f84cfc6d7cce",
       "canton": "Vaud",
       "date_iso": "2026-06-08"
     }

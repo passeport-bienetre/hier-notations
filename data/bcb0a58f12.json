@@ -1,14 +1,14 @@
 {
-  "carte": "31163",
-  "name": "Natacha",
+  "carte": "36128",
+  "name": "Gwendoline",
   "yesterday_date": "2026-06-08",
   "yesterday_date_pretty": "le 8 juin 2026",
   "visits": [
     {
-      "etab_name": "Sawatdee Temple",
-      "etab_slug": "sawatdee-temple",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sawatdee-temple.jpg",
-      "visite_id": "v_d86d260bcb89",
+      "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
+      "etab_slug": "hotel-intercontinental-spa-5-mondes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-intercontinental-spa-5-mondes.jpg",
+      "visite_id": "v_ed8802f952b5",
       "canton": "Genève",
       "date_iso": "2026-06-08"
     }

@@ -1,14 +1,14 @@
 {
-  "carte": "36674",
-  "name": "samer",
+  "carte": "36294",
+  "name": "Hugues",
   "yesterday_date": "2026-06-08",
   "yesterday_date_pretty": "le 8 juin 2026",
   "visits": [
     {
-      "etab_name": "Institut Kaori",
-      "etab_slug": "institut-kaori",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-kaori.jpg",
-      "visite_id": "v_1cf34eb477db",
+      "etab_name": "Arte Beauty Lutry",
+      "etab_slug": "arte-beauty-lutry",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
+      "visite_id": "v_ed15fbdc1ee4",
       "canton": "Vaud",
       "date_iso": "2026-06-08"
     }
