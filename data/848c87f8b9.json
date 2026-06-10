@@ -1,14 +1,14 @@
 {
-  "carte": "36256",
-  "name": "Yasmine",
+  "carte": "38419",
+  "name": "Dominique",
   "yesterday_date": "2026-06-09",
   "yesterday_date_pretty": "le 9 juin 2026",
   "visits": [
     {
-      "etab_name": "LAURA COIFFEUSE PRIVÉE",
-      "etab_slug": "laura-coiffeuse-privee",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/laura-coiffeuse-privee.jpg",
-      "visite_id": "v_cbb10158a210",
+      "etab_name": "Flaventino coiffure Aubonne",
+      "etab_slug": "flaventino-coiffure-aubonne",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/flaventino-coiffure-aubonne.jpg",
+      "visite_id": "v_8a195b82c3c7",
       "canton": "Vaud",
       "date_iso": "2026-06-09"
     }

@@ -1,14 +1,14 @@
 {
-  "carte": "36256",
-  "name": "Yasmine",
+  "carte": "36592",
+  "name": "Helena",
   "yesterday_date": "2026-06-09",
   "yesterday_date_pretty": "le 9 juin 2026",
   "visits": [
     {
-      "etab_name": "LAURA COIFFEUSE PRIVÉE",
-      "etab_slug": "laura-coiffeuse-privee",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/laura-coiffeuse-privee.jpg",
-      "visite_id": "v_cbb10158a210",
+      "etab_name": "Simple Passion",
+      "etab_slug": "simple-passion",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/simple-passion.jpg",
+      "visite_id": "v_8f16991106b9",
       "canton": "Vaud",
       "date_iso": "2026-06-09"
     }
