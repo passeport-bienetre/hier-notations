@@ -1,14 +1,14 @@
 {
-  "carte": "36741",
-  "name": "Laeticia",
+  "carte": "36897",
+  "name": "Rebecca",
   "yesterday_date": "2026-06-11",
   "yesterday_date_pretty": "le 11 juin 2026",
   "visits": [
     {
-      "etab_name": "Le Beausquet Genève",
-      "etab_slug": "le-beausquet-geneve",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-beausquet-geneve.jpg",
-      "visite_id": "v_b5e827b8c95e",
+      "etab_name": "Le Bal des Créateurs",
+      "etab_slug": "le-bal-des-createurs-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-bal-des-createurs-3.jpg",
+      "visite_id": "v_f79ee4f0cec0",
       "canton": "Genève",
       "date_iso": "2026-06-11"
     }
@@ -26,14 +26,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "FLEUR D’EPIDERME",
-      "etab_slug": "fleur-depiderme",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
+      "etab_name": "Parallèles Coiffure",
+      "etab_slug": "paralleles-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/paralleles-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/paralleles-coiffure/",
       "canton": "Genève",
-      "visites": 87,
+      "visites": 215,
       "note": "5/5",
-      "blurb": "La maison de beauté A Fleur d'Épiderme, spécialiste soins de la peau et épilation définitive. Technicité médicale et douceur esthétique, sans compromis sur le résultat.",
+      "blurb": "Parallèles, salon en triplex aux produits Davines exclusivement. Équipe jeune et trendy, ambiance détendue, écologie en arrière-plan.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {

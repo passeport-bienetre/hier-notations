@@ -1,6 +1,6 @@
 {
-  "carte": "38418",
-  "name": "Emilie",
+  "carte": "31329",
+  "name": "Katya",
   "yesterday_date": "2026-06-11",
   "yesterday_date_pretty": "le 11 juin 2026",
   "visits": [
@@ -8,7 +8,7 @@
       "etab_name": "Grand Hôtel du Lac",
       "etab_slug": "grand-hotel-du-lac",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/grand-hotel-du-lac.jpg",
-      "visite_id": "v_8c6dff3083ea",
+      "visite_id": "v_eae582bf7b9d",
       "canton": "Vaud",
       "date_iso": "2026-06-11"
     }

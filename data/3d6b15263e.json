@@ -1,15 +1,15 @@
 {
-  "carte": "35320",
-  "name": "Irena",
+  "carte": "35643",
+  "name": "Nathalie",
   "yesterday_date": "2026-06-11",
   "yesterday_date_pretty": "le 11 juin 2026",
   "visits": [
     {
-      "etab_name": "Vogue La Coiffure",
-      "etab_slug": "vogue-la-coiffure",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/vogue-la-coiffure.jpg",
-      "visite_id": "v_2dea8dc41573",
-      "canton": null,
+      "etab_name": "Institut Osmose",
+      "etab_slug": "institut-osmose",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-osmose.jpg",
+      "visite_id": "v_d1f608e42fb2",
+      "canton": "Vaud",
       "date_iso": "2026-06-11"
     }
   ],

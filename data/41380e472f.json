@@ -1,16 +1,16 @@
 {
   "carte": "35215",
   "name": "Julien",
-  "yesterday_date": "2026-06-10",
-  "yesterday_date_pretty": "le 10 juin 2026",
+  "yesterday_date": "2026-06-11",
+  "yesterday_date_pretty": "le 11 juin 2026",
   "visits": [
     {
-      "etab_name": "Thai Corner",
-      "etab_slug": "thai-corner-3",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thai-corner-3.jpg",
-      "visite_id": "v_e5acd7dcb09f",
+      "etab_name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "etab_slug": "lavalleespa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lavalleespa.jpg",
+      "visite_id": "v_ed6495bb1990",
       "canton": "Genève",
-      "date_iso": "2026-06-10"
+      "date_iso": "2026-06-11"
     }
   ],
   "suggestions": [

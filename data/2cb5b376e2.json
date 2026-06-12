@@ -1,14 +1,14 @@
 {
-  "carte": "35320",
-  "name": "Irena",
+  "carte": "31346",
+  "name": "Céline",
   "yesterday_date": "2026-06-11",
   "yesterday_date_pretty": "le 11 juin 2026",
   "visits": [
     {
-      "etab_name": "Vogue La Coiffure",
-      "etab_slug": "vogue-la-coiffure",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/vogue-la-coiffure.jpg",
-      "visite_id": "v_2dea8dc41573",
+      "etab_name": "Maison B",
+      "etab_slug": "maison-b",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
+      "visite_id": "v_caa37dd0a4a2",
       "canton": null,
       "date_iso": "2026-06-11"
     }

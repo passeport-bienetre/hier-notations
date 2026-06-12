@@ -1,15 +1,15 @@
 {
-  "carte": "35320",
-  "name": "Irena",
+  "carte": "30607",
+  "name": "Esther",
   "yesterday_date": "2026-06-11",
   "yesterday_date_pretty": "le 11 juin 2026",
   "visits": [
     {
-      "etab_name": "Vogue La Coiffure",
-      "etab_slug": "vogue-la-coiffure",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/vogue-la-coiffure.jpg",
-      "visite_id": "v_2dea8dc41573",
-      "canton": null,
+      "etab_name": "Arte Beauty Lutry",
+      "etab_slug": "arte-beauty-lutry",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
+      "visite_id": "v_0ca7d186ab98",
+      "canton": "Vaud",
       "date_iso": "2026-06-11"
     }
   ],
