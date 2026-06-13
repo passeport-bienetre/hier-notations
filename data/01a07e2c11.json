@@ -1,14 +1,14 @@
 {
-  "carte": "35064",
-  "name": "Joanne",
+  "carte": "30167",
+  "name": "Patricia",
   "yesterday_date": "2026-06-12",
   "yesterday_date_pretty": "le 12 juin 2026",
   "visits": [
     {
-      "etab_name": "Rituels Beauté",
-      "etab_slug": "rituels-beaute",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/rituels-beaute.jpg",
-      "visite_id": "v_8e93dbb0439a",
+      "etab_name": "Arte Beauty Lutry",
+      "etab_slug": "arte-beauty-lutry",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
+      "visite_id": "v_663fa4fa147d",
       "canton": "Vaud",
       "date_iso": "2026-06-12"
     }

@@ -1,14 +1,14 @@
 {
-  "carte": "35064",
-  "name": "Joanne",
+  "carte": "35031",
+  "name": "Elodie",
   "yesterday_date": "2026-06-12",
   "yesterday_date_pretty": "le 12 juin 2026",
   "visits": [
     {
-      "etab_name": "Rituels Beauté",
-      "etab_slug": "rituels-beaute",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/rituels-beaute.jpg",
-      "visite_id": "v_8e93dbb0439a",
+      "etab_name": "Maison Perle",
+      "etab_slug": "maison-perle",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-perle.jpg",
+      "visite_id": "v_b9537d6a184d",
       "canton": "Vaud",
       "date_iso": "2026-06-12"
     }

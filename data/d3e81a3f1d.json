@@ -1,15 +1,15 @@
 {
-  "carte": "35064",
-  "name": "Joanne",
+  "carte": "35552",
+  "name": "PAULO",
   "yesterday_date": "2026-06-12",
   "yesterday_date_pretty": "le 12 juin 2026",
   "visits": [
     {
-      "etab_name": "Rituels Beauté",
-      "etab_slug": "rituels-beaute",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/rituels-beaute.jpg",
-      "visite_id": "v_8e93dbb0439a",
-      "canton": "Vaud",
+      "etab_name": "Arte Beauty EHL",
+      "etab_slug": "arte-beauty-ehl",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-ehl.jpg",
+      "visite_id": "v_bf2db6b788b2",
+      "canton": null,
       "date_iso": "2026-06-12"
     }
   ],

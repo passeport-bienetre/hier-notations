@@ -1,28 +1,36 @@
 {
-  "carte": "30614",
-  "name": "Mélanie",
+  "carte": "34616",
+  "name": "Sophie",
   "yesterday_date": "2026-06-12",
   "yesterday_date_pretty": "le 12 juin 2026",
   "visits": [
     {
-      "etab_name": "Le Cabinet de Beauté",
-      "etab_slug": "le-cabinet-de-beaute",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-cabinet-de-beaute.jpg",
-      "visite_id": "v_f98c0826a17e",
+      "etab_name": "Le Bal des Créateurs",
+      "etab_slug": "le-bal-des-createurs-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-bal-des-createurs-3.jpg",
+      "visite_id": "v_863ba99ae049",
+      "canton": "Genève",
+      "date_iso": "2026-06-12"
+    },
+    {
+      "etab_name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "etab_slug": "lavalleespa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lavalleespa.jpg",
+      "visite_id": "v_ecc79fcd2c45",
       "canton": "Genève",
       "date_iso": "2026-06-12"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "NUANCES NATURE",
-      "etab_slug": "nuances-nature",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nuances-nature.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/nuances-nature/",
+      "etab_name": "So Hair",
+      "etab_slug": "so-hair",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/so-hair.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/so-hair/",
       "canton": "Genève",
-      "visites": 95,
+      "visites": 377,
       "note": "5/5",
-      "blurb": "Ki Nuances Nature à Carouge. Esthéticienne depuis vingt ans et formatrice en cosmétiques bio pendant douze ans, elle propose soins visage, corps et Signature dans un cocon de sérénité.",
+      "blurb": "So Hair, près de la gare Cornavin dans une rue calme. Coiffeurs, coloristes, manucures et maquilleurs sous le même toit, dans une ambiance sobre et épurée.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {

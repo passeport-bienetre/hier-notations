@@ -1,14 +1,14 @@
 {
-  "carte": "35064",
-  "name": "Joanne",
+  "carte": "36408",
+  "name": "Meylan",
   "yesterday_date": "2026-06-12",
   "yesterday_date_pretty": "le 12 juin 2026",
   "visits": [
     {
-      "etab_name": "Rituels Beauté",
-      "etab_slug": "rituels-beaute",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/rituels-beaute.jpg",
-      "visite_id": "v_8e93dbb0439a",
+      "etab_name": "Salon Privé Ecublens",
+      "etab_slug": "salon-prive-ecublens",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-ecublens.jpg",
+      "visite_id": "v_0b095ce25560",
       "canton": "Vaud",
       "date_iso": "2026-06-12"
     }

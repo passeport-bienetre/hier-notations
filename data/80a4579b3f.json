@@ -1,14 +1,14 @@
 {
-  "carte": "35064",
-  "name": "Joanne",
+  "carte": "30221",
+  "name": "Lalaina",
   "yesterday_date": "2026-06-12",
   "yesterday_date_pretty": "le 12 juin 2026",
   "visits": [
     {
-      "etab_name": "Rituels Beauté",
-      "etab_slug": "rituels-beaute",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/rituels-beaute.jpg",
-      "visite_id": "v_8e93dbb0439a",
+      "etab_name": "Institut Kaori",
+      "etab_slug": "institut-kaori",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-kaori.jpg",
+      "visite_id": "v_bfde85e469dc",
       "canton": "Vaud",
       "date_iso": "2026-06-12"
     }

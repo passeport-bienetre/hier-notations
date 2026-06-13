@@ -1,14 +1,14 @@
 {
-  "carte": "35064",
-  "name": "Joanne",
+  "carte": "36115",
+  "name": "Gaylene",
   "yesterday_date": "2026-06-12",
   "yesterday_date_pretty": "le 12 juin 2026",
   "visits": [
     {
-      "etab_name": "Rituels Beauté",
-      "etab_slug": "rituels-beaute",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/rituels-beaute.jpg",
-      "visite_id": "v_8e93dbb0439a",
+      "etab_name": "Le Passage",
+      "etab_slug": "le-passage",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-passage.jpg",
+      "visite_id": "v_7e2353cd66af",
       "canton": "Vaud",
       "date_iso": "2026-06-12"
     }

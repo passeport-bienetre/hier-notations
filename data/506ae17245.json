@@ -1,15 +1,15 @@
 {
-  "carte": "35064",
-  "name": "Joanne",
+  "carte": "35328",
+  "name": "MYRIAM",
   "yesterday_date": "2026-06-12",
   "yesterday_date_pretty": "le 12 juin 2026",
   "visits": [
     {
-      "etab_name": "Rituels Beauté",
-      "etab_slug": "rituels-beaute",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/rituels-beaute.jpg",
-      "visite_id": "v_8e93dbb0439a",
-      "canton": "Vaud",
+      "etab_name": "ALEX COIFFURE SARL",
+      "etab_slug": "a-lex-coiffure-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/a-lex-coiffure-3.jpg",
+      "visite_id": "v_8072a26b26eb",
+      "canton": "Fribourg",
       "date_iso": "2026-06-12"
     }
   ],
