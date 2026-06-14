@@ -1,16 +1,16 @@
 {
   "carte": "35552",
   "name": "PAULO",
-  "yesterday_date": "2026-06-12",
-  "yesterday_date_pretty": "le 12 juin 2026",
+  "yesterday_date": "2026-06-13",
+  "yesterday_date_pretty": "le 13 juin 2026",
   "visits": [
     {
-      "etab_name": "Arte Beauty EHL",
-      "etab_slug": "arte-beauty-ehl",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-ehl.jpg",
-      "visite_id": "v_bf2db6b788b2",
-      "canton": null,
-      "date_iso": "2026-06-12"
+      "etab_name": "Salon Privé Ecublens",
+      "etab_slug": "salon-prive-ecublens",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-ecublens.jpg",
+      "visite_id": "v_266ddf4f5afd",
+      "canton": "Vaud",
+      "date_iso": "2026-06-13"
     }
   ],
   "suggestions": [
@@ -20,7 +20,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "canton": "Vaud",
-      "visites": 713,
+      "visites": 714,
       "note": "5/5",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "reason": "Nous pensons que vous allez aimer"
