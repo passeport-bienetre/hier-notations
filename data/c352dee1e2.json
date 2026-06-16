@@ -1,14 +1,14 @@
 {
-  "carte": "38247",
-  "name": "Amélina",
+  "carte": "37177",
+  "name": "Andrea",
   "yesterday_date": "2026-06-15",
   "yesterday_date_pretty": "le 15 juin 2026",
   "visits": [
     {
-      "etab_name": "KASA AMO",
-      "etab_slug": "kasa-amo",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/kasa-amo.jpg",
-      "visite_id": "v_49dc7fd6cfa9",
+      "etab_name": "Institut Sirène",
+      "etab_slug": "institut-sirene",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sirene.jpg",
+      "visite_id": "v_70946a376d43",
       "canton": "Vaud",
       "date_iso": "2026-06-15"
     }
