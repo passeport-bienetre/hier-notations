@@ -1,6 +1,6 @@
 {
-  "carte": "36223",
-  "name": "Guen",
+  "carte": "30777",
+  "name": "Manon",
   "yesterday_date": "2026-06-16",
   "yesterday_date_pretty": "le 16 juin 2026",
   "visits": [
@@ -8,7 +8,7 @@
       "etab_name": "LA MAISON VALMONT – BONGENIE",
       "etab_slug": "la-maison-valmont-lausanne",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-maison-valmont-lausanne.jpg",
-      "visite_id": "v_f056deec5127",
+      "visite_id": "v_c299410d396b",
       "canton": "Vaud",
       "date_iso": "2026-06-16"
     }

@@ -1,15 +1,15 @@
 {
-  "carte": "36223",
-  "name": "Guen",
+  "carte": "35823",
+  "name": "Catherine",
   "yesterday_date": "2026-06-16",
   "yesterday_date_pretty": "le 16 juin 2026",
   "visits": [
     {
-      "etab_name": "LA MAISON VALMONT – BONGENIE",
-      "etab_slug": "la-maison-valmont-lausanne",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-maison-valmont-lausanne.jpg",
-      "visite_id": "v_f056deec5127",
-      "canton": "Vaud",
+      "etab_name": "Les Cliniques Matignon",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--geneve.jpg",
+      "visite_id": "v_48778171895b",
+      "canton": " ",
       "date_iso": "2026-06-16"
     }
   ],

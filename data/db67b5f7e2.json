@@ -1,14 +1,14 @@
 {
-  "carte": "36223",
-  "name": "Guen",
+  "carte": "39342",
+  "name": "Elsa",
   "yesterday_date": "2026-06-16",
   "yesterday_date_pretty": "le 16 juin 2026",
   "visits": [
     {
-      "etab_name": "LA MAISON VALMONT – BONGENIE",
-      "etab_slug": "la-maison-valmont-lausanne",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-maison-valmont-lausanne.jpg",
-      "visite_id": "v_f056deec5127",
+      "etab_name": "Institut ZenSkin",
+      "etab_slug": "institut-fs",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-fs.jpg",
+      "visite_id": "v_76eaa78c024d",
       "canton": "Vaud",
       "date_iso": "2026-06-16"
     }

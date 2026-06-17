@@ -1,15 +1,15 @@
 {
-  "carte": "29318",
-  "name": "Adeline",
+  "carte": "34230",
+  "name": "Elizabeth",
   "yesterday_date": "2026-06-16",
   "yesterday_date_pretty": "le 16 juin 2026",
   "visits": [
     {
-      "etab_name": "COMME SUR UN NUAGE",
-      "etab_slug": "comme-sur-un-nuage",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/comme-sur-un-nuage.jpg",
-      "visite_id": "v_4a93ac5de1c1",
-      "canton": "Neuchâtel",
+      "etab_name": "Royal Savoy Hôtel & Spa",
+      "etab_slug": "royal-savoy-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+      "visite_id": "v_94116aa82b6c",
+      "canton": "Vaud",
       "date_iso": "2026-06-16"
     }
   ],

@@ -1,22 +1,14 @@
 {
-  "carte": "33695",
-  "name": "Carina",
+  "carte": "35829",
+  "name": "Paola",
   "yesterday_date": "2026-06-16",
   "yesterday_date_pretty": "le 16 juin 2026",
   "visits": [
     {
-      "etab_name": "Le Bal des Créateurs",
-      "etab_slug": "le-bal-des-createurs-3",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-bal-des-createurs-3.jpg",
-      "visite_id": "v_824093045e63",
-      "canton": "Genève",
-      "date_iso": "2026-06-16"
-    },
-    {
-      "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
-      "etab_slug": "le-centre-geneve-by-charline",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
-      "visite_id": "v_825e4c8df7d8",
+      "etab_name": "EUPHORIA & BEAUTY STUDIO",
+      "etab_slug": "euphoria-beauty-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
+      "visite_id": "v_f062c2bc0f94",
       "canton": "Genève",
       "date_iso": "2026-06-16"
     }

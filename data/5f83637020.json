@@ -1,14 +1,14 @@
 {
-  "carte": "36223",
-  "name": "Guen",
+  "carte": "34883",
+  "name": "Laurette",
   "yesterday_date": "2026-06-16",
   "yesterday_date_pretty": "le 16 juin 2026",
   "visits": [
     {
-      "etab_name": "LA MAISON VALMONT – BONGENIE",
-      "etab_slug": "la-maison-valmont-lausanne",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-maison-valmont-lausanne.jpg",
-      "visite_id": "v_f056deec5127",
+      "etab_name": "Karré Long",
+      "etab_slug": "karre-long-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/karre-long-3.jpg",
+      "visite_id": "v_26f829422825",
       "canton": "Vaud",
       "date_iso": "2026-06-16"
     }
