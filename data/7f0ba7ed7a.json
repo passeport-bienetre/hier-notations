@@ -1,14 +1,14 @@
 {
-  "carte": "36099",
-  "name": "Clara",
+  "carte": "38077",
+  "name": "EMILIE",
   "yesterday_date": "2026-06-17",
   "yesterday_date_pretty": "le 17 juin 2026",
   "visits": [
     {
-      "etab_name": "Salon Privé Chailly",
-      "etab_slug": "salon-prive-chailly",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-chailly.jpg",
-      "visite_id": "v_17e86da1b837",
+      "etab_name": "Karré Long",
+      "etab_slug": "karre-long-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/karre-long-3.jpg",
+      "visite_id": "v_7f0a8ae04ae6",
       "canton": "Vaud",
       "date_iso": "2026-06-17"
     }

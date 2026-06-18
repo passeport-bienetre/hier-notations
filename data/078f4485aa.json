@@ -1,15 +1,15 @@
 {
-  "carte": "36839",
-  "name": "Caroline",
+  "carte": "30632",
+  "name": "muge",
   "yesterday_date": "2026-06-17",
   "yesterday_date_pretty": "le 17 juin 2026",
   "visits": [
     {
-      "etab_name": "Institut Osmose",
-      "etab_slug": "institut-osmose",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-osmose.jpg",
-      "visite_id": "v_70bb7eba117c",
-      "canton": "Vaud",
+      "etab_name": "FLEUR D’EPIDERME",
+      "etab_slug": "fleur-depiderme",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
+      "visite_id": "v_2286f99389d9",
+      "canton": "Genève",
       "date_iso": "2026-06-17"
     }
   ],

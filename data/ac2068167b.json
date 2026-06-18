@@ -1,14 +1,14 @@
 {
-  "carte": "36099",
-  "name": "Clara",
+  "carte": "35459",
+  "name": "Nicoleta",
   "yesterday_date": "2026-06-17",
   "yesterday_date_pretty": "le 17 juin 2026",
   "visits": [
     {
-      "etab_name": "Salon Privé Chailly",
-      "etab_slug": "salon-prive-chailly",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-chailly.jpg",
-      "visite_id": "v_17e86da1b837",
+      "etab_name": "CJ Coiffure",
+      "etab_slug": "cj-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/cj-coiffure.jpg",
+      "visite_id": "v_9c68f65f3bbd",
       "canton": "Vaud",
       "date_iso": "2026-06-17"
     }

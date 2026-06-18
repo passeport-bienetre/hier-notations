@@ -1,14 +1,14 @@
 {
-  "carte": "36378",
-  "name": "David",
+  "carte": "36233",
+  "name": "Anne-Laure",
   "yesterday_date": "2026-06-17",
   "yesterday_date_pretty": "le 17 juin 2026",
   "visits": [
     {
-      "etab_name": "Thaiotop",
-      "etab_slug": "thaiotop-3",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thaiotop-3.jpg",
-      "visite_id": "v_27fc75bbec49",
+      "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
+      "etab_slug": "hotel-intercontinental-spa-5-mondes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-intercontinental-spa-5-mondes.jpg",
+      "visite_id": "v_015ebe8e2972",
       "canton": "Genève",
       "date_iso": "2026-06-17"
     }

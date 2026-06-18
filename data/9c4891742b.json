@@ -1,15 +1,15 @@
 {
-  "carte": "36839",
-  "name": "Caroline",
+  "carte": "35264",
+  "name": "Alexandra",
   "yesterday_date": "2026-06-17",
   "yesterday_date_pretty": "le 17 juin 2026",
   "visits": [
     {
-      "etab_name": "Institut Osmose",
-      "etab_slug": "institut-osmose",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-osmose.jpg",
-      "visite_id": "v_70bb7eba117c",
-      "canton": "Vaud",
+      "etab_name": "SAKURA LAB",
+      "etab_slug": "sakura-lab",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sakura-lab.jpg",
+      "visite_id": "v_9a1b2153124c",
+      "canton": "Genève",
       "date_iso": "2026-06-17"
     }
   ],
@@ -26,14 +26,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Blossom Institut",
-      "etab_slug": "blossom-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
+      "etab_name": "FLEUR D’EPIDERME",
+      "etab_slug": "fleur-depiderme",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
       "canton": "Genève",
-      "visites": 524,
+      "visites": 88,
       "note": "5/5",
-      "blurb": "L'institut genevois spécialiste visage, mené par Nadège. Plus de dix ans de soins faciaux et de massages pointus au service d'une beauté naturelle.",
+      "blurb": "La maison de beauté A Fleur d'Épiderme, spécialiste soins de la peau et épilation définitive. Technicité médicale et douceur esthétique, sans compromis sur le résultat.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {

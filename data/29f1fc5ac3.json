@@ -1,15 +1,15 @@
 {
-  "carte": "36099",
-  "name": "Clara",
+  "carte": "36210",
+  "name": "Antoine",
   "yesterday_date": "2026-06-17",
   "yesterday_date_pretty": "le 17 juin 2026",
   "visits": [
     {
-      "etab_name": "Salon Privé Chailly",
-      "etab_slug": "salon-prive-chailly",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-chailly.jpg",
-      "visite_id": "v_17e86da1b837",
-      "canton": "Vaud",
+      "etab_name": "Les Cliniques Matignon",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--geneve.jpg",
+      "visite_id": "v_1e5c9c8d9df5",
+      "canton": " ",
       "date_iso": "2026-06-17"
     }
   ],
