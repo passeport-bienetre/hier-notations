@@ -1,14 +1,14 @@
 {
-  "carte": "33367",
-  "name": "Bettina",
+  "carte": "36583",
+  "name": "Luigina",
   "yesterday_date": "2026-06-18",
   "yesterday_date_pretty": "le 18 juin 2026",
   "visits": [
     {
-      "etab_name": "Institut Beauté Bertmans",
-      "etab_slug": "institut-beaute-bertmans",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-beaute-bertmans.jpg",
-      "visite_id": "v_bebd569dd2a1",
+      "etab_name": "Namasté",
+      "etab_slug": "namaste",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/namaste.jpg",
+      "visite_id": "v_f8123e5b3cf3",
       "canton": "Vaud",
       "date_iso": "2026-06-18"
     }

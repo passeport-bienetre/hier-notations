@@ -1,6 +1,6 @@
 {
-  "carte": "38762",
-  "name": "Viviane",
+  "carte": "34606",
+  "name": "Halima",
   "yesterday_date": "2026-06-18",
   "yesterday_date_pretty": "le 18 juin 2026",
   "visits": [
@@ -8,7 +8,7 @@
       "etab_name": "1er Acte Coiffure",
       "etab_slug": "1er-acte-coiffure",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
-      "visite_id": "v_cd91782988f4",
+      "visite_id": "v_d3c155b7146e",
       "canton": "Vaud",
       "date_iso": "2026-06-18"
     }

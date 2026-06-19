@@ -1,14 +1,14 @@
 {
-  "carte": "35653",
-  "name": "Caroline",
+  "carte": "39490",
+  "name": "Elodie",
   "yesterday_date": "2026-06-18",
   "yesterday_date_pretty": "le 18 juin 2026",
   "visits": [
     {
-      "etab_name": "INSTITUT VALMONT CHEZ GLOBUS GENEVE",
-      "etab_slug": "institut-valmont-chez-globus-geneve",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-valmont-chez-globus-geneve.jpg",
-      "visite_id": "v_db762173e846",
+      "etab_name": "FLEUR D’EPIDERME",
+      "etab_slug": "fleur-depiderme",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
+      "visite_id": "v_dad3671fd686",
       "canton": "Genève",
       "date_iso": "2026-06-18"
     }
