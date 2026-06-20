@@ -1,14 +1,14 @@
 {
-  "carte": "31332",
-  "name": "Johanna",
+  "carte": "35626",
+  "name": "Sonia",
   "yesterday_date": "2026-06-19",
   "yesterday_date_pretty": "le 19 juin 2026",
   "visits": [
     {
-      "etab_name": "BuiCil Genève",
-      "etab_slug": "buicil-geneve",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/buicil-geneve.jpg",
-      "visite_id": "v_ef9737217341",
+      "etab_name": "So Beauty Home",
+      "etab_slug": "so-beauty-home",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/so-beauty-home.jpg",
+      "visite_id": "v_1ff70ed44202",
       "canton": "Genève",
       "date_iso": "2026-06-19"
     }

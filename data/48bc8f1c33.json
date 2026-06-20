@@ -1,14 +1,14 @@
 {
-  "carte": "31332",
-  "name": "Johanna",
+  "carte": "36960",
+  "name": "Julia",
   "yesterday_date": "2026-06-19",
   "yesterday_date_pretty": "le 19 juin 2026",
   "visits": [
     {
-      "etab_name": "BuiCil Genève",
-      "etab_slug": "buicil-geneve",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/buicil-geneve.jpg",
-      "visite_id": "v_ef9737217341",
+      "etab_name": "Skin Solution",
+      "etab_slug": "skin-solution",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/skin-solution.jpg",
+      "visite_id": "v_d92e20f1eff4",
       "canton": "Genève",
       "date_iso": "2026-06-19"
     }

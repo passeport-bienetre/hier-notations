@@ -1,14 +1,14 @@
 {
-  "carte": "31332",
-  "name": "Johanna",
+  "carte": "32273",
+  "name": "Christelle",
   "yesterday_date": "2026-06-19",
   "yesterday_date_pretty": "le 19 juin 2026",
   "visits": [
     {
-      "etab_name": "BuiCil Genève",
-      "etab_slug": "buicil-geneve",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/buicil-geneve.jpg",
-      "visite_id": "v_ef9737217341",
+      "etab_name": "FLEUR D’EPIDERME",
+      "etab_slug": "fleur-depiderme",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
+      "visite_id": "v_e1a450b69664",
       "canton": "Genève",
       "date_iso": "2026-06-19"
     }

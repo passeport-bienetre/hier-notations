@@ -1,14 +1,14 @@
 {
-  "carte": "34924",
-  "name": "Golubovic",
+  "carte": "34531",
+  "name": "Soma",
   "yesterday_date": "2026-06-19",
   "yesterday_date_pretty": "le 19 juin 2026",
   "visits": [
     {
-      "etab_name": "LAURA COIFFEUSE PRIVÉE",
-      "etab_slug": "laura-coiffeuse-privee",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/laura-coiffeuse-privee.jpg",
-      "visite_id": "v_ff80bc725355",
+      "etab_name": "CJ Coiffure",
+      "etab_slug": "cj-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/cj-coiffure.jpg",
+      "visite_id": "v_56fd25b824a6",
       "canton": "Vaud",
       "date_iso": "2026-06-19"
     }

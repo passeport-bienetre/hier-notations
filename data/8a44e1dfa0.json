@@ -1,14 +1,14 @@
 {
-  "carte": "35320",
-  "name": "Irena",
+  "carte": "36363",
+  "name": "Sandra",
   "yesterday_date": "2026-06-19",
   "yesterday_date_pretty": "le 19 juin 2026",
   "visits": [
     {
-      "etab_name": "Nail Café",
-      "etab_slug": "nail-cafe",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nail-cafe.jpg",
-      "visite_id": "v_a6a8bed27c49",
+      "etab_name": "Organik Beauty",
+      "etab_slug": "organik-beauty",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/organik-beauty.jpg",
+      "visite_id": "v_980157c9670d",
       "canton": "Vaud",
       "date_iso": "2026-06-19"
     }
@@ -26,14 +26,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Espace Beauté Harmonie",
-      "etab_slug": "espace-beaute-harmonie",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/espace-beaute-harmonie.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/espace-beaute-harmonie/",
+      "etab_name": "Institut Biotiful",
+      "etab_slug": "institut-biotiful-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-biotiful-2.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-biotiful-2/",
       "canton": "Vaud",
-      "visites": 83,
-      "note": "5/5",
-      "blurb": "L'institut au cœur du quartier de Chailly. Cadre calme et chaleureux pour une pause détente en mode quartier.",
+      "visites": 124,
+      "note": "4.5/5",
+      "blurb": "L'institut Bio'tiful de Margaux Nussbaumer et Marion Gudit. Soins avec gammes certifiées biologiques, ambiance zen et décoration naturelle. L'arrêt dans le temps.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
