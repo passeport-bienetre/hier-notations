@@ -1,0 +1,51 @@
+{
+  "carte": "36627",
+  "name": "Sandrine",
+  "yesterday_date": "2026-06-20",
+  "yesterday_date_pretty": "le 20 juin 2026",
+  "visits": [
+    {
+      "etab_name": "Flaventino coiffure Aubonne",
+      "etab_slug": "flaventino-coiffure-aubonne",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/flaventino-coiffure-aubonne.jpg",
+      "visite_id": "v_4f11a93e6239",
+      "canton": "Vaud",
+      "date_iso": "2026-06-20"
+    }
+  ],
+  "suggestions": [
+    {
+      "etab_name": "Le Lokal",
+      "etab_slug": "le-lokal",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-lokal.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-lokal/",
+      "canton": "Valais",
+      "visites": 50,
+      "note": "5/5",
+      "blurb": "Le LoKal à Martigny-Bourg, fondé en 2015. Coiffure cadre zen et partenaire Keune depuis 1922 : la beauté capillaire au tempo lent.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "Prestige Coiffure",
+      "etab_slug": "prestige-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/prestige-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/prestige-coiffure/",
+      "canton": "Valais",
+      "visites": 0,
+      "note": null,
+      "blurb": "Prestige Coiffure et maquillage, spécialiste visagisme. Coupe, couleur et maquillage en harmonie avec la personnalité, le conseil avant le geste.",
+      "reason": "À découvrir dans le canton de Valais"
+    },
+    {
+      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "etab_slug": "chandolin-boutique-hotel",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
+      "canton": null,
+      "visites": null,
+      "note": null,
+      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}
