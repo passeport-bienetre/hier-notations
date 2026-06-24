@@ -1,14 +1,14 @@
 {
-  "carte": "36897",
-  "name": "Rebecca",
+  "carte": "39421",
+  "name": "Aurélia",
   "yesterday_date": "2026-06-23",
   "yesterday_date_pretty": "le 23 juin 2026",
   "visits": [
     {
-      "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
-      "etab_slug": "le-centre-geneve-by-charline",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
-      "visite_id": "v_b1a1f2d4af81",
+      "etab_name": "Skin Solution",
+      "etab_slug": "skin-solution",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/skin-solution.jpg",
+      "visite_id": "v_712022781e76",
       "canton": "Genève",
       "date_iso": "2026-06-23"
     }

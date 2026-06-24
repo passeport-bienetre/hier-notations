@@ -1,15 +1,15 @@
 {
-  "carte": "36627",
-  "name": "Sandrine",
+  "carte": "31121",
+  "name": "Joséphine",
   "yesterday_date": "2026-06-23",
   "yesterday_date_pretty": "le 23 juin 2026",
   "visits": [
     {
-      "etab_name": "Maison Perle",
-      "etab_slug": "maison-perle",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-perle.jpg",
-      "visite_id": "v_cff85b8ce8f5",
-      "canton": "Vaud",
+      "etab_name": "Tête à Clak",
+      "etab_slug": "tete-a-clak",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/tete-a-clak.jpg",
+      "visite_id": "v_3677ff487fe2",
+      "canton": null,
       "date_iso": "2026-06-23"
     }
   ],
