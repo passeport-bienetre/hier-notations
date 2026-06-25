@@ -1,39 +1,39 @@
 {
   "carte": "38612",
   "name": "Marie",
-  "yesterday_date": "2026-06-10",
-  "yesterday_date_pretty": "le 10 juin 2026",
+  "yesterday_date": "2026-06-24",
+  "yesterday_date_pretty": "le 24 juin 2026",
   "visits": [
     {
-      "etab_name": "Naïda Massothérapie",
-      "etab_slug": "naida-massotherapie",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/naida-massotherapie.jpg",
-      "visite_id": "v_c42e5be4771e",
+      "etab_name": "Bhumi",
+      "etab_slug": "biotonique-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
+      "visite_id": "v_96b63c4dcbc3",
       "canton": "Vaud",
-      "date_iso": "2026-06-10"
+      "date_iso": "2026-06-24"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "1er Acte Coiffure",
-      "etab_slug": "1er-acte-coiffure",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
+      "etab_name": "Institut Biotiful",
+      "etab_slug": "institut-biotiful-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-biotiful-2.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-biotiful-2/",
       "canton": "Vaud",
-      "visites": 713,
-      "note": "5/5",
-      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
+      "visites": 123,
+      "note": "4.5/5",
+      "blurb": "L'institut Bio'tiful de Margaux Nussbaumer et Marion Gudit. Soins avec gammes certifiées biologiques, ambiance zen et décoration naturelle. L'arrêt dans le temps.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Atmosp'hair",
-      "etab_slug": "atmosphair",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
+      "etab_name": "Organik Beauty",
+      "etab_slug": "organik-beauty",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/organik-beauty.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/organik-beauty/",
       "canton": "Vaud",
-      "visites": 175,
-      "note": "5/5",
-      "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
+      "visites": 591,
+      "note": "4.5/5",
+      "blurb": "Organik Beauty, réconciliation entre composants et efficacité. Prendre soin de soi et de la planète, la beauté en mode développement durable.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {

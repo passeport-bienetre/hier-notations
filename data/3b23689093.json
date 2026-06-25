@@ -1,15 +1,15 @@
 {
-  "carte": "39344",
-  "name": "Laura",
+  "carte": "29264",
+  "name": "France",
   "yesterday_date": "2026-06-24",
   "yesterday_date_pretty": "le 24 juin 2026",
   "visits": [
     {
-      "etab_name": "Les Cliniques Matignon",
-      "etab_slug": null,
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--geneve.jpg",
-      "visite_id": "v_4a352ea94582",
-      "canton": " ",
+      "etab_name": "JOIA LAUSANNE",
+      "etab_slug": "joia-lausanne",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/joia-lausanne.jpg",
+      "visite_id": "v_74c6a3b624b0",
+      "canton": "Vaud",
       "date_iso": "2026-06-24"
     }
   ],

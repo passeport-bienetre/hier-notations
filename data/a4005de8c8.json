@@ -1,15 +1,15 @@
 {
-  "carte": "39344",
-  "name": "Laura",
+  "carte": "36654",
+  "name": "Nina",
   "yesterday_date": "2026-06-24",
   "yesterday_date_pretty": "le 24 juin 2026",
   "visits": [
     {
-      "etab_name": "Les Cliniques Matignon",
-      "etab_slug": null,
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--geneve.jpg",
-      "visite_id": "v_4a352ea94582",
-      "canton": " ",
+      "etab_name": "Les Vagabondes",
+      "etab_slug": "les-vagabondes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-vagabondes.jpg",
+      "visite_id": "v_0a5054c67263",
+      "canton": "Vaud",
       "date_iso": "2026-06-24"
     }
   ],

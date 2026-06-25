@@ -1,15 +1,15 @@
 {
-  "carte": "39344",
-  "name": "Laura",
+  "carte": "34962",
+  "name": "Manuela",
   "yesterday_date": "2026-06-24",
   "yesterday_date_pretty": "le 24 juin 2026",
   "visits": [
     {
-      "etab_name": "Les Cliniques Matignon",
-      "etab_slug": null,
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--geneve.jpg",
-      "visite_id": "v_4a352ea94582",
-      "canton": " ",
+      "etab_name": "Swiss Aesthetica",
+      "etab_slug": "swiss-aesthetica",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/swiss-aesthetica.jpg",
+      "visite_id": "v_f66f1647b631",
+      "canton": "Vaud",
       "date_iso": "2026-06-24"
     }
   ],

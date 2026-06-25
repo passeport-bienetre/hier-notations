@@ -1,14 +1,14 @@
 {
-  "carte": "32228",
-  "name": "Sebastiana",
+  "carte": "36733",
+  "name": "Jessica",
   "yesterday_date": "2026-06-24",
   "yesterday_date_pretty": "le 24 juin 2026",
   "visits": [
     {
-      "etab_name": "Institut Guinot",
-      "etab_slug": "institut-guinot-2",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
-      "visite_id": "v_edf09765124a",
+      "etab_name": "Espace Beauté Sarah",
+      "etab_slug": "espace-beaute-sarah",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/espace-beaute-sarah.jpg",
+      "visite_id": "v_ea553f8832d2",
       "canton": "Vaud",
       "date_iso": "2026-06-24"
     }

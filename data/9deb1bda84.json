@@ -1,6 +1,6 @@
 {
-  "carte": "34970",
-  "name": "Chantal",
+  "carte": "31668",
+  "name": "Sylviane",
   "yesterday_date": "2026-06-24",
   "yesterday_date_pretty": "le 24 juin 2026",
   "visits": [
@@ -8,7 +8,7 @@
       "etab_name": "Skin Solution",
       "etab_slug": "skin-solution",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/skin-solution.jpg",
-      "visite_id": "v_f05a57393383",
+      "visite_id": "v_f0fd84ce2551",
       "canton": "Genève",
       "date_iso": "2026-06-24"
     }

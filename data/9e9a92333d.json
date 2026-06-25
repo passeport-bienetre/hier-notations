@@ -1,15 +1,15 @@
 {
-  "carte": "39344",
-  "name": "Laura",
+  "carte": "33285",
+  "name": "Lucy",
   "yesterday_date": "2026-06-24",
   "yesterday_date_pretty": "le 24 juin 2026",
   "visits": [
     {
-      "etab_name": "Les Cliniques Matignon",
-      "etab_slug": null,
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--geneve.jpg",
-      "visite_id": "v_4a352ea94582",
-      "canton": " ",
+      "etab_name": "Arte Beauty EHL",
+      "etab_slug": "arte-beauty-ehl",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-ehl.jpg",
+      "visite_id": "v_3f93ddd3a0d8",
+      "canton": null,
       "date_iso": "2026-06-24"
     }
   ],
