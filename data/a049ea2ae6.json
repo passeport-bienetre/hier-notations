@@ -1,14 +1,14 @@
 {
-  "carte": "30632",
-  "name": "muge",
+  "carte": "35484",
+  "name": "Lorena",
   "yesterday_date": "2026-06-25",
   "yesterday_date_pretty": "le 25 juin 2026",
   "visits": [
     {
-      "etab_name": "So Beauty Home",
-      "etab_slug": "so-beauty-home",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/so-beauty-home.jpg",
-      "visite_id": "v_010016dcff20",
+      "etab_name": "SUBLIMEYES",
+      "etab_slug": "institut-sublimeyes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
+      "visite_id": "v_f24bcdada82e",
       "canton": "Genève",
       "date_iso": "2026-06-25"
     }

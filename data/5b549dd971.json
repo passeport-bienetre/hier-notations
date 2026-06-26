@@ -1,14 +1,14 @@
 {
-  "carte": "30632",
-  "name": "muge",
+  "carte": "30741",
+  "name": "Ilaria",
   "yesterday_date": "2026-06-25",
   "yesterday_date_pretty": "le 25 juin 2026",
   "visits": [
     {
-      "etab_name": "So Beauty Home",
-      "etab_slug": "so-beauty-home",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/so-beauty-home.jpg",
-      "visite_id": "v_010016dcff20",
+      "etab_name": "Ipanema Beauté",
+      "etab_slug": "ipanema-beaute",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/ipanema-beaute.jpg",
+      "visite_id": "v_c9bf797da0f6",
       "canton": "Genève",
       "date_iso": "2026-06-25"
     }

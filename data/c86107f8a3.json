@@ -1,14 +1,14 @@
 {
-  "carte": "30632",
-  "name": "muge",
+  "carte": "33754",
+  "name": "Lucile",
   "yesterday_date": "2026-06-25",
   "yesterday_date_pretty": "le 25 juin 2026",
   "visits": [
     {
-      "etab_name": "So Beauty Home",
-      "etab_slug": "so-beauty-home",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/so-beauty-home.jpg",
-      "visite_id": "v_010016dcff20",
+      "etab_name": "Skin Solution",
+      "etab_slug": "skin-solution",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/skin-solution.jpg",
+      "visite_id": "v_f774272502f8",
       "canton": "Genève",
       "date_iso": "2026-06-25"
     }

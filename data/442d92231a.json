@@ -1,6 +1,6 @@
 {
-  "carte": "31414",
-  "name": "Julia",
+  "carte": "36997",
+  "name": "Anna",
   "yesterday_date": "2026-06-25",
   "yesterday_date_pretty": "le 25 juin 2026",
   "visits": [
@@ -8,7 +8,7 @@
       "etab_name": "RUBIS SPA",
       "etab_slug": "rubis-spa",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/rubis-spa.jpg",
-      "visite_id": "v_6f3b092a14a7",
+      "visite_id": "v_9f17d43f64df",
       "canton": "Vaud",
       "date_iso": "2026-06-25"
     }

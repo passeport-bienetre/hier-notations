@@ -1,19 +1,30 @@
 {
-  "carte": "36479",
-  "name": "Céline",
+  "carte": "35057",
+  "name": "Elsa",
   "yesterday_date": "2026-06-25",
   "yesterday_date_pretty": "le 25 juin 2026",
   "visits": [
     {
-      "etab_name": "Maison Perle",
-      "etab_slug": "maison-perle",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-perle.jpg",
-      "visite_id": "v_a900a895bf5c",
-      "canton": "Vaud",
+      "etab_name": "Maison B",
+      "etab_slug": "maison-b",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
+      "visite_id": "v_4ea494d83a7d",
+      "canton": null,
       "date_iso": "2026-06-25"
     }
   ],
   "suggestions": [
+    {
+      "etab_name": "1er Acte Coiffure",
+      "etab_slug": "1er-acte-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
+      "canton": "Vaud",
+      "visites": 706,
+      "note": "5/5",
+      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
     {
       "etab_name": "Atmosp'hair",
       "etab_slug": "atmosphair",
@@ -23,17 +34,6 @@
       "visites": 174,
       "note": "5/5",
       "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
-    {
-      "etab_name": "Bhumi",
-      "etab_slug": "biotonique-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
-      "canton": "Vaud",
-      "visites": 297,
-      "note": "5/5",
-      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {

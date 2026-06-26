@@ -1,6 +1,6 @@
 {
-  "carte": "31414",
-  "name": "Julia",
+  "carte": "27030",
+  "name": "Anne",
   "yesterday_date": "2026-06-25",
   "yesterday_date_pretty": "le 25 juin 2026",
   "visits": [
@@ -8,7 +8,7 @@
       "etab_name": "RUBIS SPA",
       "etab_slug": "rubis-spa",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/rubis-spa.jpg",
-      "visite_id": "v_6f3b092a14a7",
+      "visite_id": "v_4f789a6b39d7",
       "canton": "Vaud",
       "date_iso": "2026-06-25"
     }
@@ -26,14 +26,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Royal Savoy Hôtel & Spa",
-      "etab_slug": "royal-savoy-hotel-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
+      "etab_name": "Institut Orphée",
+      "etab_slug": "institut-sirene",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sirene.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sirene/",
       "canton": "Vaud",
-      "visites": 2890,
-      "note": "5/5",
-      "blurb": "Adresse Belle Époque face au Léman, le Royal Savoy abrite le spa Wellbeing Sanctuary, ses soins signature et une piscine intérieure pour prolonger l'instant.",
+      "visites": 108,
+      "note": "4.5/5",
+      "blurb": "Le centre Sirène, soins haute gamme avec produits Decléor et aromathérapies. Une atmosphère reposante au service d'une philosophie : l'esthétique comme art.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {

@@ -1,0 +1,29 @@
+{
+  "carte": "38771",
+  "name": "Magali",
+  "yesterday_date": "2026-06-25",
+  "yesterday_date_pretty": "le 25 juin 2026",
+  "visits": [
+    {
+      "etab_name": "Le Grand Bellevue Spa",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "visite_id": "v_67a45cf5d7dc",
+      "canton": null,
+      "date_iso": "2026-06-25"
+    }
+  ],
+  "suggestions": [
+    {
+      "etab_name": "HÔTEL BORSARI",
+      "etab_slug": "bpnight-hotel-borsari",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/",
+      "canton": "Valais",
+      "visites": null,
+      "note": null,
+      "blurb": "L'Hôtel Borsari, niché au cœur des Alpes près de Martigny. Chambres aux murs de béton teinté main, palette chaude : un refuge pour suspendre le temps.",
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}

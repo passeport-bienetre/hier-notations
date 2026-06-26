@@ -1,16 +1,16 @@
 {
   "carte": "30847",
   "name": "Chiara",
-  "yesterday_date": "2026-06-08",
-  "yesterday_date_pretty": "le 8 juin 2026",
+  "yesterday_date": "2026-06-25",
+  "yesterday_date_pretty": "le 25 juin 2026",
   "visits": [
     {
-      "etab_name": "Institut Kaori",
-      "etab_slug": "institut-kaori",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-kaori.jpg",
-      "visite_id": "v_c53604f8e6b4",
+      "etab_name": "Nueva Luna Yoga",
+      "etab_slug": "nueva-luna-yoga",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nueva-luna-yoga.jpg",
+      "visite_id": "v_1e9fa745be78",
       "canton": "Vaud",
-      "date_iso": "2026-06-08"
+      "date_iso": "2026-06-25"
     }
   ],
   "suggestions": [
@@ -20,20 +20,20 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
       "canton": "Vaud",
-      "visites": 175,
+      "visites": 174,
       "note": "5/5",
       "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Bhumi",
-      "etab_slug": "biotonique-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
+      "etab_name": "Chalet Royalp Hôtel & Spa",
+      "etab_slug": "chalet-royalp-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "canton": "Vaud",
-      "visites": 299,
+      "visites": 909,
       "note": "5/5",
-      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
+      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
