@@ -1,14 +1,14 @@
 {
-  "carte": "38630",
-  "name": "Marie",
+  "carte": "35551",
+  "name": "zelia",
   "yesterday_date": "2026-06-26",
   "yesterday_date_pretty": "le 26 juin 2026",
   "visits": [
     {
-      "etab_name": "Royal Savoy Hôtel & Spa",
-      "etab_slug": "royal-savoy-hotel-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
-      "visite_id": "v_71a63c4afd52",
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "visite_id": "v_74c6c0e5988a",
       "canton": "Vaud",
       "date_iso": "2026-06-26"
     }

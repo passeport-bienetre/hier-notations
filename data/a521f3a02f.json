@@ -1,14 +1,14 @@
 {
-  "carte": "36863",
-  "name": "Auriane",
+  "carte": "36279",
+  "name": "Stephanie",
   "yesterday_date": "2026-06-26",
   "yesterday_date_pretty": "le 26 juin 2026",
   "visits": [
     {
-      "etab_name": "Odyssée Santé & Beauté",
-      "etab_slug": "odyssee-sante-beaute",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/odyssee-sante-beaute.jpg",
-      "visite_id": "v_51fbd1fe2d08",
+      "etab_name": "L’Atelier du Visage",
+      "etab_slug": "latelier-du-visage",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/latelier-du-visage.jpg",
+      "visite_id": "v_3c4f3dc33720",
       "canton": "Vaud",
       "date_iso": "2026-06-26"
     }

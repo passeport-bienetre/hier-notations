@@ -1,14 +1,14 @@
 {
-  "carte": "36717",
-  "name": "Larissa",
+  "carte": "31860",
+  "name": "Céline",
   "yesterday_date": "2026-06-26",
   "yesterday_date_pretty": "le 26 juin 2026",
   "visits": [
     {
-      "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
-      "etab_slug": "le-centre-geneve-by-charline",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
-      "visite_id": "v_2b02d4c66179",
+      "etab_name": "AVEDA VIEILLE-VILLE",
+      "etab_slug": "aveda-vieille-ville",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/aveda-vieille-ville.jpg",
+      "visite_id": "v_2f77c2f4d837",
       "canton": "Genève",
       "date_iso": "2026-06-26"
     }

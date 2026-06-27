@@ -1,15 +1,15 @@
 {
-  "carte": "36863",
-  "name": "Auriane",
+  "carte": "35474",
+  "name": "Valentine",
   "yesterday_date": "2026-06-26",
   "yesterday_date_pretty": "le 26 juin 2026",
   "visits": [
     {
-      "etab_name": "Odyssée Santé & Beauté",
-      "etab_slug": "odyssee-sante-beaute",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/odyssee-sante-beaute.jpg",
-      "visite_id": "v_51fbd1fe2d08",
-      "canton": "Vaud",
+      "etab_name": "Maison B",
+      "etab_slug": "maison-b",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
+      "visite_id": "v_666d4b3df1fe",
+      "canton": null,
       "date_iso": "2026-06-26"
     }
   ],
