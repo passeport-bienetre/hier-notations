@@ -1,15 +1,15 @@
 {
-  "carte": "30652",
-  "name": "Leeilah",
+  "carte": "34748",
+  "name": "Joelle",
   "yesterday_date": "2026-06-27",
   "yesterday_date_pretty": "le 27 juin 2026",
   "visits": [
     {
-      "etab_name": "Blossom Institut",
-      "etab_slug": "blossom-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
-      "visite_id": "v_58fc63454c81",
-      "canton": "Genève",
+      "etab_name": "Arte Beauty EPFL",
+      "etab_slug": "arte-beauty-epfl",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
+      "visite_id": "v_40f522206a0f",
+      "canton": "Vaud",
       "date_iso": "2026-06-27"
     }
   ],

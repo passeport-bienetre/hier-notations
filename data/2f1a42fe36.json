@@ -1,15 +1,15 @@
 {
-  "carte": "30652",
-  "name": "Leeilah",
+  "carte": "38532",
+  "name": "Céline",
   "yesterday_date": "2026-06-27",
   "yesterday_date_pretty": "le 27 juin 2026",
   "visits": [
     {
-      "etab_name": "Blossom Institut",
-      "etab_slug": "blossom-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
-      "visite_id": "v_58fc63454c81",
-      "canton": "Genève",
+      "etab_name": "Institut ZenSkin",
+      "etab_slug": "institut-fs",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-fs.jpg",
+      "visite_id": "v_7dbf4341669d",
+      "canton": "Vaud",
       "date_iso": "2026-06-27"
     }
   ],

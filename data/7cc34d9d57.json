@@ -1,15 +1,15 @@
 {
-  "carte": "30652",
-  "name": "Leeilah",
+  "carte": "36793",
+  "name": "Annika",
   "yesterday_date": "2026-06-27",
   "yesterday_date_pretty": "le 27 juin 2026",
   "visits": [
     {
-      "etab_name": "Blossom Institut",
-      "etab_slug": "blossom-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
-      "visite_id": "v_58fc63454c81",
-      "canton": "Genève",
+      "etab_name": "Salon Privé Ecublens",
+      "etab_slug": "salon-prive-ecublens",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-ecublens.jpg",
+      "visite_id": "v_86dad8dba78c",
+      "canton": "Vaud",
       "date_iso": "2026-06-27"
     }
   ],
