@@ -1,14 +1,14 @@
 {
-  "carte": "35677",
-  "name": "Maria",
+  "carte": "36190",
+  "name": "Isabelle",
   "yesterday_date": "2026-06-30",
   "yesterday_date_pretty": "le 30 juin 2026",
   "visits": [
     {
-      "etab_name": "Thai Corner",
-      "etab_slug": "thai-corner-3",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thai-corner-3.jpg",
-      "visite_id": "v_59bc8a98d145",
+      "etab_name": "Saai Nam Massage – Manor",
+      "etab_slug": "saai-nam-massage-manor",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/saai-nam-massage-manor.jpg",
+      "visite_id": "v_5783efd14061",
       "canton": "Genève",
       "date_iso": "2026-06-30"
     }

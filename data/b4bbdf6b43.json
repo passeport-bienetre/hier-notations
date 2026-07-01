@@ -1,14 +1,14 @@
 {
-  "carte": "31740",
-  "name": "Juliette",
+  "carte": "36328",
+  "name": "Camilla",
   "yesterday_date": "2026-06-30",
   "yesterday_date_pretty": "le 30 juin 2026",
   "visits": [
     {
-      "etab_name": "Institut Guinot",
-      "etab_slug": "institut-guinot-2",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
-      "visite_id": "v_5bd4eb68330b",
+      "etab_name": "Nail Café",
+      "etab_slug": "nail-cafe",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nail-cafe.jpg",
+      "visite_id": "v_c7f040cc28f6",
       "canton": "Vaud",
       "date_iso": "2026-06-30"
     }

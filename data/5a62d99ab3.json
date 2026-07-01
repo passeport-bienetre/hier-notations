@@ -1,14 +1,14 @@
 {
-  "carte": "31740",
-  "name": "Juliette",
+  "carte": "38722",
+  "name": "anne",
   "yesterday_date": "2026-06-30",
   "yesterday_date_pretty": "le 30 juin 2026",
   "visits": [
     {
-      "etab_name": "Institut Guinot",
-      "etab_slug": "institut-guinot-2",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
-      "visite_id": "v_5bd4eb68330b",
+      "etab_name": "Namasté",
+      "etab_slug": "namaste",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/namaste.jpg",
+      "visite_id": "v_0a6dad05e236",
       "canton": "Vaud",
       "date_iso": "2026-06-30"
     }

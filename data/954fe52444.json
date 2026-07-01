@@ -1,15 +1,15 @@
 {
-  "carte": "34484",
-  "name": "Laura",
+  "carte": "36873",
+  "name": "Ingeborg",
   "yesterday_date": "2026-06-30",
   "yesterday_date_pretty": "le 30 juin 2026",
   "visits": [
     {
-      "etab_name": "Arte Beauty EHL",
-      "etab_slug": "arte-beauty-ehl",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-ehl.jpg",
-      "visite_id": "v_43329541a8f6",
-      "canton": null,
+      "etab_name": "Salon Privé Ecublens",
+      "etab_slug": "salon-prive-ecublens",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-ecublens.jpg",
+      "visite_id": "v_b3f9f6ab4421",
+      "canton": "Vaud",
       "date_iso": "2026-06-30"
     }
   ],

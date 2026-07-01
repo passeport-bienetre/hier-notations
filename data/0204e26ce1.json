@@ -1,15 +1,15 @@
 {
-  "carte": "34484",
+  "carte": "37017",
   "name": "Laura",
   "yesterday_date": "2026-06-30",
   "yesterday_date_pretty": "le 30 juin 2026",
   "visits": [
     {
-      "etab_name": "Arte Beauty EHL",
-      "etab_slug": "arte-beauty-ehl",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-ehl.jpg",
-      "visite_id": "v_43329541a8f6",
-      "canton": null,
+      "etab_name": "Institut Osmose",
+      "etab_slug": "institut-osmose",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-osmose.jpg",
+      "visite_id": "v_f0381d0df2f2",
+      "canton": "Vaud",
       "date_iso": "2026-06-30"
     }
   ],

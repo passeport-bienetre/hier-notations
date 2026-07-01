@@ -1,14 +1,14 @@
 {
-  "carte": "35677",
-  "name": "Maria",
+  "carte": "39232",
+  "name": "Alice",
   "yesterday_date": "2026-06-30",
   "yesterday_date_pretty": "le 30 juin 2026",
   "visits": [
     {
-      "etab_name": "Thai Corner",
-      "etab_slug": "thai-corner-3",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thai-corner-3.jpg",
-      "visite_id": "v_59bc8a98d145",
+      "etab_name": "AVEDA VIEILLE-VILLE",
+      "etab_slug": "aveda-vieille-ville",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/aveda-vieille-ville.jpg",
+      "visite_id": "v_e71c1e0fa2a1",
       "canton": "Genève",
       "date_iso": "2026-06-30"
     }
