@@ -1,6 +1,6 @@
 {
-  "carte": "35796",
-  "name": "Aurélie",
+  "carte": "35769",
+  "name": "Marine",
   "yesterday_date": "2026-07-01",
   "yesterday_date_pretty": "le 1 juillet 2026",
   "visits": [
@@ -8,7 +8,7 @@
       "etab_name": "Sawatdee Delices",
       "etab_slug": "sawatdee-delices",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sawatdee-delices.jpg",
-      "visite_id": "v_3b1f885d4f31",
+      "visite_id": "v_24f1d22c64db",
       "canton": "Genève",
       "date_iso": "2026-07-01"
     }

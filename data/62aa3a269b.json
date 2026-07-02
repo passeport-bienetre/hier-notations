@@ -1,14 +1,14 @@
 {
-  "carte": "35845",
-  "name": "Manon",
+  "carte": "29144",
+  "name": "Sophie",
   "yesterday_date": "2026-07-01",
   "yesterday_date_pretty": "le 1 juillet 2026",
   "visits": [
     {
-      "etab_name": "Experimental Chalet",
-      "etab_slug": "experimental-chalet",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/experimental-chalet.jpg",
-      "visite_id": "v_017676c84abc",
+      "etab_name": "Hôtel & Spa Le National",
+      "etab_slug": "hotel-spa-le-national",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-spa-le-national.jpg",
+      "visite_id": "v_51c4d20e65de",
       "canton": "Valais",
       "date_iso": "2026-07-01"
     }

@@ -1,15 +1,15 @@
 {
-  "carte": "35845",
-  "name": "Manon",
+  "carte": "38015",
+  "name": "Carine",
   "yesterday_date": "2026-07-01",
   "yesterday_date_pretty": "le 1 juillet 2026",
   "visits": [
     {
-      "etab_name": "Experimental Chalet",
-      "etab_slug": "experimental-chalet",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/experimental-chalet.jpg",
-      "visite_id": "v_017676c84abc",
-      "canton": "Valais",
+      "etab_name": "KASA AMO",
+      "etab_slug": "kasa-amo",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/kasa-amo.jpg",
+      "visite_id": "v_b92eea31baff",
+      "canton": "Vaud",
       "date_iso": "2026-07-01"
     }
   ],

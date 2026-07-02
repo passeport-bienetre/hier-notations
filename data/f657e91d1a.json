@@ -1,6 +1,6 @@
 {
-  "carte": "39490",
-  "name": "Elodie",
+  "carte": "33295",
+  "name": "Laetitia",
   "yesterday_date": "2026-07-01",
   "yesterday_date_pretty": "le 1 juillet 2026",
   "visits": [
@@ -8,7 +8,7 @@
       "etab_name": "EUPHORIA & BEAUTY STUDIO",
       "etab_slug": "euphoria-beauty-studio",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
-      "visite_id": "v_8a45b294b0f2",
+      "visite_id": "v_ad2fabc889c7",
       "canton": "Genève",
       "date_iso": "2026-07-01"
     }
