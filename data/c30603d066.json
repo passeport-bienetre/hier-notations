@@ -1,16 +1,16 @@
 {
   "carte": "36770",
   "name": "Soizic",
-  "yesterday_date": "2026-06-19",
-  "yesterday_date_pretty": "le 19 juin 2026",
+  "yesterday_date": "2026-07-02",
+  "yesterday_date_pretty": "le 2 juillet 2026",
   "visits": [
     {
-      "etab_name": "Salon Privé Gare",
-      "etab_slug": "salon-prive",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive.jpg",
-      "visite_id": "v_c8d9b9a1193d",
+      "etab_name": "Maison Perle",
+      "etab_slug": "maison-perle",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-perle.jpg",
+      "visite_id": "v_2dc09b795534",
       "canton": "Vaud",
-      "date_iso": "2026-06-19"
+      "date_iso": "2026-07-02"
     }
   ],
   "suggestions": [
@@ -20,7 +20,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "canton": "Vaud",
-      "visites": 717,
+      "visites": 722,
       "note": "5/5",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "reason": "Nous pensons que vous allez aimer"
@@ -31,7 +31,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/altitude-by-garance.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/altitude-by-garance/",
       "canton": "Vaud",
-      "visites": 41,
+      "visites": 42,
       "note": "5/5",
       "blurb": "Au cœur des Bains de Villars-sur-Ollon, Garance propose massages relaxants et thérapeutiques et pierres d'argile chaudes. Un détour d'altitude entre les bassins.",
       "reason": "À découvrir dans le canton de Vaud"

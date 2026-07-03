@@ -1,14 +1,14 @@
 {
-  "carte": "35590",
-  "name": "Fiona",
+  "carte": "35803",
+  "name": "Camila",
   "yesterday_date": "2026-07-02",
   "yesterday_date_pretty": "le 2 juillet 2026",
   "visits": [
     {
-      "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
-      "etab_slug": "le-centre-geneve-by-charline",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
-      "visite_id": "v_6d42713595bd",
+      "etab_name": "Saai Nam Massage – Manor",
+      "etab_slug": "saai-nam-massage-manor",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/saai-nam-massage-manor.jpg",
+      "visite_id": "v_02471d5323d0",
       "canton": "Genève",
       "date_iso": "2026-07-02"
     }

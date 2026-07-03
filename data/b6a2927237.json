@@ -1,19 +1,30 @@
 {
-  "carte": "34880",
-  "name": "Valentine",
+  "carte": "35214",
+  "name": "Fabienne",
   "yesterday_date": "2026-07-02",
   "yesterday_date_pretty": "le 2 juillet 2026",
   "visits": [
     {
-      "etab_name": "Anzère SPA & Wellness",
-      "etab_slug": "anzere-spa-wellness",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/anzere-spa-wellness.jpg",
-      "visite_id": "v_e04f777b3222",
-      "canton": "Valais",
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "visite_id": "v_250dcb03113d",
+      "canton": "Vaud",
       "date_iso": "2026-07-02"
     }
   ],
   "suggestions": [
+    {
+      "etab_name": "COMME SUR UN NUAGE",
+      "etab_slug": "comme-sur-un-nuage",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/comme-sur-un-nuage.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/comme-sur-un-nuage/",
+      "canton": "Neuchâtel",
+      "visites": 54,
+      "note": "5/5",
+      "blurb": "Le centre de Typhaine Bessey, dix ans d'expérience entre spa hôtelier et bains thermaux. Formée en Ayurveda et aromathérapie, elle mise sur des cosmétiques sains.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
     {
       "etab_name": "Chandolin Boutique Hôtel",
       "etab_slug": "chandolin-boutique-hotel",
@@ -23,17 +34,6 @@
       "visites": 171,
       "note": "5/5",
       "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
-    {
-      "etab_name": "Flocoon Spa Cinq Mondes",
-      "etab_slug": "flocoon-spa-cinq-mondes",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/flocoon-spa-cinq-mondes.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/",
-      "canton": "Valais",
-      "visites": 338,
-      "note": "5/5",
-      "blurb": "Le Spa Flocoon by Cinq Mondes à Crans Montana, 700 m² au cœur du Sport Club Residences. Piscine 15m chauffée, hammam, sauna et trois salles de soin dont une duo. L'évasion alpine grand format.",
       "reason": "À découvrir dans le canton de Valais"
     },
     {

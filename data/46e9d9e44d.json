@@ -1,15 +1,15 @@
 {
-  "carte": "34880",
-  "name": "Valentine",
+  "carte": "35145",
+  "name": "Karin",
   "yesterday_date": "2026-07-02",
   "yesterday_date_pretty": "le 2 juillet 2026",
   "visits": [
     {
-      "etab_name": "Anzère SPA & Wellness",
-      "etab_slug": "anzere-spa-wellness",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/anzere-spa-wellness.jpg",
-      "visite_id": "v_e04f777b3222",
-      "canton": "Valais",
+      "etab_name": "Eveil des Sens",
+      "etab_slug": "eveil-des-sens-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/eveil-des-sens-3.jpg",
+      "visite_id": "v_4eb1a7b92d3a",
+      "canton": "Neuchâtel",
       "date_iso": "2026-07-02"
     }
   ],
@@ -26,14 +26,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Flocoon Spa Cinq Mondes",
-      "etab_slug": "flocoon-spa-cinq-mondes",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/flocoon-spa-cinq-mondes.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/",
+      "etab_name": "Chanelle and Co.",
+      "etab_slug": "chanelle-and-co",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chanelle-and-co.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chanelle-and-co/",
       "canton": "Valais",
-      "visites": 338,
+      "visites": 15,
       "note": "5/5",
-      "blurb": "Le Spa Flocoon by Cinq Mondes à Crans Montana, 700 m² au cœur du Sport Club Residences. Piscine 15m chauffée, hammam, sauna et trois salles de soin dont une duo. L'évasion alpine grand format.",
+      "blurb": "L'espace beauté Chanelle&co. Soins du visage adaptés à chaque type de peau dans une ambiance reposante, la pause beauté à la carte.",
       "reason": "À découvrir dans le canton de Valais"
     },
     {

@@ -1,28 +1,28 @@
 {
-  "carte": "38707",
-  "name": "Helene",
+  "carte": "36635",
+  "name": "Alice",
   "yesterday_date": "2026-07-02",
   "yesterday_date_pretty": "le 2 juillet 2026",
   "visits": [
     {
-      "etab_name": "Grand Hôtel du Lac",
-      "etab_slug": "grand-hotel-du-lac",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/grand-hotel-du-lac.jpg",
-      "visite_id": "v_842dc6106f9d",
-      "canton": "Vaud",
+      "etab_name": "Le Cabinet de Beauté",
+      "etab_slug": "le-cabinet-de-beaute",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-cabinet-de-beaute.jpg",
+      "visite_id": "v_7f21fe4aa287",
+      "canton": "Genève",
       "date_iso": "2026-07-02"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "Altitude by Garance",
-      "etab_slug": "altitude-by-garance",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/altitude-by-garance.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/altitude-by-garance/",
-      "canton": "Vaud",
-      "visites": 42,
+      "etab_name": "Wulan Studio",
+      "etab_slug": "wulan-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/wulan-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/wulan-studio/",
+      "canton": "Genève",
+      "visites": 72,
       "note": "5/5",
-      "blurb": "Au cœur des Bains de Villars-sur-Ollon, Garance propose massages relaxants et thérapeutiques et pierres d'argile chaudes. Un détour d'altitude entre les bassins.",
+      "blurb": "Wulan HeadCare studio. Inspiré des traditions asiatiques, massage crânien et soin capillaire aux produits certifiés bio : la beauté du cuir chevelu en mode holistique.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
