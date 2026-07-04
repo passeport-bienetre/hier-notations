@@ -1,15 +1,15 @@
 {
-  "carte": "38182",
-  "name": "Denise",
+  "carte": "34585",
+  "name": "Auriane",
   "yesterday_date": "2026-07-03",
   "yesterday_date_pretty": "le 3 juillet 2026",
   "visits": [
     {
-      "etab_name": "Salon Privé Chailly",
-      "etab_slug": "salon-prive-chailly",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-chailly.jpg",
-      "visite_id": "v_bb55bce9b650",
-      "canton": "Vaud",
+      "etab_name": "Maison B",
+      "etab_slug": "maison-b",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
+      "visite_id": "v_dfd8aebea1e8",
+      "canton": null,
       "date_iso": "2026-07-03"
     }
   ],

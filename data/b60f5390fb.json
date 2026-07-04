@@ -1,14 +1,14 @@
 {
-  "carte": "38182",
-  "name": "Denise",
+  "carte": "36604",
+  "name": "Ana",
   "yesterday_date": "2026-07-03",
   "yesterday_date_pretty": "le 3 juillet 2026",
   "visits": [
     {
-      "etab_name": "Salon Privé Chailly",
-      "etab_slug": "salon-prive-chailly",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-chailly.jpg",
-      "visite_id": "v_bb55bce9b650",
+      "etab_name": "Le Passage",
+      "etab_slug": "le-passage",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-passage.jpg",
+      "visite_id": "v_efccaafbc2bc",
       "canton": "Vaud",
       "date_iso": "2026-07-03"
     }
@@ -26,14 +26,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Altitude by Garance",
-      "etab_slug": "altitude-by-garance",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/altitude-by-garance.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/altitude-by-garance/",
+      "etab_name": "Atmosp'hair",
+      "etab_slug": "atmosphair",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
       "canton": "Vaud",
-      "visites": 42,
+      "visites": 178,
       "note": "5/5",
-      "blurb": "Au cœur des Bains de Villars-sur-Ollon, Garance propose massages relaxants et thérapeutiques et pierres d'argile chaudes. Un détour d'altitude entre les bassins.",
+      "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {

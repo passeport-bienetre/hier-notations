@@ -1,15 +1,15 @@
 {
-  "carte": "38182",
-  "name": "Denise",
+  "carte": "35746",
+  "name": "Irina",
   "yesterday_date": "2026-07-03",
   "yesterday_date_pretty": "le 3 juillet 2026",
   "visits": [
     {
-      "etab_name": "Salon Privé Chailly",
-      "etab_slug": "salon-prive-chailly",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-chailly.jpg",
-      "visite_id": "v_bb55bce9b650",
-      "canton": "Vaud",
+      "etab_name": "Amiia Clinique",
+      "etab_slug": "amiia-clinique",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/amiia-clinique.jpg",
+      "visite_id": "v_a3603ec5a424",
+      "canton": null,
       "date_iso": "2026-07-03"
     }
   ],

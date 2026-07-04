@@ -1,15 +1,15 @@
 {
-  "carte": "38430",
-  "name": "Véronique",
+  "carte": "36616",
+  "name": "Magali",
   "yesterday_date": "2026-07-03",
   "yesterday_date_pretty": "le 3 juillet 2026",
   "visits": [
     {
-      "etab_name": "FLEUR D’EPIDERME",
-      "etab_slug": "fleur-depiderme",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
-      "visite_id": "v_51e318982e85",
-      "canton": "Genève",
+      "etab_name": "Hôtel de Rougemont & Spa",
+      "etab_slug": "hotel-de-rougemont-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-de-rougemont-spa.jpg",
+      "visite_id": "v_ab3b0a071f9c",
+      "canton": "Berne",
       "date_iso": "2026-07-03"
     }
   ],
