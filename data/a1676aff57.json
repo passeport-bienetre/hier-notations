@@ -1,15 +1,15 @@
 {
-  "carte": "30652",
-  "name": "Leeilah",
+  "carte": "33474",
+  "name": "Levana",
   "yesterday_date": "2026-07-04",
   "yesterday_date_pretty": "le 4 juillet 2026",
   "visits": [
     {
-      "etab_name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
-      "etab_slug": "lavalleespa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lavalleespa.jpg",
-      "visite_id": "v_93c7aea94852",
-      "canton": "Genève",
+      "etab_name": "Institut ZenSkin",
+      "etab_slug": "institut-fs",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-fs.jpg",
+      "visite_id": "v_93bf4a74fb97",
+      "canton": "Vaud",
       "date_iso": "2026-07-04"
     }
   ],

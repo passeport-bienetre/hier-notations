@@ -1,39 +1,39 @@
 {
   "carte": "27085",
   "name": "Dominique",
-  "yesterday_date": "2026-06-25",
-  "yesterday_date_pretty": "le 25 juin 2026",
+  "yesterday_date": "2026-07-04",
+  "yesterday_date_pretty": "le 4 juillet 2026",
   "visits": [
     {
-      "etab_name": "Lausanne Palace & Spa",
-      "etab_slug": "lausanne-palace-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lausanne-palace-spa.jpg",
-      "visite_id": "v_66607802e76c",
-      "canton": "Vaud",
-      "date_iso": "2026-06-25"
+      "etab_name": "Amiia Clinique",
+      "etab_slug": "amiia-clinique",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/amiia-clinique.jpg",
+      "visite_id": "v_a42c9d3c81d5",
+      "canton": null,
+      "date_iso": "2026-07-04"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
-      "etab_slug": "la-villa-dermo-esthetique-by-lorella",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa-dermo-esthetique-by-lorella.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/",
+      "etab_name": "1er Acte Coiffure",
+      "etab_slug": "1er-acte-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "canton": "Vaud",
-      "visites": 80,
+      "visites": 722,
       "note": "5/5",
-      "blurb": "La Villa Dermo-Esthétique by Lorella, duo Lorella et Orphane. Kobido avancé, technologies de régénération et esthétique médicale : l'art du mieux-vieillir.",
+      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "La VILLA Kobido et Massage",
-      "etab_slug": "la-villa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa/",
+      "etab_name": "Altitude by Garance",
+      "etab_slug": "altitude-by-garance",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/altitude-by-garance.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/altitude-by-garance/",
       "canton": "Vaud",
-      "visites": 220,
+      "visites": 42,
       "note": "5/5",
-      "blurb": "La Villa à St-Légier, ancien institut Karin Herzog avec vue lac. Kobido à la rose, sauna infrarouge et Lipo Slim Massage exclusif, le bien-être nocturne en after-work.",
+      "blurb": "Au cœur des Bains de Villars-sur-Ollon, Garance propose massages relaxants et thérapeutiques et pierres d'argile chaudes. Un détour d'altitude entre les bassins.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {

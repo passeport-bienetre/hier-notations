@@ -1,6 +1,6 @@
 {
-  "carte": "30777",
-  "name": "Manon",
+  "carte": "35370",
+  "name": "Carine",
   "yesterday_date": "2026-07-04",
   "yesterday_date_pretty": "le 4 juillet 2026",
   "visits": [
@@ -8,7 +8,7 @@
       "etab_name": "RUBIS SPA",
       "etab_slug": "rubis-spa",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/rubis-spa.jpg",
-      "visite_id": "v_6063517444ca",
+      "visite_id": "v_25be333cf5e3",
       "canton": "Vaud",
       "date_iso": "2026-07-04"
     }
@@ -26,15 +26,15 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "MK PILATES",
-      "etab_slug": "mk-pilates",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/mk-pilates.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/mk-pilates/",
-      "canton": "Vaud",
-      "visites": 5,
+      "etab_name": "Deep Nature Les Granges d'en Haut",
+      "etab_slug": "deep-nature-les-granges-den-haut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/deep-nature-les-granges-den-haut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/deep-nature-les-granges-den-haut/",
+      "canton": null,
+      "visites": 88,
       "note": "5/5",
-      "blurb": "MK Pilates, studio privé équipé Gratz : Reformer, Cadillac, wunda chair, ladder barrel et pedipole. Méthode authentique et pédagogie précise pour un Pilates classique sans concession.",
-      "reason": "À découvrir dans le canton de Vaud"
+      "blurb": "Le spa Deep Nature des Granges d'en Haut, face au Mont-Blanc. Piscine, sauna, hammam, bain à remous extérieur et quatre cabines dont une duo. La nature en formules modulables.",
+      "reason": "À découvrir dans le canton de nan"
     },
     {
       "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",

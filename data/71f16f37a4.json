@@ -1,15 +1,15 @@
 {
-  "carte": "30652",
-  "name": "Leeilah",
+  "carte": "36879",
+  "name": "Samantha",
   "yesterday_date": "2026-07-04",
   "yesterday_date_pretty": "le 4 juillet 2026",
   "visits": [
     {
-      "etab_name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
-      "etab_slug": "lavalleespa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lavalleespa.jpg",
-      "visite_id": "v_93c7aea94852",
-      "canton": "Genève",
+      "etab_name": "Salon Privé Chailly",
+      "etab_slug": "salon-prive-chailly",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-chailly.jpg",
+      "visite_id": "v_f3b74ac9aeb7",
+      "canton": "Vaud",
       "date_iso": "2026-07-04"
     }
   ],
