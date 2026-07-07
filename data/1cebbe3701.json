@@ -1,14 +1,14 @@
 {
-  "carte": "38586",
-  "name": "Marceline",
+  "carte": "32396",
+  "name": "Marie",
   "yesterday_date": "2026-07-06",
   "yesterday_date_pretty": "le 6 juillet 2026",
   "visits": [
     {
-      "etab_name": "SUBLIMEYES",
-      "etab_slug": "institut-sublimeyes",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
-      "visite_id": "v_b2d3823d9d1e",
+      "etab_name": "AVEDA VIEILLE-VILLE",
+      "etab_slug": "aveda-vieille-ville",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/aveda-vieille-ville.jpg",
+      "visite_id": "v_1adccab5cdd4",
       "canton": "Genève",
       "date_iso": "2026-07-06"
     }

@@ -1,16 +1,16 @@
 {
   "carte": "30652",
   "name": "Leeilah",
-  "yesterday_date": "2026-07-04",
-  "yesterday_date_pretty": "le 4 juillet 2026",
+  "yesterday_date": "2026-07-06",
+  "yesterday_date_pretty": "le 6 juillet 2026",
   "visits": [
     {
-      "etab_name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
-      "etab_slug": "lavalleespa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lavalleespa.jpg",
-      "visite_id": "v_93c7aea94852",
+      "etab_name": "Ipanema Beauté",
+      "etab_slug": "ipanema-beaute",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/ipanema-beaute.jpg",
+      "visite_id": "v_6f30b0b931f3",
       "canton": "Genève",
-      "date_iso": "2026-07-04"
+      "date_iso": "2026-07-06"
     }
   ],
   "suggestions": [
@@ -31,7 +31,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/altitude-by-garance.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/altitude-by-garance/",
       "canton": "Vaud",
-      "visites": 42,
+      "visites": 43,
       "note": "5/5",
       "blurb": "Au cœur des Bains de Villars-sur-Ollon, Garance propose massages relaxants et thérapeutiques et pierres d'argile chaudes. Un détour d'altitude entre les bassins.",
       "reason": "À découvrir dans le canton de Vaud"

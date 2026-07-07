@@ -1,14 +1,14 @@
 {
-  "carte": "38586",
-  "name": "Marceline",
+  "carte": "35531",
+  "name": "Elodie",
   "yesterday_date": "2026-07-06",
   "yesterday_date_pretty": "le 6 juillet 2026",
   "visits": [
     {
-      "etab_name": "SUBLIMEYES",
-      "etab_slug": "institut-sublimeyes",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
-      "visite_id": "v_b2d3823d9d1e",
+      "etab_name": "Skin Solution",
+      "etab_slug": "skin-solution",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/skin-solution.jpg",
+      "visite_id": "v_d25e3340d058",
       "canton": "Genève",
       "date_iso": "2026-07-06"
     }
