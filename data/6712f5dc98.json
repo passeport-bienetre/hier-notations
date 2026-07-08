@@ -1,15 +1,15 @@
 {
-  "carte": "34206",
-  "name": "Samantha",
+  "carte": "35414",
+  "name": "Alessia",
   "yesterday_date": "2026-07-07",
   "yesterday_date_pretty": "le 7 juillet 2026",
   "visits": [
     {
-      "etab_name": "Espace Beauté Sarah",
-      "etab_slug": "espace-beaute-sarah",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/espace-beaute-sarah.jpg",
-      "visite_id": "v_e2cecfef4d7b",
-      "canton": "Vaud",
+      "etab_name": "INSTITUT NATURALPE",
+      "etab_slug": "institut-naturalpe",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-naturalpe.jpg",
+      "visite_id": "v_1bf291329d4d",
+      "canton": "Valais",
       "date_iso": "2026-07-07"
     }
   ],
@@ -26,15 +26,15 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Espace Beauté Harmonie",
-      "etab_slug": "espace-beaute-harmonie",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/espace-beaute-harmonie.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/espace-beaute-harmonie/",
-      "canton": "Vaud",
-      "visites": 83,
+      "etab_name": "COMME SUR UN NUAGE",
+      "etab_slug": "comme-sur-un-nuage",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/comme-sur-un-nuage.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/comme-sur-un-nuage/",
+      "canton": "Neuchâtel",
+      "visites": 54,
       "note": "5/5",
-      "blurb": "L'institut au cœur du quartier de Chailly. Cadre calme et chaleureux pour une pause détente en mode quartier.",
-      "reason": "À découvrir dans le canton de Vaud"
+      "blurb": "Le centre de Typhaine Bessey, dix ans d'expérience entre spa hôtelier et bains thermaux. Formée en Ayurveda et aromathérapie, elle mise sur des cosmétiques sains.",
+      "reason": "À découvrir dans le canton de Neuchâtel"
     },
     {
       "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",

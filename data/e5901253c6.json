@@ -1,15 +1,15 @@
 {
-  "carte": "39178",
-  "name": "Nicolas",
+  "carte": "36023",
+  "name": "Florine",
   "yesterday_date": "2026-07-07",
   "yesterday_date_pretty": "le 7 juillet 2026",
   "visits": [
     {
-      "etab_name": "RUBIS SPA",
-      "etab_slug": "rubis-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/rubis-spa.jpg",
-      "visite_id": "v_77b4c2504311",
-      "canton": "Vaud",
+      "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
+      "etab_slug": "hotel-intercontinental-spa-5-mondes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-intercontinental-spa-5-mondes.jpg",
+      "visite_id": "v_b8a007adedba",
+      "canton": "Genève",
       "date_iso": "2026-07-07"
     }
   ],

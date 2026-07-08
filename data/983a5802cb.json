@@ -1,19 +1,30 @@
 {
-  "carte": "35145",
-  "name": "Karin",
+  "carte": "36485",
+  "name": "Camille",
   "yesterday_date": "2026-07-07",
   "yesterday_date_pretty": "le 7 juillet 2026",
   "visits": [
     {
-      "etab_name": "Institut M&Vous",
-      "etab_slug": "institut-mvous",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-mvous.jpg",
-      "visite_id": "v_6c6569e4fb0f",
+      "etab_name": "CS Caro Création Studio",
+      "etab_slug": "cs-caro-creation-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/cs-caro-creation-studio.jpg",
+      "visite_id": "v_54d82016f20a",
       "canton": "Neuchâtel",
       "date_iso": "2026-07-07"
     }
   ],
   "suggestions": [
+    {
+      "etab_name": "Institut M&Vous",
+      "etab_slug": "institut-mvous",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-mvous.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-mvous/",
+      "canton": "Neuchâtel",
+      "visites": 13,
+      "note": "4.5/5",
+      "blurb": "M&Vous, un espace de douceur sur-mesure. Aménagement et soins sélectionnés minutieusement, décoration distinctive : un cabinet de soin qui ne ressemble à aucun autre.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
     {
       "etab_name": "Serenityblue",
       "etab_slug": "serenityblue",
@@ -23,17 +34,6 @@
       "visites": 226,
       "note": "4.5/5",
       "blurb": "Serenityblue, dix ans d'expérience. Deux espaces : un dédié au corps et à la détente, un autre à l'esthétique, pour combiner bien-être et beauté.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
-    {
-      "etab_name": "Eunoia institut",
-      "etab_slug": "eunoia-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/eunoia-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/eunoia-institut/",
-      "canton": "Neuchâtel",
-      "visites": 1,
-      "note": null,
-      "blurb": "L'institut Eunoia dans le canton de Neuchâtel. Atmosphère méditerranéenne et design élaboré pour un goût d'ailleurs sous nos latitudes.",
       "reason": "À découvrir dans le canton de Neuchâtel"
     },
     {
