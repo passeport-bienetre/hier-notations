@@ -1,14 +1,14 @@
 {
-  "carte": "39012",
-  "name": "Stéphanie",
+  "carte": "38750",
+  "name": "Valerie",
   "yesterday_date": "2026-07-08",
   "yesterday_date_pretty": "le 8 juillet 2026",
   "visits": [
     {
-      "etab_name": "EVERNESS <br>Hôtel & Resort",
-      "etab_slug": "everness-resort",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/everness-resort.jpg",
-      "visite_id": "v_80176c0ddbb1",
+      "etab_name": "Swiss Aesthetica",
+      "etab_slug": "swiss-aesthetica",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/swiss-aesthetica.jpg",
+      "visite_id": "v_990439bea175",
       "canton": "Vaud",
       "date_iso": "2026-07-08"
     }

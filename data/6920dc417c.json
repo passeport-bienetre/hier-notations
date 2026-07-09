@@ -1,14 +1,14 @@
 {
-  "carte": "39012",
-  "name": "Stéphanie",
+  "carte": "31083",
+  "name": "Monique",
   "yesterday_date": "2026-07-08",
   "yesterday_date_pretty": "le 8 juillet 2026",
   "visits": [
     {
-      "etab_name": "EVERNESS <br>Hôtel & Resort",
-      "etab_slug": "everness-resort",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/everness-resort.jpg",
-      "visite_id": "v_80176c0ddbb1",
+      "etab_name": "Simple Passion",
+      "etab_slug": "simple-passion",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/simple-passion.jpg",
+      "visite_id": "v_23c2a7172465",
       "canton": "Vaud",
       "date_iso": "2026-07-08"
     }
