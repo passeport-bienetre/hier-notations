@@ -1,14 +1,14 @@
 {
-  "carte": "32367",
-  "name": "Audrey",
+  "carte": "34045",
+  "name": "Deborah",
   "yesterday_date": "2026-07-09",
   "yesterday_date_pretty": "le 9 juillet 2026",
   "visits": [
     {
-      "etab_name": "Anita Coiffure",
-      "etab_slug": "anita-coiffure",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/anita-coiffure.jpg",
-      "visite_id": "v_e5667613f072",
+      "etab_name": "LA MAISON VALMONT – BONGENIE",
+      "etab_slug": "la-maison-valmont-lausanne",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-maison-valmont-lausanne.jpg",
+      "visite_id": "v_cde739685b6f",
       "canton": "Vaud",
       "date_iso": "2026-07-09"
     }

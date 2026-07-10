@@ -1,6 +1,6 @@
 {
-  "carte": "36751",
-  "name": "Vanessa",
+  "carte": "38561",
+  "name": "Rebecca",
   "yesterday_date": "2026-07-09",
   "yesterday_date_pretty": "le 9 juillet 2026",
   "visits": [
@@ -8,7 +8,7 @@
       "etab_name": "Royal Savoy Hôtel & Spa",
       "etab_slug": "royal-savoy-hotel-spa",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
-      "visite_id": "v_1c0ea896aede",
+      "visite_id": "v_24ee34aa1d21",
       "canton": "Vaud",
       "date_iso": "2026-07-09"
     }
