@@ -1,14 +1,14 @@
 {
-  "carte": "36015",
-  "name": "Sylvia",
+  "carte": "36204",
+  "name": "Barbara",
   "yesterday_date": "2026-07-10",
   "yesterday_date_pretty": "le 10 juillet 2026",
   "visits": [
     {
-      "etab_name": "SUBLIMEYES",
-      "etab_slug": "institut-sublimeyes",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
-      "visite_id": "v_71bb4c722712",
+      "etab_name": "SAKURA LAB",
+      "etab_slug": "sakura-lab",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sakura-lab.jpg",
+      "visite_id": "v_f01083136952",
       "canton": "Genève",
       "date_iso": "2026-07-10"
     }
@@ -26,14 +26,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "CLINIQUE LA JOUVENCE GENÈVE",
-      "etab_slug": "clinique-la-jouvence-geneve",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-geneve.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-geneve/",
+      "etab_name": "FLEUR D’EPIDERME",
+      "etab_slug": "fleur-depiderme",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
       "canton": "Genève",
-      "visites": 8,
+      "visites": 99,
       "note": "5/5",
-      "blurb": "La Clinique La Jouvence à Genève. Approche personnalisée selon chaque type de peau, conseils sur-mesure : la médecine esthétique à l'écoute.",
+      "blurb": "La maison de beauté A Fleur d'Épiderme, spécialiste soins de la peau et épilation définitive. Technicité médicale et douceur esthétique, sans compromis sur le résultat.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {

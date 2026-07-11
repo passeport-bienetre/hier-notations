@@ -1,14 +1,14 @@
 {
-  "carte": "37087",
-  "name": "Sandra",
+  "carte": "35564",
+  "name": "Sandy",
   "yesterday_date": "2026-07-10",
   "yesterday_date_pretty": "le 10 juillet 2026",
   "visits": [
     {
-      "etab_name": "Lausanne Palace & Spa",
-      "etab_slug": "lausanne-palace-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lausanne-palace-spa.jpg",
-      "visite_id": "v_969246ddef43",
+      "etab_name": "Royal Savoy Hôtel & Spa",
+      "etab_slug": "royal-savoy-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+      "visite_id": "v_2d03ec60dbe5",
       "canton": "Vaud",
       "date_iso": "2026-07-10"
     }
