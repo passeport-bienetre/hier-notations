@@ -1,15 +1,15 @@
 {
-  "carte": "35188",
-  "name": "Laura",
+  "carte": "39151",
+  "name": "Anne-Sophie",
   "yesterday_date": "2026-07-11",
   "yesterday_date_pretty": "le 11 juillet 2026",
   "visits": [
     {
-      "etab_name": "Maison Perle",
-      "etab_slug": "maison-perle",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-perle.jpg",
-      "visite_id": "v_b5ec76fa7d31",
-      "canton": "Vaud",
+      "etab_name": "AVEDA VIEILLE-VILLE",
+      "etab_slug": "aveda-vieille-ville",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/aveda-vieille-ville.jpg",
+      "visite_id": "v_30f8240af246",
+      "canton": "Genève",
       "date_iso": "2026-07-11"
     }
   ],

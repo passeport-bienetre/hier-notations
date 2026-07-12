@@ -1,15 +1,15 @@
 {
-  "carte": "35188",
-  "name": "Laura",
+  "carte": "30227",
+  "name": "Céline",
   "yesterday_date": "2026-07-11",
   "yesterday_date_pretty": "le 11 juillet 2026",
   "visits": [
     {
-      "etab_name": "Maison Perle",
-      "etab_slug": "maison-perle",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-perle.jpg",
-      "visite_id": "v_b5ec76fa7d31",
-      "canton": "Vaud",
+      "etab_name": "Tête à Clak",
+      "etab_slug": "tete-a-clak",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/tete-a-clak.jpg",
+      "visite_id": "v_49b7ccb94d02",
+      "canton": null,
       "date_iso": "2026-07-11"
     }
   ],
@@ -26,15 +26,15 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Atmosp'hair",
-      "etab_slug": "atmosphair",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
-      "canton": "Vaud",
-      "visites": 178,
+      "etab_name": "ALEX COIFFURE SARL",
+      "etab_slug": "a-lex-coiffure-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/a-lex-coiffure-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/a-lex-coiffure-3/",
+      "canton": "Fribourg",
+      "visites": 74,
       "note": "5/5",
-      "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
-      "reason": "À découvrir dans le canton de Vaud"
+      "blurb": "Le salon fribourgeois d'Alexandra Rody-Geinoz, repris en 1998. Espace Détente Touch Therapy, massage de la tête et équipe formée à Paris prolongent la coiffure d'un moment de pause.",
+      "reason": "À découvrir dans le canton de Fribourg"
     },
     {
       "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",

@@ -1,14 +1,14 @@
 {
-  "carte": "36580",
-  "name": "Marlène",
+  "carte": "31604",
+  "name": "Nawal",
   "yesterday_date": "2026-07-11",
   "yesterday_date_pretty": "le 11 juillet 2026",
   "visits": [
     {
-      "etab_name": "So Beauty Home",
-      "etab_slug": "so-beauty-home",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/so-beauty-home.jpg",
-      "visite_id": "v_a6ae4520d102",
+      "etab_name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "etab_slug": "lavalleespa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lavalleespa.jpg",
+      "visite_id": "v_0f9cccbb7962",
       "canton": "Genève",
       "date_iso": "2026-07-11"
     }

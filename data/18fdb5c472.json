@@ -1,19 +1,30 @@
 {
-  "carte": "35552",
-  "name": "PAULO",
+  "carte": "33523",
+  "name": "cindy",
   "yesterday_date": "2026-07-11",
   "yesterday_date_pretty": "le 11 juillet 2026",
   "visits": [
     {
-      "etab_name": "Institut Guinot",
-      "etab_slug": "institut-guinot-2",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
-      "visite_id": "v_0f7a2409af32",
-      "canton": "Vaud",
+      "etab_name": "NUANCES NATURE",
+      "etab_slug": "nuances-nature",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nuances-nature.jpg",
+      "visite_id": "v_8a37a004c956",
+      "canton": "Genève",
       "date_iso": "2026-07-11"
     }
   ],
   "suggestions": [
+    {
+      "etab_name": "Wulan Studio",
+      "etab_slug": "wulan-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/wulan-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/wulan-studio/",
+      "canton": "Genève",
+      "visites": 72,
+      "note": "5/5",
+      "blurb": "Wulan HeadCare studio. Inspiré des traditions asiatiques, massage crânien et soin capillaire aux produits certifiés bio : la beauté du cuir chevelu en mode holistique.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
     {
       "etab_name": "Bhumi",
       "etab_slug": "biotonique-institut",
@@ -23,17 +34,6 @@
       "visites": 303,
       "note": "5/5",
       "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
-    {
-      "etab_name": "Espace Beauté Harmonie",
-      "etab_slug": "espace-beaute-harmonie",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/espace-beaute-harmonie.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/espace-beaute-harmonie/",
-      "canton": "Vaud",
-      "visites": 83,
-      "note": "5/5",
-      "blurb": "L'institut au cœur du quartier de Chailly. Cadre calme et chaleureux pour une pause détente en mode quartier.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {

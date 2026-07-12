@@ -1,6 +1,6 @@
 {
-  "carte": "39223",
-  "name": "Anna",
+  "carte": "34451",
+  "name": "May",
   "yesterday_date": "2026-07-11",
   "yesterday_date_pretty": "le 11 juillet 2026",
   "visits": [
@@ -8,7 +8,7 @@
       "etab_name": "Lausanne Palace & Spa",
       "etab_slug": "lausanne-palace-spa",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lausanne-palace-spa.jpg",
-      "visite_id": "v_274d05f710fa",
+      "visite_id": "v_d033c5a6179a",
       "canton": "Vaud",
       "date_iso": "2026-07-11"
     }
