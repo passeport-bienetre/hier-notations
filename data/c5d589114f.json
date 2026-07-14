@@ -1,40 +1,40 @@
 {
   "carte": "39013",
   "name": "Anne-Claude",
-  "yesterday_date": "2026-07-03",
-  "yesterday_date_pretty": "le 3 juillet 2026",
+  "yesterday_date": "2026-07-13",
+  "yesterday_date_pretty": "le 13 juillet 2026",
   "visits": [
     {
-      "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
-      "etab_slug": "hotel-intercontinental-spa-5-mondes",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-intercontinental-spa-5-mondes.jpg",
-      "visite_id": "v_63911ab2d7cc",
-      "canton": "Genève",
-      "date_iso": "2026-07-03"
+      "etab_name": "Naïda Massothérapie",
+      "etab_slug": "naida-massotherapie",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/naida-massotherapie.jpg",
+      "visite_id": "v_594baf6a0c9f",
+      "canton": "Vaud",
+      "date_iso": "2026-07-13"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "Namaka - Centre de Longévité et Bienêtre",
-      "etab_slug": "namaka",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/namaka.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/namaka/",
-      "canton": "Genève",
-      "visites": 202,
-      "note": "4.5/5",
-      "blurb": "Namaka, bain de flottaison à 500 kg de sel d'Epsom. Apesanteur, chants de baleines, silence vrai : la régénération en magnésium naturel.",
+      "etab_name": "1er Acte Coiffure",
+      "etab_slug": "1er-acte-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
+      "canton": "Vaud",
+      "visites": 722,
+      "note": "5/5",
+      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Origin Float Spa",
-      "etab_slug": "origin-float-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/origin-float-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/origin-float-spa/",
-      "canton": "Genève",
-      "visites": 205,
-      "note": "4.5/5",
-      "blurb": "ORIGIN, espace de flottaison et de boutique éthique. Tisane, lecture en repos et produits locaux engagés pour la sérénité avant et après la séance.",
-      "reason": "À découvrir dans le canton de Genève"
+      "etab_name": "Atmosp'hair",
+      "etab_slug": "atmosphair",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
+      "canton": "Vaud",
+      "visites": 178,
+      "note": "5/5",
+      "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
+      "reason": "À découvrir dans le canton de Vaud"
     },
     {
       "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
