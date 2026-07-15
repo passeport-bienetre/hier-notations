@@ -1,15 +1,15 @@
 {
-  "carte": "38137",
-  "name": "Barbara",
+  "carte": "39825",
+  "name": "Cecile",
   "yesterday_date": "2026-07-14",
   "yesterday_date_pretty": "le 14 juillet 2026",
   "visits": [
     {
-      "etab_name": "LA MAISON VALMONT – BONGENIE",
-      "etab_slug": "la-maison-valmont-lausanne",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-maison-valmont-lausanne.jpg",
-      "visite_id": "v_3930f92db41d",
-      "canton": "Vaud",
+      "etab_name": "Maison B",
+      "etab_slug": "maison-b",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
+      "visite_id": "v_b22258e2dd0e",
+      "canton": null,
       "date_iso": "2026-07-14"
     }
   ],

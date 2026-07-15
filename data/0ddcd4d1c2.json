@@ -1,14 +1,14 @@
 {
-  "carte": "38137",
-  "name": "Barbara",
+  "carte": "36295",
+  "name": "Delphine",
   "yesterday_date": "2026-07-14",
   "yesterday_date_pretty": "le 14 juillet 2026",
   "visits": [
     {
-      "etab_name": "LA MAISON VALMONT – BONGENIE",
-      "etab_slug": "la-maison-valmont-lausanne",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-maison-valmont-lausanne.jpg",
-      "visite_id": "v_3930f92db41d",
+      "etab_name": "Naïda Massothérapie",
+      "etab_slug": "naida-massotherapie",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/naida-massotherapie.jpg",
+      "visite_id": "v_719e53a39cd6",
       "canton": "Vaud",
       "date_iso": "2026-07-14"
     }

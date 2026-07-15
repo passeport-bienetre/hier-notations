@@ -1,16 +1,16 @@
 {
   "carte": "37150",
   "name": "Nicola",
-  "yesterday_date": "2026-06-25",
-  "yesterday_date_pretty": "le 25 juin 2026",
+  "yesterday_date": "2026-07-14",
+  "yesterday_date_pretty": "le 14 juillet 2026",
   "visits": [
     {
-      "etab_name": "Royal Savoy Hôtel & Spa",
-      "etab_slug": "royal-savoy-hotel-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
-      "visite_id": "v_f5af74d6284a",
+      "etab_name": "Lausanne Palace & Spa",
+      "etab_slug": "lausanne-palace-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lausanne-palace-spa.jpg",
+      "visite_id": "v_d0cf65a77451",
       "canton": "Vaud",
-      "date_iso": "2026-06-25"
+      "date_iso": "2026-07-14"
     }
   ],
   "suggestions": [
@@ -20,7 +20,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa-dermo-esthetique-by-lorella.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/",
       "canton": "Vaud",
-      "visites": 80,
+      "visites": 81,
       "note": "5/5",
       "blurb": "La Villa Dermo-Esthétique by Lorella, duo Lorella et Orphane. Kobido avancé, technologies de régénération et esthétique médicale : l'art du mieux-vieillir.",
       "reason": "Nous pensons que vous allez aimer"
