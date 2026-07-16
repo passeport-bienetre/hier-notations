@@ -1,14 +1,14 @@
 {
-  "carte": "35707",
-  "name": "Yelena",
+  "carte": "35052",
+  "name": "Ildiko",
   "yesterday_date": "2026-07-15",
   "yesterday_date_pretty": "le 15 juillet 2026",
   "visits": [
     {
-      "etab_name": "SAKURA LAB",
-      "etab_slug": "sakura-lab",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sakura-lab.jpg",
-      "visite_id": "v_be4c49f36120",
+      "etab_name": "BL Institut",
+      "etab_slug": "bl-institut-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bl-institut-2.jpg",
+      "visite_id": "v_7363b98f00f7",
       "canton": "Genève",
       "date_iso": "2026-07-15"
     }

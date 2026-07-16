@@ -1,16 +1,24 @@
 {
   "carte": "35529",
   "name": "Fanny",
-  "yesterday_date": "2026-07-14",
-  "yesterday_date_pretty": "le 14 juillet 2026",
+  "yesterday_date": "2026-07-15",
+  "yesterday_date_pretty": "le 15 juillet 2026",
   "visits": [
     {
-      "etab_name": "Skin Solution",
-      "etab_slug": "skin-solution",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/skin-solution.jpg",
-      "visite_id": "v_4f881cfa94a6",
+      "etab_name": "GLOW IN GENEVA",
+      "etab_slug": "glow-in-geneva",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/glow-in-geneva.jpg",
+      "visite_id": "v_ceba0b7531c9",
       "canton": "Genève",
-      "date_iso": "2026-07-14"
+      "date_iso": "2026-07-15"
+    },
+    {
+      "etab_name": "Belle et Naturelle",
+      "etab_slug": "belle-et-naturelle",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/belle-et-naturelle.jpg",
+      "visite_id": "v_dd22f088b01e",
+      "canton": "Genève",
+      "date_iso": "2026-07-15"
     }
   ],
   "suggestions": [
@@ -31,7 +39,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "canton": "Genève",
-      "visites": 529,
+      "visites": 530,
       "note": "5/5",
       "blurb": "L'institut genevois spécialiste visage, mené par Nadège. Plus de dix ans de soins faciaux et de massages pointus au service d'une beauté naturelle.",
       "reason": "À découvrir dans le canton de Genève"

@@ -1,15 +1,15 @@
 {
-  "carte": "35704",
-  "name": "patrick",
+  "carte": "31647",
+  "name": "Pascaline",
   "yesterday_date": "2026-07-15",
   "yesterday_date_pretty": "le 15 juillet 2026",
   "visits": [
     {
-      "etab_name": "Lumen Spa & Wellness",
-      "etab_slug": "lumen-spa-wellness",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lumen-spa-wellness.jpg",
-      "visite_id": "v_14ec5c11830a",
-      "canton": "Valais",
+      "etab_name": "KASA AMO",
+      "etab_slug": "kasa-amo",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/kasa-amo.jpg",
+      "visite_id": "v_834daa68d81e",
+      "canton": "Vaud",
       "date_iso": "2026-07-15"
     }
   ],

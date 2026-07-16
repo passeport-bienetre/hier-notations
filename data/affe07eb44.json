@@ -1,14 +1,14 @@
 {
-  "carte": "35707",
-  "name": "Yelena",
+  "carte": "36801",
+  "name": "Sabrina",
   "yesterday_date": "2026-07-15",
   "yesterday_date_pretty": "le 15 juillet 2026",
   "visits": [
     {
-      "etab_name": "SAKURA LAB",
-      "etab_slug": "sakura-lab",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sakura-lab.jpg",
-      "visite_id": "v_be4c49f36120",
+      "etab_name": "BLISS",
+      "etab_slug": "bliss",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bliss.jpg",
+      "visite_id": "v_c7214439af2a",
       "canton": "Genève",
       "date_iso": "2026-07-15"
     }
