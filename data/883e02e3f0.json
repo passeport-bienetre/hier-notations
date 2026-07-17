@@ -1,15 +1,15 @@
 {
-  "carte": "36713",
-  "name": "Melanie",
+  "carte": "33595",
+  "name": "Morgane",
   "yesterday_date": "2026-07-16",
   "yesterday_date_pretty": "le 16 juillet 2026",
   "visits": [
     {
-      "etab_name": "Serenityblue",
-      "etab_slug": "serenityblue",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/serenityblue.jpg",
-      "visite_id": "v_dd04aa56d7c7",
-      "canton": "Neuchâtel",
+      "etab_name": "Royal Savoy Hôtel & Spa",
+      "etab_slug": "royal-savoy-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+      "visite_id": "v_9592ceb28301",
+      "canton": "Vaud",
       "date_iso": "2026-07-16"
     }
   ],

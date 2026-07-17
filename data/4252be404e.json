@@ -1,16 +1,16 @@
 {
   "carte": "37009",
   "name": "Audrey",
-  "yesterday_date": "2026-07-14",
-  "yesterday_date_pretty": "le 14 juillet 2026",
+  "yesterday_date": "2026-07-16",
+  "yesterday_date_pretty": "le 16 juillet 2026",
   "visits": [
     {
-      "etab_name": "LAURA COIFFEUSE PRIVÉE",
-      "etab_slug": "laura-coiffeuse-privee",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/laura-coiffeuse-privee.jpg",
-      "visite_id": "v_a040a339b6a7",
-      "canton": "Vaud",
-      "date_iso": "2026-07-14"
+      "etab_name": "Maison B",
+      "etab_slug": "maison-b",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
+      "visite_id": "v_74059917ba41",
+      "canton": null,
+      "date_iso": "2026-07-16"
     }
   ],
   "suggestions": [
@@ -20,7 +20,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "canton": "Vaud",
-      "visites": 722,
+      "visites": 723,
       "note": "5/5",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "reason": "Nous pensons que vous allez aimer"

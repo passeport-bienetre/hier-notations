@@ -1,23 +1,15 @@
 {
-  "carte": "35011",
-  "name": "Sophie",
+  "carte": "38655",
+  "name": "Nicolas",
   "yesterday_date": "2026-07-16",
   "yesterday_date_pretty": "le 16 juillet 2026",
   "visits": [
     {
-      "etab_name": "CJ Coiffure",
-      "etab_slug": "cj-coiffure",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/cj-coiffure.jpg",
-      "visite_id": "v_da3c57d73776",
+      "etab_name": "Maison Perle",
+      "etab_slug": "maison-perle",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-perle.jpg",
+      "visite_id": "v_a9a31752421e",
       "canton": "Vaud",
-      "date_iso": "2026-07-16"
-    },
-    {
-      "etab_name": "Maison B",
-      "etab_slug": "maison-b",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
-      "visite_id": "v_d477bdd9acf0",
-      "canton": null,
       "date_iso": "2026-07-16"
     }
   ],

@@ -1,23 +1,15 @@
 {
-  "carte": "35011",
-  "name": "Sophie",
+  "carte": "39111",
+  "name": "Molly",
   "yesterday_date": "2026-07-16",
   "yesterday_date_pretty": "le 16 juillet 2026",
   "visits": [
     {
-      "etab_name": "CJ Coiffure",
-      "etab_slug": "cj-coiffure",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/cj-coiffure.jpg",
-      "visite_id": "v_da3c57d73776",
+      "etab_name": "EVERNESS <br>Hôtel & Resort",
+      "etab_slug": "everness-resort",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/everness-resort.jpg",
+      "visite_id": "v_81201c4cd188",
       "canton": "Vaud",
-      "date_iso": "2026-07-16"
-    },
-    {
-      "etab_name": "Maison B",
-      "etab_slug": "maison-b",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
-      "visite_id": "v_d477bdd9acf0",
-      "canton": null,
       "date_iso": "2026-07-16"
     }
   ],

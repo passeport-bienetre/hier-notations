@@ -1,16 +1,16 @@
 {
   "carte": "39226",
   "name": "Sonia",
-  "yesterday_date": "2026-07-15",
-  "yesterday_date_pretty": "le 15 juillet 2026",
+  "yesterday_date": "2026-07-16",
+  "yesterday_date_pretty": "le 16 juillet 2026",
   "visits": [
     {
-      "etab_name": "AVEDA VIEILLE-VILLE",
-      "etab_slug": "aveda-vieille-ville",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/aveda-vieille-ville.jpg",
-      "visite_id": "v_3da5695694ca",
+      "etab_name": "Ipanema Beauté",
+      "etab_slug": "ipanema-beaute",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/ipanema-beaute.jpg",
+      "visite_id": "v_a42ecf009948",
       "canton": "Genève",
-      "date_iso": "2026-07-15"
+      "date_iso": "2026-07-16"
     }
   ],
   "suggestions": [

@@ -1,16 +1,16 @@
 {
   "carte": "34262",
   "name": "Célia",
-  "yesterday_date": "2026-07-10",
-  "yesterday_date_pretty": "le 10 juillet 2026",
+  "yesterday_date": "2026-07-16",
+  "yesterday_date_pretty": "le 16 juillet 2026",
   "visits": [
     {
-      "etab_name": "Institut ZenSkin",
-      "etab_slug": "institut-fs",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-fs.jpg",
-      "visite_id": "v_37d02e4cb260",
+      "etab_name": "Arte Beauty Lutry",
+      "etab_slug": "arte-beauty-lutry",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
+      "visite_id": "v_1676abd1dc90",
       "canton": "Vaud",
-      "date_iso": "2026-07-10"
+      "date_iso": "2026-07-16"
     }
   ],
   "suggestions": [
@@ -20,7 +20,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "canton": "Vaud",
-      "visites": 722,
+      "visites": 723,
       "note": "5/5",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "reason": "Nous pensons que vous allez aimer"

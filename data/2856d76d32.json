@@ -1,15 +1,15 @@
 {
-  "carte": "36713",
-  "name": "Melanie",
+  "carte": "30761",
+  "name": "Veronika",
   "yesterday_date": "2026-07-16",
   "yesterday_date_pretty": "le 16 juillet 2026",
   "visits": [
     {
-      "etab_name": "Serenityblue",
-      "etab_slug": "serenityblue",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/serenityblue.jpg",
-      "visite_id": "v_dd04aa56d7c7",
-      "canton": "Neuchâtel",
+      "etab_name": "Lausanne Palace & Spa",
+      "etab_slug": "lausanne-palace-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lausanne-palace-spa.jpg",
+      "visite_id": "v_bce3e503288b",
+      "canton": "Vaud",
       "date_iso": "2026-07-16"
     }
   ],
