@@ -6,8 +6,8 @@
   "visits": [
     {
       "etab_name": "MAISON DU TEMPS",
-      "etab_slug": null,
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "etab_slug": "maison-du-temps",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-du-temps.jpg",
       "visite_id": "v_3b026d2ae393",
       "canton": "Genève",
       "date_iso": "2026-07-15"
