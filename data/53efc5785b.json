@@ -1,15 +1,15 @@
 {
-  "carte": "31009",
-  "name": "Tara",
+  "carte": "32255",
+  "name": "Mathilde",
   "yesterday_date": "2026-07-17",
   "yesterday_date_pretty": "le 17 juillet 2026",
   "visits": [
     {
-      "etab_name": "Maison B",
-      "etab_slug": "maison-b",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
-      "visite_id": "v_c93907ce95fe",
-      "canton": null,
+      "etab_name": "Swiss Aesthetica",
+      "etab_slug": "swiss-aesthetica",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/swiss-aesthetica.jpg",
+      "visite_id": "v_1e4daec0da6d",
+      "canton": "Vaud",
       "date_iso": "2026-07-17"
     }
   ],

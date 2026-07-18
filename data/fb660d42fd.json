@@ -1,15 +1,15 @@
 {
-  "carte": "31009",
-  "name": "Tara",
+  "carte": "38761",
+  "name": "MARISA",
   "yesterday_date": "2026-07-17",
   "yesterday_date_pretty": "le 17 juillet 2026",
   "visits": [
     {
-      "etab_name": "Maison B",
-      "etab_slug": "maison-b",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
-      "visite_id": "v_c93907ce95fe",
-      "canton": null,
+      "etab_name": "Institut ZenSkin",
+      "etab_slug": "institut-fs",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-fs.jpg",
+      "visite_id": "v_c481bfb23bf3",
+      "canton": "Vaud",
       "date_iso": "2026-07-17"
     }
   ],

@@ -1,30 +1,19 @@
 {
-  "carte": "38191",
-  "name": "Clémentine",
+  "carte": "27600",
+  "name": "Sophie",
   "yesterday_date": "2026-07-17",
   "yesterday_date_pretty": "le 17 juillet 2026",
   "visits": [
     {
-      "etab_name": "La Coifferie",
-      "etab_slug": "la-coifferie-3",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-coifferie-3.jpg",
-      "visite_id": "v_51c9de2d0289",
+      "etab_name": "EUPHORIA & BEAUTY STUDIO",
+      "etab_slug": "euphoria-beauty-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
+      "visite_id": "v_4808ba19adb9",
       "canton": "Genève",
       "date_iso": "2026-07-17"
     }
   ],
   "suggestions": [
-    {
-      "etab_name": "EUPHORIA & BEAUTY STUDIO",
-      "etab_slug": "euphoria-beauty-studio",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
-      "canton": "Genève",
-      "visites": 190,
-      "note": "5/5",
-      "blurb": "Le temple Euphoria. Raffinement et douceur dans un lieu où l'on s'abandonne à l'instant.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
     {
       "etab_name": "Parallèles Coiffure",
       "etab_slug": "paralleles-coiffure",
@@ -34,6 +23,17 @@
       "visites": 221,
       "note": "5/5",
       "blurb": "Parallèles, salon en triplex aux produits Davines exclusivement. Équipe jeune et trendy, ambiance détendue, écologie en arrière-plan.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "So Hair",
+      "etab_slug": "so-hair",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/so-hair.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/so-hair/",
+      "canton": "Genève",
+      "visites": 384,
+      "note": "5/5",
+      "blurb": "So Hair, près de la gare Cornavin dans une rue calme. Coiffeurs, coloristes, manucures et maquilleurs sous le même toit, dans une ambiance sobre et épurée.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {

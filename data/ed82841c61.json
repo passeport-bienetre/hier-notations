@@ -1,14 +1,14 @@
 {
-  "carte": "38191",
-  "name": "Clémentine",
+  "carte": "27079",
+  "name": "Coralie",
   "yesterday_date": "2026-07-17",
   "yesterday_date_pretty": "le 17 juillet 2026",
   "visits": [
     {
-      "etab_name": "La Coifferie",
-      "etab_slug": "la-coifferie-3",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-coifferie-3.jpg",
-      "visite_id": "v_51c9de2d0289",
+      "etab_name": "So Hair",
+      "etab_slug": "so-hair",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/so-hair.jpg",
+      "visite_id": "v_98bd34d06b2b",
       "canton": "Genève",
       "date_iso": "2026-07-17"
     }
