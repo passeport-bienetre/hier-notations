@@ -1,19 +1,30 @@
 {
-  "carte": "37009",
-  "name": "Audrey",
+  "carte": "38594",
+  "name": "Joanna",
   "yesterday_date": "2026-07-18",
   "yesterday_date_pretty": "le 18 juillet 2026",
   "visits": [
     {
-      "etab_name": "VAGHEGGI Phyto Space Crans-Montana",
-      "etab_slug": "vagheggi-phyto-space-crans-montana",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/vagheggi-phyto-space-crans-montana.jpg",
-      "visite_id": "v_e803e7058ef1",
-      "canton": "Valais",
+      "etab_name": "EssenCiel Institut",
+      "etab_slug": "essenciel-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/essenciel-institut.jpg",
+      "visite_id": "v_2052812187d5",
+      "canton": "Fribourg",
       "date_iso": "2026-07-18"
     }
   ],
   "suggestions": [
+    {
+      "etab_name": "BEAUTY B",
+      "etab_slug": "bv-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
+      "canton": "Genève",
+      "visites": 148,
+      "note": "5/5",
+      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
     {
       "etab_name": "Bhumi",
       "etab_slug": "biotonique-institut",
@@ -23,17 +34,6 @@
       "visites": 303,
       "note": "5/5",
       "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
-    {
-      "etab_name": "Espace Beauté Harmonie",
-      "etab_slug": "espace-beaute-harmonie",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/espace-beaute-harmonie.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/espace-beaute-harmonie/",
-      "canton": "Vaud",
-      "visites": 83,
-      "note": "5/5",
-      "blurb": "L'institut au cœur du quartier de Chailly. Cadre calme et chaleureux pour une pause détente en mode quartier.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {

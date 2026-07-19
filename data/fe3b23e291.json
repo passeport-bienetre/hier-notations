@@ -1,15 +1,15 @@
 {
-  "carte": "35314",
-  "name": "Fabienne",
+  "carte": "32442",
+  "name": "Fanny",
   "yesterday_date": "2026-07-18",
   "yesterday_date_pretty": "le 18 juillet 2026",
   "visits": [
     {
-      "etab_name": "EVERNESS <br>Hôtel & Resort",
-      "etab_slug": "everness-resort",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/everness-resort.jpg",
-      "visite_id": "v_5e52bbb990a5",
-      "canton": "Vaud",
+      "etab_name": "So Beauty Home",
+      "etab_slug": "so-beauty-home",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/so-beauty-home.jpg",
+      "visite_id": "v_ea722b1b16d8",
+      "canton": "Genève",
       "date_iso": "2026-07-18"
     }
   ],

@@ -1,14 +1,14 @@
 {
-  "carte": "35314",
-  "name": "Fabienne",
+  "carte": "35713",
+  "name": "Pauline",
   "yesterday_date": "2026-07-18",
   "yesterday_date_pretty": "le 18 juillet 2026",
   "visits": [
     {
-      "etab_name": "EVERNESS <br>Hôtel & Resort",
-      "etab_slug": "everness-resort",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/everness-resort.jpg",
-      "visite_id": "v_5e52bbb990a5",
+      "etab_name": "Salon Privé Chailly",
+      "etab_slug": "salon-prive-chailly",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-chailly.jpg",
+      "visite_id": "v_a209d8d4eec1",
       "canton": "Vaud",
       "date_iso": "2026-07-18"
     }
