@@ -1,14 +1,14 @@
 {
-  "carte": "35474",
-  "name": "Valentine",
+  "carte": "39320",
+  "name": "Virginie",
   "yesterday_date": "2026-07-20",
   "yesterday_date_pretty": "le 20 juillet 2026",
   "visits": [
     {
-      "etab_name": "Royal Savoy Hôtel & Spa",
-      "etab_slug": "royal-savoy-hotel-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
-      "visite_id": "v_ba2e870fb3f5",
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "visite_id": "v_73dbe3bc909c",
       "canton": "Vaud",
       "date_iso": "2026-07-20"
     }

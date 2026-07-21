@@ -1,14 +1,14 @@
 {
-  "carte": "35579",
-  "name": "Krystel",
+  "carte": "38861",
+  "name": "Lora",
   "yesterday_date": "2026-07-20",
   "yesterday_date_pretty": "le 20 juillet 2026",
   "visits": [
     {
-      "etab_name": "Thai Corner",
-      "etab_slug": "thai-corner-3",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thai-corner-3.jpg",
-      "visite_id": "v_52bdab6bd6ed",
+      "etab_name": "SUBLIMEYES",
+      "etab_slug": "institut-sublimeyes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
+      "visite_id": "v_f553b371c9a7",
       "canton": "Genève",
       "date_iso": "2026-07-20"
     }

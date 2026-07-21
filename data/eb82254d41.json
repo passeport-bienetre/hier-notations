@@ -1,14 +1,14 @@
 {
-  "carte": "37110",
-  "name": "Stéphanie",
+  "carte": "38244",
+  "name": "Corinne",
   "yesterday_date": "2026-07-20",
   "yesterday_date_pretty": "le 20 juillet 2026",
   "visits": [
     {
-      "etab_name": "JOIA LAUSANNE",
-      "etab_slug": "joia-lausanne",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/joia-lausanne.jpg",
-      "visite_id": "v_110c1501bfa1",
+      "etab_name": "Institut Osmose",
+      "etab_slug": "institut-osmose",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-osmose.jpg",
+      "visite_id": "v_b5698c6b1b00",
       "canton": "Vaud",
       "date_iso": "2026-07-20"
     }
