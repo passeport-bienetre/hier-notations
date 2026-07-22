@@ -1,16 +1,16 @@
 {
   "carte": "38941",
   "name": "Sarah",
-  "yesterday_date": "2026-07-14",
-  "yesterday_date_pretty": "le 14 juillet 2026",
+  "yesterday_date": "2026-07-21",
+  "yesterday_date_pretty": "le 21 juillet 2026",
   "visits": [
     {
-      "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
-      "etab_slug": "le-centre-geneve-by-charline",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
-      "visite_id": "v_936580ce4166",
+      "etab_name": "FLEUR D’EPIDERME",
+      "etab_slug": "fleur-depiderme",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
+      "visite_id": "v_9fa2cfe08221",
       "canton": "Genève",
-      "date_iso": "2026-07-14"
+      "date_iso": "2026-07-21"
     }
   ],
   "suggestions": [
@@ -31,7 +31,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "canton": "Genève",
-      "visites": 529,
+      "visites": 530,
       "note": "5/5",
       "blurb": "L'institut genevois spécialiste visage, mené par Nadège. Plus de dix ans de soins faciaux et de massages pointus au service d'une beauté naturelle.",
       "reason": "À découvrir dans le canton de Genève"
