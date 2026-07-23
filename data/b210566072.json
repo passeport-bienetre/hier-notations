@@ -1,15 +1,15 @@
 {
-  "carte": "39240",
-  "name": "Félicia",
+  "carte": "36904",
+  "name": "Elsa",
   "yesterday_date": "2026-07-22",
   "yesterday_date_pretty": "le 22 juillet 2026",
   "visits": [
     {
-      "etab_name": "ALEX COIFFURE SARL",
-      "etab_slug": "a-lex-coiffure-3",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/a-lex-coiffure-3.jpg",
-      "visite_id": "v_a127570051f2",
-      "canton": "Fribourg",
+      "etab_name": "Institut Kaori",
+      "etab_slug": "institut-kaori",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-kaori.jpg",
+      "visite_id": "v_d69f51eeb176",
+      "canton": "Vaud",
       "date_iso": "2026-07-22"
     }
   ],
