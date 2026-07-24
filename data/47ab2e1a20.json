@@ -1,39 +1,39 @@
 {
   "carte": "36479",
   "name": "Céline",
-  "yesterday_date": "2026-06-25",
-  "yesterday_date_pretty": "le 25 juin 2026",
+  "yesterday_date": "2026-07-23",
+  "yesterday_date_pretty": "le 23 juillet 2026",
   "visits": [
     {
-      "etab_name": "Maison Perle",
-      "etab_slug": "maison-perle",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-perle.jpg",
-      "visite_id": "v_a900a895bf5c",
+      "etab_name": "CJ Coiffure",
+      "etab_slug": "cj-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/cj-coiffure.jpg",
+      "visite_id": "v_640644bcf106",
       "canton": "Vaud",
-      "date_iso": "2026-06-25"
+      "date_iso": "2026-07-23"
     }
   ],
   "suggestions": [
-    {
-      "etab_name": "Altitude by Garance",
-      "etab_slug": "altitude-by-garance",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/altitude-by-garance.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/altitude-by-garance/",
-      "canton": "Vaud",
-      "visites": 42,
-      "note": "5/5",
-      "blurb": "Au cœur des Bains de Villars-sur-Ollon, Garance propose massages relaxants et thérapeutiques et pierres d'argile chaudes. Un détour d'altitude entre les bassins.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
     {
       "etab_name": "Atmosp'hair",
       "etab_slug": "atmosphair",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
       "canton": "Vaud",
-      "visites": 177,
+      "visites": 179,
       "note": "5/5",
       "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "Guess What",
+      "etab_slug": "guess-what-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/guess-what-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/guess-what-3/",
+      "canton": "Vaud",
+      "visites": 229,
+      "note": "5/5",
+      "blurb": "Le salon de Roxane, coiffeuse depuis dix ans. Lissage japonais, colorations, conseil visagisme et espace dédié aux enfants : la coiffure version famille.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {

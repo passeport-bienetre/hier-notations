@@ -1,14 +1,14 @@
 {
-  "carte": "35579",
-  "name": "Krystel",
+  "carte": "36491",
+  "name": "Axelle",
   "yesterday_date": "2026-07-23",
   "yesterday_date_pretty": "le 23 juillet 2026",
   "visits": [
     {
-      "etab_name": "Guinot Art of Beauty",
-      "etab_slug": "guinot-art-of-beauty",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/guinot-art-of-beauty.jpg",
-      "visite_id": "v_33002fadba3e",
+      "etab_name": "Skin Solution",
+      "etab_slug": "skin-solution",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/skin-solution.jpg",
+      "visite_id": "v_dfb1c808e629",
       "canton": "Genève",
       "date_iso": "2026-07-23"
     }
@@ -26,14 +26,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "FLEUR D’EPIDERME",
-      "etab_slug": "fleur-depiderme",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
+      "etab_name": "Blossom Institut",
+      "etab_slug": "blossom-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "canton": "Genève",
-      "visites": 103,
+      "visites": 530,
       "note": "5/5",
-      "blurb": "La maison de beauté A Fleur d'Épiderme, spécialiste soins de la peau et épilation définitive. Technicité médicale et douceur esthétique, sans compromis sur le résultat.",
+      "blurb": "L'institut genevois spécialiste visage, mené par Nadège. Plus de dix ans de soins faciaux et de massages pointus au service d'une beauté naturelle.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {

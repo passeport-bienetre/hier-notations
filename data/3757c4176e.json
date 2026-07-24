@@ -1,6 +1,6 @@
 {
-  "carte": "35579",
-  "name": "Krystel",
+  "carte": "32794",
+  "name": "Margot",
   "yesterday_date": "2026-07-23",
   "yesterday_date_pretty": "le 23 juillet 2026",
   "visits": [
@@ -8,7 +8,7 @@
       "etab_name": "Guinot Art of Beauty",
       "etab_slug": "guinot-art-of-beauty",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/guinot-art-of-beauty.jpg",
-      "visite_id": "v_33002fadba3e",
+      "visite_id": "v_bc5e677e0385",
       "canton": "Genève",
       "date_iso": "2026-07-23"
     }

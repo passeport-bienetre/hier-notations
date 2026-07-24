@@ -1,14 +1,14 @@
 {
-  "carte": "35579",
-  "name": "Krystel",
+  "carte": "36938",
+  "name": "Joëlle",
   "yesterday_date": "2026-07-23",
   "yesterday_date_pretty": "le 23 juillet 2026",
   "visits": [
     {
-      "etab_name": "Guinot Art of Beauty",
-      "etab_slug": "guinot-art-of-beauty",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/guinot-art-of-beauty.jpg",
-      "visite_id": "v_33002fadba3e",
+      "etab_name": "The Wax Bar Genève",
+      "etab_slug": "the-wax-bar-geneve",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/the-wax-bar-geneve.jpg",
+      "visite_id": "v_b58a5f6758c3",
       "canton": "Genève",
       "date_iso": "2026-07-23"
     }

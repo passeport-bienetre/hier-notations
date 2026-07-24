@@ -1,15 +1,15 @@
 {
-  "carte": "30096",
-  "name": "Lola",
+  "carte": "38753",
+  "name": "Marie-José",
   "yesterday_date": "2026-07-23",
   "yesterday_date_pretty": "le 23 juillet 2026",
   "visits": [
     {
-      "etab_name": "Tête à Clak",
-      "etab_slug": "tete-a-clak",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/tete-a-clak.jpg",
-      "visite_id": "v_f97b1f9869ef",
-      "canton": null,
+      "etab_name": "Flaventino coiffure Aubonne",
+      "etab_slug": "flaventino-coiffure-aubonne",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/flaventino-coiffure-aubonne.jpg",
+      "visite_id": "v_d434d0207df0",
+      "canton": "Vaud",
       "date_iso": "2026-07-23"
     }
   ],

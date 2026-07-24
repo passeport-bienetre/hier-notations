@@ -1,5 +1,5 @@
 {
-  "carte": "35313",
+  "carte": "33726",
   "name": "Cecily",
   "yesterday_date": "2026-07-23",
   "yesterday_date_pretty": "le 23 juillet 2026",
@@ -8,7 +8,7 @@
       "etab_name": "Le St-Gervais Hôtel & Spa",
       "etab_slug": "le-st-gervais-hotel-spa",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-st-gervais-hotel-spa.jpg",
-      "visite_id": "v_8dd789222f8b",
+      "visite_id": "v_e78560666add",
       "canton": null,
       "date_iso": "2026-07-23"
     }
