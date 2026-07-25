@@ -1,15 +1,15 @@
 {
-  "carte": "31139",
-  "name": "Yves",
+  "carte": "39462",
+  "name": "Fanny",
   "yesterday_date": "2026-07-24",
   "yesterday_date_pretty": "le 24 juillet 2026",
   "visits": [
     {
-      "etab_name": "Hôtel & Spa Le National",
-      "etab_slug": "hotel-spa-le-national",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-spa-le-national.jpg",
-      "visite_id": "v_60b704d3291e",
-      "canton": "Valais",
+      "etab_name": "KASA AMO",
+      "etab_slug": "kasa-amo",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/kasa-amo.jpg",
+      "visite_id": "v_66d986db1f89",
+      "canton": "Vaud",
       "date_iso": "2026-07-24"
     }
   ],
@@ -26,14 +26,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "LA MAISON VALMONT – BONGENIE",
-      "etab_slug": "la-maison-valmont-lausanne",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-maison-valmont-lausanne.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/la-maison-valmont-lausanne/",
+      "etab_name": "Chalet Royalp Hôtel & Spa",
+      "etab_slug": "chalet-royalp-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "canton": "Vaud",
-      "visites": 54,
+      "visites": 930,
       "note": "5/5",
-      "blurb": "La Maison Valmont sur la Place St-François. Anti-âge Valmont, Elixir des Glaciers, Storie Veneziane et collection d'art Didier Guillon : le must beauté lausannois.",
+      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {

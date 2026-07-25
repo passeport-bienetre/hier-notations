@@ -1,16 +1,16 @@
 {
   "carte": "37079",
   "name": "Melanie",
-  "yesterday_date": "2026-06-20",
-  "yesterday_date_pretty": "le 20 juin 2026",
+  "yesterday_date": "2026-07-24",
+  "yesterday_date_pretty": "le 24 juillet 2026",
   "visits": [
     {
-      "etab_name": "Arte Beauty EPFL",
-      "etab_slug": "arte-beauty-epfl",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
-      "visite_id": "v_edbdae3251e2",
+      "etab_name": "Swiss Aesthetica",
+      "etab_slug": "swiss-aesthetica",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/swiss-aesthetica.jpg",
+      "visite_id": "v_24ad7b8996f0",
       "canton": "Vaud",
-      "date_iso": "2026-06-20"
+      "date_iso": "2026-07-24"
     }
   ],
   "suggestions": [
@@ -20,20 +20,20 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "canton": "Vaud",
-      "visites": 719,
+      "visites": 723,
       "note": "5/5",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Altitude by Garance",
-      "etab_slug": "altitude-by-garance",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/altitude-by-garance.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/altitude-by-garance/",
+      "etab_name": "Atmosp'hair",
+      "etab_slug": "atmosphair",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
       "canton": "Vaud",
-      "visites": 41,
+      "visites": 179,
       "note": "5/5",
-      "blurb": "Au cœur des Bains de Villars-sur-Ollon, Garance propose massages relaxants et thérapeutiques et pierres d'argile chaudes. Un détour d'altitude entre les bassins.",
+      "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
