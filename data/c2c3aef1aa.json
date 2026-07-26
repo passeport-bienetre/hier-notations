@@ -1,15 +1,15 @@
 {
-  "carte": "34883",
-  "name": "Laurette",
+  "carte": "39229",
+  "name": "Nicolas",
   "yesterday_date": "2026-07-25",
   "yesterday_date_pretty": "le 25 juillet 2026",
   "visits": [
     {
-      "etab_name": "Le Grand Bellevue Spa",
-      "etab_slug": null,
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
-      "visite_id": "v_dc1f5a514a98",
-      "canton": "Berne",
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "visite_id": "v_f138f52b76aa",
+      "canton": "Vaud",
       "date_iso": "2026-07-25"
     }
   ],

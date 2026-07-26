@@ -1,15 +1,15 @@
 {
-  "carte": "27079",
-  "name": "Coralie",
+  "carte": "35321",
+  "name": "Laila",
   "yesterday_date": "2026-07-25",
   "yesterday_date_pretty": "le 25 juillet 2026",
   "visits": [
     {
-      "etab_name": "LES TRESOMS",
-      "etab_slug": "les-tresoms-2",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-tresoms-2.jpg",
-      "visite_id": "v_8e340f6c8477",
-      "canton": null,
+      "etab_name": "Swiss Beauty Studio",
+      "etab_slug": "swiss-beauty-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/swiss-beauty-studio.jpg",
+      "visite_id": "v_5fad3fcd362a",
+      "canton": "Genève",
       "date_iso": "2026-07-25"
     }
   ],
