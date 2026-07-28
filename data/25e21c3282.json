@@ -1,15 +1,15 @@
 {
-  "carte": "35704",
-  "name": "patrick",
+  "carte": "35018",
+  "name": "Anja",
   "yesterday_date": "2026-07-27",
   "yesterday_date_pretty": "le 27 juillet 2026",
   "visits": [
     {
-      "etab_name": "Hôtel de Rougemont & Spa",
-      "etab_slug": "hotel-de-rougemont-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-de-rougemont-spa.jpg",
-      "visite_id": "v_a3f5d49a86f0",
-      "canton": "Berne",
+      "etab_name": "Arte Beauty Lutry",
+      "etab_slug": "arte-beauty-lutry",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
+      "visite_id": "v_328ba38c1517",
+      "canton": "Vaud",
       "date_iso": "2026-07-27"
     }
   ],

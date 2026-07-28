@@ -1,14 +1,14 @@
 {
-  "carte": "38684",
-  "name": "Anaïs",
+  "carte": "31193",
+  "name": "Prune",
   "yesterday_date": "2026-07-27",
   "yesterday_date_pretty": "le 27 juillet 2026",
   "visits": [
     {
-      "etab_name": "Namasté",
-      "etab_slug": "namaste",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/namaste.jpg",
-      "visite_id": "v_0d03affde86a",
+      "etab_name": "Institut Guinot",
+      "etab_slug": "institut-guinot-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
+      "visite_id": "v_733a372a47c7",
       "canton": "Vaud",
       "date_iso": "2026-07-27"
     }
