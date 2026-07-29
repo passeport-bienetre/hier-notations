@@ -1,30 +1,19 @@
 {
-  "carte": "32246",
-  "name": "Ariane",
+  "carte": "32341",
+  "name": "Francois",
   "yesterday_date": "2026-07-28",
   "yesterday_date_pretty": "le 28 juillet 2026",
   "visits": [
     {
-      "etab_name": "MAISON DU TEMPS",
-      "etab_slug": "maison-du-temps",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-du-temps.jpg",
-      "visite_id": "v_a91a901444d6",
-      "canton": "Genève",
+      "etab_name": "Le Grand Bellevue Spa",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "visite_id": "v_de9ccdb97740",
+      "canton": "Berne",
       "date_iso": "2026-07-28"
     }
   ],
   "suggestions": [
-    {
-      "etab_name": "Corps Sains",
-      "etab_slug": "corps-sains",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-sains.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/",
-      "canton": "Genève",
-      "visites": 145,
-      "note": "5/5",
-      "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
     {
       "etab_name": "COMME SUR UN NUAGE",
       "etab_slug": "comme-sur-un-nuage",
@@ -34,17 +23,28 @@
       "visites": 55,
       "note": "5/5",
       "blurb": "Le centre de Typhaine Bessey, dix ans d'expérience entre spa hôtelier et bains thermaux. Formée en Ayurveda et aromathérapie, elle mise sur des cosmétiques sains.",
-      "reason": "À découvrir dans le canton de Neuchâtel"
+      "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "etab_name": "Chandolin Boutique Hôtel",
       "etab_slug": "chandolin-boutique-hotel",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
-      "canton": null,
-      "visites": null,
-      "note": null,
+      "canton": "Valais",
+      "visites": 171,
+      "note": "5/5",
       "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "reason": "À découvrir dans le canton de Valais"
+    },
+    {
+      "etab_name": "MAISON DU TEMPS",
+      "etab_slug": "maison-du-temps",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-du-temps.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-du-temps/",
+      "canton": "Genève",
+      "visites": 26,
+      "note": null,
+      "blurb": null,
       "reason": "Nouveau partenaire du réseau"
     }
   ]

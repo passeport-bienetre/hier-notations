@@ -1,15 +1,15 @@
 {
-  "carte": "35265",
-  "name": "Annouk",
+  "carte": "35348",
+  "name": "Rafael",
   "yesterday_date": "2026-07-28",
   "yesterday_date_pretty": "le 28 juillet 2026",
   "visits": [
     {
-      "etab_name": "Bains d’Ovronnaz",
-      "etab_slug": "bains-dovronnaz",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bains-dovronnaz.jpg",
-      "visite_id": "v_2ccc72929645",
-      "canton": "Valais",
+      "etab_name": "Institut Guinot",
+      "etab_slug": "institut-guinot-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
+      "visite_id": "v_7b14f44d0e55",
+      "canton": "Vaud",
       "date_iso": "2026-07-28"
     }
   ],
@@ -26,14 +26,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Grand Hôtel du Lac",
-      "etab_slug": "grand-hotel-du-lac",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/grand-hotel-du-lac.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
+      "etab_name": "Espace Beauté Harmonie",
+      "etab_slug": "espace-beaute-harmonie",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/espace-beaute-harmonie.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/espace-beaute-harmonie/",
       "canton": "Vaud",
-      "visites": 571,
+      "visites": 83,
       "note": "5/5",
-      "blurb": "Le Grand Hôtel du Lac à Vevey, sur les rives du Léman aux portes de Lavaux. SPA Valmont au 2e étage : welcome suite, 3 cabines, hammam et sauna face au lac.",
+      "blurb": "L'institut au cœur du quartier de Chailly. Cadre calme et chaleureux pour une pause détente en mode quartier.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {

@@ -1,14 +1,14 @@
 {
-  "carte": "35149",
-  "name": "Daniela",
+  "carte": "39026",
+  "name": "Marielle",
   "yesterday_date": "2026-07-28",
   "yesterday_date_pretty": "le 28 juillet 2026",
   "visits": [
     {
-      "etab_name": "CJ Coiffure",
-      "etab_slug": "cj-coiffure",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/cj-coiffure.jpg",
-      "visite_id": "v_499042e885a4",
+      "etab_name": "Arte Beauty Lutry",
+      "etab_slug": "arte-beauty-lutry",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
+      "visite_id": "v_bd1dcf81719b",
       "canton": "Vaud",
       "date_iso": "2026-07-28"
     }

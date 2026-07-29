@@ -1,15 +1,15 @@
 {
-  "carte": "35265",
-  "name": "Annouk",
+  "carte": "39374",
+  "name": "Benoit",
   "yesterday_date": "2026-07-28",
   "yesterday_date_pretty": "le 28 juillet 2026",
   "visits": [
     {
-      "etab_name": "Bains d’Ovronnaz",
-      "etab_slug": "bains-dovronnaz",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bains-dovronnaz.jpg",
-      "visite_id": "v_2ccc72929645",
-      "canton": "Valais",
+      "etab_name": "Chalet Royalp Hôtel & Spa",
+      "etab_slug": "chalet-royalp-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "visite_id": "v_c1f6296d57aa",
+      "canton": "Vaud",
       "date_iso": "2026-07-28"
     }
   ],
