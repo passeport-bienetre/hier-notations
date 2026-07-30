@@ -1,16 +1,16 @@
 {
   "carte": "32751",
   "name": "Stéphane",
-  "yesterday_date": "2026-06-19",
-  "yesterday_date_pretty": "le 19 juin 2026",
+  "yesterday_date": "2026-07-29",
+  "yesterday_date_pretty": "le 29 juillet 2026",
   "visits": [
     {
-      "etab_name": "Hôtel Ermitage Spa des Quatre Terres",
-      "etab_slug": "hotel-ermitage-spa-des-quatre-terres",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-ermitage-spa-des-quatre-terres.jpg",
-      "visite_id": "v_6ccd4adf1796",
-      "canton": null,
-      "date_iso": "2026-06-19"
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "visite_id": "v_230e899bb334",
+      "canton": "Vaud",
+      "date_iso": "2026-07-29"
     }
   ],
   "suggestions": [
@@ -20,7 +20,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa-dermo-esthetique-by-lorella.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/",
       "canton": "Vaud",
-      "visites": 80,
+      "visites": 81,
       "note": "5/5",
       "blurb": "La Villa Dermo-Esthétique by Lorella, duo Lorella et Orphane. Kobido avancé, technologies de régénération et esthétique médicale : l'art du mieux-vieillir.",
       "reason": "Nous pensons que vous allez aimer"
@@ -31,7 +31,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa/",
       "canton": "Vaud",
-      "visites": 220,
+      "visites": 228,
       "note": "5/5",
       "blurb": "La Villa à St-Légier, ancien institut Karin Herzog avec vue lac. Kobido à la rose, sauna infrarouge et Lipo Slim Massage exclusif, le bien-être nocturne en after-work.",
       "reason": "À découvrir dans le canton de Vaud"

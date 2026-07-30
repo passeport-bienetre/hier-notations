@@ -1,6 +1,6 @@
 {
-  "carte": "32232",
-  "name": "Isabelle",
+  "carte": "36071",
+  "name": "Margot",
   "yesterday_date": "2026-07-29",
   "yesterday_date_pretty": "le 29 juillet 2026",
   "visits": [
@@ -8,7 +8,15 @@
       "etab_name": "Espace Beauté Sarah",
       "etab_slug": "espace-beaute-sarah",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/espace-beaute-sarah.jpg",
-      "visite_id": "v_ff45757087d8",
+      "visite_id": "v_cc6674c25782",
+      "canton": "Vaud",
+      "date_iso": "2026-07-29"
+    },
+    {
+      "etab_name": "Arte Beauty EPFL",
+      "etab_slug": "arte-beauty-epfl",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
+      "visite_id": "v_c16f96e0a4fc",
       "canton": "Vaud",
       "date_iso": "2026-07-29"
     }

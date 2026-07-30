@@ -1,15 +1,15 @@
 {
-  "carte": "36105",
-  "name": "Pepita",
+  "carte": "30769",
+  "name": "Dina",
   "yesterday_date": "2026-07-29",
   "yesterday_date_pretty": "le 29 juillet 2026",
   "visits": [
     {
-      "etab_name": "Institut Osmose",
-      "etab_slug": "institut-osmose",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-osmose.jpg",
-      "visite_id": "v_b1281e7e3aa3",
-      "canton": "Vaud",
+      "etab_name": "ALEX COIFFURE SARL",
+      "etab_slug": "a-lex-coiffure-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/a-lex-coiffure-3.jpg",
+      "visite_id": "v_20bcce8e6a36",
+      "canton": "Fribourg",
       "date_iso": "2026-07-29"
     }
   ],

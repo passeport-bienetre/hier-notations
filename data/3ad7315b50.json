@@ -1,24 +1,16 @@
 {
   "carte": "35960",
   "name": "Angélique",
-  "yesterday_date": "2026-07-20",
-  "yesterday_date_pretty": "le 20 juillet 2026",
+  "yesterday_date": "2026-07-29",
+  "yesterday_date_pretty": "le 29 juillet 2026",
   "visits": [
     {
-      "etab_name": "Arte Beauty EPFL",
-      "etab_slug": "arte-beauty-epfl",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
-      "visite_id": "v_d8148014948a",
+      "etab_name": "Arte Beauty Lutry",
+      "etab_slug": "arte-beauty-lutry",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
+      "visite_id": "v_a7315e00641a",
       "canton": "Vaud",
-      "date_iso": "2026-07-20"
-    },
-    {
-      "etab_name": "Institut Guinot",
-      "etab_slug": "institut-guinot-2",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
-      "visite_id": "v_9812d4277fec",
-      "canton": "Vaud",
-      "date_iso": "2026-07-20"
+      "date_iso": "2026-07-29"
     }
   ],
   "suggestions": [
@@ -39,7 +31,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
       "canton": "Vaud",
-      "visites": 178,
+      "visites": 179,
       "note": "5/5",
       "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
       "reason": "À découvrir dans le canton de Vaud"

@@ -1,14 +1,22 @@
 {
-  "carte": "39118",
-  "name": "Olivia",
+  "carte": "37099",
+  "name": "Coumba",
   "yesterday_date": "2026-07-29",
   "yesterday_date_pretty": "le 29 juillet 2026",
   "visits": [
     {
-      "etab_name": "Blossom Institut",
-      "etab_slug": "blossom-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
-      "visite_id": "v_053f49dd4209",
+      "etab_name": "The Wax Bar Genève",
+      "etab_slug": "the-wax-bar-geneve",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/the-wax-bar-geneve.jpg",
+      "visite_id": "v_f208300a2a3d",
+      "canton": "Genève",
+      "date_iso": "2026-07-29"
+    },
+    {
+      "etab_name": "Le Beausquet Genève",
+      "etab_slug": "le-beausquet-geneve",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-beausquet-geneve.jpg",
+      "visite_id": "v_b5981e0ea096",
       "canton": "Genève",
       "date_iso": "2026-07-29"
     }
@@ -26,14 +34,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "CLINIQUE LA JOUVENCE GENÈVE",
-      "etab_slug": "clinique-la-jouvence-geneve",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-geneve.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-geneve/",
+      "etab_name": "FLEUR D’EPIDERME",
+      "etab_slug": "fleur-depiderme",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
       "canton": "Genève",
-      "visites": 8,
+      "visites": 104,
       "note": "5/5",
-      "blurb": "La Clinique La Jouvence à Genève. Approche personnalisée selon chaque type de peau, conseils sur-mesure : la médecine esthétique à l'écoute.",
+      "blurb": "La maison de beauté A Fleur d'Épiderme, spécialiste soins de la peau et épilation définitive. Technicité médicale et douceur esthétique, sans compromis sur le résultat.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {

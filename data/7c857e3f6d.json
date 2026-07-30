@@ -1,14 +1,14 @@
 {
-  "carte": "36105",
-  "name": "Pepita",
+  "carte": "35143",
+  "name": "Clarisa",
   "yesterday_date": "2026-07-29",
   "yesterday_date_pretty": "le 29 juillet 2026",
   "visits": [
     {
-      "etab_name": "Institut Osmose",
-      "etab_slug": "institut-osmose",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-osmose.jpg",
-      "visite_id": "v_b1281e7e3aa3",
+      "etab_name": "Salon Privé Ecublens",
+      "etab_slug": "salon-prive-ecublens",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-ecublens.jpg",
+      "visite_id": "v_2e65a114e03d",
       "canton": "Vaud",
       "date_iso": "2026-07-29"
     }
