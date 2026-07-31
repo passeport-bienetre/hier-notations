@@ -1,15 +1,15 @@
 {
-  "carte": "36514",
-  "name": "Mélanie",
+  "carte": "35042",
+  "name": "Joëlle",
   "yesterday_date": "2026-07-30",
   "yesterday_date_pretty": "le 30 juillet 2026",
   "visits": [
     {
-      "etab_name": "LECRANS HOTEL & SPA",
-      "etab_slug": "le-st-gervais-hotel-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-st-gervais-hotel-spa.jpg",
-      "visite_id": "v_72d1b531d749",
-      "canton": "Valais",
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "visite_id": "v_e1863c1e0143",
+      "canton": "Vaud",
       "date_iso": "2026-07-30"
     }
   ],

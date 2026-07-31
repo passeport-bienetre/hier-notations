@@ -1,6 +1,6 @@
 {
-  "carte": "36046",
-  "name": "Annick",
+  "carte": "34361",
+  "name": "Cristina",
   "yesterday_date": "2026-07-30",
   "yesterday_date_pretty": "le 30 juillet 2026",
   "visits": [
@@ -8,7 +8,7 @@
       "etab_name": "Le Bal des Créateurs",
       "etab_slug": "le-bal-des-createurs-3",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-bal-des-createurs-3.jpg",
-      "visite_id": "v_b09c51bde28f",
+      "visite_id": "v_0bbbee11315e",
       "canton": "Genève",
       "date_iso": "2026-07-30"
     }

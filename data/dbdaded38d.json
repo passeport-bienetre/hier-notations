@@ -1,14 +1,14 @@
 {
-  "carte": "34880",
-  "name": "Valentine",
+  "carte": "39322",
+  "name": "Samantha",
   "yesterday_date": "2026-07-30",
   "yesterday_date_pretty": "le 30 juillet 2026",
   "visits": [
     {
-      "etab_name": "KASA AMO",
-      "etab_slug": "kasa-amo",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/kasa-amo.jpg",
-      "visite_id": "v_63c66551e043",
+      "etab_name": "Grand Hôtel du Lac",
+      "etab_slug": "grand-hotel-du-lac",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/grand-hotel-du-lac.jpg",
+      "visite_id": "v_847691905ff3",
       "canton": "Vaud",
       "date_iso": "2026-07-30"
     }

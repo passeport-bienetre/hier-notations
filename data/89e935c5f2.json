@@ -1,30 +1,19 @@
 {
-  "carte": "36514",
-  "name": "Mélanie",
+  "carte": "36698",
+  "name": "Marie",
   "yesterday_date": "2026-07-30",
   "yesterday_date_pretty": "le 30 juillet 2026",
   "visits": [
     {
-      "etab_name": "LECRANS HOTEL & SPA",
-      "etab_slug": "le-st-gervais-hotel-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-st-gervais-hotel-spa.jpg",
-      "visite_id": "v_72d1b531d749",
-      "canton": "Valais",
+      "etab_name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
+      "etab_slug": "la-villa-dermo-esthetique-by-lorella",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa-dermo-esthetique-by-lorella.jpg",
+      "visite_id": "v_e7d80c6acece",
+      "canton": "Vaud",
       "date_iso": "2026-07-30"
     }
   ],
   "suggestions": [
-    {
-      "etab_name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
-      "etab_slug": "la-villa-dermo-esthetique-by-lorella",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa-dermo-esthetique-by-lorella.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/",
-      "canton": "Vaud",
-      "visites": 83,
-      "note": "5/5",
-      "blurb": "La Villa Dermo-Esthétique by Lorella, duo Lorella et Orphane. Kobido avancé, technologies de régénération et esthétique médicale : l'art du mieux-vieillir.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
     {
       "etab_name": "La VILLA Kobido et Massage",
       "etab_slug": "la-villa",
@@ -34,6 +23,17 @@
       "visites": 228,
       "note": "5/5",
       "blurb": "La Villa à St-Légier, ancien institut Karin Herzog avec vue lac. Kobido à la rose, sauna infrarouge et Lipo Slim Massage exclusif, le bien-être nocturne en after-work.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "Royal Savoy Hôtel & Spa",
+      "etab_slug": "royal-savoy-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
+      "canton": "Vaud",
+      "visites": 2999,
+      "note": "5/5",
+      "blurb": "Adresse Belle Époque face au Léman, le Royal Savoy abrite le spa Wellbeing Sanctuary, ses soins signature et une piscine intérieure pour prolonger l'instant.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {

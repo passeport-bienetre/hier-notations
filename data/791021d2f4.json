@@ -1,14 +1,14 @@
 {
-  "carte": "30676",
-  "name": "Valentina",
+  "carte": "36554",
+  "name": "Isabelle",
   "yesterday_date": "2026-07-30",
   "yesterday_date_pretty": "le 30 juillet 2026",
   "visits": [
     {
-      "etab_name": "19th AVENUE – Versonnex",
-      "etab_slug": "versonnex",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/versonnex.jpg",
-      "visite_id": "v_589014a2ee19",
+      "etab_name": "Swiss Beauty Studio",
+      "etab_slug": "swiss-beauty-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/swiss-beauty-studio.jpg",
+      "visite_id": "v_43b2fcb211d9",
       "canton": "Genève",
       "date_iso": "2026-07-30"
     }
