@@ -1,15 +1,15 @@
 {
-  "carte": "37165",
-  "name": "Lisa",
+  "carte": "32219",
+  "name": "Nabil",
   "yesterday_date": "2026-07-31",
   "yesterday_date_pretty": "le 31 juillet 2026",
   "visits": [
     {
-      "etab_name": "FLEUR D’EPIDERME",
-      "etab_slug": "fleur-depiderme",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
-      "visite_id": "v_0394549abdf0",
-      "canton": "Genève",
+      "etab_name": "Grand Hôtel du Lac",
+      "etab_slug": "grand-hotel-du-lac",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/grand-hotel-du-lac.jpg",
+      "visite_id": "v_d29f4b8571c1",
+      "canton": "Vaud",
       "date_iso": "2026-07-31"
     }
   ],

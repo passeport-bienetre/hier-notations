@@ -1,14 +1,14 @@
 {
-  "carte": "36263",
-  "name": "Vanessa",
+  "carte": "36324",
+  "name": "Florence",
   "yesterday_date": "2026-07-31",
   "yesterday_date_pretty": "le 31 juillet 2026",
   "visits": [
     {
-      "etab_name": "Salon Privé Ecublens",
-      "etab_slug": "salon-prive-ecublens",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-ecublens.jpg",
-      "visite_id": "v_877e648cc76e",
+      "etab_name": "EVERNESS <br>Hôtel & Resort",
+      "etab_slug": "everness-resort",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/everness-resort.jpg",
+      "visite_id": "v_54c1ae18ff6b",
       "canton": "Vaud",
       "date_iso": "2026-07-31"
     }

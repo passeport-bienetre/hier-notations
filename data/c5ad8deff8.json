@@ -1,15 +1,15 @@
 {
-  "carte": "32751",
-  "name": "Stéphane",
+  "carte": "36504",
+  "name": "Alice",
   "yesterday_date": "2026-07-31",
   "yesterday_date_pretty": "le 31 juillet 2026",
   "visits": [
     {
-      "etab_name": "Europe Hôtel & Spa",
-      "etab_slug": "europe-hotel-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/europe-hotel-spa.jpg",
-      "visite_id": "v_ac42c5cbc403",
-      "canton": "Valais",
+      "etab_name": "LES TRESOMS",
+      "etab_slug": "les-tresoms-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-tresoms-2.jpg",
+      "visite_id": "v_391969f2eb6a",
+      "canton": null,
       "date_iso": "2026-07-31"
     }
   ],

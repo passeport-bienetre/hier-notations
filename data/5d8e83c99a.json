@@ -1,15 +1,15 @@
 {
-  "carte": "27030",
-  "name": "Anne",
+  "carte": "32330",
+  "name": "Sonia",
   "yesterday_date": "2026-07-31",
   "yesterday_date_pretty": "le 31 juillet 2026",
   "visits": [
     {
-      "etab_name": "Hôtel Ermitage Spa des Quatre Terres",
-      "etab_slug": "hotel-ermitage-spa-des-quatre-terres",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-ermitage-spa-des-quatre-terres.jpg",
-      "visite_id": "v_bc37ca35035a",
-      "canton": null,
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "visite_id": "v_50899210063f",
+      "canton": "Vaud",
       "date_iso": "2026-07-31"
     }
   ],

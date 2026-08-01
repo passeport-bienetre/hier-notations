@@ -1,15 +1,15 @@
 {
-  "carte": "37165",
-  "name": "Lisa",
+  "carte": "36146",
+  "name": "Béatrice",
   "yesterday_date": "2026-07-31",
   "yesterday_date_pretty": "le 31 juillet 2026",
   "visits": [
     {
-      "etab_name": "FLEUR D’EPIDERME",
-      "etab_slug": "fleur-depiderme",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
-      "visite_id": "v_0394549abdf0",
-      "canton": "Genève",
+      "etab_name": "Bains d’Ovronnaz",
+      "etab_slug": "bains-dovronnaz",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bains-dovronnaz.jpg",
+      "visite_id": "v_715fb80d6860",
+      "canton": "Valais",
       "date_iso": "2026-07-31"
     }
   ],
