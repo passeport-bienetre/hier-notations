@@ -1,6 +1,6 @@
 {
-  "carte": "34383",
-  "name": "Tilia",
+  "carte": "34249",
+  "name": "Ophélie",
   "yesterday_date": "2026-08-04",
   "yesterday_date_pretty": "le 4 août 2026",
   "visits": [
@@ -8,7 +8,7 @@
       "etab_name": "Royal Savoy Hôtel & Spa",
       "etab_slug": "royal-savoy-hotel-spa",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
-      "visite_id": "v_41be405d19d4",
+      "visite_id": "v_2a09660652e5",
       "canton": "Vaud",
       "date_iso": "2026-08-04"
     }

@@ -1,6 +1,6 @@
 {
-  "carte": "35351",
-  "name": "Déborah",
+  "carte": "31466",
+  "name": "Jacques",
   "yesterday_date": "2026-08-04",
   "yesterday_date_pretty": "le 4 août 2026",
   "visits": [
@@ -8,7 +8,7 @@
       "etab_name": "LECRANS HOTEL & SPA",
       "etab_slug": "le-st-gervais-hotel-spa",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-st-gervais-hotel-spa.jpg",
-      "visite_id": "v_479e08322a26",
+      "visite_id": "v_0329e720cb78",
       "canton": "Valais",
       "date_iso": "2026-08-04"
     }

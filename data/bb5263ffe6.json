@@ -1,16 +1,16 @@
 {
   "carte": "31413",
   "name": "Marlyse",
-  "yesterday_date": "2026-06-01",
-  "yesterday_date_pretty": "le 1 juin 2026",
+  "yesterday_date": "2026-08-04",
+  "yesterday_date_pretty": "le 4 août 2026",
   "visits": [
     {
-      "etab_name": "Institut Kaori",
-      "etab_slug": "institut-kaori",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-kaori.jpg",
-      "visite_id": "v_7252ba0ee747",
-      "category": "Lausanne région",
-      "date_iso": "2026-06-01"
+      "etab_name": "Naïda Massothérapie",
+      "etab_slug": "naida-massotherapie",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/naida-massotherapie.jpg",
+      "visite_id": "v_33f5c846aae5",
+      "canton": "Vaud",
+      "date_iso": "2026-08-04"
     }
   ],
   "suggestions": [
@@ -19,35 +19,32 @@
       "etab_slug": "1er-acte-coiffure",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
-      "category": "Lausanne région",
       "canton": "Vaud",
-      "visites": 712,
+      "visites": 726,
       "note": "5/5",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
-      "reason": "Parce que vous aimez Lausanne région"
+      "reason": "Nous pensons que vous allez aimer"
     },
     {
       "etab_name": "Atmosp'hair",
       "etab_slug": "atmosphair",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
-      "category": "Lausanne région",
       "canton": "Vaud",
-      "visites": 175,
+      "visites": 179,
       "note": "5/5",
       "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
-      "etab_name": "HÔTEL BORSARI",
-      "etab_slug": "bpnight-hotel-borsari",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/",
-      "category": "Hôtels",
+      "etab_name": "SPA DES BISSES 4 VALLÉES",
+      "etab_slug": "spa-hotel-nendaz-4-vallees",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
       "canton": "Valais",
-      "visites": null,
+      "visites": 1,
       "note": null,
-      "blurb": "L'Hôtel Borsari, niché au cœur des Alpes près de Martigny. Chambres aux murs de béton teinté main, palette chaude : un refuge pour suspendre le temps.",
+      "blurb": null,
       "reason": "Nouveau partenaire du réseau"
     }
   ]
