@@ -1,15 +1,15 @@
 {
-  "carte": "35060",
-  "name": "Elisa",
+  "carte": "36058",
+  "name": "Martine",
   "yesterday_date": "2026-08-05",
   "yesterday_date_pretty": "le 5 août 2026",
   "visits": [
     {
-      "etab_name": "Salon Privé Ecublens",
-      "etab_slug": "salon-prive-ecublens",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-ecublens.jpg",
-      "visite_id": "v_c82658cc658b",
-      "canton": "Vaud",
+      "etab_name": "Hairmania",
+      "etab_slug": "hairmania",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hairmania.jpg",
+      "visite_id": "v_8368eb137d40",
+      "canton": null,
       "date_iso": "2026-08-05"
     }
   ],
