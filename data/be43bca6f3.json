@@ -1,40 +1,40 @@
 {
   "carte": "36842",
   "name": "Shadya",
-  "yesterday_date": "2026-08-03",
-  "yesterday_date_pretty": "le 3 août 2026",
+  "yesterday_date": "2026-08-06",
+  "yesterday_date_pretty": "le 6 août 2026",
   "visits": [
     {
-      "etab_name": "Flocoon Spa Cinq Mondes",
-      "etab_slug": "flocoon-spa-cinq-mondes",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/flocoon-spa-cinq-mondes.jpg",
-      "visite_id": "v_e3ad8c6b6316",
-      "canton": "Valais",
-      "date_iso": "2026-08-03"
+      "etab_name": "CJ Coiffure",
+      "etab_slug": "cj-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/cj-coiffure.jpg",
+      "visite_id": "v_027efe5e909f",
+      "canton": "Vaud",
+      "date_iso": "2026-08-06"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "ERINGER INSTITUT",
-      "etab_slug": "eringer-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/eringer-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/eringer-institut/",
+      "etab_name": "Le Lokal",
+      "etab_slug": "le-lokal",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-lokal.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-lokal/",
       "canton": "Valais",
-      "visites": 70,
-      "note": "4.5/5",
-      "blurb": "L'Institut Eringer Beauty & SPA, au 2ème étage des Bains d'Hérémence. Soins visage, massages relaxants et technologies amincissantes prolongent le bain valaisan.",
+      "visites": 50,
+      "note": "5/5",
+      "blurb": "Le LoKal à Martigny-Bourg, fondé en 2015. Coiffure cadre zen et partenaire Keune depuis 1922 : la beauté capillaire au tempo lent.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Centre de bien-être J&J",
-      "etab_slug": "centre-de-bien-etre-jj",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/centre-de-bien-etre-jj.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/centre-de-bien-etre-jj/",
-      "canton": null,
-      "visites": 246,
-      "note": "5/5",
-      "blurb": "Le centre de bien-être à La Tour-de-Peilz. Technologies de pointe, soins ciblés et accompagnement attentif pour une beauté qui se voit autant qu'elle se ressent.",
-      "reason": "À découvrir dans le canton de nan"
+      "etab_name": "Prestige Coiffure",
+      "etab_slug": "prestige-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/prestige-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/prestige-coiffure/",
+      "canton": "Valais",
+      "visites": 0,
+      "note": null,
+      "blurb": "Prestige Coiffure et maquillage, spécialiste visagisme. Coupe, couleur et maquillage en harmonie avec la personnalité, le conseil avant le geste.",
+      "reason": "À découvrir dans le canton de Valais"
     },
     {
       "etab_name": "SPA DES BISSES 4 VALLÉES",

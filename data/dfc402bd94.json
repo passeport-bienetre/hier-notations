@@ -1,14 +1,14 @@
 {
-  "carte": "37076",
-  "name": "Clara",
+  "carte": "33858",
+  "name": "Karen",
   "yesterday_date": "2026-08-06",
   "yesterday_date_pretty": "le 6 août 2026",
   "visits": [
     {
-      "etab_name": "Skin Solution",
-      "etab_slug": "skin-solution",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/skin-solution.jpg",
-      "visite_id": "v_f2970dc25f88",
+      "etab_name": "AVEDA VIEILLE-VILLE",
+      "etab_slug": "aveda-vieille-ville",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/aveda-vieille-ville.jpg",
+      "visite_id": "v_14678b506191",
       "canton": "Genève",
       "date_iso": "2026-08-06"
     }

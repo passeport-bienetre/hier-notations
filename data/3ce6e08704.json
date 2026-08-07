@@ -1,14 +1,14 @@
 {
-  "carte": "36604",
-  "name": "Ana",
+  "carte": "38714",
+  "name": "Anic",
   "yesterday_date": "2026-08-06",
   "yesterday_date_pretty": "le 6 août 2026",
   "visits": [
     {
-      "etab_name": "Arte Beauty EPFL",
-      "etab_slug": "arte-beauty-epfl",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
-      "visite_id": "v_8963ac438a1d",
+      "etab_name": "Arte Beauty Lutry",
+      "etab_slug": "arte-beauty-lutry",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
+      "visite_id": "v_910b762a4bca",
       "canton": "Vaud",
       "date_iso": "2026-08-06"
     }

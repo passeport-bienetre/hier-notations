@@ -1,30 +1,19 @@
 {
-  "carte": "36190",
-  "name": "Isabelle",
+  "carte": "34734",
+  "name": "florine",
   "yesterday_date": "2026-08-06",
   "yesterday_date_pretty": "le 6 août 2026",
   "visits": [
     {
-      "etab_name": "Flocoon Spa Cinq Mondes",
-      "etab_slug": "flocoon-spa-cinq-mondes",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/flocoon-spa-cinq-mondes.jpg",
-      "visite_id": "v_0d6da984ee29",
-      "canton": "Valais",
+      "etab_name": "Origin Float Spa",
+      "etab_slug": "origin-float-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/origin-float-spa.jpg",
+      "visite_id": "v_07c1ad110528",
+      "canton": "Genève",
       "date_iso": "2026-08-06"
     }
   ],
   "suggestions": [
-    {
-      "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
-      "etab_slug": "hotel-intercontinental-spa-5-mondes",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-intercontinental-spa-5-mondes.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
-      "canton": "Genève",
-      "visites": 429,
-      "note": "5/5",
-      "blurb": "Au cœur de Genève, l'adresse urbaine signée Cinq Mondes. Rituels d'ailleurs et piscine au 30e étage pour une pause hors du monde.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
     {
       "etab_name": "Namaka - Centre de Longévité et Bienêtre",
       "etab_slug": "namaka",
@@ -34,6 +23,17 @@
       "visites": 203,
       "note": "4.5/5",
       "blurb": "Namaka, bain de flottaison à 500 kg de sel d'Epsom. Apesanteur, chants de baleines, silence vrai : la régénération en magnésium naturel.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "Sawatdee Delices",
+      "etab_slug": "sawatdee-delices",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sawatdee-delices.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/sawatdee-delices/",
+      "canton": "Genève",
+      "visites": 462,
+      "note": "4.5/5",
+      "blurb": "Sawatdee Délices, le massage thaï traditionnel. Cadre unique et reposant pour la thérapie naturelle qui relâche tensions et circulation.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {
