@@ -1,30 +1,19 @@
 {
-  "carte": "35498",
-  "name": "Valérie",
+  "carte": "35337",
+  "name": "Pascale",
   "yesterday_date": "2026-08-07",
   "yesterday_date_pretty": "le 7 août 2026",
   "visits": [
     {
-      "etab_name": "Grand Hôtel du Lac",
-      "etab_slug": "grand-hotel-du-lac",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/grand-hotel-du-lac.jpg",
-      "visite_id": "v_7897f7be77a5",
-      "canton": "Vaud",
+      "etab_name": "Flocoon Spa Cinq Mondes",
+      "etab_slug": "flocoon-spa-cinq-mondes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/flocoon-spa-cinq-mondes.jpg",
+      "visite_id": "v_c44531b98edf",
+      "canton": "Valais",
       "date_iso": "2026-08-07"
     }
   ],
   "suggestions": [
-    {
-      "etab_name": "Bhumi",
-      "etab_slug": "biotonique-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
-      "canton": "Vaud",
-      "visites": 303,
-      "note": "5/5",
-      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
     {
       "etab_name": "Chalet Royalp Hôtel & Spa",
       "etab_slug": "chalet-royalp-hotel-spa",
@@ -34,6 +23,17 @@
       "visites": 939,
       "note": "5/5",
       "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "MK PILATES",
+      "etab_slug": "mk-pilates",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/mk-pilates.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/mk-pilates/",
+      "canton": "Vaud",
+      "visites": 5,
+      "note": "5/5",
+      "blurb": "MK Pilates, studio privé équipé Gratz : Reformer, Cadillac, wunda chair, ladder barrel et pedipole. Méthode authentique et pédagogie précise pour un Pilates classique sans concession.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {

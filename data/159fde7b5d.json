@@ -1,28 +1,28 @@
 {
-  "carte": "35498",
-  "name": "Valérie",
+  "carte": "39869",
+  "name": "Christine",
   "yesterday_date": "2026-08-07",
   "yesterday_date_pretty": "le 7 août 2026",
   "visits": [
     {
-      "etab_name": "Grand Hôtel du Lac",
-      "etab_slug": "grand-hotel-du-lac",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/grand-hotel-du-lac.jpg",
-      "visite_id": "v_7897f7be77a5",
-      "canton": "Vaud",
+      "etab_name": "SPA BY CLARINS – HÔTEL MONT-BLANC CHAMONIX",
+      "etab_slug": "spa-by-clarins",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-by-clarins.jpg",
+      "visite_id": "v_b0c55c2f2c46",
+      "canton": null,
       "date_iso": "2026-08-07"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "Bhumi",
-      "etab_slug": "biotonique-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
-      "canton": "Vaud",
-      "visites": 303,
+      "etab_name": "Centre de bien-être J&J",
+      "etab_slug": "centre-de-bien-etre-jj",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/centre-de-bien-etre-jj.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/centre-de-bien-etre-jj/",
+      "canton": null,
+      "visites": 246,
       "note": "5/5",
-      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
+      "blurb": "Le centre de bien-être à La Tour-de-Peilz. Technologies de pointe, soins ciblés et accompagnement attentif pour une beauté qui se voit autant qu'elle se ressent.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {

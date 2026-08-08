@@ -1,14 +1,14 @@
 {
-  "carte": "39012",
-  "name": "Stéphanie",
+  "carte": "36758",
+  "name": "Kristina",
   "yesterday_date": "2026-08-07",
   "yesterday_date_pretty": "le 7 août 2026",
   "visits": [
     {
-      "etab_name": "Arte Beauty Lutry",
-      "etab_slug": "arte-beauty-lutry",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
-      "visite_id": "v_fee5e8649d27",
+      "etab_name": "Salon Privé Ecublens",
+      "etab_slug": "salon-prive-ecublens",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-ecublens.jpg",
+      "visite_id": "v_94fde577aca2",
       "canton": "Vaud",
       "date_iso": "2026-08-07"
     }

@@ -1,14 +1,14 @@
 {
-  "carte": "34956",
-  "name": "Nathalie",
+  "carte": "37064",
+  "name": "Oriane",
   "yesterday_date": "2026-08-07",
   "yesterday_date_pretty": "le 7 août 2026",
   "visits": [
     {
-      "etab_name": "INTUITIVE JESS",
-      "etab_slug": "intuitive-jess",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/intuitive-jess.jpg",
-      "visite_id": "v_4fb64d954aff",
+      "etab_name": "19th AVENUE – Versonnex",
+      "etab_slug": "versonnex",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/versonnex.jpg",
+      "visite_id": "v_d14cc2ba7fb2",
       "canton": "Genève",
       "date_iso": "2026-08-07"
     }

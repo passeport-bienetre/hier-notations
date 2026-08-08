@@ -1,28 +1,28 @@
 {
-  "carte": "36189",
-  "name": "Virginie",
+  "carte": "25431",
+  "name": "Marlène",
   "yesterday_date": "2026-08-07",
   "yesterday_date_pretty": "le 7 août 2026",
   "visits": [
     {
-      "etab_name": "Parallèles Coiffure",
-      "etab_slug": "paralleles-coiffure",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/paralleles-coiffure.jpg",
-      "visite_id": "v_8a0224caa8bc",
+      "etab_name": "EUPHORIA & BEAUTY STUDIO",
+      "etab_slug": "euphoria-beauty-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
+      "visite_id": "v_fbe2a635b46d",
       "canton": "Genève",
       "date_iso": "2026-08-07"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "EUPHORIA & BEAUTY STUDIO",
-      "etab_slug": "euphoria-beauty-studio",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
+      "etab_name": "Parallèles Coiffure",
+      "etab_slug": "paralleles-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/paralleles-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/paralleles-coiffure/",
       "canton": "Genève",
-      "visites": 201,
+      "visites": 226,
       "note": "5/5",
-      "blurb": "Le temple Euphoria. Raffinement et douceur dans un lieu où l'on s'abandonne à l'instant.",
+      "blurb": "Parallèles, salon en triplex aux produits Davines exclusivement. Équipe jeune et trendy, ambiance détendue, écologie en arrière-plan.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {

@@ -1,14 +1,14 @@
 {
-  "carte": "39012",
-  "name": "Stéphanie",
+  "carte": "39156",
+  "name": "Mireille",
   "yesterday_date": "2026-08-07",
   "yesterday_date_pretty": "le 7 août 2026",
   "visits": [
     {
-      "etab_name": "Arte Beauty Lutry",
-      "etab_slug": "arte-beauty-lutry",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
-      "visite_id": "v_fee5e8649d27",
+      "etab_name": "Karré Long",
+      "etab_slug": "karre-long-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/karre-long-3.jpg",
+      "visite_id": "v_ee9bb96ac0b4",
       "canton": "Vaud",
       "date_iso": "2026-08-07"
     }
