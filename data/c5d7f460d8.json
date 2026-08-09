@@ -1,16 +1,16 @@
 {
   "carte": "33463",
   "name": "Tara",
-  "yesterday_date": "2026-07-30",
-  "yesterday_date_pretty": "le 30 juillet 2026",
+  "yesterday_date": "2026-08-08",
+  "yesterday_date_pretty": "le 8 août 2026",
   "visits": [
     {
-      "etab_name": "Maison B",
-      "etab_slug": "maison-b",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
-      "visite_id": "v_888c55d1e9a1",
-      "canton": null,
-      "date_iso": "2026-07-30"
+      "etab_name": "Salon Privé Ecublens",
+      "etab_slug": "salon-prive-ecublens",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-ecublens.jpg",
+      "visite_id": "v_76461acb9742",
+      "canton": "Vaud",
+      "date_iso": "2026-08-08"
     }
   ],
   "suggestions": [
@@ -20,7 +20,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "canton": "Vaud",
-      "visites": 724,
+      "visites": 728,
       "note": "5/5",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "reason": "Nous pensons que vous allez aimer"
@@ -42,7 +42,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
       "canton": "Valais",
-      "visites": 0,
+      "visites": 5,
       "note": null,
       "blurb": null,
       "reason": "Nouveau partenaire du réseau"

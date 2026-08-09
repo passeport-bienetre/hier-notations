@@ -1,39 +1,39 @@
 {
   "carte": "35988",
   "name": "Zeina",
-  "yesterday_date": "2026-08-05",
-  "yesterday_date_pretty": "le 5 août 2026",
+  "yesterday_date": "2026-08-08",
+  "yesterday_date_pretty": "le 8 août 2026",
   "visits": [
     {
-      "etab_name": "Royal Savoy Hôtel & Spa",
-      "etab_slug": "royal-savoy-hotel-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
-      "visite_id": "v_a3842933795d",
+      "etab_name": "Salon Privé Ecublens",
+      "etab_slug": "salon-prive-ecublens",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-ecublens.jpg",
+      "visite_id": "v_2f935bf14278",
       "canton": "Vaud",
-      "date_iso": "2026-08-05"
+      "date_iso": "2026-08-08"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
-      "etab_slug": "la-villa-dermo-esthetique-by-lorella",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa-dermo-esthetique-by-lorella.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/",
+      "etab_name": "Atmosp'hair",
+      "etab_slug": "atmosphair",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
       "canton": "Vaud",
-      "visites": 83,
+      "visites": 179,
       "note": "5/5",
-      "blurb": "La Villa Dermo-Esthétique by Lorella, duo Lorella et Orphane. Kobido avancé, technologies de régénération et esthétique médicale : l'art du mieux-vieillir.",
+      "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "La VILLA Kobido et Massage",
-      "etab_slug": "la-villa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa/",
+      "etab_name": "Chalet Royalp Hôtel & Spa",
+      "etab_slug": "chalet-royalp-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "canton": "Vaud",
-      "visites": 228,
+      "visites": 940,
       "note": "5/5",
-      "blurb": "La Villa à St-Légier, ancien institut Karin Herzog avec vue lac. Kobido à la rose, sauna infrarouge et Lipo Slim Massage exclusif, le bien-être nocturne en after-work.",
+      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
@@ -42,7 +42,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
       "canton": "Valais",
-      "visites": 1,
+      "visites": 5,
       "note": null,
       "blurb": null,
       "reason": "Nouveau partenaire du réseau"

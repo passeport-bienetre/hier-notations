@@ -1,39 +1,39 @@
 {
   "carte": "30683",
   "name": "Christelle",
-  "yesterday_date": "2026-07-31",
-  "yesterday_date_pretty": "le 31 juillet 2026",
+  "yesterday_date": "2026-08-08",
+  "yesterday_date_pretty": "le 8 août 2026",
   "visits": [
     {
-      "etab_name": "Hôtel Schweizerhof Bern & Spa",
-      "etab_slug": "schweizerhof-bern-hotel-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/schweizerhof-bern-hotel-spa.jpg",
-      "visite_id": "v_973c5e88ff6f",
-      "canton": "Berne",
-      "date_iso": "2026-07-31"
+      "etab_name": "Hôtel Royal",
+      "etab_slug": "hotel-royal",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-royal.jpg",
+      "visite_id": "v_179f232daa9b",
+      "canton": "Valais",
+      "date_iso": "2026-08-08"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "1er Acte Coiffure",
-      "etab_slug": "1er-acte-coiffure",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
+      "etab_name": "HÔTEL ROYAL SAVOY",
+      "etab_slug": "bpnight-hotel-royal-savoy",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-royal-savoy.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-royal-savoy/",
       "canton": "Vaud",
-      "visites": 724,
-      "note": "5/5",
-      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
+      "visites": 3,
+      "note": null,
+      "blurb": "Le Royal Savoy 5 étoiles sur les rives du Léman mêle architecture historique et touche contemporaine. Skylounge sur le toit et Brasserie reconnue, signature lausannoise.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Atmosp'hair",
-      "etab_slug": "atmosphair",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
+      "etab_name": "LAUSANNE PALACE",
+      "etab_slug": "bpnight-hotel-lausanne-palace",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-lausanne-palace.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-lausanne-palace/",
       "canton": "Vaud",
-      "visites": 179,
-      "note": "5/5",
-      "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
+      "visites": 9,
+      "note": null,
+      "blurb": "Inauguré en 1915, le Lausanne Palace fait face au lac et aux Alpes. Belle Époque vivante, table doublement étoilée et spa intérieur dans une institution lausannoise.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
@@ -42,7 +42,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
       "canton": "Valais",
-      "visites": 0,
+      "visites": 5,
       "note": null,
       "blurb": null,
       "reason": "Nouveau partenaire du réseau"
