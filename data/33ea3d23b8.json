@@ -1,16 +1,16 @@
 {
   "carte": "33209",
   "name": "Emmanuelle",
-  "yesterday_date": "2026-05-27",
-  "yesterday_date_pretty": "le 27 mai 2026",
+  "yesterday_date": "2026-08-11",
+  "yesterday_date_pretty": "le 11 août 2026",
   "visits": [
     {
-      "etab_name": "Royal Savoy Hôtel & Spa",
-      "etab_slug": "royal-savoy-hotel-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
-      "visite_id": "v_208f49d2f730",
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "visite_id": "v_75ad333ca47c",
       "canton": "Vaud",
-      "date_iso": "2026-05-27"
+      "date_iso": "2026-08-11"
     }
   ],
   "suggestions": [
@@ -19,35 +19,32 @@
       "etab_slug": "corps-sains",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-sains.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/",
-      "category": "Future Maman",
       "canton": "Genève",
-      "visites": 140,
+      "visites": 145,
       "note": "5/5",
       "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "COMME SUR UN NUAGE",
-      "etab_slug": "comme-sur-un-nuage",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/comme-sur-un-nuage.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/comme-sur-un-nuage/",
-      "category": "Future Maman",
-      "canton": "Neuchâtel",
-      "visites": 51,
-      "note": "5/5",
-      "blurb": "Le centre de Typhaine Bessey, dix ans d'expérience entre spa hôtelier et bains thermaux. Formée en Ayurveda et aromathérapie, elle mise sur des cosmétiques sains.",
-      "reason": "À découvrir dans le canton de Neuchâtel"
+      "etab_name": "MAISON DU TEMPS",
+      "etab_slug": "maison-du-temps",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-du-temps.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-du-temps/",
+      "canton": "Genève",
+      "visites": 37,
+      "note": null,
+      "blurb": null,
+      "reason": "À découvrir dans le canton de Genève"
     },
     {
-      "etab_name": "HÔTEL BORSARI",
-      "etab_slug": "bpnight-hotel-borsari",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/",
-      "category": "Hôtels",
+      "etab_name": "SPA DES BISSES 4 VALLÉES",
+      "etab_slug": "spa-hotel-nendaz-4-vallees",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
       "canton": "Valais",
-      "visites": null,
+      "visites": 5,
       "note": null,
-      "blurb": "L'Hôtel Borsari, niché au cœur des Alpes près de Martigny. Chambres aux murs de béton teinté main, palette chaude : un refuge pour suspendre le temps.",
+      "blurb": null,
       "reason": "Nouveau partenaire du réseau"
     }
   ]

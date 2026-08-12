@@ -1,15 +1,15 @@
 {
-  "carte": "35423",
-  "name": "Sandra",
+  "carte": "35813",
+  "name": "Patricia",
   "yesterday_date": "2026-08-11",
   "yesterday_date_pretty": "le 11 août 2026",
   "visits": [
     {
-      "etab_name": "Maison B",
-      "etab_slug": "maison-b",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
-      "visite_id": "v_c5489347f9cb",
-      "canton": null,
+      "etab_name": "Institut Osmose",
+      "etab_slug": "institut-osmose",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-osmose.jpg",
+      "visite_id": "v_a8b74d39eb9d",
+      "canton": "Vaud",
       "date_iso": "2026-08-11"
     }
   ],
