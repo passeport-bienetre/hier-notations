@@ -1,14 +1,14 @@
 {
-  "carte": "35133",
-  "name": "Evelyne",
+  "carte": "33881",
+  "name": "Violaine",
   "yesterday_date": "2026-08-12",
   "yesterday_date_pretty": "le 12 août 2026",
   "visits": [
     {
-      "etab_name": "Arte Beauty EPFL",
-      "etab_slug": "arte-beauty-epfl",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
-      "visite_id": "v_bc00b91acbf3",
+      "etab_name": "Anita Coiffure",
+      "etab_slug": "anita-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/anita-coiffure.jpg",
+      "visite_id": "v_8197ded4938e",
       "canton": "Vaud",
       "date_iso": "2026-08-12"
     }
