@@ -1,15 +1,15 @@
 {
-  "carte": "35791",
-  "name": "Rachel",
+  "carte": "35126",
+  "name": "Mme.",
   "yesterday_date": "2026-08-13",
   "yesterday_date_pretty": "le 13 août 2026",
   "visits": [
     {
-      "etab_name": "Maison B",
-      "etab_slug": "maison-b",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
-      "visite_id": "v_5f31bdad97f2",
-      "canton": null,
+      "etab_name": "Les Vagabondes",
+      "etab_slug": "les-vagabondes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-vagabondes.jpg",
+      "visite_id": "v_d665b524f8b2",
+      "canton": "Vaud",
       "date_iso": "2026-08-13"
     }
   ],

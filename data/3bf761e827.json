@@ -1,16 +1,16 @@
 {
   "carte": "35265",
   "name": "Annouk",
-  "yesterday_date": "2026-07-28",
-  "yesterday_date_pretty": "le 28 juillet 2026",
+  "yesterday_date": "2026-08-13",
+  "yesterday_date_pretty": "le 13 août 2026",
   "visits": [
     {
-      "etab_name": "Bains d’Ovronnaz",
-      "etab_slug": "bains-dovronnaz",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bains-dovronnaz.jpg",
-      "visite_id": "v_2ccc72929645",
+      "etab_name": "Les Sources des Alpes",
+      "etab_slug": "les-sources-des-alpes-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-sources-des-alpes-3.jpg",
+      "visite_id": "v_a5040c190855",
       "canton": "Valais",
-      "date_iso": "2026-07-28"
+      "date_iso": "2026-08-13"
     }
   ],
   "suggestions": [
@@ -31,20 +31,20 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/grand-hotel-du-lac.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
       "canton": "Vaud",
-      "visites": 571,
+      "visites": 577,
       "note": "5/5",
       "blurb": "Le Grand Hôtel du Lac à Vevey, sur les rives du Léman aux portes de Lavaux. SPA Valmont au 2e étage : welcome suite, 3 cabines, hammam et sauna face au lac.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
-      "etab_slug": "chandolin-boutique-hotel",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
-      "canton": null,
-      "visites": null,
+      "etab_name": "SPA DES BISSES 4 VALLÉES",
+      "etab_slug": "spa-hotel-nendaz-4-vallees",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
+      "canton": "Valais",
+      "visites": 8,
       "note": null,
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "blurb": null,
       "reason": "Nouveau partenaire du réseau"
     }
   ]

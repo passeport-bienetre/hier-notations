@@ -1,15 +1,15 @@
 {
-  "carte": "35791",
-  "name": "Rachel",
+  "carte": "38448",
+  "name": "Audrey",
   "yesterday_date": "2026-08-13",
   "yesterday_date_pretty": "le 13 août 2026",
   "visits": [
     {
-      "etab_name": "Maison B",
-      "etab_slug": "maison-b",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
-      "visite_id": "v_5f31bdad97f2",
-      "canton": null,
+      "etab_name": "EVERNESS <br>Hôtel & Resort",
+      "etab_slug": "everness-resort",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/everness-resort.jpg",
+      "visite_id": "v_328bc1d4a21b",
+      "canton": "Vaud",
       "date_iso": "2026-08-13"
     }
   ],

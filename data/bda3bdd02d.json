@@ -1,16 +1,16 @@
 {
   "carte": "35883",
   "name": "CHARLOTTE",
-  "yesterday_date": "2026-08-04",
-  "yesterday_date_pretty": "le 4 août 2026",
+  "yesterday_date": "2026-08-13",
+  "yesterday_date_pretty": "le 13 août 2026",
   "visits": [
     {
-      "etab_name": "FLEUR D’EPIDERME",
-      "etab_slug": "fleur-depiderme",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
-      "visite_id": "v_4bffb105a689",
+      "etab_name": "SUBLIMEYES",
+      "etab_slug": "institut-sublimeyes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
+      "visite_id": "v_1dd4a6192dc3",
       "canton": "Genève",
-      "date_iso": "2026-08-04"
+      "date_iso": "2026-08-13"
     }
   ],
   "suggestions": [
@@ -31,7 +31,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "canton": "Genève",
-      "visites": 531,
+      "visites": 535,
       "note": "5/5",
       "blurb": "L'institut genevois spécialiste visage, mené par Nadège. Plus de dix ans de soins faciaux et de massages pointus au service d'une beauté naturelle.",
       "reason": "À découvrir dans le canton de Genève"
@@ -42,7 +42,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
       "canton": "Valais",
-      "visites": 1,
+      "visites": 8,
       "note": null,
       "blurb": null,
       "reason": "Nouveau partenaire du réseau"
