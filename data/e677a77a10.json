@@ -1,39 +1,39 @@
 {
   "carte": "35213",
   "name": "Océane",
-  "yesterday_date": "2026-08-13",
-  "yesterday_date_pretty": "le 13 août 2026",
+  "yesterday_date": "2026-08-14",
+  "yesterday_date_pretty": "le 14 août 2026",
   "visits": [
     {
-      "etab_name": "NUANCES NATURE",
-      "etab_slug": "nuances-nature",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nuances-nature.jpg",
-      "visite_id": "v_893a1a647c1f",
-      "canton": "Genève",
-      "date_iso": "2026-08-13"
+      "etab_name": "Nail Café",
+      "etab_slug": "nail-cafe",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nail-cafe.jpg",
+      "visite_id": "v_3cc4e9e2d889",
+      "canton": "Vaud",
+      "date_iso": "2026-08-14"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "Le Cabinet de Beauté",
-      "etab_slug": "le-cabinet-de-beaute",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-cabinet-de-beaute.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/le-cabinet-de-beaute/",
+      "etab_name": "BEAUTY B",
+      "etab_slug": "bv-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
       "canton": "Genève",
-      "visites": 366,
+      "visites": 148,
       "note": "5/5",
-      "blurb": "Le Cabinet de Beauté, ambiance boisée et soins Dr Hauschka. Bio-esthéticienne spécialiste du visage et plantes médicinales biologiques : la cosmétique \"autrement\" à Genève.",
+      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Wulan Studio",
-      "etab_slug": "wulan-studio",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/wulan-studio.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/wulan-studio/",
+      "etab_name": "FLEUR D’EPIDERME",
+      "etab_slug": "fleur-depiderme",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
       "canton": "Genève",
-      "visites": 74,
+      "visites": 110,
       "note": "5/5",
-      "blurb": "Wulan HeadCare studio. Inspiré des traditions asiatiques, massage crânien et soin capillaire aux produits certifiés bio : la beauté du cuir chevelu en mode holistique.",
+      "blurb": "La maison de beauté A Fleur d'Épiderme, spécialiste soins de la peau et épilation définitive. Technicité médicale et douceur esthétique, sans compromis sur le résultat.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {
@@ -42,7 +42,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
       "canton": "Valais",
-      "visites": 8,
+      "visites": 9,
       "note": null,
       "blurb": null,
       "reason": "Nouveau partenaire du réseau"

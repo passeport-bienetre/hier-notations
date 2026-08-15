@@ -1,39 +1,39 @@
 {
   "carte": "39249",
   "name": "Lola",
-  "yesterday_date": "2026-07-31",
-  "yesterday_date_pretty": "le 31 juillet 2026",
+  "yesterday_date": "2026-08-14",
+  "yesterday_date_pretty": "le 14 août 2026",
   "visits": [
     {
-      "etab_name": "SAKURA LAB",
-      "etab_slug": "sakura-lab",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sakura-lab.jpg",
-      "visite_id": "v_42c4f87176e6",
+      "etab_name": "EUPHORIA & BEAUTY STUDIO",
+      "etab_slug": "euphoria-beauty-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
+      "visite_id": "v_2118fe571cc6",
       "canton": "Genève",
-      "date_iso": "2026-07-31"
+      "date_iso": "2026-08-14"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "BEAUTY B",
-      "etab_slug": "bv-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
+      "etab_name": "Parallèles Coiffure",
+      "etab_slug": "paralleles-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/paralleles-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/paralleles-coiffure/",
       "canton": "Genève",
-      "visites": 148,
+      "visites": 226,
       "note": "5/5",
-      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
+      "blurb": "Parallèles, salon en triplex aux produits Davines exclusivement. Équipe jeune et trendy, ambiance détendue, écologie en arrière-plan.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "FLEUR D’EPIDERME",
-      "etab_slug": "fleur-depiderme",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
+      "etab_name": "So Hair",
+      "etab_slug": "so-hair",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/so-hair.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/so-hair/",
       "canton": "Genève",
-      "visites": 105,
+      "visites": 388,
       "note": "5/5",
-      "blurb": "La maison de beauté A Fleur d'Épiderme, spécialiste soins de la peau et épilation définitive. Technicité médicale et douceur esthétique, sans compromis sur le résultat.",
+      "blurb": "So Hair, près de la gare Cornavin dans une rue calme. Coiffeurs, coloristes, manucures et maquilleurs sous le même toit, dans une ambiance sobre et épurée.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {
@@ -42,7 +42,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
       "canton": "Valais",
-      "visites": 0,
+      "visites": 9,
       "note": null,
       "blurb": null,
       "reason": "Nouveau partenaire du réseau"

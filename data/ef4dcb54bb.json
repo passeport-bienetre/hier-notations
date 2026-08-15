@@ -1,39 +1,39 @@
 {
   "carte": "30267",
   "name": "sabine",
-  "yesterday_date": "2026-08-12",
-  "yesterday_date_pretty": "le 12 août 2026",
+  "yesterday_date": "2026-08-14",
+  "yesterday_date_pretty": "le 14 août 2026",
   "visits": [
     {
-      "etab_name": "Institut Guinot",
-      "etab_slug": "institut-guinot-2",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
-      "visite_id": "v_4aa78a7dceb0",
-      "canton": "Vaud",
-      "date_iso": "2026-08-12"
+      "etab_name": "Maison B",
+      "etab_slug": "maison-b",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
+      "visite_id": "v_a01b71bf112d",
+      "canton": null,
+      "date_iso": "2026-08-14"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "Bhumi",
-      "etab_slug": "biotonique-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
+      "etab_name": "1er Acte Coiffure",
+      "etab_slug": "1er-acte-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "canton": "Vaud",
-      "visites": 303,
+      "visites": 729,
       "note": "5/5",
-      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
+      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Espace Beauté Harmonie",
-      "etab_slug": "espace-beaute-harmonie",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/espace-beaute-harmonie.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/espace-beaute-harmonie/",
+      "etab_name": "Atmosp'hair",
+      "etab_slug": "atmosphair",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
       "canton": "Vaud",
-      "visites": 83,
+      "visites": 180,
       "note": "5/5",
-      "blurb": "L'institut au cœur du quartier de Chailly. Cadre calme et chaleureux pour une pause détente en mode quartier.",
+      "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
@@ -42,7 +42,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
       "canton": "Valais",
-      "visites": 7,
+      "visites": 9,
       "note": null,
       "blurb": null,
       "reason": "Nouveau partenaire du réseau"

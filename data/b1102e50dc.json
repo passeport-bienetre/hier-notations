@@ -1,50 +1,58 @@
 {
   "carte": "36383",
   "name": "Isabelle",
-  "yesterday_date": "2026-07-02",
-  "yesterday_date_pretty": "le 2 juillet 2026",
+  "yesterday_date": "2026-08-14",
+  "yesterday_date_pretty": "le 14 août 2026",
   "visits": [
     {
-      "etab_name": "Salon Privé Chailly",
-      "etab_slug": "salon-prive-chailly",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-chailly.jpg",
-      "visite_id": "v_9c15ce3fe093",
+      "etab_name": "Institut Orphée",
+      "etab_slug": "institut-sirene",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sirene.jpg",
+      "visite_id": "v_5377f338a2b1",
       "canton": "Vaud",
-      "date_iso": "2026-07-02"
+      "date_iso": "2026-08-14"
+    },
+    {
+      "etab_name": "Tempête de Calme",
+      "etab_slug": "tempete-de-calme",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/tempete-de-calme.jpg",
+      "visite_id": "v_dc240775763a",
+      "canton": "Vaud",
+      "date_iso": "2026-08-14"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "1er Acte Coiffure",
-      "etab_slug": "1er-acte-coiffure",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
+      "etab_name": "Chalet Royalp Hôtel & Spa",
+      "etab_slug": "chalet-royalp-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "canton": "Vaud",
-      "visites": 722,
+      "visites": 940,
       "note": "5/5",
-      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
+      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Altitude by Garance",
-      "etab_slug": "altitude-by-garance",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/altitude-by-garance.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/altitude-by-garance/",
+      "etab_name": "MK PILATES",
+      "etab_slug": "mk-pilates",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/mk-pilates.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/mk-pilates/",
       "canton": "Vaud",
-      "visites": 42,
+      "visites": 5,
       "note": "5/5",
-      "blurb": "Au cœur des Bains de Villars-sur-Ollon, Garance propose massages relaxants et thérapeutiques et pierres d'argile chaudes. Un détour d'altitude entre les bassins.",
+      "blurb": "MK Pilates, studio privé équipé Gratz : Reformer, Cadillac, wunda chair, ladder barrel et pedipole. Méthode authentique et pédagogie précise pour un Pilates classique sans concession.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
-      "etab_slug": "chandolin-boutique-hotel",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
-      "canton": null,
-      "visites": null,
+      "etab_name": "SPA DES BISSES 4 VALLÉES",
+      "etab_slug": "spa-hotel-nendaz-4-vallees",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
+      "canton": "Valais",
+      "visites": 9,
       "note": null,
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "blurb": null,
       "reason": "Nouveau partenaire du réseau"
     }
   ]

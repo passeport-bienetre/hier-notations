@@ -1,14 +1,14 @@
 {
-  "carte": "29544",
-  "name": "Karin",
+  "carte": "35450",
+  "name": "Sara",
   "yesterday_date": "2026-08-14",
   "yesterday_date_pretty": "le 14 août 2026",
   "visits": [
     {
-      "etab_name": "Karré Long",
-      "etab_slug": "karre-long-3",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/karre-long-3.jpg",
-      "visite_id": "v_66057703f738",
+      "etab_name": "CJ Coiffure",
+      "etab_slug": "cj-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/cj-coiffure.jpg",
+      "visite_id": "v_93782a28cdd7",
       "canton": "Vaud",
       "date_iso": "2026-08-14"
     }

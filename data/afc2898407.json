@@ -1,53 +1,50 @@
 {
   "carte": "39079",
   "name": "Nada",
-  "yesterday_date": "2026-06-05",
-  "yesterday_date_pretty": "le 5 juin 2026",
+  "yesterday_date": "2026-08-14",
+  "yesterday_date_pretty": "le 14 août 2026",
   "visits": [
     {
-      "etab_name": "Anita Coiffure",
-      "etab_slug": "anita-coiffure",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/anita-coiffure.jpg",
-      "visite_id": "v_1df0670e00b0",
-      "canton": "Vaud",
-      "date_iso": "2026-06-05"
+      "etab_name": "LE ST-GERVAIS HÔTEL & SPA",
+      "etab_slug": "le-st-gervais-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-st-gervais-hotel-spa.jpg",
+      "visite_id": "v_ddd5582c3af6",
+      "canton": null,
+      "date_iso": "2026-08-14"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "1er Acte Coiffure",
-      "etab_slug": "1er-acte-coiffure",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
-      "category": "Soins Hommes",
+      "etab_name": "HÔTEL ROYAL SAVOY",
+      "etab_slug": "bpnight-hotel-royal-savoy",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-royal-savoy.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-royal-savoy/",
       "canton": "Vaud",
-      "visites": 712,
-      "note": "5/5",
-      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
+      "visites": 3,
+      "note": null,
+      "blurb": "Le Royal Savoy 5 étoiles sur les rives du Léman mêle architecture historique et touche contemporaine. Skylounge sur le toit et Brasserie reconnue, signature lausannoise.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Atmosp'hair",
-      "etab_slug": "atmosphair",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
-      "category": "Soins Hommes",
+      "etab_name": "LAUSANNE PALACE",
+      "etab_slug": "bpnight-hotel-lausanne-palace",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-lausanne-palace.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-lausanne-palace/",
       "canton": "Vaud",
-      "visites": 175,
-      "note": "5/5",
-      "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
+      "visites": 9,
+      "note": null,
+      "blurb": "Inauguré en 1915, le Lausanne Palace fait face au lac et aux Alpes. Belle Époque vivante, table doublement étoilée et spa intérieur dans une institution lausannoise.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
-      "etab_name": "HÔTEL BORSARI",
-      "etab_slug": "bpnight-hotel-borsari",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/",
-      "category": "Hôtels",
+      "etab_name": "SPA DES BISSES 4 VALLÉES",
+      "etab_slug": "spa-hotel-nendaz-4-vallees",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
       "canton": "Valais",
-      "visites": null,
+      "visites": 9,
       "note": null,
-      "blurb": "L'Hôtel Borsari, niché au cœur des Alpes près de Martigny. Chambres aux murs de béton teinté main, palette chaude : un refuge pour suspendre le temps.",
+      "blurb": null,
       "reason": "Nouveau partenaire du réseau"
     }
   ]

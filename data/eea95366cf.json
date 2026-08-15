@@ -1,15 +1,15 @@
 {
-  "carte": "29544",
-  "name": "Karin",
+  "carte": "34424",
+  "name": "Rita",
   "yesterday_date": "2026-08-14",
   "yesterday_date_pretty": "le 14 août 2026",
   "visits": [
     {
-      "etab_name": "Karré Long",
-      "etab_slug": "karre-long-3",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/karre-long-3.jpg",
-      "visite_id": "v_66057703f738",
-      "canton": "Vaud",
+      "etab_name": "Maison B",
+      "etab_slug": "maison-b",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
+      "visite_id": "v_ff95cca56fd2",
+      "canton": null,
       "date_iso": "2026-08-14"
     }
   ],

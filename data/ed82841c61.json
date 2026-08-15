@@ -1,40 +1,40 @@
 {
   "carte": "27079",
   "name": "Coralie",
-  "yesterday_date": "2026-08-13",
-  "yesterday_date_pretty": "le 13 août 2026",
+  "yesterday_date": "2026-08-14",
+  "yesterday_date_pretty": "le 14 août 2026",
   "visits": [
     {
-      "etab_name": "Royal Savoy Hôtel & Spa",
-      "etab_slug": "royal-savoy-hotel-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
-      "visite_id": "v_8de98f9b34a5",
-      "canton": "Vaud",
-      "date_iso": "2026-08-13"
+      "etab_name": "Maison B",
+      "etab_slug": "maison-b",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
+      "visite_id": "v_4c15830540b7",
+      "canton": null,
+      "date_iso": "2026-08-14"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "Corps Sains",
-      "etab_slug": "corps-sains",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-sains.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/",
-      "canton": "Genève",
-      "visites": 145,
+      "etab_name": "1er Acte Coiffure",
+      "etab_slug": "1er-acte-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
+      "canton": "Vaud",
+      "visites": 729,
       "note": "5/5",
-      "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
+      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "MAISON DU TEMPS",
-      "etab_slug": "maison-du-temps",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-du-temps.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-du-temps/",
-      "canton": "Genève",
-      "visites": 40,
-      "note": null,
-      "blurb": null,
-      "reason": "À découvrir dans le canton de Genève"
+      "etab_name": "Atmosp'hair",
+      "etab_slug": "atmosphair",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
+      "canton": "Vaud",
+      "visites": 180,
+      "note": "5/5",
+      "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
+      "reason": "À découvrir dans le canton de Vaud"
     },
     {
       "etab_name": "SPA DES BISSES 4 VALLÉES",
@@ -42,7 +42,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
       "canton": "Valais",
-      "visites": 8,
+      "visites": 9,
       "note": null,
       "blurb": null,
       "reason": "Nouveau partenaire du réseau"
