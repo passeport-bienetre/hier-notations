@@ -37,12 +37,12 @@
       "reason": "À découvrir dans le canton de Valais"
     },
     {
-      "etab_name": "MAISON DU TEMPS",
-      "etab_slug": "maison-du-temps",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-du-temps.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-du-temps/",
-      "canton": "Genève",
-      "visites": 41,
+      "etab_name": "Spa La Santé, Bulles de Champagne",
+      "etab_slug": "la-sante-a-champagne",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-sante-a-champagne.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/la-sante-a-champagne/",
+      "canton": "Vaud",
+      "visites": 4,
       "note": null,
       "blurb": null,
       "reason": "Nouveau partenaire du réseau"
