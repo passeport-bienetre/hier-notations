@@ -6,8 +6,8 @@
   "visits": [
     {
       "etab_name": "Le Grand Bellevue Spa",
-      "etab_slug": null,
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "etab_slug": "le-grand-bellevue",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-grand-bellevue.jpg",
       "visite_id": "v_de9ccdb97740",
       "canton": "Berne",
       "date_iso": "2026-07-28"
