@@ -6,8 +6,8 @@
   "visits": [
     {
       "etab_name": "Le Grand Bellevue Spa",
-      "etab_slug": null,
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "etab_slug": "le-grand-bellevue",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-grand-bellevue.jpg",
       "visite_id": "v_e7e632fb97b4",
       "canton": "Berne",
       "date_iso": "2026-08-09"
@@ -31,7 +31,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lausanne-palace-spa.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "canton": "Vaud",
-      "visites": 745,
+      "visites": 750,
       "note": "4.5/5",
       "blurb": "L'institution lausannoise. Le CBE Concept Spa s'étend sur 1 800 m², avec les soins Cinq Mondes et une piscine art déco.",
       "reason": "À découvrir dans le canton de Vaud"
@@ -42,7 +42,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
       "canton": "Valais",
-      "visites": 5,
+      "visites": 9,
       "note": null,
       "blurb": null,
       "reason": "Nouveau partenaire du réseau"
