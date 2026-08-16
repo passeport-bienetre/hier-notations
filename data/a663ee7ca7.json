@@ -1,6 +1,6 @@
 {
-  "carte": "35035",
-  "name": "Ben",
+  "carte": "39051",
+  "name": "Charlene",
   "yesterday_date": "2026-08-15",
   "yesterday_date_pretty": "le 15 août 2026",
   "visits": [
@@ -8,7 +8,7 @@
       "etab_name": "Thaiotop",
       "etab_slug": "thaiotop-3",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thaiotop-3.jpg",
-      "visite_id": "v_d7bf8d6fd0c4",
+      "visite_id": "v_cd68fcf07dac",
       "canton": "Genève",
       "date_iso": "2026-08-15"
     }

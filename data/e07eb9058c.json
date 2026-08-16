@@ -1,19 +1,30 @@
 {
-  "carte": "29034",
-  "name": "Nathalie",
+  "carte": "38223",
+  "name": "Catarina",
   "yesterday_date": "2026-08-15",
   "yesterday_date_pretty": "le 15 août 2026",
   "visits": [
     {
-      "etab_name": "BLOOM HAIR SALON",
-      "etab_slug": "bloom-hair-salon",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bloom-hair-salon.jpg",
-      "visite_id": "v_172d2c743001",
+      "etab_name": "EVERNESS <br>Hôtel & Resort",
+      "etab_slug": "everness-resort",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/everness-resort.jpg",
+      "visite_id": "v_020165c2d1f2",
       "canton": "Vaud",
       "date_iso": "2026-08-15"
     }
   ],
   "suggestions": [
+    {
+      "etab_name": "1er Acte Coiffure",
+      "etab_slug": "1er-acte-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
+      "canton": "Vaud",
+      "visites": 729,
+      "note": "5/5",
+      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
     {
       "etab_name": "Atmosp'hair",
       "etab_slug": "atmosphair",
@@ -23,17 +34,6 @@
       "visites": 180,
       "note": "5/5",
       "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
-    {
-      "etab_name": "CJ Coiffure",
-      "etab_slug": "cj-coiffure",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/cj-coiffure.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/cj-coiffure/",
-      "canton": "Vaud",
-      "visites": 591,
-      "note": "5/5",
-      "blurb": "Le salon de deux amies, Caroline et Jenny. Convivialité, tendance et formation continue auprès des partenaires : le salon comme deuxième salon.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
