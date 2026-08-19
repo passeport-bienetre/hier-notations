@@ -1,14 +1,14 @@
 {
-  "carte": "30741",
-  "name": "Ilaria",
+  "carte": "36507",
+  "name": "Laetitia",
   "yesterday_date": "2026-08-18",
   "yesterday_date_pretty": "le 18 août 2026",
   "visits": [
     {
-      "etab_name": "La Coifferie",
-      "etab_slug": "la-coifferie-3",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-coifferie-3.jpg",
-      "visite_id": "v_e6a85d508871",
+      "etab_name": "EUPHORIA & BEAUTY STUDIO",
+      "etab_slug": "euphoria-beauty-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
+      "visite_id": "v_9fa97e78faeb",
       "canton": "Genève",
       "date_iso": "2026-08-18"
     }

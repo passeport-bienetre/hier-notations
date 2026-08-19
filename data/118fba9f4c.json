@@ -1,14 +1,22 @@
 {
-  "carte": "36998",
-  "name": "Méniar",
+  "carte": "38639",
+  "name": "Tania",
   "yesterday_date": "2026-08-18",
   "yesterday_date_pretty": "le 18 août 2026",
   "visits": [
     {
-      "etab_name": "Arte Beauty EPFL",
-      "etab_slug": "arte-beauty-epfl",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
-      "visite_id": "v_62a1d6610fd0",
+      "etab_name": "Simple Passion",
+      "etab_slug": "simple-passion",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/simple-passion.jpg",
+      "visite_id": "v_7b3d6afdac5b",
+      "canton": "Vaud",
+      "date_iso": "2026-08-18"
+    },
+    {
+      "etab_name": "Spa La Santé, Bulles de Champagne",
+      "etab_slug": "la-sante-a-champagne",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-sante-a-champagne.jpg",
+      "visite_id": "v_f03f1464c8f7",
       "canton": "Vaud",
       "date_iso": "2026-08-18"
     }

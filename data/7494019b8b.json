@@ -1,6 +1,6 @@
 {
-  "carte": "34970",
-  "name": "Chantal",
+  "carte": "36935",
+  "name": "Margarita",
   "yesterday_date": "2026-08-18",
   "yesterday_date_pretty": "le 18 août 2026",
   "visits": [
@@ -8,7 +8,7 @@
       "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
       "etab_slug": "le-centre-geneve-by-charline",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
-      "visite_id": "v_311474434d32",
+      "visite_id": "v_cfdbe337dd1b",
       "canton": "Genève",
       "date_iso": "2026-08-18"
     }

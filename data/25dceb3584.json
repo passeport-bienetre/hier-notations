@@ -1,15 +1,15 @@
 {
-  "carte": "34970",
-  "name": "Chantal",
+  "carte": "35884",
+  "name": "Marc",
   "yesterday_date": "2026-08-18",
   "yesterday_date_pretty": "le 18 août 2026",
   "visits": [
     {
-      "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
-      "etab_slug": "le-centre-geneve-by-charline",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
-      "visite_id": "v_311474434d32",
-      "canton": "Genève",
+      "etab_name": "LES TRESOMS",
+      "etab_slug": "les-tresoms-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-tresoms-2.jpg",
+      "visite_id": "v_2b4be693d6c5",
+      "canton": null,
       "date_iso": "2026-08-18"
     }
   ],
@@ -26,15 +26,15 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Blossom Institut",
-      "etab_slug": "blossom-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
-      "canton": "Genève",
-      "visites": 535,
+      "etab_name": "Bhumi",
+      "etab_slug": "biotonique-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
+      "canton": "Vaud",
+      "visites": 303,
       "note": "5/5",
-      "blurb": "L'institut genevois spécialiste visage, mené par Nadège. Plus de dix ans de soins faciaux et de massages pointus au service d'une beauté naturelle.",
-      "reason": "À découvrir dans le canton de Genève"
+      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
+      "reason": "À découvrir dans le canton de Vaud"
     },
     {
       "etab_name": "HÔTEL NENDAZ 4 VALLÉES",

@@ -1,16 +1,16 @@
 {
   "carte": "37023",
   "name": "Laura",
-  "yesterday_date": "2026-07-17",
-  "yesterday_date_pretty": "le 17 juillet 2026",
+  "yesterday_date": "2026-08-18",
+  "yesterday_date_pretty": "le 18 août 2026",
   "visits": [
     {
-      "etab_name": "Hôtel Ermitage Spa des Quatre Terres",
-      "etab_slug": "hotel-ermitage-spa-des-quatre-terres",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-ermitage-spa-des-quatre-terres.jpg",
-      "visite_id": "v_0cdfe2bdf130",
-      "canton": null,
-      "date_iso": "2026-07-17"
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "visite_id": "v_b9f1609d943c",
+      "canton": "Vaud",
+      "date_iso": "2026-08-18"
     }
   ],
   "suggestions": [
@@ -31,18 +31,18 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
       "canton": "Valais",
-      "visites": 171,
+      "visites": 172,
       "note": "5/5",
       "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
       "reason": "À découvrir dans le canton de Valais"
     },
     {
-      "etab_name": "MAISON DU TEMPS",
-      "etab_slug": "maison-du-temps",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-du-temps.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-du-temps/",
-      "canton": "Genève",
-      "visites": 17,
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
+      "etab_slug": "bpnight-hotel-nendaz-4-vallees",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/",
+      "canton": null,
+      "visites": null,
       "note": null,
       "blurb": null,
       "reason": "Nouveau partenaire du réseau"
