@@ -1,28 +1,28 @@
 {
   "carte": "35509",
   "name": "Géraldine",
-  "yesterday_date": "2026-08-13",
-  "yesterday_date_pretty": "le 13 août 2026",
+  "yesterday_date": "2026-08-19",
+  "yesterday_date_pretty": "le 19 août 2026",
   "visits": [
     {
-      "etab_name": "CS Caro Création Studio",
-      "etab_slug": "cs-caro-creation-studio",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/cs-caro-creation-studio.jpg",
-      "visite_id": "v_f806ca1ead61",
+      "etab_name": "Institut Sabaidee",
+      "etab_slug": "institut-sabaidee",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sabaidee.jpg",
+      "visite_id": "v_979d94d94a1b",
       "canton": "Neuchâtel",
-      "date_iso": "2026-08-13"
+      "date_iso": "2026-08-19"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "Institut M&Vous",
-      "etab_slug": "institut-mvous",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-mvous.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-mvous/",
+      "etab_name": "CLINIQUE LA JOUVENCE NEUCHÂTEL",
+      "etab_slug": "clinique-la-jouvence-neuchatel",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-neuchatel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-neuchatel/",
       "canton": "Neuchâtel",
-      "visites": 13,
-      "note": "4.5/5",
-      "blurb": "M&Vous, un espace de douceur sur-mesure. Aménagement et soins sélectionnés minutieusement, décoration distinctive : un cabinet de soin qui ne ressemble à aucun autre.",
+      "visites": 12,
+      "note": "5/5",
+      "blurb": "La Clinique La Jouvence à Neuchâtel. Approche personnalisée selon chaque type de peau, conseils sur-mesure : la médecine esthétique à l'écoute.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
@@ -31,18 +31,18 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/serenityblue.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/serenityblue/",
       "canton": "Neuchâtel",
-      "visites": 235,
+      "visites": 236,
       "note": "4.5/5",
       "blurb": "Serenityblue, dix ans d'expérience. Deux espaces : un dédié au corps et à la détente, un autre à l'esthétique, pour combiner bien-être et beauté.",
       "reason": "À découvrir dans le canton de Neuchâtel"
     },
     {
-      "etab_name": "SPA DES BISSES 4 VALLÉES",
-      "etab_slug": "spa-hotel-nendaz-4-vallees",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
-      "canton": "Valais",
-      "visites": 8,
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
+      "etab_slug": "bpnight-hotel-nendaz-4-vallees",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/",
+      "canton": null,
+      "visites": null,
       "note": null,
       "blurb": null,
       "reason": "Nouveau partenaire du réseau"

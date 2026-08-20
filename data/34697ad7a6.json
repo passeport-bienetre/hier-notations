@@ -1,39 +1,39 @@
 {
   "carte": "29295",
   "name": "Sabine",
-  "yesterday_date": "2026-08-18",
-  "yesterday_date_pretty": "le 18 août 2026",
+  "yesterday_date": "2026-08-19",
+  "yesterday_date_pretty": "le 19 août 2026",
   "visits": [
     {
-      "etab_name": "LES FITNESS HARMONY",
-      "etab_slug": null,
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--la-praille.jpg",
-      "visite_id": "v_bf1bbccd7799",
-      "canton": " ",
-      "date_iso": "2026-08-18"
+      "etab_name": "Blossom Institut",
+      "etab_slug": "blossom-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
+      "visite_id": "v_0a80874eacda",
+      "canton": "Genève",
+      "date_iso": "2026-08-19"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "FITNESS HARMONY - BLANDONNET",
-      "etab_slug": "les-fitness-harmony/blandonnet",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--blandonnet.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/les-fitness-harmony/blandonnet/",
+      "etab_name": "BEAUTY B",
+      "etab_slug": "bv-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
       "canton": "Genève",
-      "visites": 0,
-      "note": null,
-      "blurb": "Harmony Fitness Blandonnet, face au centre commercial. Aménagement résolument contemporain et conditions d'entraînement pensées : le club nouvelle génération.",
+      "visites": 148,
+      "note": "5/5",
+      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "FITNESS HARMONY - VERSOIX",
-      "etab_slug": "les-fitness-harmony/versoix",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--versoix.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/les-fitness-harmony/versoix/",
+      "etab_name": "CLINIQUE LA JOUVENCE GENÈVE",
+      "etab_slug": "clinique-la-jouvence-geneve",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-geneve.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-geneve/",
       "canton": "Genève",
-      "visites": 0,
-      "note": null,
-      "blurb": "Harmony Fitness Versoix, vue lac et Alpes. Grandes baies vitrées et technologie alliant force et douceur, avec le sentiment d'être en vacances à chaque séance.",
+      "visites": 9,
+      "note": "5/5",
+      "blurb": "La Clinique La Jouvence à Genève. Approche personnalisée selon chaque type de peau, conseils sur-mesure : la médecine esthétique à l'écoute.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {

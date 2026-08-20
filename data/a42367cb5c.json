@@ -1,16 +1,16 @@
 {
   "carte": "35051",
   "name": "Lucia",
-  "yesterday_date": "2026-08-05",
-  "yesterday_date_pretty": "le 5 août 2026",
+  "yesterday_date": "2026-08-19",
+  "yesterday_date_pretty": "le 19 août 2026",
   "visits": [
     {
-      "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
-      "etab_slug": "hotel-intercontinental-spa-5-mondes",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-intercontinental-spa-5-mondes.jpg",
-      "visite_id": "v_5b6bc67493da",
+      "etab_name": "Thaiotop",
+      "etab_slug": "thaiotop-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thaiotop-3.jpg",
+      "visite_id": "v_f64bf624948f",
       "canton": "Genève",
-      "date_iso": "2026-08-05"
+      "date_iso": "2026-08-19"
     }
   ],
   "suggestions": [
@@ -31,18 +31,18 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/origin-float-spa.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/origin-float-spa/",
       "canton": "Genève",
-      "visites": 205,
+      "visites": 206,
       "note": "4.5/5",
       "blurb": "ORIGIN, espace de flottaison et de boutique éthique. Tisane, lecture en repos et produits locaux engagés pour la sérénité avant et après la séance.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {
-      "etab_name": "SPA DES BISSES 4 VALLÉES",
-      "etab_slug": "spa-hotel-nendaz-4-vallees",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
-      "canton": "Valais",
-      "visites": 1,
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
+      "etab_slug": "bpnight-hotel-nendaz-4-vallees",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/",
+      "canton": null,
+      "visites": null,
       "note": null,
       "blurb": null,
       "reason": "Nouveau partenaire du réseau"

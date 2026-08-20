@@ -1,15 +1,15 @@
 {
-  "carte": "36351",
-  "name": "Lea",
+  "carte": "36010",
+  "name": "Catarina",
   "yesterday_date": "2026-08-19",
   "yesterday_date_pretty": "le 19 août 2026",
   "visits": [
     {
-      "etab_name": "Flocoon Spa Cinq Mondes",
-      "etab_slug": "flocoon-spa-cinq-mondes",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/flocoon-spa-cinq-mondes.jpg",
-      "visite_id": "v_849b68cc1026",
-      "canton": "Valais",
+      "etab_name": "Centre de bien-être J&J",
+      "etab_slug": "centre-de-bien-etre-jj",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/centre-de-bien-etre-jj.jpg",
+      "visite_id": "v_49803d570e8d",
+      "canton": null,
       "date_iso": "2026-08-19"
     }
   ],
