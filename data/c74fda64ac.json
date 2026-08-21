@@ -1,14 +1,14 @@
 {
-  "carte": "36810",
-  "name": "Susanne",
+  "carte": "33283",
+  "name": "Fanny",
   "yesterday_date": "2026-08-20",
   "yesterday_date_pretty": "le 20 août 2026",
   "visits": [
     {
-      "etab_name": "Le Bal des Créateurs",
-      "etab_slug": "le-bal-des-createurs-3",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-bal-des-createurs-3.jpg",
-      "visite_id": "v_6020a2244775",
+      "etab_name": "Parallèles Coiffure",
+      "etab_slug": "paralleles-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/paralleles-coiffure.jpg",
+      "visite_id": "v_e4e98dab40b7",
       "canton": "Genève",
       "date_iso": "2026-08-20"
     }
@@ -26,14 +26,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Parallèles Coiffure",
-      "etab_slug": "paralleles-coiffure",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/paralleles-coiffure.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/paralleles-coiffure/",
+      "etab_name": "So Hair",
+      "etab_slug": "so-hair",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/so-hair.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/so-hair/",
       "canton": "Genève",
-      "visites": 227,
+      "visites": 388,
       "note": "5/5",
-      "blurb": "Parallèles, salon en triplex aux produits Davines exclusivement. Équipe jeune et trendy, ambiance détendue, écologie en arrière-plan.",
+      "blurb": "So Hair, près de la gare Cornavin dans une rue calme. Coiffeurs, coloristes, manucures et maquilleurs sous le même toit, dans une ambiance sobre et épurée.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {

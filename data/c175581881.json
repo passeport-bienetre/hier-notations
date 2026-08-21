@@ -1,14 +1,14 @@
 {
-  "carte": "38577",
-  "name": "Angelina",
+  "carte": "38046",
+  "name": "Margot",
   "yesterday_date": "2026-08-20",
   "yesterday_date_pretty": "le 20 août 2026",
   "visits": [
     {
-      "etab_name": "SAKURA LAB",
-      "etab_slug": "sakura-lab",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sakura-lab.jpg",
-      "visite_id": "v_e5e58d89c131",
+      "etab_name": "BLISS",
+      "etab_slug": "bliss",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bliss.jpg",
+      "visite_id": "v_d76b110ed737",
       "canton": "Genève",
       "date_iso": "2026-08-20"
     }

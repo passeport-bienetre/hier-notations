@@ -1,14 +1,14 @@
 {
-  "carte": "36882",
-  "name": "Simmi",
+  "carte": "39401",
+  "name": "Sylvie",
   "yesterday_date": "2026-08-20",
   "yesterday_date_pretty": "le 20 août 2026",
   "visits": [
     {
-      "etab_name": "Institut Beauté Bertmans",
-      "etab_slug": "institut-beaute-bertmans",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-beaute-bertmans.jpg",
-      "visite_id": "v_dfeb868a3724",
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "visite_id": "v_048eb82c1305",
       "canton": "Vaud",
       "date_iso": "2026-08-20"
     }
@@ -26,14 +26,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Espace Beauté Harmonie",
-      "etab_slug": "espace-beaute-harmonie",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/espace-beaute-harmonie.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/espace-beaute-harmonie/",
+      "etab_name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
+      "etab_slug": "la-villa-dermo-esthetique-by-lorella",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa-dermo-esthetique-by-lorella.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/",
       "canton": "Vaud",
-      "visites": 84,
+      "visites": 83,
       "note": "5/5",
-      "blurb": "L'institut au cœur du quartier de Chailly. Cadre calme et chaleureux pour une pause détente en mode quartier.",
+      "blurb": "La Villa Dermo-Esthétique by Lorella, duo Lorella et Orphane. Kobido avancé, technologies de régénération et esthétique médicale : l'art du mieux-vieillir.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {

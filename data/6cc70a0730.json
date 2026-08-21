@@ -1,14 +1,14 @@
 {
-  "carte": "38577",
-  "name": "Angelina",
+  "carte": "39187",
+  "name": "Adrienne",
   "yesterday_date": "2026-08-20",
   "yesterday_date_pretty": "le 20 août 2026",
   "visits": [
     {
-      "etab_name": "SAKURA LAB",
-      "etab_slug": "sakura-lab",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sakura-lab.jpg",
-      "visite_id": "v_e5e58d89c131",
+      "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
+      "etab_slug": "le-centre-geneve-by-charline",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
+      "visite_id": "v_43152c598ee5",
       "canton": "Genève",
       "date_iso": "2026-08-20"
     }

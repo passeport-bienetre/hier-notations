@@ -1,30 +1,19 @@
 {
-  "carte": "35880",
-  "name": "Frédérique",
+  "carte": "39402",
+  "name": "Célia",
   "yesterday_date": "2026-08-20",
   "yesterday_date_pretty": "le 20 août 2026",
   "visits": [
     {
-      "etab_name": "Serenityblue",
-      "etab_slug": "serenityblue",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/serenityblue.jpg",
-      "visite_id": "v_b93f8ed35ba5",
-      "canton": "Neuchâtel",
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "visite_id": "v_fb61a6e3c815",
+      "canton": "Vaud",
       "date_iso": "2026-08-20"
     }
   ],
   "suggestions": [
-    {
-      "etab_name": "Bhumi",
-      "etab_slug": "biotonique-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
-      "canton": "Vaud",
-      "visites": 303,
-      "note": "5/5",
-      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
     {
       "etab_name": "Chandolin Boutique Hôtel",
       "etab_slug": "chandolin-boutique-hotel",
@@ -34,6 +23,17 @@
       "visites": 172,
       "note": "5/5",
       "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "LECRANS HOTEL & SPA",
+      "etab_slug": "le-st-gervais-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-st-gervais-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
+      "canton": "Valais",
+      "visites": 187,
+      "note": "5/5",
+      "blurb": "Le Saint Gervais Hôtel & Spa au pied du Mont-Blanc, dans une demeure historique. Soins [comfort zone] certifiés B Corp depuis 2016, la beauté durable en cure thermale.",
       "reason": "À découvrir dans le canton de Valais"
     },
     {
