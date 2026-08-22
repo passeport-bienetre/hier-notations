@@ -1,16 +1,16 @@
 {
   "carte": "31598",
   "name": "Véronique",
-  "yesterday_date": "2026-08-13",
-  "yesterday_date_pretty": "le 13 août 2026",
+  "yesterday_date": "2026-08-21",
+  "yesterday_date_pretty": "le 21 août 2026",
   "visits": [
     {
-      "etab_name": "19th AVENUE – Versonnex",
-      "etab_slug": "versonnex",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/versonnex.jpg",
-      "visite_id": "v_9858aaab722c",
+      "etab_name": "GLOW IN GENEVA",
+      "etab_slug": "glow-in-geneva",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/glow-in-geneva.jpg",
+      "visite_id": "v_7659227148de",
       "canton": "Genève",
-      "date_iso": "2026-08-13"
+      "date_iso": "2026-08-21"
     }
   ],
   "suggestions": [
@@ -31,18 +31,18 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "canton": "Genève",
-      "visites": 535,
+      "visites": 538,
       "note": "5/5",
       "blurb": "L'institut genevois spécialiste visage, mené par Nadège. Plus de dix ans de soins faciaux et de massages pointus au service d'une beauté naturelle.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {
-      "etab_name": "SPA DES BISSES 4 VALLÉES",
-      "etab_slug": "spa-hotel-nendaz-4-vallees",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
-      "canton": "Valais",
-      "visites": 8,
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
+      "etab_slug": "bpnight-hotel-nendaz-4-vallees",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/",
+      "canton": null,
+      "visites": null,
       "note": null,
       "blurb": null,
       "reason": "Nouveau partenaire du réseau"

@@ -1,14 +1,22 @@
 {
-  "carte": "36416",
-  "name": "Caroline",
+  "carte": "36172",
+  "name": "Martine",
   "yesterday_date": "2026-08-21",
   "yesterday_date_pretty": "le 21 août 2026",
   "visits": [
     {
-      "etab_name": "La Coifferie",
-      "etab_slug": "la-coifferie-3",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-coifferie-3.jpg",
-      "visite_id": "v_323ef2dc6f07",
+      "etab_name": "EUPHORIA & BEAUTY STUDIO",
+      "etab_slug": "euphoria-beauty-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
+      "visite_id": "v_777dfd78880e",
+      "canton": "Genève",
+      "date_iso": "2026-08-21"
+    },
+    {
+      "etab_name": "SUBLIMEYES",
+      "etab_slug": "institut-sublimeyes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
+      "visite_id": "v_5ac18fd75e4d",
       "canton": "Genève",
       "date_iso": "2026-08-21"
     }

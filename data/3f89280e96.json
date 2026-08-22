@@ -1,14 +1,14 @@
 {
-  "carte": "36068",
-  "name": "Rachel",
+  "carte": "38080",
+  "name": "Yasmine",
   "yesterday_date": "2026-08-21",
   "yesterday_date_pretty": "le 21 août 2026",
   "visits": [
     {
-      "etab_name": "Skin Solution",
-      "etab_slug": "skin-solution",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/skin-solution.jpg",
-      "visite_id": "v_969212651856",
+      "etab_name": "INSTITUT VALMONT CHEZ GLOBUS GENEVE",
+      "etab_slug": "institut-valmont-chez-globus-geneve",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-valmont-chez-globus-geneve.jpg",
+      "visite_id": "v_ec62cad84f20",
       "canton": "Genève",
       "date_iso": "2026-08-21"
     }

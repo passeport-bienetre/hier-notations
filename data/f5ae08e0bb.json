@@ -1,15 +1,15 @@
 {
-  "carte": "37087",
-  "name": "Sandra",
+  "carte": "34237",
+  "name": "Nadim",
   "yesterday_date": "2026-08-21",
   "yesterday_date_pretty": "le 21 août 2026",
   "visits": [
     {
-      "etab_name": "Maison B",
-      "etab_slug": "maison-b",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
-      "visite_id": "v_7cbde030c5ca",
-      "canton": null,
+      "etab_name": "INTUITIVE JESS",
+      "etab_slug": "intuitive-jess",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/intuitive-jess.jpg",
+      "visite_id": "v_66fd697af276",
+      "canton": "Genève",
       "date_iso": "2026-08-21"
     }
   ],

@@ -1,30 +1,19 @@
 {
-  "carte": "37087",
-  "name": "Sandra",
+  "carte": "36637",
+  "name": "severine",
   "yesterday_date": "2026-08-21",
   "yesterday_date_pretty": "le 21 août 2026",
   "visits": [
     {
-      "etab_name": "Maison B",
-      "etab_slug": "maison-b",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
-      "visite_id": "v_7cbde030c5ca",
+      "etab_name": "Tête à Clak",
+      "etab_slug": "tete-a-clak",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/tete-a-clak.jpg",
+      "visite_id": "v_b1752a7e3842",
       "canton": null,
       "date_iso": "2026-08-21"
     }
   ],
   "suggestions": [
-    {
-      "etab_name": "1er Acte Coiffure",
-      "etab_slug": "1er-acte-coiffure",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
-      "canton": "Vaud",
-      "visites": 733,
-      "note": "5/5",
-      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
     {
       "etab_name": "Atmosp'hair",
       "etab_slug": "atmosphair",
@@ -34,6 +23,17 @@
       "visites": 181,
       "note": "5/5",
       "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "CJ Coiffure",
+      "etab_slug": "cj-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/cj-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/cj-coiffure/",
+      "canton": "Vaud",
+      "visites": 591,
+      "note": "5/5",
+      "blurb": "Le salon de deux amies, Caroline et Jenny. Convivialité, tendance et formation continue auprès des partenaires : le salon comme deuxième salon.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {

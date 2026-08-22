@@ -1,14 +1,14 @@
 {
-  "carte": "36068",
-  "name": "Rachel",
+  "carte": "31042",
+  "name": "Anne-Catherine",
   "yesterday_date": "2026-08-21",
   "yesterday_date_pretty": "le 21 août 2026",
   "visits": [
     {
-      "etab_name": "Skin Solution",
-      "etab_slug": "skin-solution",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/skin-solution.jpg",
-      "visite_id": "v_969212651856",
+      "etab_name": "CLINIQUE LA JOUVENCE GENÈVE",
+      "etab_slug": "clinique-la-jouvence-geneve",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-geneve.jpg",
+      "visite_id": "v_f04a8ba94367",
       "canton": "Genève",
       "date_iso": "2026-08-21"
     }
