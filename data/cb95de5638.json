@@ -1,48 +1,48 @@
 {
   "carte": "36132",
   "name": "Angela",
-  "yesterday_date": "2026-08-13",
-  "yesterday_date_pretty": "le 13 août 2026",
+  "yesterday_date": "2026-08-22",
+  "yesterday_date_pretty": "le 22 août 2026",
   "visits": [
     {
-      "etab_name": "MAISON DU TEMPS",
-      "etab_slug": "maison-du-temps",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-du-temps.jpg",
-      "visite_id": "v_afb7e695b24f",
-      "canton": "Genève",
-      "date_iso": "2026-08-13"
+      "etab_name": "RUBIS SPA",
+      "etab_slug": "rubis-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/rubis-spa.jpg",
+      "visite_id": "v_22e062945884",
+      "canton": "Vaud",
+      "date_iso": "2026-08-22"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "Corps Sains",
-      "etab_slug": "corps-sains",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-sains.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/",
+      "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
+      "etab_slug": "hotel-intercontinental-spa-5-mondes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-intercontinental-spa-5-mondes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "canton": "Genève",
-      "visites": 145,
+      "visites": 436,
       "note": "5/5",
-      "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
+      "blurb": "Au cœur de Genève, l'adresse urbaine signée Cinq Mondes. Rituels d'ailleurs et piscine au 30e étage pour une pause hors du monde.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "COMME SUR UN NUAGE",
-      "etab_slug": "comme-sur-un-nuage",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/comme-sur-un-nuage.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/comme-sur-un-nuage/",
-      "canton": "Neuchâtel",
-      "visites": 55,
-      "note": "5/5",
-      "blurb": "Le centre de Typhaine Bessey, dix ans d'expérience entre spa hôtelier et bains thermaux. Formée en Ayurveda et aromathérapie, elle mise sur des cosmétiques sains.",
-      "reason": "À découvrir dans le canton de Neuchâtel"
+      "etab_name": "Namaka - Centre de Longévité et Bienêtre",
+      "etab_slug": "namaka",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/namaka.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/namaka/",
+      "canton": "Genève",
+      "visites": 203,
+      "note": "4.5/5",
+      "blurb": "Namaka, bain de flottaison à 500 kg de sel d'Epsom. Apesanteur, chants de baleines, silence vrai : la régénération en magnésium naturel.",
+      "reason": "À découvrir dans le canton de Genève"
     },
     {
-      "etab_name": "SPA DES BISSES 4 VALLÉES",
-      "etab_slug": "spa-hotel-nendaz-4-vallees",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
-      "canton": "Valais",
-      "visites": 8,
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
+      "etab_slug": "bpnight-hotel-nendaz-4-vallees",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/",
+      "canton": null,
+      "visites": null,
       "note": null,
       "blurb": null,
       "reason": "Nouveau partenaire du réseau"

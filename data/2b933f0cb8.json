@@ -1,14 +1,14 @@
 {
-  "carte": "38116",
-  "name": "Audrey",
+  "carte": "31069",
+  "name": "Morgane",
   "yesterday_date": "2026-08-22",
   "yesterday_date_pretty": "le 22 août 2026",
   "visits": [
     {
-      "etab_name": "Saai Nam Massage – Manor",
-      "etab_slug": "saai-nam-massage-manor",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/saai-nam-massage-manor.jpg",
-      "visite_id": "v_c3572dd5182a",
+      "etab_name": "Blossom Institut",
+      "etab_slug": "blossom-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
+      "visite_id": "v_498926fb0e56",
       "canton": "Genève",
       "date_iso": "2026-08-22"
     }
@@ -26,14 +26,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Corps Sains",
-      "etab_slug": "corps-sains",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-sains.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/",
+      "etab_name": "CLINIQUE LA JOUVENCE GENÈVE",
+      "etab_slug": "clinique-la-jouvence-geneve",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-geneve.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-geneve/",
       "canton": "Genève",
-      "visites": 145,
+      "visites": 10,
       "note": "5/5",
-      "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
+      "blurb": "La Clinique La Jouvence à Genève. Approche personnalisée selon chaque type de peau, conseils sur-mesure : la médecine esthétique à l'écoute.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {

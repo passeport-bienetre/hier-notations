@@ -1,15 +1,15 @@
 {
-  "carte": "35551",
-  "name": "zelia",
+  "carte": "38609",
+  "name": "Lorine",
   "yesterday_date": "2026-08-22",
   "yesterday_date_pretty": "le 22 août 2026",
   "visits": [
     {
-      "etab_name": "Lumen Spa & Wellness",
-      "etab_slug": "lumen-spa-wellness",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lumen-spa-wellness.jpg",
-      "visite_id": "v_74b10598c959",
-      "canton": "Valais",
+      "etab_name": "Nail Café",
+      "etab_slug": "nail-cafe",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nail-cafe.jpg",
+      "visite_id": "v_eb365e3079be",
+      "canton": "Vaud",
       "date_iso": "2026-08-22"
     }
   ],
@@ -26,14 +26,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Chalet Royalp Hôtel & Spa",
-      "etab_slug": "chalet-royalp-hotel-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
+      "etab_name": "Espace Beauté Harmonie",
+      "etab_slug": "espace-beaute-harmonie",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/espace-beaute-harmonie.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/espace-beaute-harmonie/",
       "canton": "Vaud",
-      "visites": 942,
+      "visites": 84,
       "note": "5/5",
-      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
+      "blurb": "L'institut au cœur du quartier de Chailly. Cadre calme et chaleureux pour une pause détente en mode quartier.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {

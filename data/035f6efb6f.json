@@ -1,15 +1,15 @@
 {
-  "carte": "35551",
-  "name": "zelia",
+  "carte": "36829",
+  "name": "Isabelle",
   "yesterday_date": "2026-08-22",
   "yesterday_date_pretty": "le 22 août 2026",
   "visits": [
     {
-      "etab_name": "Lumen Spa & Wellness",
-      "etab_slug": "lumen-spa-wellness",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lumen-spa-wellness.jpg",
-      "visite_id": "v_74b10598c959",
-      "canton": "Valais",
+      "etab_name": "Organik Beauty",
+      "etab_slug": "organik-beauty",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/organik-beauty.jpg",
+      "visite_id": "v_2aafc3fdabd5",
+      "canton": "Vaud",
       "date_iso": "2026-08-22"
     }
   ],
@@ -26,14 +26,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Chalet Royalp Hôtel & Spa",
-      "etab_slug": "chalet-royalp-hotel-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
+      "etab_name": "Institut Biotiful",
+      "etab_slug": "institut-biotiful-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-biotiful-2.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-biotiful-2/",
       "canton": "Vaud",
-      "visites": 942,
-      "note": "5/5",
-      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
+      "visites": 127,
+      "note": "4.5/5",
+      "blurb": "L'institut Bio'tiful de Margaux Nussbaumer et Marion Gudit. Soins avec gammes certifiées biologiques, ambiance zen et décoration naturelle. L'arrêt dans le temps.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {

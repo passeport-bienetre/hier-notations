@@ -1,16 +1,16 @@
 {
   "carte": "39240",
   "name": "Félicia",
-  "yesterday_date": "2026-08-20",
-  "yesterday_date_pretty": "le 20 août 2026",
+  "yesterday_date": "2026-08-22",
+  "yesterday_date_pretty": "le 22 août 2026",
   "visits": [
     {
-      "etab_name": "Luna aesthetic",
-      "etab_slug": "luna-aesthetic",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/luna-aesthetic.jpg",
-      "visite_id": "v_22fffb6d0435",
-      "canton": "Vaud",
-      "date_iso": "2026-08-20"
+      "etab_name": "Les Sources du Chéry",
+      "etab_slug": "les-sources-du-chery",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-sources-du-chery.jpg",
+      "visite_id": "v_713062e9784a",
+      "canton": null,
+      "date_iso": "2026-08-22"
     }
   ],
   "suggestions": [

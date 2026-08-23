@@ -1,14 +1,14 @@
 {
-  "carte": "36953",
-  "name": "Kéo",
+  "carte": "35943",
+  "name": "Ludovic",
   "yesterday_date": "2026-08-22",
   "yesterday_date_pretty": "le 22 août 2026",
   "visits": [
     {
-      "etab_name": "Swiss Aesthetica",
-      "etab_slug": "swiss-aesthetica",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/swiss-aesthetica.jpg",
-      "visite_id": "v_fcc994e3b7d3",
+      "etab_name": "EVERNESS <br>Hôtel & Resort",
+      "etab_slug": "everness-resort",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/everness-resort.jpg",
+      "visite_id": "v_db41a8b7d894",
       "canton": "Vaud",
       "date_iso": "2026-08-22"
     }
