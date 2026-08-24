@@ -1,30 +1,19 @@
 {
-  "carte": "39383",
-  "name": "Yves",
+  "carte": "29072",
+  "name": "Corinne",
   "yesterday_date": "2026-08-23",
   "yesterday_date_pretty": "le 23 août 2026",
   "visits": [
     {
-      "etab_name": "Europe Hôtel & Spa",
-      "etab_slug": "europe-hotel-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/europe-hotel-spa.jpg",
-      "visite_id": "v_9d889f24ced0",
-      "canton": "Valais",
+      "etab_name": "SPA BY CLARINS – HÔTEL MONT-BLANC CHAMONIX",
+      "etab_slug": "spa-by-clarins",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-by-clarins.jpg",
+      "visite_id": "v_3b42697134c1",
+      "canton": null,
       "date_iso": "2026-08-23"
     }
   ],
   "suggestions": [
-    {
-      "etab_name": "Chandolin Boutique Hôtel",
-      "etab_slug": "chandolin-boutique-hotel",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
-      "canton": "Valais",
-      "visites": 172,
-      "note": "5/5",
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
     {
       "etab_name": "Flocoon Spa Cinq Mondes",
       "etab_slug": "flocoon-spa-cinq-mondes",
@@ -34,6 +23,17 @@
       "visites": 357,
       "note": "5/5",
       "blurb": "Le Spa Flocoon by Cinq Mondes à Crans Montana, 700 m² au cœur du Sport Club Residences. Piscine 15m chauffée, hammam, sauna et trois salles de soin dont une duo. L'évasion alpine grand format.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "ERINGER INSTITUT",
+      "etab_slug": "eringer-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/eringer-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/eringer-institut/",
+      "canton": "Valais",
+      "visites": 70,
+      "note": "4.5/5",
+      "blurb": "L'Institut Eringer Beauty & SPA, au 2ème étage des Bains d'Hérémence. Soins visage, massages relaxants et technologies amincissantes prolongent le bain valaisan.",
       "reason": "À découvrir dans le canton de Valais"
     },
     {

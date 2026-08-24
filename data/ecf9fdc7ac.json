@@ -1,6 +1,6 @@
 {
-  "carte": "39383",
-  "name": "Yves",
+  "carte": "35385",
+  "name": "Carolane",
   "yesterday_date": "2026-08-23",
   "yesterday_date_pretty": "le 23 août 2026",
   "visits": [
@@ -8,7 +8,7 @@
       "etab_name": "Europe Hôtel & Spa",
       "etab_slug": "europe-hotel-spa",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/europe-hotel-spa.jpg",
-      "visite_id": "v_9d889f24ced0",
+      "visite_id": "v_bac8c141a58e",
       "canton": "Valais",
       "date_iso": "2026-08-23"
     }
@@ -26,14 +26,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Flocoon Spa Cinq Mondes",
-      "etab_slug": "flocoon-spa-cinq-mondes",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/flocoon-spa-cinq-mondes.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/",
+      "etab_name": "INSTITUT NATURALPE",
+      "etab_slug": "institut-naturalpe",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-naturalpe.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-naturalpe/",
       "canton": "Valais",
-      "visites": 357,
+      "visites": 29,
       "note": "5/5",
-      "blurb": "Le Spa Flocoon by Cinq Mondes à Crans Montana, 700 m² au cœur du Sport Club Residences. Piscine 15m chauffée, hammam, sauna et trois salles de soin dont une duo. L'évasion alpine grand format.",
+      "blurb": "L'Institut Naturalpe de la famille Salamin, à la croisée de l'esthétique et de la naturopathie. Une bulle où santé et beauté avancent ensemble.",
       "reason": "À découvrir dans le canton de Valais"
     },
     {
