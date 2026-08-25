@@ -1,14 +1,14 @@
 {
-  "carte": "34540",
-  "name": "Marie",
+  "carte": "38588",
+  "name": "Tabatha",
   "yesterday_date": "2026-08-24",
   "yesterday_date_pretty": "le 24 août 2026",
   "visits": [
     {
-      "etab_name": "INTUITIVE JESS",
-      "etab_slug": "intuitive-jess",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/intuitive-jess.jpg",
-      "visite_id": "v_7ec43eeef2f3",
+      "etab_name": "SUBLIMEYES",
+      "etab_slug": "institut-sublimeyes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
+      "visite_id": "v_6cb8b1a51866",
       "canton": "Genève",
       "date_iso": "2026-08-24"
     }

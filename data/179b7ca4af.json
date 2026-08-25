@@ -1,14 +1,14 @@
 {
-  "carte": "34880",
-  "name": "Valentine",
+  "carte": "38105",
+  "name": "Philippe",
   "yesterday_date": "2026-08-24",
   "yesterday_date_pretty": "le 24 août 2026",
   "visits": [
     {
-      "etab_name": "Arte Beauty Lutry",
-      "etab_slug": "arte-beauty-lutry",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
-      "visite_id": "v_041cc6b90cb9",
+      "etab_name": "Nueva Luna Yoga",
+      "etab_slug": "nueva-luna-yoga",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nueva-luna-yoga.jpg",
+      "visite_id": "v_fd69e2d5f1d8",
       "canton": "Vaud",
       "date_iso": "2026-08-24"
     }
