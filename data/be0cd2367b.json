@@ -1,22 +1,14 @@
 {
-  "carte": "30776",
-  "name": "Christa",
+  "carte": "35144",
+  "name": "Julia",
   "yesterday_date": "2026-08-26",
   "yesterday_date_pretty": "le 26 août 2026",
   "visits": [
     {
-      "etab_name": "Institut Orphée",
-      "etab_slug": "institut-sirene",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sirene.jpg",
-      "visite_id": "v_df7c0d5c6fbd",
-      "canton": "Vaud",
-      "date_iso": "2026-08-26"
-    },
-    {
-      "etab_name": "Institut Sirène",
-      "etab_slug": "institut-sirene",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sirene.jpg",
-      "visite_id": "v_d7204f144601",
+      "etab_name": "Spa La Santé, Bulles de Champagne",
+      "etab_slug": "la-sante-a-champagne",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-sante-a-champagne.jpg",
+      "visite_id": "v_8330aeadaf54",
       "canton": "Vaud",
       "date_iso": "2026-08-26"
     }

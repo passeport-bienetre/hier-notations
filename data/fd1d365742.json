@@ -1,14 +1,14 @@
 {
-  "carte": "36868",
-  "name": "KIMBERLY",
+  "carte": "39164",
+  "name": "Fabrice",
   "yesterday_date": "2026-08-26",
   "yesterday_date_pretty": "le 26 août 2026",
   "visits": [
     {
-      "etab_name": "Le Mirador Resort & Spa",
-      "etab_slug": "le-mirador-resort-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
-      "visite_id": "v_ff3a16659f62",
+      "etab_name": "Chalet Royalp Hôtel & Spa",
+      "etab_slug": "chalet-royalp-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "visite_id": "v_2fe2ae7857ec",
       "canton": "Vaud",
       "date_iso": "2026-08-26"
     }
@@ -26,15 +26,15 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "COMME SUR UN NUAGE",
-      "etab_slug": "comme-sur-un-nuage",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/comme-sur-un-nuage.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/comme-sur-un-nuage/",
-      "canton": "Neuchâtel",
-      "visites": 56,
+      "etab_name": "Grand Hôtel du Lac",
+      "etab_slug": "grand-hotel-du-lac",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/grand-hotel-du-lac.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
+      "canton": "Vaud",
+      "visites": 577,
       "note": "5/5",
-      "blurb": "Le centre de Typhaine Bessey, dix ans d'expérience entre spa hôtelier et bains thermaux. Formée en Ayurveda et aromathérapie, elle mise sur des cosmétiques sains.",
-      "reason": "À découvrir dans le canton de Neuchâtel"
+      "blurb": "Le Grand Hôtel du Lac à Vevey, sur les rives du Léman aux portes de Lavaux. SPA Valmont au 2e étage : welcome suite, 3 cabines, hammam et sauna face au lac.",
+      "reason": "À découvrir dans le canton de Vaud"
     },
     {
       "etab_name": "HÔTEL NENDAZ 4 VALLÉES",

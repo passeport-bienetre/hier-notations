@@ -1,40 +1,40 @@
 {
   "carte": "34731",
   "name": "Lucie",
-  "yesterday_date": "2026-08-22",
-  "yesterday_date_pretty": "le 22 août 2026",
+  "yesterday_date": "2026-08-26",
+  "yesterday_date_pretty": "le 26 août 2026",
   "visits": [
     {
-      "etab_name": "Ô Soi",
-      "etab_slug": "o-soi",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/o-soi.jpg",
-      "visite_id": "v_7507a5f3eeba",
-      "canton": null,
-      "date_iso": "2026-08-22"
+      "etab_name": "Serenityblue",
+      "etab_slug": "serenityblue",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/serenityblue.jpg",
+      "visite_id": "v_3c8b5b4eea85",
+      "canton": "Neuchâtel",
+      "date_iso": "2026-08-26"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "1er Acte Coiffure",
-      "etab_slug": "1er-acte-coiffure",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
+      "etab_name": "Bhumi",
+      "etab_slug": "biotonique-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
       "canton": "Vaud",
-      "visites": 733,
+      "visites": 304,
       "note": "5/5",
-      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
+      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "ALEX COIFFURE SARL",
-      "etab_slug": "a-lex-coiffure-3",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/a-lex-coiffure-3.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/a-lex-coiffure-3/",
-      "canton": "Fribourg",
-      "visites": 76,
+      "etab_name": "COMME SUR UN NUAGE",
+      "etab_slug": "comme-sur-un-nuage",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/comme-sur-un-nuage.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/comme-sur-un-nuage/",
+      "canton": "Neuchâtel",
+      "visites": 56,
       "note": "5/5",
-      "blurb": "Le salon fribourgeois d'Alexandra Rody-Geinoz, repris en 1998. Espace Détente Touch Therapy, massage de la tête et équipe formée à Paris prolongent la coiffure d'un moment de pause.",
-      "reason": "À découvrir dans le canton de Fribourg"
+      "blurb": "Le centre de Typhaine Bessey, dix ans d'expérience entre spa hôtelier et bains thermaux. Formée en Ayurveda et aromathérapie, elle mise sur des cosmétiques sains.",
+      "reason": "À découvrir dans le canton de Neuchâtel"
     },
     {
       "etab_name": "HÔTEL NENDAZ 4 VALLÉES",

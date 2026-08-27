@@ -1,15 +1,15 @@
 {
-  "carte": "36931",
-  "name": "Laetitia",
+  "carte": "39928",
+  "name": "Valentine",
   "yesterday_date": "2026-08-26",
   "yesterday_date_pretty": "le 26 août 2026",
   "visits": [
     {
-      "etab_name": "Les Cliniques Matignon",
-      "etab_slug": null,
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--geneve.jpg",
-      "visite_id": "v_60df03dd3728",
-      "canton": " ",
+      "etab_name": "MYO Style",
+      "etab_slug": "myo-style",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/myo-style.jpg",
+      "visite_id": "v_048661d8e5ca",
+      "canton": "Vaud",
       "date_iso": "2026-08-26"
     }
   ],
