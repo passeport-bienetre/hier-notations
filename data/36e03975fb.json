@@ -1,16 +1,16 @@
 {
   "carte": "35583",
   "name": "Besa",
-  "yesterday_date": "2026-08-26",
-  "yesterday_date_pretty": "le 26 août 2026",
+  "yesterday_date": "2026-08-27",
+  "yesterday_date_pretty": "le 27 août 2026",
   "visits": [
     {
-      "etab_name": "Signature Coiffure",
-      "etab_slug": "signature-coiffure",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/signature-coiffure.jpg",
-      "visite_id": "v_72d92bcf3ff9",
+      "etab_name": "Arte Beauty EPFL",
+      "etab_slug": "arte-beauty-epfl",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
+      "visite_id": "v_1d1691e1bb8e",
       "canton": "Vaud",
-      "date_iso": "2026-08-26"
+      "date_iso": "2026-08-27"
     }
   ],
   "suggestions": [
@@ -31,7 +31,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
       "canton": "Vaud",
-      "visites": 181,
+      "visites": 182,
       "note": "5/5",
       "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
       "reason": "À découvrir dans le canton de Vaud"

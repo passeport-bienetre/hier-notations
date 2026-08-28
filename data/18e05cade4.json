@@ -1,14 +1,14 @@
 {
-  "carte": "35144",
-  "name": "Julia",
+  "carte": "32707",
+  "name": "Jeanne",
   "yesterday_date": "2026-08-27",
   "yesterday_date_pretty": "le 27 août 2026",
   "visits": [
     {
-      "etab_name": "Institut Beauté Bertmans",
-      "etab_slug": "institut-beaute-bertmans",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-beaute-bertmans.jpg",
-      "visite_id": "v_6a91be83f27d",
+      "etab_name": "Lausanne Palace & Spa",
+      "etab_slug": "lausanne-palace-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lausanne-palace-spa.jpg",
+      "visite_id": "v_7fcfcea1cf6d",
       "canton": "Vaud",
       "date_iso": "2026-08-27"
     }
@@ -26,14 +26,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Espace Beauté Sarah",
-      "etab_slug": "espace-beaute-sarah",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/espace-beaute-sarah.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/",
+      "etab_name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
+      "etab_slug": "la-villa-dermo-esthetique-by-lorella",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa-dermo-esthetique-by-lorella.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/",
       "canton": "Vaud",
-      "visites": 290,
+      "visites": 85,
       "note": "5/5",
-      "blurb": "Au cœur de Lausanne, le cocon sobre et élégant de Sarah. Vingt ans d'expérience en esthétique et soins sur-mesure dans la confidence d'une cabine.",
+      "blurb": "La Villa Dermo-Esthétique by Lorella, duo Lorella et Orphane. Kobido avancé, technologies de régénération et esthétique médicale : l'art du mieux-vieillir.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {

@@ -1,15 +1,15 @@
 {
-  "carte": "38602",
-  "name": "Clara",
+  "carte": "35210",
+  "name": "Maelig",
   "yesterday_date": "2026-08-27",
   "yesterday_date_pretty": "le 27 août 2026",
   "visits": [
     {
-      "etab_name": "Institut Osmose",
-      "etab_slug": "institut-osmose",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-osmose.jpg",
-      "visite_id": "v_a03c0d2201b9",
-      "canton": "Vaud",
+      "etab_name": "Maison B",
+      "etab_slug": "maison-b",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
+      "visite_id": "v_ab103865969c",
+      "canton": null,
       "date_iso": "2026-08-27"
     }
   ],

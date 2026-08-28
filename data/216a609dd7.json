@@ -1,14 +1,14 @@
 {
-  "carte": "35144",
-  "name": "Julia",
+  "carte": "34474",
+  "name": "Linda",
   "yesterday_date": "2026-08-27",
   "yesterday_date_pretty": "le 27 août 2026",
   "visits": [
     {
-      "etab_name": "Institut Beauté Bertmans",
-      "etab_slug": "institut-beaute-bertmans",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-beaute-bertmans.jpg",
-      "visite_id": "v_6a91be83f27d",
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "visite_id": "v_98b47a48df45",
       "canton": "Vaud",
       "date_iso": "2026-08-27"
     }
@@ -26,15 +26,15 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Espace Beauté Sarah",
-      "etab_slug": "espace-beaute-sarah",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/espace-beaute-sarah.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/",
-      "canton": "Vaud",
-      "visites": 290,
+      "etab_name": "COMME SUR UN NUAGE",
+      "etab_slug": "comme-sur-un-nuage",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/comme-sur-un-nuage.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/comme-sur-un-nuage/",
+      "canton": "Neuchâtel",
+      "visites": 56,
       "note": "5/5",
-      "blurb": "Au cœur de Lausanne, le cocon sobre et élégant de Sarah. Vingt ans d'expérience en esthétique et soins sur-mesure dans la confidence d'une cabine.",
-      "reason": "À découvrir dans le canton de Vaud"
+      "blurb": "Le centre de Typhaine Bessey, dix ans d'expérience entre spa hôtelier et bains thermaux. Formée en Ayurveda et aromathérapie, elle mise sur des cosmétiques sains.",
+      "reason": "À découvrir dans le canton de Neuchâtel"
     },
     {
       "etab_name": "HÔTEL NENDAZ 4 VALLÉES",

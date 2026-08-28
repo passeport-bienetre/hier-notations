@@ -1,15 +1,15 @@
 {
-  "carte": "36552",
-  "name": "Delphine",
+  "carte": "31243",
+  "name": "Aline",
   "yesterday_date": "2026-08-27",
   "yesterday_date_pretty": "le 27 août 2026",
   "visits": [
     {
-      "etab_name": "INSTITUT VALMONT CHEZ GLOBUS GENEVE",
-      "etab_slug": "institut-valmont-chez-globus-geneve",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-valmont-chez-globus-geneve.jpg",
-      "visite_id": "v_acb4e1683939",
-      "canton": "Genève",
+      "etab_name": "Lumen Spa & Wellness",
+      "etab_slug": "lumen-spa-wellness",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lumen-spa-wellness.jpg",
+      "visite_id": "v_2985ddb0d47e",
+      "canton": "Valais",
       "date_iso": "2026-08-27"
     }
   ],
@@ -26,14 +26,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Le Lokal",
-      "etab_slug": "le-lokal",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-lokal.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/le-lokal/",
+      "etab_name": "INSTITUT NATURALPE",
+      "etab_slug": "institut-naturalpe",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-naturalpe.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-naturalpe/",
       "canton": "Valais",
-      "visites": 51,
+      "visites": 30,
       "note": "5/5",
-      "blurb": "Le LoKal à Martigny-Bourg, fondé en 2015. Coiffure cadre zen et partenaire Keune depuis 1922 : la beauté capillaire au tempo lent.",
+      "blurb": "L'Institut Naturalpe de la famille Salamin, à la croisée de l'esthétique et de la naturopathie. Une bulle où santé et beauté avancent ensemble.",
       "reason": "À découvrir dans le canton de Valais"
     },
     {
