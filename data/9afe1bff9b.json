@@ -1,14 +1,14 @@
 {
-  "carte": "35996",
-  "name": "Nadège",
+  "carte": "34417",
+  "name": "Natasha",
   "yesterday_date": "2026-08-28",
   "yesterday_date_pretty": "le 28 août 2026",
   "visits": [
     {
-      "etab_name": "FLEUR D’EPIDERME",
-      "etab_slug": "fleur-depiderme",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
-      "visite_id": "v_053b9c429329",
+      "etab_name": "Thai Corner",
+      "etab_slug": "thai-corner-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thai-corner-3.jpg",
+      "visite_id": "v_6272ab3d1193",
       "canton": "Genève",
       "date_iso": "2026-08-28"
     }

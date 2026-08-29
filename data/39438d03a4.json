@@ -1,16 +1,16 @@
 {
   "carte": "30847",
   "name": "Chiara",
-  "yesterday_date": "2026-08-19",
-  "yesterday_date_pretty": "le 19 août 2026",
+  "yesterday_date": "2026-08-28",
+  "yesterday_date_pretty": "le 28 août 2026",
   "visits": [
     {
-      "etab_name": "Le Passage",
-      "etab_slug": "le-passage",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-passage.jpg",
-      "visite_id": "v_9ae4afadded8",
+      "etab_name": "Odyssée Santé & Beauté",
+      "etab_slug": "odyssee-sante-beaute",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/odyssee-sante-beaute.jpg",
+      "visite_id": "v_a75e5ed94132",
       "canton": "Vaud",
-      "date_iso": "2026-08-19"
+      "date_iso": "2026-08-28"
     }
   ],
   "suggestions": [
@@ -20,20 +20,20 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
       "canton": "Vaud",
-      "visites": 180,
+      "visites": 182,
       "note": "5/5",
       "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "CJ Coiffure",
-      "etab_slug": "cj-coiffure",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/cj-coiffure.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/cj-coiffure/",
+      "etab_name": "Bhumi",
+      "etab_slug": "biotonique-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
       "canton": "Vaud",
-      "visites": 591,
+      "visites": 305,
       "note": "5/5",
-      "blurb": "Le salon de deux amies, Caroline et Jenny. Convivialité, tendance et formation continue auprès des partenaires : le salon comme deuxième salon.",
+      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
@@ -41,10 +41,10 @@
       "etab_slug": "bpnight-hotel-nendaz-4-vallees",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/",
-      "canton": null,
+      "canton": "Valais",
       "visites": null,
       "note": null,
-      "blurb": null,
+      "blurb": "Au cœur de Haute-Nendaz et du domaine skiable des 4 Vallées, l'Hôtel Nendaz 4 Vallées & Spa marie style valaisan contemporain, atmosphère authentique et un spa d'exception de 2'200 m².",
       "reason": "Nouveau partenaire du réseau"
     }
   ]

@@ -1,14 +1,14 @@
 {
-  "carte": "39396",
-  "name": "Amélie",
+  "carte": "36358",
+  "name": "Razan",
   "yesterday_date": "2026-08-28",
   "yesterday_date_pretty": "le 28 août 2026",
   "visits": [
     {
-      "etab_name": "Le Passage",
-      "etab_slug": "le-passage",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-passage.jpg",
-      "visite_id": "v_178b8affad0f",
+      "etab_name": "EVERNESS <br>Hôtel & Resort",
+      "etab_slug": "everness-resort",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/everness-resort.jpg",
+      "visite_id": "v_2a88e6505b17",
       "canton": "Vaud",
       "date_iso": "2026-08-28"
     }

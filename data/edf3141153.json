@@ -1,15 +1,15 @@
 {
-  "carte": "39240",
-  "name": "Félicia",
+  "carte": "37113",
+  "name": "Julia",
   "yesterday_date": "2026-08-28",
   "yesterday_date_pretty": "le 28 août 2026",
   "visits": [
     {
-      "etab_name": "Chalet-Hôtel la Marmotte",
-      "etab_slug": "chalet-hotel-la-marmotte",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-hotel-la-marmotte.jpg",
-      "visite_id": "v_48d5d55ccacc",
-      "canton": null,
+      "etab_name": "Luna aesthetic",
+      "etab_slug": "luna-aesthetic",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/luna-aesthetic.jpg",
+      "visite_id": "v_0d25271819a1",
+      "canton": "Vaud",
       "date_iso": "2026-08-28"
     }
   ],
@@ -26,15 +26,15 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "COMME SUR UN NUAGE",
-      "etab_slug": "comme-sur-un-nuage",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/comme-sur-un-nuage.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/comme-sur-un-nuage/",
-      "canton": "Neuchâtel",
-      "visites": 56,
+      "etab_name": "Chalet Royalp Hôtel & Spa",
+      "etab_slug": "chalet-royalp-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
+      "canton": "Vaud",
+      "visites": 944,
       "note": "5/5",
-      "blurb": "Le centre de Typhaine Bessey, dix ans d'expérience entre spa hôtelier et bains thermaux. Formée en Ayurveda et aromathérapie, elle mise sur des cosmétiques sains.",
-      "reason": "À découvrir dans le canton de Neuchâtel"
+      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
+      "reason": "À découvrir dans le canton de Vaud"
     },
     {
       "etab_name": "HÔTEL NENDAZ 4 VALLÉES",

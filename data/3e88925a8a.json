@@ -1,6 +1,6 @@
 {
-  "carte": "36537",
-  "name": "Myriam",
+  "carte": "36318",
+  "name": "Françoise",
   "yesterday_date": "2026-08-28",
   "yesterday_date_pretty": "le 28 août 2026",
   "visits": [
@@ -8,7 +8,7 @@
       "etab_name": "NUANCES NATURE",
       "etab_slug": "nuances-nature",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nuances-nature.jpg",
-      "visite_id": "v_60a17bf612ac",
+      "visite_id": "v_64ef4f836f06",
       "canton": "Genève",
       "date_iso": "2026-08-28"
     }

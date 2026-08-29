@@ -1,15 +1,15 @@
 {
-  "carte": "39396",
-  "name": "Amélie",
+  "carte": "33319",
+  "name": "Romaine",
   "yesterday_date": "2026-08-28",
   "yesterday_date_pretty": "le 28 août 2026",
   "visits": [
     {
-      "etab_name": "Le Passage",
-      "etab_slug": "le-passage",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-passage.jpg",
-      "visite_id": "v_178b8affad0f",
-      "canton": "Vaud",
+      "etab_name": "Les Cliniques Matignon",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--capsule-geneve-clinique-matignon.jpg",
+      "visite_id": "v_089f93eb4035",
+      "canton": " ",
       "date_iso": "2026-08-28"
     }
   ],

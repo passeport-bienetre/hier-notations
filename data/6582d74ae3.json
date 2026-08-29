@@ -1,15 +1,15 @@
 {
-  "carte": "39396",
-  "name": "Amélie",
+  "carte": "35636",
+  "name": "MYRIAM",
   "yesterday_date": "2026-08-28",
   "yesterday_date_pretty": "le 28 août 2026",
   "visits": [
     {
-      "etab_name": "Le Passage",
-      "etab_slug": "le-passage",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-passage.jpg",
-      "visite_id": "v_178b8affad0f",
-      "canton": "Vaud",
+      "etab_name": "Maison B",
+      "etab_slug": "maison-b",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
+      "visite_id": "v_8f5761e5de6b",
+      "canton": null,
       "date_iso": "2026-08-28"
     }
   ],

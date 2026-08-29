@@ -1,14 +1,14 @@
 {
-  "carte": "35996",
-  "name": "Nadège",
+  "carte": "36927",
+  "name": "Cédric",
   "yesterday_date": "2026-08-28",
   "yesterday_date_pretty": "le 28 août 2026",
   "visits": [
     {
-      "etab_name": "FLEUR D’EPIDERME",
-      "etab_slug": "fleur-depiderme",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
-      "visite_id": "v_053b9c429329",
+      "etab_name": "Saai Nam Massage – Manor",
+      "etab_slug": "saai-nam-massage-manor",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/saai-nam-massage-manor.jpg",
+      "visite_id": "v_d24b11cfbf7a",
       "canton": "Genève",
       "date_iso": "2026-08-28"
     }
