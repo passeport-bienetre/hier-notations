@@ -1,16 +1,16 @@
 {
   "carte": "38116",
   "name": "Audrey",
-  "yesterday_date": "2026-08-22",
-  "yesterday_date_pretty": "le 22 août 2026",
+  "yesterday_date": "2026-08-29",
+  "yesterday_date_pretty": "le 29 août 2026",
   "visits": [
     {
-      "etab_name": "Saai Nam Massage – Manor",
-      "etab_slug": "saai-nam-massage-manor",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/saai-nam-massage-manor.jpg",
-      "visite_id": "v_c3572dd5182a",
+      "etab_name": "Thai Corner",
+      "etab_slug": "thai-corner-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thai-corner-3.jpg",
+      "visite_id": "v_5a574c519fd0",
       "canton": "Genève",
-      "date_iso": "2026-08-22"
+      "date_iso": "2026-08-29"
     }
   ],
   "suggestions": [
@@ -41,10 +41,10 @@
       "etab_slug": "bpnight-hotel-nendaz-4-vallees",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/",
-      "canton": null,
+      "canton": "Valais",
       "visites": null,
       "note": null,
-      "blurb": null,
+      "blurb": "Au cœur de Haute-Nendaz et du domaine skiable des 4 Vallées, l'Hôtel Nendaz 4 Vallées & Spa marie style valaisan contemporain, atmosphère authentique et un spa d'exception de 2'200 m².",
       "reason": "Nouveau partenaire du réseau"
     }
   ]

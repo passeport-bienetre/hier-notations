@@ -1,0 +1,51 @@
+{
+  "carte": "32335",
+  "name": "Fanny",
+  "yesterday_date": "2026-08-29",
+  "yesterday_date_pretty": "le 29 août 2026",
+  "visits": [
+    {
+      "etab_name": "Chandolin Boutique Hôtel",
+      "etab_slug": "chandolin-boutique-hotel",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
+      "visite_id": "v_4e918622dc65",
+      "canton": null,
+      "date_iso": "2026-08-29"
+    }
+  ],
+  "suggestions": [
+    {
+      "etab_name": "Dent Blanche Resort & Lumen Spa",
+      "etab_slug": "bpnight-dent-blanche-resort-lumen-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-dent-blanche-resort-lumen-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-dent-blanche-resort-lumen-spa/",
+      "canton": "Valais",
+      "visites": null,
+      "note": null,
+      "blurb": "Le complexe Dent-Blanche Resort à Hérémence, vue Cervin. 69 appartements en résidence hôtelière au pied des pistes des 4 Vallées : l'Alpe brute en version hôtel.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "ERINGER HÔTEL",
+      "etab_slug": "bpnight-eringer-hotel",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-eringer-hotel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-eringer-hotel/",
+      "canton": "Valais",
+      "visites": 4,
+      "note": null,
+      "blurb": "L'Eringer Hotel au cœur des 4 Vallées, à 20 minutes de Sion. Matériaux locaux, empreinte carbone faible et vue 180° sur le Val d'Hérens. L'authenticité valaisanne.",
+      "reason": "À découvrir dans le canton de Valais"
+    },
+    {
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
+      "etab_slug": "bpnight-hotel-nendaz-4-vallees",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/",
+      "canton": "Valais",
+      "visites": null,
+      "note": null,
+      "blurb": "Au cœur de Haute-Nendaz et du domaine skiable des 4 Vallées, l'Hôtel Nendaz 4 Vallées & Spa marie style valaisan contemporain, atmosphère authentique et un spa d'exception de 2'200 m².",
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}

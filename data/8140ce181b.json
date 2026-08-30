@@ -1,14 +1,14 @@
 {
-  "carte": "35600",
-  "name": "Zora",
+  "carte": "35729",
+  "name": "Emmy",
   "yesterday_date": "2026-08-29",
   "yesterday_date_pretty": "le 29 août 2026",
   "visits": [
     {
-      "etab_name": "LAURA COIFFEUSE PRIVÉE",
-      "etab_slug": "laura-coiffeuse-privee",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/laura-coiffeuse-privee.jpg",
-      "visite_id": "v_fac444782a28",
+      "etab_name": "Institut ZenSkin",
+      "etab_slug": "institut-fs",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-fs.jpg",
+      "visite_id": "v_96a449461927",
       "canton": "Vaud",
       "date_iso": "2026-08-29"
     }

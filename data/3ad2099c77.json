@@ -1,15 +1,15 @@
 {
-  "carte": "35627",
-  "name": "Laura",
+  "carte": "38831",
+  "name": "Rossella",
   "yesterday_date": "2026-08-29",
   "yesterday_date_pretty": "le 29 août 2026",
   "visits": [
     {
-      "etab_name": "Luna aesthetic",
-      "etab_slug": "luna-aesthetic",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/luna-aesthetic.jpg",
-      "visite_id": "v_031fa677ae8f",
-      "canton": "Vaud",
+      "etab_name": "SUBLIMEYES",
+      "etab_slug": "institut-sublimeyes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
+      "visite_id": "v_39a4b329cde2",
+      "canton": "Genève",
       "date_iso": "2026-08-29"
     }
   ],
@@ -26,14 +26,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Corps Sains",
-      "etab_slug": "corps-sains",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-sains.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/",
+      "etab_name": "Blossom Institut",
+      "etab_slug": "blossom-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "canton": "Genève",
-      "visites": 145,
+      "visites": 541,
       "note": "5/5",
-      "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
+      "blurb": "L'institut genevois spécialiste visage, mené par Nadège. Plus de dix ans de soins faciaux et de massages pointus au service d'une beauté naturelle.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {
