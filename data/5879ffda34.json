@@ -1,15 +1,15 @@
 {
-  "carte": "39318",
-  "name": "Clara",
+  "carte": "31642",
+  "name": "Anais",
   "yesterday_date": "2026-08-30",
   "yesterday_date_pretty": "le 30 août 2026",
   "visits": [
     {
-      "etab_name": "Hôtel & Spa Le National",
-      "etab_slug": "hotel-spa-le-national",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-spa-le-national.jpg",
-      "visite_id": "v_855674b54c68",
-      "canton": "Valais",
+      "etab_name": "LES TRESOMS",
+      "etab_slug": "les-tresoms-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-tresoms-2.jpg",
+      "visite_id": "v_08264768c07b",
+      "canton": null,
       "date_iso": "2026-08-30"
     }
   ],
