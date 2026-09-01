@@ -1,6 +1,6 @@
 {
-  "carte": "38056",
-  "name": "Raphael",
+  "carte": "38795",
+  "name": "Lucie",
   "yesterday_date": "2026-08-31",
   "yesterday_date_pretty": "le 31 août 2026",
   "visits": [
@@ -8,33 +8,33 @@
       "etab_name": "Espace Beauté Sarah",
       "etab_slug": "espace-beaute-sarah",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/espace-beaute-sarah.jpg",
-      "visite_id": "v_9c51e90b18a2",
+      "visite_id": "v_ebd0cd0a4ed1",
       "canton": "Vaud",
       "date_iso": "2026-08-31"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "Chanelle and Co.",
-      "etab_slug": "chanelle-and-co",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chanelle-and-co.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chanelle-and-co/",
-      "canton": "Valais",
-      "visites": 15,
+      "etab_name": "Bhumi",
+      "etab_slug": "biotonique-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
+      "canton": "Vaud",
+      "visites": 305,
       "note": "5/5",
-      "blurb": "L'espace beauté Chanelle&co. Soins du visage adaptés à chaque type de peau dans une ambiance reposante, la pause beauté à la carte.",
+      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "INSTITUT NATURALPE",
-      "etab_slug": "institut-naturalpe",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-naturalpe.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-naturalpe/",
-      "canton": "Valais",
-      "visites": 30,
+      "etab_name": "Espace Beauté Harmonie",
+      "etab_slug": "espace-beaute-harmonie",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/espace-beaute-harmonie.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/espace-beaute-harmonie/",
+      "canton": "Vaud",
+      "visites": 85,
       "note": "5/5",
-      "blurb": "L'Institut Naturalpe de la famille Salamin, à la croisée de l'esthétique et de la naturopathie. Une bulle où santé et beauté avancent ensemble.",
-      "reason": "À découvrir dans le canton de Valais"
+      "blurb": "L'institut au cœur du quartier de Chailly. Cadre calme et chaleureux pour une pause détente en mode quartier.",
+      "reason": "À découvrir dans le canton de Vaud"
     },
     {
       "etab_name": "HÔTEL NENDAZ 4 VALLÉES",

@@ -1,14 +1,14 @@
 {
-  "carte": "34898",
-  "name": "Touria",
+  "carte": "37063",
+  "name": "Soma",
   "yesterday_date": "2026-08-31",
   "yesterday_date_pretty": "le 31 août 2026",
   "visits": [
     {
-      "etab_name": "Le Passage",
-      "etab_slug": "le-passage",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-passage.jpg",
-      "visite_id": "v_1842c06f1b8c",
+      "etab_name": "Arte Beauty EPFL",
+      "etab_slug": "arte-beauty-epfl",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
+      "visite_id": "v_a8ff6739e857",
       "canton": "Vaud",
       "date_iso": "2026-08-31"
     }

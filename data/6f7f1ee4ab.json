@@ -1,14 +1,14 @@
 {
-  "carte": "34898",
-  "name": "Touria",
+  "carte": "38011",
+  "name": "Sandy",
   "yesterday_date": "2026-08-31",
   "yesterday_date_pretty": "le 31 août 2026",
   "visits": [
     {
-      "etab_name": "Le Passage",
-      "etab_slug": "le-passage",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-passage.jpg",
-      "visite_id": "v_1842c06f1b8c",
+      "etab_name": "Institut ZenSkin",
+      "etab_slug": "institut-fs",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-fs.jpg",
+      "visite_id": "v_475e31cdc29e",
       "canton": "Vaud",
       "date_iso": "2026-08-31"
     }

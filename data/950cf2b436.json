@@ -1,15 +1,15 @@
 {
-  "carte": "34898",
-  "name": "Touria",
+  "carte": "30622",
+  "name": "magali",
   "yesterday_date": "2026-08-31",
   "yesterday_date_pretty": "le 31 août 2026",
   "visits": [
     {
-      "etab_name": "Le Passage",
-      "etab_slug": "le-passage",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-passage.jpg",
-      "visite_id": "v_1842c06f1b8c",
-      "canton": "Vaud",
+      "etab_name": "Vogue La Coiffure",
+      "etab_slug": "vogue-la-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/vogue-la-coiffure.jpg",
+      "visite_id": "v_4c755598faf6",
+      "canton": null,
       "date_iso": "2026-08-31"
     }
   ],
@@ -26,15 +26,15 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Atmosp'hair",
-      "etab_slug": "atmosphair",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
-      "canton": "Vaud",
-      "visites": 182,
+      "etab_name": "ALEX COIFFURE SARL",
+      "etab_slug": "a-lex-coiffure-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/a-lex-coiffure-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/a-lex-coiffure-3/",
+      "canton": "Fribourg",
+      "visites": 76,
       "note": "5/5",
-      "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
-      "reason": "À découvrir dans le canton de Vaud"
+      "blurb": "Le salon fribourgeois d'Alexandra Rody-Geinoz, repris en 1998. Espace Détente Touch Therapy, massage de la tête et équipe formée à Paris prolongent la coiffure d'un moment de pause.",
+      "reason": "À découvrir dans le canton de Fribourg"
     },
     {
       "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
