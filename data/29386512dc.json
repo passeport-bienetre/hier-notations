@@ -1,14 +1,14 @@
 {
-  "carte": "32367",
-  "name": "Audrey",
+  "carte": "38035",
+  "name": "Tania",
   "yesterday_date": "2026-09-01",
   "yesterday_date_pretty": "le 1 septembre 2026",
   "visits": [
     {
-      "etab_name": "RUBIS SPA",
-      "etab_slug": "rubis-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/rubis-spa.jpg",
-      "visite_id": "v_c6edd1534bb1",
+      "etab_name": "Tempête de Calme",
+      "etab_slug": "tempete-de-calme",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/tempete-de-calme.jpg",
+      "visite_id": "v_990bbe8ed55a",
       "canton": "Vaud",
       "date_iso": "2026-09-01"
     }

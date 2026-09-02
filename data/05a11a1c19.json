@@ -1,14 +1,14 @@
 {
-  "carte": "34877",
-  "name": "Ariane",
+  "carte": "35762",
+  "name": "emeline",
   "yesterday_date": "2026-09-01",
   "yesterday_date_pretty": "le 1 septembre 2026",
   "visits": [
     {
-      "etab_name": "Naïda Massothérapie",
-      "etab_slug": "naida-massotherapie",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/naida-massotherapie.jpg",
-      "visite_id": "v_db4bc7c24e1f",
+      "etab_name": "Salon Privé Gare",
+      "etab_slug": "salon-prive",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive.jpg",
+      "visite_id": "v_1f7562f9272d",
       "canton": "Vaud",
       "date_iso": "2026-09-01"
     }
