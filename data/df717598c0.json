@@ -1,14 +1,14 @@
 {
-  "carte": "35769",
-  "name": "Marine",
+  "carte": "32780",
+  "name": "Maëlle",
   "yesterday_date": "2026-09-02",
   "yesterday_date_pretty": "le 2 septembre 2026",
   "visits": [
     {
-      "etab_name": "Naïda Massothérapie",
-      "etab_slug": "naida-massotherapie",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/naida-massotherapie.jpg",
-      "visite_id": "v_fc1d1fff3b57",
+      "etab_name": "Nueva Luna Yoga",
+      "etab_slug": "nueva-luna-yoga",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nueva-luna-yoga.jpg",
+      "visite_id": "v_9d965a578ef1",
       "canton": "Vaud",
       "date_iso": "2026-09-02"
     }

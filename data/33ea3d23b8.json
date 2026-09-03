@@ -1,50 +1,50 @@
 {
   "carte": "33209",
   "name": "Emmanuelle",
-  "yesterday_date": "2026-08-11",
-  "yesterday_date_pretty": "le 11 août 2026",
+  "yesterday_date": "2026-09-02",
+  "yesterday_date_pretty": "le 2 septembre 2026",
   "visits": [
     {
-      "etab_name": "Le Mirador Resort & Spa",
-      "etab_slug": "le-mirador-resort-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
-      "visite_id": "v_75ad333ca47c",
-      "canton": "Vaud",
-      "date_iso": "2026-08-11"
+      "etab_name": "Le Cabinet de Beauté",
+      "etab_slug": "le-cabinet-de-beaute",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-cabinet-de-beaute.jpg",
+      "visite_id": "v_1f7ff5dd0f6f",
+      "canton": "Genève",
+      "date_iso": "2026-09-02"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "Corps Sains",
-      "etab_slug": "corps-sains",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-sains.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/",
+      "etab_name": "NUANCES NATURE",
+      "etab_slug": "nuances-nature",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nuances-nature.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/nuances-nature/",
       "canton": "Genève",
-      "visites": 145,
+      "visites": 109,
       "note": "5/5",
-      "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
+      "blurb": "Ki Nuances Nature à Carouge. Esthéticienne depuis vingt ans et formatrice en cosmétiques bio pendant douze ans, elle propose soins visage, corps et Signature dans un cocon de sérénité.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "MAISON DU TEMPS",
-      "etab_slug": "maison-du-temps",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-du-temps.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-du-temps/",
+      "etab_name": "Wulan Studio",
+      "etab_slug": "wulan-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/wulan-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/wulan-studio/",
       "canton": "Genève",
-      "visites": 41,
-      "note": null,
-      "blurb": null,
+      "visites": 74,
+      "note": "5/5",
+      "blurb": "Wulan HeadCare studio. Inspiré des traditions asiatiques, massage crânien et soin capillaire aux produits certifiés bio : la beauté du cuir chevelu en mode holistique.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {
-      "etab_name": "SPA DES BISSES 4 VALLÉES",
-      "etab_slug": "spa-hotel-nendaz-4-vallees",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
+      "etab_slug": "bpnight-hotel-nendaz-4-vallees",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/",
       "canton": "Valais",
-      "visites": 9,
+      "visites": null,
       "note": null,
-      "blurb": null,
+      "blurb": "Au cœur de Haute-Nendaz et du domaine skiable des 4 Vallées, l'Hôtel Nendaz 4 Vallées & Spa marie style valaisan contemporain, atmosphère authentique et un spa d'exception de 2'200 m².",
       "reason": "Nouveau partenaire du réseau"
     }
   ]

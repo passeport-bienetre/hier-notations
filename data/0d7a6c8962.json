@@ -1,16 +1,16 @@
 {
   "carte": "31026",
   "name": "Faiza",
-  "yesterday_date": "2026-08-18",
-  "yesterday_date_pretty": "le 18 août 2026",
+  "yesterday_date": "2026-09-02",
+  "yesterday_date_pretty": "le 2 septembre 2026",
   "visits": [
     {
-      "etab_name": "LAURA COIFFEUSE PRIVÉE",
-      "etab_slug": "laura-coiffeuse-privee",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/laura-coiffeuse-privee.jpg",
-      "visite_id": "v_adf29f6443fc",
-      "canton": "Vaud",
-      "date_iso": "2026-08-18"
+      "etab_name": "Hairmania",
+      "etab_slug": "hairmania",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hairmania.jpg",
+      "visite_id": "v_9061e4d33f9b",
+      "canton": null,
+      "date_iso": "2026-09-02"
     }
   ],
   "suggestions": [
@@ -20,7 +20,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "canton": "Vaud",
-      "visites": 730,
+      "visites": 734,
       "note": "5/5",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "reason": "Nous pensons que vous allez aimer"
@@ -31,7 +31,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
       "canton": "Vaud",
-      "visites": 180,
+      "visites": 182,
       "note": "5/5",
       "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
       "reason": "À découvrir dans le canton de Vaud"
@@ -41,10 +41,10 @@
       "etab_slug": "bpnight-hotel-nendaz-4-vallees",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/",
-      "canton": null,
+      "canton": "Valais",
       "visites": null,
       "note": null,
-      "blurb": null,
+      "blurb": "Au cœur de Haute-Nendaz et du domaine skiable des 4 Vallées, l'Hôtel Nendaz 4 Vallées & Spa marie style valaisan contemporain, atmosphère authentique et un spa d'exception de 2'200 m².",
       "reason": "Nouveau partenaire du réseau"
     }
   ]

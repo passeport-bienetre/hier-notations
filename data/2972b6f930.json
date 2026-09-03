@@ -1,15 +1,15 @@
 {
-  "carte": "35769",
-  "name": "Marine",
+  "carte": "39475",
+  "name": "Sara",
   "yesterday_date": "2026-09-02",
   "yesterday_date_pretty": "le 2 septembre 2026",
   "visits": [
     {
-      "etab_name": "Naïda Massothérapie",
-      "etab_slug": "naida-massotherapie",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/naida-massotherapie.jpg",
-      "visite_id": "v_fc1d1fff3b57",
-      "canton": "Vaud",
+      "etab_name": "Maison B",
+      "etab_slug": "maison-b",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
+      "visite_id": "v_0b28791fd1c2",
+      "canton": null,
       "date_iso": "2026-09-02"
     }
   ],

@@ -1,14 +1,14 @@
 {
-  "carte": "35769",
-  "name": "Marine",
+  "carte": "38020",
+  "name": "Morgane",
   "yesterday_date": "2026-09-02",
   "yesterday_date_pretty": "le 2 septembre 2026",
   "visits": [
     {
-      "etab_name": "Naïda Massothérapie",
-      "etab_slug": "naida-massotherapie",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/naida-massotherapie.jpg",
-      "visite_id": "v_fc1d1fff3b57",
+      "etab_name": "Salon Privé Ecublens",
+      "etab_slug": "salon-prive-ecublens",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-ecublens.jpg",
+      "visite_id": "v_ccbf452ce6e0",
       "canton": "Vaud",
       "date_iso": "2026-09-02"
     }

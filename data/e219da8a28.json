@@ -1,16 +1,16 @@
 {
   "carte": "31852",
   "name": "Carole",
-  "yesterday_date": "2026-08-31",
-  "yesterday_date_pretty": "le 31 août 2026",
+  "yesterday_date": "2026-09-02",
+  "yesterday_date_pretty": "le 2 septembre 2026",
   "visits": [
     {
-      "etab_name": "Namasté",
-      "etab_slug": "namaste",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/namaste.jpg",
-      "visite_id": "v_aa741b6e6864",
+      "etab_name": "Institut Guinot",
+      "etab_slug": "institut-guinot-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
+      "visite_id": "v_b3f32d97e5f6",
       "canton": "Vaud",
-      "date_iso": "2026-08-31"
+      "date_iso": "2026-09-02"
     }
   ],
   "suggestions": [

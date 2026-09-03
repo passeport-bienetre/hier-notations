@@ -1,15 +1,15 @@
 {
-  "carte": "34992",
-  "name": "Laura",
+  "carte": "39607",
+  "name": "Antonella",
   "yesterday_date": "2026-09-02",
   "yesterday_date_pretty": "le 2 septembre 2026",
   "visits": [
     {
-      "etab_name": "Hôtel & Spa Le National",
-      "etab_slug": "hotel-spa-le-national",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-spa-le-national.jpg",
-      "visite_id": "v_5ff3c25b549a",
-      "canton": "Valais",
+      "etab_name": "Corps et Sons",
+      "etab_slug": "corps-et-sons",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-et-sons.jpg",
+      "visite_id": "v_65bc360fd378",
+      "canton": "Vaud",
       "date_iso": "2026-09-02"
     }
   ],
