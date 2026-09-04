@@ -1,16 +1,16 @@
 {
   "carte": "35634",
   "name": "Jennifer",
-  "yesterday_date": "2026-09-02",
-  "yesterday_date_pretty": "le 2 septembre 2026",
+  "yesterday_date": "2026-09-03",
+  "yesterday_date_pretty": "le 3 septembre 2026",
   "visits": [
     {
-      "etab_name": "Arte Beauty EPFL",
-      "etab_slug": "arte-beauty-epfl",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
-      "visite_id": "v_a117baa8abf2",
-      "canton": "Vaud",
-      "date_iso": "2026-09-02"
+      "etab_name": "Maison B",
+      "etab_slug": "maison-b",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
+      "visite_id": "v_2a08e8105406",
+      "canton": null,
+      "date_iso": "2026-09-03"
     }
   ],
   "suggestions": [

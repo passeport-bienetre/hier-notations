@@ -1,14 +1,14 @@
 {
-  "carte": "39222",
-  "name": "Vanessa",
+  "carte": "34228",
+  "name": "Dora",
   "yesterday_date": "2026-09-03",
   "yesterday_date_pretty": "le 3 septembre 2026",
   "visits": [
     {
-      "etab_name": "Le Mirador Resort & Spa",
-      "etab_slug": "le-mirador-resort-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
-      "visite_id": "v_24a029ec618d",
+      "etab_name": "Lausanne Palace & Spa",
+      "etab_slug": "lausanne-palace-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lausanne-palace-spa.jpg",
+      "visite_id": "v_9e956433ca12",
       "canton": "Vaud",
       "date_iso": "2026-09-03"
     }
