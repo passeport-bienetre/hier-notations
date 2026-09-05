@@ -1,50 +1,50 @@
 {
   "carte": "35657",
-  "name": "Marie-Lise",
-  "yesterday_date": "2026-07-30",
-  "yesterday_date_pretty": "le 30 juillet 2026",
+  "name": "Jonas",
+  "yesterday_date": "2026-09-04",
+  "yesterday_date_pretty": "le 4 septembre 2026",
   "visits": [
     {
-      "etab_name": "LECRANS HOTEL & SPA",
-      "etab_slug": "le-st-gervais-hotel-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-st-gervais-hotel-spa.jpg",
-      "visite_id": "v_7e982889081a",
-      "canton": "Valais",
-      "date_iso": "2026-07-30"
+      "etab_name": "Royal Savoy Hôtel & Spa",
+      "etab_slug": "royal-savoy-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+      "visite_id": "v_bcb5bc6c277a",
+      "canton": "Vaud",
+      "date_iso": "2026-09-04"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "Chandolin Boutique Hôtel",
-      "etab_slug": "chandolin-boutique-hotel",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
-      "canton": "Valais",
-      "visites": 171,
+      "etab_name": "Bhumi",
+      "etab_slug": "biotonique-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
+      "canton": "Vaud",
+      "visites": 305,
       "note": "5/5",
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Hostellerie du Pas de l'Ours",
-      "etab_slug": "hostellerie-du-pas-de-lours",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hostellerie-du-pas-de-lours.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/hostellerie-du-pas-de-lours/",
-      "canton": "Valais",
-      "visites": 112,
-      "note": "4/5",
-      "blurb": "Le spa de l'Hostellerie du Pas-de-l'Ours à Crans-Montana. Soins visage Hormeta, soins corps Phytomer et atmosphère relaxante avec la personnalisation au cœur du geste.",
-      "reason": "À découvrir dans le canton de Valais"
+      "etab_name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
+      "etab_slug": "la-villa-dermo-esthetique-by-lorella",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa-dermo-esthetique-by-lorella.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/",
+      "canton": "Vaud",
+      "visites": 86,
+      "note": "5/5",
+      "blurb": "La Villa Dermo-Esthétique by Lorella, duo Lorella et Orphane. Kobido avancé, technologies de régénération et esthétique médicale : l'art du mieux-vieillir.",
+      "reason": "À découvrir dans le canton de Vaud"
     },
     {
-      "etab_name": "SPA DES BISSES 4 VALLÉES",
-      "etab_slug": "spa-hotel-nendaz-4-vallees",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
+      "etab_slug": "bpnight-hotel-nendaz-4-vallees",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/",
       "canton": "Valais",
-      "visites": 0,
+      "visites": null,
       "note": null,
-      "blurb": null,
+      "blurb": "Au cœur de Haute-Nendaz et du domaine skiable des 4 Vallées, l'Hôtel Nendaz 4 Vallées & Spa marie style valaisan contemporain, atmosphère authentique et un spa d'exception de 2'200 m².",
       "reason": "Nouveau partenaire du réseau"
     }
   ]

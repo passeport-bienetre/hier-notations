@@ -1,39 +1,39 @@
 {
   "carte": "39421",
   "name": "Aurélia",
-  "yesterday_date": "2026-08-28",
-  "yesterday_date_pretty": "le 28 août 2026",
+  "yesterday_date": "2026-09-04",
+  "yesterday_date_pretty": "le 4 septembre 2026",
   "visits": [
     {
-      "etab_name": "Thaiotop",
-      "etab_slug": "thaiotop-3",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thaiotop-3.jpg",
-      "visite_id": "v_a63d5d4217dd",
+      "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
+      "etab_slug": "le-centre-geneve-by-charline",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
+      "visite_id": "v_cd8c7fc8475c",
       "canton": "Genève",
-      "date_iso": "2026-08-28"
+      "date_iso": "2026-09-04"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
-      "etab_slug": "hotel-intercontinental-spa-5-mondes",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-intercontinental-spa-5-mondes.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
+      "etab_name": "BEAUTY B",
+      "etab_slug": "bv-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
       "canton": "Genève",
-      "visites": 437,
+      "visites": 148,
       "note": "5/5",
-      "blurb": "Au cœur de Genève, l'adresse urbaine signée Cinq Mondes. Rituels d'ailleurs et piscine au 30e étage pour une pause hors du monde.",
+      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Namaka - Centre de Longévité et Bienêtre",
-      "etab_slug": "namaka",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/namaka.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/namaka/",
+      "etab_name": "FLEUR D’EPIDERME",
+      "etab_slug": "fleur-depiderme",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
       "canton": "Genève",
-      "visites": 203,
-      "note": "4.5/5",
-      "blurb": "Namaka, bain de flottaison à 500 kg de sel d'Epsom. Apesanteur, chants de baleines, silence vrai : la régénération en magnésium naturel.",
+      "visites": 114,
+      "note": "5/5",
+      "blurb": "La maison de beauté A Fleur d'Épiderme, spécialiste soins de la peau et épilation définitive. Technicité médicale et douceur esthétique, sans compromis sur le résultat.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {

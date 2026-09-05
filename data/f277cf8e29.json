@@ -1,14 +1,14 @@
 {
-  "carte": "35123",
-  "name": "Christiane",
+  "carte": "38699",
+  "name": "Audrey",
   "yesterday_date": "2026-09-04",
   "yesterday_date_pretty": "le 4 septembre 2026",
   "visits": [
     {
-      "etab_name": "Institut Kaori",
-      "etab_slug": "institut-kaori",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-kaori.jpg",
-      "visite_id": "v_437f10b45ec8",
+      "etab_name": "Salon Privé Ecublens",
+      "etab_slug": "salon-prive-ecublens",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-ecublens.jpg",
+      "visite_id": "v_d52541425f7e",
       "canton": "Vaud",
       "date_iso": "2026-09-04"
     }

@@ -1,16 +1,16 @@
 {
   "carte": "37102",
   "name": "Romain",
-  "yesterday_date": "2026-09-03",
-  "yesterday_date_pretty": "le 3 septembre 2026",
+  "yesterday_date": "2026-09-04",
+  "yesterday_date_pretty": "le 4 septembre 2026",
   "visits": [
     {
-      "etab_name": "Lumen Spa & Wellness",
-      "etab_slug": "lumen-spa-wellness",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lumen-spa-wellness.jpg",
-      "visite_id": "v_02af0071bbcf",
-      "canton": "Valais",
-      "date_iso": "2026-09-03"
+      "etab_name": "Saai Nam Massage – Manor",
+      "etab_slug": "saai-nam-massage-manor",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/saai-nam-massage-manor.jpg",
+      "visite_id": "v_54b19bc03638",
+      "canton": "Genève",
+      "date_iso": "2026-09-04"
     }
   ],
   "suggestions": [

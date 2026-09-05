@@ -1,16 +1,16 @@
 {
   "carte": "30632",
   "name": "muge",
-  "yesterday_date": "2026-06-25",
-  "yesterday_date_pretty": "le 25 juin 2026",
+  "yesterday_date": "2026-09-04",
+  "yesterday_date_pretty": "le 4 septembre 2026",
   "visits": [
     {
-      "etab_name": "So Beauty Home",
-      "etab_slug": "so-beauty-home",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/so-beauty-home.jpg",
-      "visite_id": "v_010016dcff20",
+      "etab_name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "etab_slug": "lavalleespa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lavalleespa.jpg",
+      "visite_id": "v_ee8e803748c2",
       "canton": "Genève",
-      "date_iso": "2026-06-25"
+      "date_iso": "2026-09-04"
     }
   ],
   "suggestions": [
@@ -20,7 +20,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
       "canton": "Genève",
-      "visites": 145,
+      "visites": 148,
       "note": "5/5",
       "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
       "reason": "Nous pensons que vous allez aimer"
@@ -31,20 +31,20 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "canton": "Genève",
-      "visites": 524,
+      "visites": 542,
       "note": "5/5",
       "blurb": "L'institut genevois spécialiste visage, mené par Nadège. Plus de dix ans de soins faciaux et de massages pointus au service d'une beauté naturelle.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
-      "etab_slug": "chandolin-boutique-hotel",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
-      "canton": null,
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
+      "etab_slug": "bpnight-hotel-nendaz-4-vallees",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/",
+      "canton": "Valais",
       "visites": null,
       "note": null,
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "blurb": "Au cœur de Haute-Nendaz et du domaine skiable des 4 Vallées, l'Hôtel Nendaz 4 Vallées & Spa marie style valaisan contemporain, atmosphère authentique et un spa d'exception de 2'200 m².",
       "reason": "Nouveau partenaire du réseau"
     }
   ]

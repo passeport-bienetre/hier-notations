@@ -1,6 +1,6 @@
 {
-  "carte": "35298",
-  "name": "Sibylle",
+  "carte": "37192",
+  "name": "Marie",
   "yesterday_date": "2026-09-04",
   "yesterday_date_pretty": "le 4 septembre 2026",
   "visits": [
@@ -8,7 +8,7 @@
       "etab_name": "Le Mirador Resort & Spa",
       "etab_slug": "le-mirador-resort-spa",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
-      "visite_id": "v_d4b4905af748",
+      "visite_id": "v_8b95c7b27d9a",
       "canton": "Vaud",
       "date_iso": "2026-09-04"
     }

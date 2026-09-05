@@ -1,19 +1,30 @@
 {
-  "carte": "35298",
-  "name": "Sibylle",
+  "carte": "30317",
+  "name": "Aurélie",
   "yesterday_date": "2026-09-04",
   "yesterday_date_pretty": "le 4 septembre 2026",
   "visits": [
     {
-      "etab_name": "Le Mirador Resort & Spa",
-      "etab_slug": "le-mirador-resort-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
-      "visite_id": "v_d4b4905af748",
+      "etab_name": "Luna aesthetic",
+      "etab_slug": "luna-aesthetic",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/luna-aesthetic.jpg",
+      "visite_id": "v_1bc65d6624a0",
       "canton": "Vaud",
       "date_iso": "2026-09-04"
     }
   ],
   "suggestions": [
+    {
+      "etab_name": "BEAUTY B",
+      "etab_slug": "bv-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
+      "canton": "Genève",
+      "visites": 148,
+      "note": "5/5",
+      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
     {
       "etab_name": "Bhumi",
       "etab_slug": "biotonique-institut",
@@ -23,17 +34,6 @@
       "visites": 305,
       "note": "5/5",
       "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
-    {
-      "etab_name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
-      "etab_slug": "la-villa-dermo-esthetique-by-lorella",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa-dermo-esthetique-by-lorella.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/",
-      "canton": "Vaud",
-      "visites": 86,
-      "note": "5/5",
-      "blurb": "La Villa Dermo-Esthétique by Lorella, duo Lorella et Orphane. Kobido avancé, technologies de régénération et esthétique médicale : l'art du mieux-vieillir.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {

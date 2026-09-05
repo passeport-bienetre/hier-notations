@@ -1,15 +1,15 @@
 {
-  "carte": "35123",
-  "name": "Christiane",
+  "carte": "38596",
+  "name": "Myrtille",
   "yesterday_date": "2026-09-04",
   "yesterday_date_pretty": "le 4 septembre 2026",
   "visits": [
     {
-      "etab_name": "Institut Kaori",
-      "etab_slug": "institut-kaori",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-kaori.jpg",
-      "visite_id": "v_437f10b45ec8",
-      "canton": "Vaud",
+      "etab_name": "Maison B",
+      "etab_slug": "maison-b",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
+      "visite_id": "v_0e943d39d17d",
+      "canton": null,
       "date_iso": "2026-09-04"
     }
   ],

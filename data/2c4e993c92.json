@@ -1,16 +1,16 @@
 {
   "carte": "37020",
   "name": "Lida",
-  "yesterday_date": "2026-08-28",
-  "yesterday_date_pretty": "le 28 août 2026",
+  "yesterday_date": "2026-09-04",
+  "yesterday_date_pretty": "le 4 septembre 2026",
   "visits": [
     {
-      "etab_name": "Le Beausquet Genève",
-      "etab_slug": "le-beausquet-geneve",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-beausquet-geneve.jpg",
-      "visite_id": "v_a0b4ec48cc1b",
+      "etab_name": "SUBLIMEYES",
+      "etab_slug": "institut-sublimeyes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
+      "visite_id": "v_61983b5fdc20",
       "canton": "Genève",
-      "date_iso": "2026-08-28"
+      "date_iso": "2026-09-04"
     }
   ],
   "suggestions": [
@@ -31,7 +31,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "canton": "Genève",
-      "visites": 539,
+      "visites": 542,
       "note": "5/5",
       "blurb": "L'institut genevois spécialiste visage, mené par Nadège. Plus de dix ans de soins faciaux et de massages pointus au service d'une beauté naturelle.",
       "reason": "À découvrir dans le canton de Genève"

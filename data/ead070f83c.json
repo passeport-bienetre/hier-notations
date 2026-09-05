@@ -1,50 +1,50 @@
 {
   "carte": "30621",
   "name": "Ana",
-  "yesterday_date": "2026-06-25",
-  "yesterday_date_pretty": "le 25 juin 2026",
+  "yesterday_date": "2026-09-04",
+  "yesterday_date_pretty": "le 4 septembre 2026",
   "visits": [
     {
-      "etab_name": "EUPHORIA & BEAUTY STUDIO",
-      "etab_slug": "euphoria-beauty-studio",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
-      "visite_id": "v_7884e2f7c54f",
+      "etab_name": "Ipanema Beauté",
+      "etab_slug": "ipanema-beaute",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/ipanema-beaute.jpg",
+      "visite_id": "v_9898b45e0670",
       "canton": "Genève",
-      "date_iso": "2026-06-25"
+      "date_iso": "2026-09-04"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "Parallèles Coiffure",
-      "etab_slug": "paralleles-coiffure",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/paralleles-coiffure.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/paralleles-coiffure/",
+      "etab_name": "BEAUTY B",
+      "etab_slug": "bv-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
       "canton": "Genève",
-      "visites": 216,
+      "visites": 148,
       "note": "5/5",
-      "blurb": "Parallèles, salon en triplex aux produits Davines exclusivement. Équipe jeune et trendy, ambiance détendue, écologie en arrière-plan.",
+      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "So Hair",
-      "etab_slug": "so-hair",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/so-hair.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/so-hair/",
+      "etab_name": "Blossom Institut",
+      "etab_slug": "blossom-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "canton": "Genève",
-      "visites": 379,
+      "visites": 542,
       "note": "5/5",
-      "blurb": "So Hair, près de la gare Cornavin dans une rue calme. Coiffeurs, coloristes, manucures et maquilleurs sous le même toit, dans une ambiance sobre et épurée.",
+      "blurb": "L'institut genevois spécialiste visage, mené par Nadège. Plus de dix ans de soins faciaux et de massages pointus au service d'une beauté naturelle.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
-      "etab_slug": "chandolin-boutique-hotel",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
-      "canton": null,
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
+      "etab_slug": "bpnight-hotel-nendaz-4-vallees",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/",
+      "canton": "Valais",
       "visites": null,
       "note": null,
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "blurb": "Au cœur de Haute-Nendaz et du domaine skiable des 4 Vallées, l'Hôtel Nendaz 4 Vallées & Spa marie style valaisan contemporain, atmosphère authentique et un spa d'exception de 2'200 m².",
       "reason": "Nouveau partenaire du réseau"
     }
   ]
