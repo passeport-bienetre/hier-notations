@@ -1,14 +1,14 @@
 {
-  "carte": "35930",
-  "name": "Charlotte",
+  "carte": "35120",
+  "name": "Jessica",
   "yesterday_date": "2026-09-05",
   "yesterday_date_pretty": "le 5 septembre 2026",
   "visits": [
     {
-      "etab_name": "Swiss Aesthetica",
-      "etab_slug": "swiss-aesthetica",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/swiss-aesthetica.jpg",
-      "visite_id": "v_c471556ef8c2",
+      "etab_name": "Flaventino coiffure Aubonne",
+      "etab_slug": "flaventino-coiffure-aubonne",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/flaventino-coiffure-aubonne.jpg",
+      "visite_id": "v_46a28652e5a0",
       "canton": "Vaud",
       "date_iso": "2026-09-05"
     }
@@ -26,15 +26,15 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Atmosp'hair",
-      "etab_slug": "atmosphair",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
-      "canton": "Vaud",
-      "visites": 182,
+      "etab_name": "ALEX COIFFURE SARL",
+      "etab_slug": "a-lex-coiffure-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/a-lex-coiffure-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/a-lex-coiffure-3/",
+      "canton": "Fribourg",
+      "visites": 76,
       "note": "5/5",
-      "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
-      "reason": "À découvrir dans le canton de Vaud"
+      "blurb": "Le salon fribourgeois d'Alexandra Rody-Geinoz, repris en 1998. Espace Détente Touch Therapy, massage de la tête et équipe formée à Paris prolongent la coiffure d'un moment de pause.",
+      "reason": "À découvrir dans le canton de Fribourg"
     },
     {
       "etab_name": "HÔTEL NENDAZ 4 VALLÉES",

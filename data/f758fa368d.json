@@ -1,14 +1,14 @@
 {
-  "carte": "35930",
-  "name": "Charlotte",
+  "carte": "39125",
+  "name": "Katia",
   "yesterday_date": "2026-09-05",
   "yesterday_date_pretty": "le 5 septembre 2026",
   "visits": [
     {
-      "etab_name": "Swiss Aesthetica",
-      "etab_slug": "swiss-aesthetica",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/swiss-aesthetica.jpg",
-      "visite_id": "v_c471556ef8c2",
+      "etab_name": "Les Vagabondes",
+      "etab_slug": "les-vagabondes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-vagabondes.jpg",
+      "visite_id": "v_39d9200f2e35",
       "canton": "Vaud",
       "date_iso": "2026-09-05"
     }

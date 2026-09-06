@@ -1,14 +1,14 @@
 {
-  "carte": "35930",
-  "name": "Charlotte",
+  "carte": "32603",
+  "name": "Aurelia",
   "yesterday_date": "2026-09-05",
   "yesterday_date_pretty": "le 5 septembre 2026",
   "visits": [
     {
-      "etab_name": "Swiss Aesthetica",
-      "etab_slug": "swiss-aesthetica",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/swiss-aesthetica.jpg",
-      "visite_id": "v_c471556ef8c2",
+      "etab_name": "Nueva Luna Yoga",
+      "etab_slug": "nueva-luna-yoga",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nueva-luna-yoga.jpg",
+      "visite_id": "v_805cb7b6b7a3",
       "canton": "Vaud",
       "date_iso": "2026-09-05"
     }
