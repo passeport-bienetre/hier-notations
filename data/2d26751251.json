@@ -1,16 +1,16 @@
 {
   "carte": "38596",
   "name": "Myrtille",
-  "yesterday_date": "2026-09-04",
-  "yesterday_date_pretty": "le 4 septembre 2026",
+  "yesterday_date": "2026-09-10",
+  "yesterday_date_pretty": "le 10 septembre 2026",
   "visits": [
     {
-      "etab_name": "Maison B",
-      "etab_slug": "maison-b",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
-      "visite_id": "v_0e943d39d17d",
-      "canton": null,
-      "date_iso": "2026-09-04"
+      "etab_name": "Salon Privé Gare",
+      "etab_slug": "salon-prive",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive.jpg",
+      "visite_id": "v_3106864a708b",
+      "canton": "Vaud",
+      "date_iso": "2026-09-10"
     }
   ],
   "suggestions": [
@@ -20,7 +20,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "canton": "Vaud",
-      "visites": 734,
+      "visites": 736,
       "note": "5/5",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "reason": "Nous pensons que vous allez aimer"
