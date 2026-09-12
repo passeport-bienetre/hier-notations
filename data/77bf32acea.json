@@ -1,14 +1,14 @@
 {
-  "carte": "36103",
-  "name": "Lucie",
+  "carte": "35889",
+  "name": "Angela",
   "yesterday_date": "2026-09-11",
   "yesterday_date_pretty": "le 11 septembre 2026",
   "visits": [
     {
-      "etab_name": "Institut Osmose",
-      "etab_slug": "institut-osmose",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-osmose.jpg",
-      "visite_id": "v_370845c2a7a7",
+      "etab_name": "Salon Privé Gare",
+      "etab_slug": "salon-prive",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive.jpg",
+      "visite_id": "v_9eea71cefa9b",
       "canton": "Vaud",
       "date_iso": "2026-09-11"
     }

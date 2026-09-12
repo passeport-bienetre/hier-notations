@@ -1,15 +1,15 @@
 {
-  "carte": "38941",
-  "name": "Sarah",
+  "carte": "30381",
+  "name": "Evelyne",
   "yesterday_date": "2026-09-11",
   "yesterday_date_pretty": "le 11 septembre 2026",
   "visits": [
     {
-      "etab_name": "Chalet Royalp Hôtel & Spa",
-      "etab_slug": "chalet-royalp-hotel-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
-      "visite_id": "v_e1f64c2b6c20",
-      "canton": "Vaud",
+      "etab_name": "LES TRESOMS",
+      "etab_slug": "les-tresoms-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-tresoms-2.jpg",
+      "visite_id": "v_bff62fc3d63b",
+      "canton": null,
       "date_iso": "2026-09-11"
     }
   ],

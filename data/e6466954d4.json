@@ -1,14 +1,14 @@
 {
-  "carte": "38802",
-  "name": "MAMTA",
+  "carte": "39561",
+  "name": "Hakima",
   "yesterday_date": "2026-09-11",
   "yesterday_date_pretty": "le 11 septembre 2026",
   "visits": [
     {
-      "etab_name": "Sawatdee Delices",
-      "etab_slug": "sawatdee-delices",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sawatdee-delices.jpg",
-      "visite_id": "v_7991f6697e2c",
+      "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
+      "etab_slug": "hotel-intercontinental-spa-5-mondes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-intercontinental-spa-5-mondes.jpg",
+      "visite_id": "v_5313b5d822c1",
       "canton": "Genève",
       "date_iso": "2026-09-11"
     }
