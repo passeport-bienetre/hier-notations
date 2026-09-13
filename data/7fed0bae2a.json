@@ -1,14 +1,14 @@
 {
-  "carte": "30045",
-  "name": "Martine",
+  "carte": "36054",
+  "name": "Magali",
   "yesterday_date": "2026-09-12",
   "yesterday_date_pretty": "le 12 septembre 2026",
   "visits": [
     {
-      "etab_name": "Swiss Aesthetica",
-      "etab_slug": "swiss-aesthetica",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/swiss-aesthetica.jpg",
-      "visite_id": "v_7a4e58ec102c",
+      "etab_name": "Salon Privé Ecublens",
+      "etab_slug": "salon-prive-ecublens",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-ecublens.jpg",
+      "visite_id": "v_52e53bdfc15b",
       "canton": "Vaud",
       "date_iso": "2026-09-12"
     }
