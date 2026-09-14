@@ -1,16 +1,16 @@
 {
   "carte": "38627",
   "name": "Audrey",
-  "yesterday_date": "2026-08-29",
-  "yesterday_date_pretty": "le 29 août 2026",
+  "yesterday_date": "2026-09-13",
+  "yesterday_date_pretty": "le 13 septembre 2026",
   "visits": [
     {
-      "etab_name": "Tempête de Calme",
-      "etab_slug": "tempete-de-calme",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/tempete-de-calme.jpg",
-      "visite_id": "v_51471f6585ae",
+      "etab_name": "Spa La Santé, Bulles de Champagne",
+      "etab_slug": "la-sante-a-champagne",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-sante-a-champagne.jpg",
+      "visite_id": "v_d061986b4cbb",
       "canton": "Vaud",
-      "date_iso": "2026-08-29"
+      "date_iso": "2026-09-13"
     }
   ],
   "suggestions": [
@@ -20,7 +20,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "canton": "Vaud",
-      "visites": 944,
+      "visites": 952,
       "note": "5/5",
       "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
       "reason": "Nous pensons que vous allez aimer"

@@ -1,15 +1,15 @@
 {
-  "carte": "35313",
-  "name": "Cecily",
+  "carte": "32792",
+  "name": "Volha",
   "yesterday_date": "2026-09-13",
   "yesterday_date_pretty": "le 13 septembre 2026",
   "visits": [
     {
-      "etab_name": "Chalet-Hôtel la Marmotte",
-      "etab_slug": "chalet-hotel-la-marmotte",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-hotel-la-marmotte.jpg",
-      "visite_id": "v_7038df82158d",
-      "canton": null,
+      "etab_name": "Le Grand Bellevue Spa",
+      "etab_slug": "le-grand-bellevue",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-grand-bellevue.jpg",
+      "visite_id": "v_bf257c0a3ee6",
+      "canton": "Berne",
       "date_iso": "2026-09-13"
     }
   ],
