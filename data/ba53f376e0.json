@@ -1,6 +1,6 @@
 {
-  "carte": "36844",
-  "name": "Onorina",
+  "carte": "31068",
+  "name": "Charlotte",
   "yesterday_date": "2026-09-14",
   "yesterday_date_pretty": "le 14 septembre 2026",
   "visits": [
@@ -8,33 +8,33 @@
       "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
       "etab_slug": "le-centre-geneve-by-charline",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
-      "visite_id": "v_cebefd8737d7",
+      "visite_id": "v_00a17bdb4599",
       "canton": "Genève",
       "date_iso": "2026-09-14"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "BEAUTY B",
-      "etab_slug": "bv-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
-      "canton": "Genève",
-      "visites": 149,
+      "etab_name": "Chanelle and Co.",
+      "etab_slug": "chanelle-and-co",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chanelle-and-co.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chanelle-and-co/",
+      "canton": "Valais",
+      "visites": 15,
       "note": "5/5",
-      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
+      "blurb": "L'espace beauté Chanelle&co. Soins du visage adaptés à chaque type de peau dans une ambiance reposante, la pause beauté à la carte.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "FLEUR D’EPIDERME",
-      "etab_slug": "fleur-depiderme",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
-      "canton": "Genève",
-      "visites": 115,
+      "etab_name": "INSTITUT NATURALPE",
+      "etab_slug": "institut-naturalpe",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-naturalpe.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-naturalpe/",
+      "canton": "Valais",
+      "visites": 30,
       "note": "5/5",
-      "blurb": "La maison de beauté A Fleur d'Épiderme, spécialiste soins de la peau et épilation définitive. Technicité médicale et douceur esthétique, sans compromis sur le résultat.",
-      "reason": "À découvrir dans le canton de Genève"
+      "blurb": "L'Institut Naturalpe de la famille Salamin, à la croisée de l'esthétique et de la naturopathie. Une bulle où santé et beauté avancent ensemble.",
+      "reason": "À découvrir dans le canton de Valais"
     },
     {
       "etab_name": "HÔTEL NENDAZ 4 VALLÉES",

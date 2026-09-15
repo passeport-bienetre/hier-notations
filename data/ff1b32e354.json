@@ -1,0 +1,51 @@
+{
+  "carte": "38669",
+  "name": "Sophie",
+  "yesterday_date": "2026-09-14",
+  "yesterday_date_pretty": "le 14 septembre 2026",
+  "visits": [
+    {
+      "etab_name": "LES FITNESS HARMONY",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--signy.jpg",
+      "visite_id": "v_7f11b307ca83",
+      "canton": " ",
+      "date_iso": "2026-09-14"
+    }
+  ],
+  "suggestions": [
+    {
+      "etab_name": "FITNESS HARMONY - DENGES",
+      "etab_slug": "les-fitness-harmony/denges",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--denges.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-fitness-harmony/denges/",
+      "canton": "Vaud",
+      "visites": 0,
+      "note": null,
+      "blurb": "Harmony Fitness Denges, dans un cadre de verdure et de calme. Loft sportif lumineux et appareils performants pour bouger au naturel.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "FITNESS HARMONY - SIGNY",
+      "etab_slug": "les-fitness-harmony/signy",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--signy.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-fitness-harmony/signy/",
+      "canton": "Vaud",
+      "visites": 0,
+      "note": null,
+      "blurb": null,
+      "reason": "À découvrir dans le canton de Vaud"
+    },
+    {
+      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
+      "etab_slug": "bpnight-hotel-nendaz-4-vallees",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/",
+      "canton": "Valais",
+      "visites": null,
+      "note": null,
+      "blurb": "Au cœur de Haute-Nendaz et du domaine skiable des 4 Vallées, l'Hôtel Nendaz 4 Vallées & Spa marie style valaisan contemporain, atmosphère authentique et un spa d'exception de 2'200 m².",
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}
