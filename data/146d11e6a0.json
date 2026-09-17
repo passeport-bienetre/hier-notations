@@ -1,15 +1,15 @@
 {
-  "carte": "26927",
-  "name": "Pascale",
+  "carte": "35666",
+  "name": "Pauline",
   "yesterday_date": "2026-09-16",
   "yesterday_date_pretty": "le 16 septembre 2026",
   "visits": [
     {
-      "etab_name": "Maison Perle",
-      "etab_slug": "maison-perle",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-perle.jpg",
-      "visite_id": "v_9470d817d444",
-      "canton": "Vaud",
+      "etab_name": "Hairmania",
+      "etab_slug": "hairmania",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hairmania.jpg",
+      "visite_id": "v_fbc04f0a057a",
+      "canton": null,
       "date_iso": "2026-09-16"
     }
   ],

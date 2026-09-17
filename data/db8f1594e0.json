@@ -1,14 +1,14 @@
 {
-  "carte": "35660",
-  "name": "Roberta",
+  "carte": "35969",
+  "name": "Valentina",
   "yesterday_date": "2026-09-16",
   "yesterday_date_pretty": "le 16 septembre 2026",
   "visits": [
     {
-      "etab_name": "La Coifferie",
-      "etab_slug": "la-coifferie-3",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-coifferie-3.jpg",
-      "visite_id": "v_b6714bac6fc4",
+      "etab_name": "Le Bal des Créateurs",
+      "etab_slug": "le-bal-des-createurs-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-bal-des-createurs-3.jpg",
+      "visite_id": "v_5d1845d422fb",
       "canton": "Genève",
       "date_iso": "2026-09-16"
     }
