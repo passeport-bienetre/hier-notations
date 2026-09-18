@@ -1,15 +1,15 @@
 {
-  "carte": "27030",
-  "name": "Anne",
+  "carte": "38253",
+  "name": "Aline",
   "yesterday_date": "2026-09-17",
   "yesterday_date_pretty": "le 17 septembre 2026",
   "visits": [
     {
-      "etab_name": "Institut Beauté Bertmans",
-      "etab_slug": "institut-beaute-bertmans",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-beaute-bertmans.jpg",
-      "visite_id": "v_36e08d772e33",
-      "canton": "Vaud",
+      "etab_name": "Amiia Clinique",
+      "etab_slug": "amiia-clinique",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/amiia-clinique.jpg",
+      "visite_id": "v_844a2806557d",
+      "canton": null,
       "date_iso": "2026-09-17"
     }
   ],
