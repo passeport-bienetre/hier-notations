@@ -1,15 +1,15 @@
 {
-  "carte": "35845",
-  "name": "Manon",
+  "carte": "35233",
+  "name": "Gabriela",
   "yesterday_date": "2026-09-18",
   "yesterday_date_pretty": "le 18 septembre 2026",
   "visits": [
     {
-      "etab_name": "Institut Guinot",
-      "etab_slug": "institut-guinot-2",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
-      "visite_id": "v_b4fa04d3f794",
-      "canton": "Vaud",
+      "etab_name": "EssenCiel Institut",
+      "etab_slug": "essenciel-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/essenciel-institut.jpg",
+      "visite_id": "v_58335ab1ad33",
+      "canton": "Fribourg",
       "date_iso": "2026-09-18"
     }
   ],

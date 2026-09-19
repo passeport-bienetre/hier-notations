@@ -1,14 +1,14 @@
 {
-  "carte": "35474",
-  "name": "Valentine",
+  "carte": "36045",
+  "name": "Laetitia",
   "yesterday_date": "2026-09-18",
   "yesterday_date_pretty": "le 18 septembre 2026",
   "visits": [
     {
-      "etab_name": "Salon Privé Chailly",
-      "etab_slug": "salon-prive-chailly",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-chailly.jpg",
-      "visite_id": "v_3522871613e6",
+      "etab_name": "Salon Privé Gare",
+      "etab_slug": "salon-prive",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive.jpg",
+      "visite_id": "v_08f7e43cdd43",
       "canton": "Vaud",
       "date_iso": "2026-09-18"
     }

@@ -1,19 +1,30 @@
 {
-  "carte": "35474",
-  "name": "Valentine",
+  "carte": "37012",
+  "name": "Alice",
   "yesterday_date": "2026-09-18",
   "yesterday_date_pretty": "le 18 septembre 2026",
   "visits": [
     {
-      "etab_name": "Salon Privé Chailly",
-      "etab_slug": "salon-prive-chailly",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-chailly.jpg",
-      "visite_id": "v_3522871613e6",
-      "canton": "Vaud",
+      "etab_name": "ALEX COIFFURE SARL",
+      "etab_slug": "a-lex-coiffure-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/a-lex-coiffure-3.jpg",
+      "visite_id": "v_e21225eea35b",
+      "canton": "Fribourg",
       "date_iso": "2026-09-18"
     }
   ],
   "suggestions": [
+    {
+      "etab_name": "Fjacco Coiffure",
+      "etab_slug": "fjacco-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fjacco-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/fjacco-coiffure/",
+      "canton": "Fribourg",
+      "visites": 34,
+      "note": "5/5",
+      "blurb": null,
+      "reason": "Nous pensons que vous allez aimer"
+    },
     {
       "etab_name": "1er Acte Coiffure",
       "etab_slug": "1er-acte-coiffure",
@@ -23,17 +34,6 @@
       "visites": 738,
       "note": "5/5",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
-    {
-      "etab_name": "Atmosp'hair",
-      "etab_slug": "atmosphair",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
-      "canton": "Vaud",
-      "visites": 183,
-      "note": "5/5",
-      "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {

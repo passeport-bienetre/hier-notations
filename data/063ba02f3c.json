@@ -1,6 +1,6 @@
 {
-  "carte": "31468",
-  "name": "Sonia",
+  "carte": "32345",
+  "name": "Kaltrina",
   "yesterday_date": "2026-09-18",
   "yesterday_date_pretty": "le 18 septembre 2026",
   "visits": [
@@ -8,7 +8,7 @@
       "etab_name": "FLEUR D’EPIDERME",
       "etab_slug": "fleur-depiderme",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
-      "visite_id": "v_169bb7dfd8bb",
+      "visite_id": "v_5726a7c9122f",
       "canton": "Genève",
       "date_iso": "2026-09-18"
     }

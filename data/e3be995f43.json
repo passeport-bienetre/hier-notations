@@ -1,14 +1,14 @@
 {
-  "carte": "31468",
-  "name": "Sonia",
+  "carte": "33444",
+  "name": "Dina",
   "yesterday_date": "2026-09-18",
   "yesterday_date_pretty": "le 18 septembre 2026",
   "visits": [
     {
-      "etab_name": "FLEUR D’EPIDERME",
-      "etab_slug": "fleur-depiderme",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
-      "visite_id": "v_169bb7dfd8bb",
+      "etab_name": "Saai Nam Massage – Manor",
+      "etab_slug": "saai-nam-massage-manor",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/saai-nam-massage-manor.jpg",
+      "visite_id": "v_1f14b136c4be",
       "canton": "Genève",
       "date_iso": "2026-09-18"
     }
