@@ -1,16 +1,16 @@
 {
   "carte": "30777",
   "name": "Manon",
-  "yesterday_date": "2026-09-17",
-  "yesterday_date_pretty": "le 17 septembre 2026",
+  "yesterday_date": "2026-09-19",
+  "yesterday_date_pretty": "le 19 septembre 2026",
   "visits": [
     {
-      "etab_name": "Royal Savoy Hôtel & Spa",
-      "etab_slug": "royal-savoy-hotel-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
-      "visite_id": "v_628919dcb2fd",
-      "canton": "Vaud",
-      "date_iso": "2026-09-17"
+      "etab_name": "Hôtel Ermitage Spa des Quatre Terres",
+      "etab_slug": "hotel-ermitage-spa-des-quatre-terres",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-ermitage-spa-des-quatre-terres.jpg",
+      "visite_id": "v_5422bc1ec026",
+      "canton": null,
+      "date_iso": "2026-09-19"
     }
   ],
   "suggestions": [
