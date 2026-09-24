@@ -1,16 +1,16 @@
 {
   "carte": "37180",
   "name": "Lina",
-  "yesterday_date": "2026-09-22",
-  "yesterday_date_pretty": "le 22 septembre 2026",
+  "yesterday_date": "2026-09-23",
+  "yesterday_date_pretty": "le 23 septembre 2026",
   "visits": [
     {
-      "etab_name": "SAKURA LAB",
-      "etab_slug": "sakura-lab",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sakura-lab.jpg",
-      "visite_id": "v_e9f94558d922",
+      "etab_name": "BLISS",
+      "etab_slug": "bliss",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bliss.jpg",
+      "visite_id": "v_aa09552960ce",
       "canton": "Genève",
-      "date_iso": "2026-09-22"
+      "date_iso": "2026-09-23"
     }
   ],
   "suggestions": [
