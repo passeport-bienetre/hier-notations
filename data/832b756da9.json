@@ -1,30 +1,19 @@
 {
-  "carte": "35574",
-  "name": "Margot",
+  "carte": "31270",
+  "name": "Ariane",
   "yesterday_date": "2026-09-24",
   "yesterday_date_pretty": "le 24 septembre 2026",
   "visits": [
     {
-      "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
-      "etab_slug": "le-centre-geneve-by-charline",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
-      "visite_id": "v_570c19b00d49",
+      "etab_name": "So Hair",
+      "etab_slug": "so-hair",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/so-hair.jpg",
+      "visite_id": "v_343fb5d4f29f",
       "canton": "Genève",
       "date_iso": "2026-09-24"
     }
   ],
   "suggestions": [
-    {
-      "etab_name": "BEAUTY B",
-      "etab_slug": "bv-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
-      "canton": "Genève",
-      "visites": 150,
-      "note": "5/5",
-      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
     {
       "etab_name": "EUPHORIA & BEAUTY STUDIO",
       "etab_slug": "euphoria-beauty-studio",
@@ -34,6 +23,17 @@
       "visites": 223,
       "note": "5/5",
       "blurb": "Le temple Euphoria. Raffinement et douceur dans un lieu où l'on s'abandonne à l'instant.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "Parallèles Coiffure",
+      "etab_slug": "paralleles-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/paralleles-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/paralleles-coiffure/",
+      "canton": "Genève",
+      "visites": 236,
+      "note": "5/5",
+      "blurb": "Parallèles, salon en triplex aux produits Davines exclusivement. Équipe jeune et trendy, ambiance détendue, écologie en arrière-plan.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {

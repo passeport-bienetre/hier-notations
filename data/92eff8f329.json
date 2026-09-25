@@ -1,14 +1,14 @@
 {
-  "carte": "35636",
-  "name": "MYRIAM",
+  "carte": "37016",
+  "name": "Albane",
   "yesterday_date": "2026-09-24",
   "yesterday_date_pretty": "le 24 septembre 2026",
   "visits": [
     {
-      "etab_name": "Atmosp’hair",
-      "etab_slug": "atmosphair",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
-      "visite_id": "v_6881f10a8030",
+      "etab_name": "Arte Beauty EPFL",
+      "etab_slug": "arte-beauty-epfl",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
+      "visite_id": "v_3a415c471b08",
       "canton": "Vaud",
       "date_iso": "2026-09-24"
     }
@@ -26,15 +26,15 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "BEAUTY B",
-      "etab_slug": "bv-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
-      "canton": "Genève",
-      "visites": 150,
+      "etab_name": "Atmosp'hair",
+      "etab_slug": "atmosphair",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
+      "canton": "Vaud",
+      "visites": 184,
       "note": "5/5",
-      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
-      "reason": "À découvrir dans le canton de Genève"
+      "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
+      "reason": "À découvrir dans le canton de Vaud"
     },
     {
       "etab_name": "CHALET ROYALP HÔTEL & SPA",

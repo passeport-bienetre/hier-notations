@@ -1,39 +1,39 @@
 {
-  "carte": "39395",
-  "name": "Lucile",
+  "carte": "39097",
+  "name": "Damira",
   "yesterday_date": "2026-09-24",
   "yesterday_date_pretty": "le 24 septembre 2026",
   "visits": [
     {
-      "etab_name": "Le Mirador Resort & Spa",
-      "etab_slug": "le-mirador-resort-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
-      "visite_id": "v_789092b41a78",
-      "canton": "Vaud",
+      "etab_name": "LECRANS",
+      "etab_slug": "le-crans",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-crans.jpg",
+      "visite_id": "v_d6299c50f8e9",
+      "canton": "Valais",
       "date_iso": "2026-09-24"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "Chandolin Boutique Hôtel",
+      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
       "etab_slug": "chandolin-boutique-hotel",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
       "canton": "Valais",
-      "visites": 177,
-      "note": "5/5",
+      "visites": null,
+      "note": null,
       "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "LECRANS HOTEL & SPA",
-      "etab_slug": "le-st-gervais-hotel-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-st-gervais-hotel-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
+      "etab_name": "Dent Blanche Resort & Lumen Spa",
+      "etab_slug": "bpnight-dent-blanche-resort-lumen-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-dent-blanche-resort-lumen-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-dent-blanche-resort-lumen-spa/",
       "canton": "Valais",
-      "visites": 187,
-      "note": "5/5",
-      "blurb": "Le Saint Gervais Hôtel & Spa au pied du Mont-Blanc, dans une demeure historique. Soins [comfort zone] certifiés B Corp depuis 2016, la beauté durable en cure thermale.",
+      "visites": null,
+      "note": null,
+      "blurb": "Le complexe Dent-Blanche Resort à Hérémence, vue Cervin. 69 appartements en résidence hôtelière au pied des pistes des 4 Vallées : l'Alpe brute en version hôtel.",
       "reason": "À découvrir dans le canton de Valais"
     },
     {

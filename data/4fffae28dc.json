@@ -1,16 +1,16 @@
 {
   "carte": "37122",
   "name": "Dario",
-  "yesterday_date": "2026-09-17",
-  "yesterday_date_pretty": "le 17 septembre 2026",
+  "yesterday_date": "2026-09-24",
+  "yesterday_date_pretty": "le 24 septembre 2026",
   "visits": [
     {
-      "etab_name": "Spa La Santé, Bulles de Champagne",
-      "etab_slug": "la-sante-a-champagne",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-sante-a-champagne.jpg",
-      "visite_id": "v_034ab679184d",
-      "canton": "Vaud",
-      "date_iso": "2026-09-17"
+      "etab_name": "Sawatdee Delices",
+      "etab_slug": "sawatdee-delices",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sawatdee-delices.jpg",
+      "visite_id": "v_9883467df4e2",
+      "canton": "Genève",
+      "date_iso": "2026-09-24"
     }
   ],
   "suggestions": [
@@ -20,7 +20,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "canton": "Vaud",
-      "visites": 954,
+      "visites": 960,
       "note": "5/5",
       "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
       "reason": "Nous pensons que vous allez aimer"

@@ -1,39 +1,39 @@
 {
   "carte": "35478",
   "name": "Aurélie",
-  "yesterday_date": "2026-09-21",
-  "yesterday_date_pretty": "le 21 septembre 2026",
+  "yesterday_date": "2026-09-24",
+  "yesterday_date_pretty": "le 24 septembre 2026",
   "visits": [
     {
-      "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
-      "etab_slug": "hotel-intercontinental-spa-5-mondes",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-intercontinental-spa-5-mondes.jpg",
-      "visite_id": "v_fa03dcc4c42c",
+      "etab_name": "Parallèles Coiffure",
+      "etab_slug": "paralleles-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/paralleles-coiffure.jpg",
+      "visite_id": "v_06b52b66248c",
       "canton": "Genève",
-      "date_iso": "2026-09-21"
+      "date_iso": "2026-09-24"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "Namaka - Centre de Longévité et Bienêtre",
-      "etab_slug": "namaka",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/namaka.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/namaka/",
+      "etab_name": "19th AVENUE - Versonnex",
+      "etab_slug": "versonnex",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/versonnex.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/versonnex/",
       "canton": "Genève",
-      "visites": 204,
+      "visites": 42,
       "note": "4.5/5",
-      "blurb": "Namaka, bain de flottaison à 500 kg de sel d'Epsom. Apesanteur, chants de baleines, silence vrai : la régénération en magnésium naturel.",
+      "blurb": "19th Avenue, ligne genevoise imaginée par Pascale Combettes et Andreas Gleichweit en 2001. Quatre salons et quatre équipes : coloristes spécialisés, lissage, extensions et botox capillaire.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Origin Float Spa",
-      "etab_slug": "origin-float-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/origin-float-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/origin-float-spa/",
+      "etab_name": "AVEDA VIEILLE-VILLE",
+      "etab_slug": "aveda-vieille-ville",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/aveda-vieille-ville.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/",
       "canton": "Genève",
-      "visites": 207,
+      "visites": 76,
       "note": "4.5/5",
-      "blurb": "ORIGIN, espace de flottaison et de boutique éthique. Tisane, lecture en repos et produits locaux engagés pour la sérénité avant et après la séance.",
+      "blurb": "Le premier salon Aveda officiel de Genève, en plein cœur de la vieille ville. Coiffure, couleur et esthétique avec vue sur la cathédrale.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {

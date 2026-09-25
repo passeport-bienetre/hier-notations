@@ -1,14 +1,14 @@
 {
-  "carte": "37177",
-  "name": "Andrea",
+  "carte": "34517",
+  "name": "Christine",
   "yesterday_date": "2026-09-24",
   "yesterday_date_pretty": "le 24 septembre 2026",
   "visits": [
     {
-      "etab_name": "Organik Beauty",
-      "etab_slug": "organik-beauty",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/organik-beauty.jpg",
-      "visite_id": "v_7fa112b59174",
+      "etab_name": "Institut Guinot",
+      "etab_slug": "institut-guinot-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
+      "visite_id": "v_646d3d84aa4f",
       "canton": "Vaud",
       "date_iso": "2026-09-24"
     }
@@ -26,14 +26,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Spa La Santé, Bulles de Champagne",
-      "etab_slug": "la-sante-a-champagne",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-sante-a-champagne.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/la-sante-a-champagne/",
+      "etab_name": "Espace Beauté Harmonie",
+      "etab_slug": "espace-beaute-harmonie",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/espace-beaute-harmonie.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/espace-beaute-harmonie/",
       "canton": "Vaud",
-      "visites": 25,
+      "visites": 85,
       "note": "5/5",
-      "blurb": null,
+      "blurb": "L'institut au cœur du quartier de Chailly. Cadre calme et chaleureux pour une pause détente en mode quartier.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
