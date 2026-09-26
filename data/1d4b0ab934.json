@@ -1,14 +1,14 @@
 {
-  "carte": "32250",
-  "name": "Nathalie",
+  "carte": "32278",
+  "name": "Ella",
   "yesterday_date": "2026-09-25",
   "yesterday_date_pretty": "le 25 septembre 2026",
   "visits": [
     {
-      "etab_name": "La Coifferie",
-      "etab_slug": "la-coifferie-3",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-coifferie-3.jpg",
-      "visite_id": "v_516efd0b39b6",
+      "etab_name": "EUPHORIA HAIR & BEAUTY STUDIO",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "visite_id": "v_842c00ea10ed",
       "canton": "Genève",
       "date_iso": "2026-09-25"
     }
@@ -26,14 +26,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Wulan Studio",
-      "etab_slug": "wulan-studio",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/wulan-studio.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/wulan-studio/",
+      "etab_name": "So Hair",
+      "etab_slug": "so-hair",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/so-hair.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/so-hair/",
       "canton": "Genève",
-      "visites": 75,
+      "visites": 392,
       "note": "5/5",
-      "blurb": "Wulan HeadCare studio. Inspiré des traditions asiatiques, massage crânien et soin capillaire aux produits certifiés bio : la beauté du cuir chevelu en mode holistique.",
+      "blurb": "So Hair, près de la gare Cornavin dans une rue calme. Coiffeurs, coloristes, manucures et maquilleurs sous le même toit, dans une ambiance sobre et épurée.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {

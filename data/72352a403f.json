@@ -1,16 +1,16 @@
 {
   "carte": "34990",
   "name": "christiane",
-  "yesterday_date": "2026-09-17",
-  "yesterday_date_pretty": "le 17 septembre 2026",
+  "yesterday_date": "2026-09-25",
+  "yesterday_date_pretty": "le 25 septembre 2026",
   "visits": [
     {
-      "etab_name": "Maison B",
-      "etab_slug": "maison-b",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
-      "visite_id": "v_5e8bb5cea944",
-      "canton": null,
-      "date_iso": "2026-09-17"
+      "etab_name": "Institut Guinot",
+      "etab_slug": "institut-guinot-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
+      "visite_id": "v_85a96446a6bd",
+      "canton": "Vaud",
+      "date_iso": "2026-09-25"
     }
   ],
   "suggestions": [
@@ -20,20 +20,20 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
       "canton": "Vaud",
-      "visites": 305,
+      "visites": 310,
       "note": "5/5",
       "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "CJ Coiffure",
-      "etab_slug": "cj-coiffure",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/cj-coiffure.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/cj-coiffure/",
+      "etab_name": "Espace Beauté Sarah",
+      "etab_slug": "espace-beaute-sarah",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/espace-beaute-sarah.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/",
       "canton": "Vaud",
-      "visites": 594,
+      "visites": 295,
       "note": "5/5",
-      "blurb": "Le salon de deux amies, Caroline et Jenny. Convivialité, tendance et formation continue auprès des partenaires : le salon comme deuxième salon.",
+      "blurb": "Au cœur de Lausanne, le cocon sobre et élégant de Sarah. Vingt ans d'expérience en esthétique et soins sur-mesure dans la confidence d'une cabine.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
