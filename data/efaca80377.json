@@ -1,24 +1,16 @@
 {
   "carte": "38609",
   "name": "Lorine",
-  "yesterday_date": "2026-09-22",
-  "yesterday_date_pretty": "le 22 septembre 2026",
+  "yesterday_date": "2026-09-26",
+  "yesterday_date_pretty": "le 26 septembre 2026",
   "visits": [
     {
-      "etab_name": "Naïda Massothérapie",
-      "etab_slug": "naida-massotherapie",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/naida-massotherapie.jpg",
-      "visite_id": "v_65a4c9b7c7ce",
+      "etab_name": "Institut ZenSkin",
+      "etab_slug": "institut-fs",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-fs.jpg",
+      "visite_id": "v_9ae48ba758f7",
       "canton": "Vaud",
-      "date_iso": "2026-09-22"
-    },
-    {
-      "etab_name": "Namasté",
-      "etab_slug": "namaste",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/namaste.jpg",
-      "visite_id": "v_2d42d74882aa",
-      "canton": "Vaud",
-      "date_iso": "2026-09-22"
+      "date_iso": "2026-09-26"
     }
   ],
   "suggestions": [
@@ -28,7 +20,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "canton": "Vaud",
-      "visites": 738,
+      "visites": 739,
       "note": "5/5",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "reason": "Nous pensons que vous allez aimer"
@@ -39,7 +31,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
       "canton": "Vaud",
-      "visites": 183,
+      "visites": 184,
       "note": "5/5",
       "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
       "reason": "À découvrir dans le canton de Vaud"

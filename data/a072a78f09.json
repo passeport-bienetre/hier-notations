@@ -1,14 +1,14 @@
 {
-  "carte": "35552",
-  "name": "PAULO",
+  "carte": "38608",
+  "name": "Bryan",
   "yesterday_date": "2026-09-26",
   "yesterday_date_pretty": "le 26 septembre 2026",
   "visits": [
     {
-      "etab_name": "Salon Privé Chailly",
-      "etab_slug": "salon-prive-chailly",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-chailly.jpg",
-      "visite_id": "v_3a701ada28a2",
+      "etab_name": "Institut ZenSkin",
+      "etab_slug": "institut-fs",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-fs.jpg",
+      "visite_id": "v_b84e6b5e0515",
       "canton": "Vaud",
       "date_iso": "2026-09-26"
     }
