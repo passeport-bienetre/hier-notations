@@ -1,14 +1,14 @@
 {
-  "carte": "36940",
-  "name": "Caroline",
+  "carte": "39316",
+  "name": "Ella",
   "yesterday_date": "2026-09-29",
   "yesterday_date_pretty": "le 29 septembre 2026",
   "visits": [
     {
-      "etab_name": "Maison B",
-      "etab_slug": "maison-b",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
-      "visite_id": "v_dd8d891218d7",
+      "etab_name": "Hairmania",
+      "etab_slug": "hairmania",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hairmania.jpg",
+      "visite_id": "v_c09dff207b4f",
       "canton": null,
       "date_iso": "2026-09-29"
     }

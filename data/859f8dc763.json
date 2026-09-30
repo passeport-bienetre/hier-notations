@@ -1,15 +1,15 @@
 {
-  "carte": "36940",
-  "name": "Caroline",
+  "carte": "38239",
+  "name": "Delphine",
   "yesterday_date": "2026-09-29",
   "yesterday_date_pretty": "le 29 septembre 2026",
   "visits": [
     {
-      "etab_name": "Maison B",
-      "etab_slug": "maison-b",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
-      "visite_id": "v_dd8d891218d7",
-      "canton": null,
+      "etab_name": "JOIA LAUSANNE",
+      "etab_slug": "joia-lausanne",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/joia-lausanne.jpg",
+      "visite_id": "v_474e33a24fc6",
+      "canton": "Vaud",
       "date_iso": "2026-09-29"
     }
   ],

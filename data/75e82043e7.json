@@ -1,16 +1,16 @@
 {
   "carte": "38253",
   "name": "Aline",
-  "yesterday_date": "2026-09-17",
-  "yesterday_date_pretty": "le 17 septembre 2026",
+  "yesterday_date": "2026-09-29",
+  "yesterday_date_pretty": "le 29 septembre 2026",
   "visits": [
     {
-      "etab_name": "Amiia Clinique",
-      "etab_slug": "amiia-clinique",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/amiia-clinique.jpg",
-      "visite_id": "v_844a2806557d",
-      "canton": null,
-      "date_iso": "2026-09-17"
+      "etab_name": "Institut Guinot",
+      "etab_slug": "institut-guinot-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
+      "visite_id": "v_5609a2492c31",
+      "canton": "Vaud",
+      "date_iso": "2026-09-29"
     }
   ],
   "suggestions": [
@@ -20,7 +20,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
       "canton": "Vaud",
-      "visites": 305,
+      "visites": 310,
       "note": "5/5",
       "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
       "reason": "Nous pensons que vous allez aimer"
@@ -31,7 +31,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/espace-beaute-harmonie.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/espace-beaute-harmonie/",
       "canton": "Vaud",
-      "visites": 85,
+      "visites": 87,
       "note": "5/5",
       "blurb": "L'institut au cœur du quartier de Chailly. Cadre calme et chaleureux pour une pause détente en mode quartier.",
       "reason": "À découvrir dans le canton de Vaud"

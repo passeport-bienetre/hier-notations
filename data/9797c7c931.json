@@ -1,15 +1,15 @@
 {
-  "carte": "35493",
-  "name": "Stéphane",
+  "carte": "36836",
+  "name": "Sandrine",
   "yesterday_date": "2026-09-29",
   "yesterday_date_pretty": "le 29 septembre 2026",
   "visits": [
     {
-      "etab_name": "LES BAINS PUBLICS",
-      "etab_slug": "les-bains-publics",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-bains-publics.jpg",
-      "visite_id": "v_c4ec9f3285ed",
-      "canton": "Valais",
+      "etab_name": "Arte Beauty Lutry",
+      "etab_slug": "arte-beauty-lutry",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
+      "visite_id": "v_5848930b342d",
+      "canton": "Vaud",
       "date_iso": "2026-09-29"
     }
   ],
