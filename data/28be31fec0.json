@@ -1,15 +1,15 @@
 {
-  "carte": "36479",
-  "name": "Céline",
+  "carte": "30722",
+  "name": "Florence",
   "yesterday_date": "2026-09-30",
   "yesterday_date_pretty": "le 30 septembre 2026",
   "visits": [
     {
-      "etab_name": "Les Cliniques Matignon",
-      "etab_slug": null,
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--capsule-geneve-clinique-matignon.jpg",
-      "visite_id": "v_23c2ee68254a",
-      "canton": " ",
+      "etab_name": "Nueva Luna Yoga",
+      "etab_slug": "nueva-luna-yoga",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nueva-luna-yoga.jpg",
+      "visite_id": "v_78784f59bfa6",
+      "canton": "Vaud",
       "date_iso": "2026-09-30"
     }
   ],

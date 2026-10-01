@@ -1,15 +1,15 @@
 {
-  "carte": "35570",
-  "name": "Valerie",
+  "carte": "29064",
+  "name": "Sandra",
   "yesterday_date": "2026-09-30",
   "yesterday_date_pretty": "le 30 septembre 2026",
   "visits": [
     {
-      "etab_name": "Salon Privé Ecublens",
-      "etab_slug": "salon-prive-ecublens",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-ecublens.jpg",
-      "visite_id": "v_2596ffa92ce5",
-      "canton": "Vaud",
+      "etab_name": "Les Cliniques Matignon",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--capsule-geneve-clinique-matignon.jpg",
+      "visite_id": "v_2ed03abb2eed",
+      "canton": " ",
       "date_iso": "2026-09-30"
     }
   ],

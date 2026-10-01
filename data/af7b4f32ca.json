@@ -1,0 +1,51 @@
+{
+  "carte": "39138",
+  "name": "Jessica",
+  "yesterday_date": "2026-09-30",
+  "yesterday_date_pretty": "le 30 septembre 2026",
+  "visits": [
+    {
+      "etab_name": "CLINIQUE LA JOUVENCE NEUCHÂTEL",
+      "etab_slug": "clinique-la-jouvence-neuchatel",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-neuchatel.jpg",
+      "visite_id": "v_52325aef7e10",
+      "canton": "Neuchâtel",
+      "date_iso": "2026-09-30"
+    }
+  ],
+  "suggestions": [
+    {
+      "etab_name": "Institut Sabaidee",
+      "etab_slug": "institut-sabaidee",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sabaidee.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sabaidee/",
+      "canton": "Neuchâtel",
+      "visites": 34,
+      "note": "5/5",
+      "blurb": "L'institut Sabaidee, dont le nom signifie \"bonjour\" en laotien. Soins inspirés des traditions asiatiques, masseuse thaïlandaise, cosmétiques naturels : le dépaysement sans sortir du canton.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "CLINIQUE MATIGNON NEUCHÂTEL",
+      "etab_slug": "les-cliniques-matignon/neuchatel",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--neuchatel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-cliniques-matignon/neuchatel/",
+      "canton": "Neuchâtel",
+      "visites": 0,
+      "note": null,
+      "blurb": "La clinique Matignon Neuchâtel, leader suisse en médecine esthétique non-invasive. Dermatologie, médecine esthétique et chirurgie plastique sous un même toit.",
+      "reason": "À découvrir dans le canton de Neuchâtel"
+    },
+    {
+      "etab_name": "CHALET ROYALP HÔTEL & SPA",
+      "etab_slug": "chalet-royalp-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
+      "canton": "Vaud",
+      "visites": null,
+      "note": null,
+      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}

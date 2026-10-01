@@ -1,14 +1,14 @@
 {
-  "carte": "35570",
-  "name": "Valerie",
+  "carte": "38108",
+  "name": "Esther",
   "yesterday_date": "2026-09-30",
   "yesterday_date_pretty": "le 30 septembre 2026",
   "visits": [
     {
-      "etab_name": "Salon Privé Ecublens",
-      "etab_slug": "salon-prive-ecublens",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-ecublens.jpg",
-      "visite_id": "v_2596ffa92ce5",
+      "etab_name": "Le Passage",
+      "etab_slug": "le-passage",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-passage.jpg",
+      "visite_id": "v_95185dd801ac",
       "canton": "Vaud",
       "date_iso": "2026-09-30"
     }
