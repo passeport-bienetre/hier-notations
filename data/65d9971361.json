@@ -1,30 +1,19 @@
 {
-  "carte": "35058",
-  "name": "Nathalie",
+  "carte": "32241",
+  "name": "Laurie",
   "yesterday_date": "2026-10-01",
   "yesterday_date_pretty": "le 1 octobre 2026",
   "visits": [
     {
-      "etab_name": "Tempête de Calme",
-      "etab_slug": "tempete-de-calme",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/tempete-de-calme.jpg",
-      "visite_id": "v_9e35496bee50",
+      "etab_name": "RUBIS SPA",
+      "etab_slug": "rubis-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/rubis-spa.jpg",
+      "visite_id": "v_e475a5a75622",
       "canton": "Vaud",
       "date_iso": "2026-10-01"
     }
   ],
   "suggestions": [
-    {
-      "etab_name": "Chalet Royalp Hôtel & Spa",
-      "etab_slug": "chalet-royalp-hotel-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
-      "canton": "Vaud",
-      "visites": 960,
-      "note": "5/5",
-      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
     {
       "etab_name": "MK PILATES",
       "etab_slug": "mk-pilates",
@@ -34,6 +23,17 @@
       "visites": 5,
       "note": "5/5",
       "blurb": "MK Pilates, studio privé équipé Gratz : Reformer, Cadillac, wunda chair, ladder barrel et pedipole. Méthode authentique et pédagogie précise pour un Pilates classique sans concession.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "Royal Savoy Hôtel & Spa",
+      "etab_slug": "royal-savoy-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
+      "canton": "Vaud",
+      "visites": 3072,
+      "note": "5/5",
+      "blurb": "Adresse Belle Époque face au Léman, le Royal Savoy abrite le spa Wellbeing Sanctuary, ses soins signature et une piscine intérieure pour prolonger l'instant.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
