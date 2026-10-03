@@ -1,14 +1,14 @@
 {
-  "carte": "36631",
-  "name": "Romane",
+  "carte": "33191",
+  "name": "Lucia",
   "yesterday_date": "2026-10-02",
   "yesterday_date_pretty": "le 2 octobre 2026",
   "visits": [
     {
-      "etab_name": "LAURA COIFFEUSE PRIVÉE",
-      "etab_slug": "laura-coiffeuse-privee",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/laura-coiffeuse-privee.jpg",
-      "visite_id": "v_026aa8970697",
+      "etab_name": "Swiss Aesthetica",
+      "etab_slug": "swiss-aesthetica",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/swiss-aesthetica.jpg",
+      "visite_id": "v_36bc92569c26",
       "canton": "Vaud",
       "date_iso": "2026-10-02"
     }

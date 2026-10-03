@@ -1,19 +1,30 @@
 {
-  "carte": "36451",
-  "name": "Leila",
+  "carte": "36030",
+  "name": "Salomé",
   "yesterday_date": "2026-10-02",
   "yesterday_date_pretty": "le 2 octobre 2026",
   "visits": [
     {
-      "etab_name": "SAKURA LAB",
-      "etab_slug": "sakura-lab",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sakura-lab.jpg",
-      "visite_id": "v_47e076bd1ed0",
-      "canton": "Genève",
+      "etab_name": "Urban Spa",
+      "etab_slug": "urban-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/urban-spa.jpg",
+      "visite_id": "v_e33b3ec3c9ca",
+      "canton": "Fribourg",
       "date_iso": "2026-10-02"
     }
   ],
   "suggestions": [
+    {
+      "etab_name": "EssenCiel Institut",
+      "etab_slug": "essenciel-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/essenciel-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/essenciel-institut/",
+      "canton": "Fribourg",
+      "visites": 62,
+      "note": "5/5",
+      "blurb": "L'institut EssenCiel travaille autour des huiles essentielles et de la gamme Yon-Ka. Soins ressourçants pour un moment rien qu'à soi.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
     {
       "etab_name": "BEAUTY B",
       "etab_slug": "bv-institut",
@@ -23,17 +34,6 @@
       "visites": 151,
       "note": "5/5",
       "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
-    {
-      "etab_name": "FLEUR D’EPIDERME",
-      "etab_slug": "fleur-depiderme",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
-      "canton": "Genève",
-      "visites": 121,
-      "note": "5/5",
-      "blurb": "La maison de beauté A Fleur d'Épiderme, spécialiste soins de la peau et épilation définitive. Technicité médicale et douceur esthétique, sans compromis sur le résultat.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {
