@@ -1,14 +1,14 @@
 {
-  "carte": "35044",
-  "name": "Jennyfer",
+  "carte": "38058",
+  "name": "Valérie",
   "yesterday_date": "2026-10-03",
   "yesterday_date_pretty": "le 3 octobre 2026",
   "visits": [
     {
-      "etab_name": "Swiss Aesthetica",
-      "etab_slug": "swiss-aesthetica",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/swiss-aesthetica.jpg",
-      "visite_id": "v_52e4455c8066",
+      "etab_name": "Arte Beauty Lutry",
+      "etab_slug": "arte-beauty-lutry",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
+      "visite_id": "v_a994903aff39",
       "canton": "Vaud",
       "date_iso": "2026-10-03"
     }

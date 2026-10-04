@@ -1,6 +1,6 @@
 {
-  "carte": "34790",
-  "name": "LeighAnn",
+  "carte": "37198",
+  "name": "Adrienne",
   "yesterday_date": "2026-10-03",
   "yesterday_date_pretty": "le 3 octobre 2026",
   "visits": [
@@ -8,7 +8,7 @@
       "etab_name": "Hôtel de Rougemont & Spa",
       "etab_slug": "hotel-de-rougemont-spa",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-de-rougemont-spa.jpg",
-      "visite_id": "v_bdc0666443b6",
+      "visite_id": "v_738c86705aab",
       "canton": "Berne",
       "date_iso": "2026-10-03"
     }
@@ -26,14 +26,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Hôtel Schweizerhof Bern & Spa",
-      "etab_slug": "schweizerhof-bern-hotel-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/schweizerhof-bern-hotel-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/schweizerhof-bern-hotel-spa/",
+      "etab_name": "Le Grand Bellevue Spa",
+      "etab_slug": "le-grand-bellevue",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-grand-bellevue.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-grand-bellevue/",
       "canton": "Berne",
-      "visites": 55,
-      "note": "4/5",
-      "blurb": "Le spa du Schweizerhof Bern. Sauna, bain de vapeur, piscine de vitalité chauffée, salle de relaxation aux lits aqueux et équipement Techno Gym, ouvert aux visiteurs de jour.",
+      "visites": 516,
+      "note": "4.5/5",
+      "blurb": "Le Grand Spa Bellevue, 3 000 m² parmi les plus grands de Suisse. Grotte saline de l'Himalaya, sauna finlandais, fontaine de glace et jardin de plantes alpines : l'oasis thermal à l'air pur.",
       "reason": "À découvrir dans le canton de Berne"
     },
     {

@@ -1,15 +1,15 @@
 {
-  "carte": "35044",
-  "name": "Jennyfer",
+  "carte": "37139",
+  "name": "Akhilesh",
   "yesterday_date": "2026-10-03",
   "yesterday_date_pretty": "le 3 octobre 2026",
   "visits": [
     {
-      "etab_name": "Swiss Aesthetica",
-      "etab_slug": "swiss-aesthetica",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/swiss-aesthetica.jpg",
-      "visite_id": "v_52e4455c8066",
-      "canton": "Vaud",
+      "etab_name": "Hairmania",
+      "etab_slug": "hairmania",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hairmania.jpg",
+      "visite_id": "v_7962c90adc07",
+      "canton": null,
       "date_iso": "2026-10-03"
     }
   ],
