@@ -1,6 +1,6 @@
 {
-  "carte": "39317",
-  "name": "Inglina",
+  "carte": "36061",
+  "name": "Florian",
   "yesterday_date": "2026-10-04",
   "yesterday_date_pretty": "le 4 octobre 2026",
   "visits": [
@@ -8,7 +8,7 @@
       "etab_name": "EVERNESS <br>Hôtel & Resort",
       "etab_slug": "everness-resort",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/everness-resort.jpg",
-      "visite_id": "v_36fe70ef8d12",
+      "visite_id": "v_6abdaf65cab1",
       "canton": "Vaud",
       "date_iso": "2026-10-04"
     }
