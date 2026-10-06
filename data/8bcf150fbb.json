@@ -1,19 +1,30 @@
 {
-  "carte": "36383",
-  "name": "Isabelle",
+  "carte": "39321",
+  "name": "Sévin",
   "yesterday_date": "2026-10-05",
   "yesterday_date_pretty": "le 5 octobre 2026",
   "visits": [
     {
-      "etab_name": "Spa La Santé, Bulles de Champagne",
-      "etab_slug": "la-sante-a-champagne",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-sante-a-champagne.jpg",
-      "visite_id": "v_73753c3ce587",
+      "etab_name": "Tempête de Calme",
+      "etab_slug": "tempete-de-calme",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/tempete-de-calme.jpg",
+      "visite_id": "v_a6ff78d5303d",
       "canton": "Vaud",
       "date_iso": "2026-10-05"
     }
   ],
   "suggestions": [
+    {
+      "etab_name": "Centre de bien-être J&J",
+      "etab_slug": "centre-de-bien-etre-jj",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/centre-de-bien-etre-jj.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/centre-de-bien-etre-jj/",
+      "canton": null,
+      "visites": 255,
+      "note": "5/5",
+      "blurb": "Le centre de bien-être à La Tour-de-Peilz. Technologies de pointe, soins ciblés et accompagnement attentif pour une beauté qui se voit autant qu'elle se ressent.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
     {
       "etab_name": "Chalet Royalp Hôtel & Spa",
       "etab_slug": "chalet-royalp-hotel-spa",
@@ -23,17 +34,6 @@
       "visites": 960,
       "note": "5/5",
       "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
-    {
-      "etab_name": "MK PILATES",
-      "etab_slug": "mk-pilates",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/mk-pilates.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/mk-pilates/",
-      "canton": "Vaud",
-      "visites": 5,
-      "note": "5/5",
-      "blurb": "MK Pilates, studio privé équipé Gratz : Reformer, Cadillac, wunda chair, ladder barrel et pedipole. Méthode authentique et pédagogie précise pour un Pilates classique sans concession.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
