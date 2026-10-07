@@ -1,39 +1,39 @@
 {
-  "carte": "35289",
-  "name": "Aurore",
+  "carte": "39547",
+  "name": "Anne",
   "yesterday_date": "2026-10-06",
   "yesterday_date_pretty": "le 6 octobre 2026",
   "visits": [
     {
-      "etab_name": "Atmosp’hair",
-      "etab_slug": "atmosphair",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
-      "visite_id": "v_97e955469d17",
+      "etab_name": "LAUSANNE PALACE",
+      "etab_slug": "bpnight-hotel-lausanne-palace",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-lausanne-palace.jpg",
+      "visite_id": "v_2d7f00a314f9",
       "canton": "Vaud",
       "date_iso": "2026-10-06"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "1er Acte Coiffure",
-      "etab_slug": "1er-acte-coiffure",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
-      "canton": "Vaud",
-      "visites": 741,
-      "note": "5/5",
-      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
-    {
-      "etab_name": "Chalet Royalp Hôtel & Spa",
+      "etab_name": "CHALET ROYALP HÔTEL & SPA",
       "etab_slug": "chalet-royalp-hotel-spa",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "canton": "Vaud",
-      "visites": 961,
-      "note": "5/5",
+      "visites": null,
+      "note": null,
       "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "HÔTEL ROYAL SAVOY",
+      "etab_slug": "bpnight-hotel-royal-savoy",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-royal-savoy.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-royal-savoy/",
+      "canton": "Vaud",
+      "visites": 4,
+      "note": null,
+      "blurb": "Le Royal Savoy 5 étoiles sur les rives du Léman mêle architecture historique et touche contemporaine. Skylounge sur le toit et Brasserie reconnue, signature lausannoise.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
