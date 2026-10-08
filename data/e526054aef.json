@@ -1,40 +1,40 @@
 {
   "carte": "39055",
   "name": "Clara",
-  "yesterday_date": "2026-09-09",
-  "yesterday_date_pretty": "le 9 septembre 2026",
+  "yesterday_date": "2026-10-07",
+  "yesterday_date_pretty": "le 7 octobre 2026",
   "visits": [
     {
-      "etab_name": "Lumen Spa & Wellness",
-      "etab_slug": "lumen-spa-wellness",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lumen-spa-wellness.jpg",
-      "visite_id": "v_436ca34a0b02",
-      "canton": "Valais",
-      "date_iso": "2026-09-09"
+      "etab_name": "EUPHORIA HAIR & BEAUTY STUDIO",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "visite_id": "v_ec938b31f4bc",
+      "canton": "Genève",
+      "date_iso": "2026-10-07"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "Bhumi",
-      "etab_slug": "biotonique-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
-      "canton": "Vaud",
-      "visites": 305,
+      "etab_name": "Parallèles Coiffure",
+      "etab_slug": "paralleles-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/paralleles-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/paralleles-coiffure/",
+      "canton": "Genève",
+      "visites": 241,
       "note": "5/5",
-      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
+      "blurb": "Parallèles, salon en triplex aux produits Davines exclusivement. Équipe jeune et trendy, ambiance détendue, écologie en arrière-plan.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Grand Hôtel du Lac",
-      "etab_slug": "grand-hotel-du-lac",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/grand-hotel-du-lac.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
-      "canton": "Vaud",
-      "visites": 585,
+      "etab_name": "So Hair",
+      "etab_slug": "so-hair",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/so-hair.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/so-hair/",
+      "canton": "Genève",
+      "visites": 394,
       "note": "5/5",
-      "blurb": "Le Grand Hôtel du Lac à Vevey, sur les rives du Léman aux portes de Lavaux. SPA Valmont au 2e étage : welcome suite, 3 cabines, hammam et sauna face au lac.",
-      "reason": "À découvrir dans le canton de Vaud"
+      "blurb": "So Hair, près de la gare Cornavin dans une rue calme. Coiffeurs, coloristes, manucures et maquilleurs sous le même toit, dans une ambiance sobre et épurée.",
+      "reason": "À découvrir dans le canton de Genève"
     },
     {
       "etab_name": "HÔTEL NENDAZ 4 VALLÉES",

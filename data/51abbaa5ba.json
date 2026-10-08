@@ -1,6 +1,6 @@
 {
-  "carte": "30614",
-  "name": "Mélanie",
+  "carte": "37380",
+  "name": "Wajma",
   "yesterday_date": "2026-10-07",
   "yesterday_date_pretty": "le 7 octobre 2026",
   "visits": [
@@ -8,7 +8,7 @@
       "etab_name": "Le Bal des Créateurs",
       "etab_slug": "le-bal-des-createurs-3",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-bal-des-createurs-3.jpg",
-      "visite_id": "v_6a830da35c57",
+      "visite_id": "v_d910e652e75a",
       "canton": "Genève",
       "date_iso": "2026-10-07"
     }

@@ -1,14 +1,14 @@
 {
-  "carte": "36290",
-  "name": "Valentine",
+  "carte": "38114",
+  "name": "Margot",
   "yesterday_date": "2026-10-07",
   "yesterday_date_pretty": "le 7 octobre 2026",
   "visits": [
     {
-      "etab_name": "Thaiotop",
-      "etab_slug": "thaiotop-3",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thaiotop-3.jpg",
-      "visite_id": "v_ac7d63472adb",
+      "etab_name": "Namaka – Centre de Longévité et Bienêtre",
+      "etab_slug": "namaka",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/namaka.jpg",
+      "visite_id": "v_598a167e4274",
       "canton": "Genève",
       "date_iso": "2026-10-07"
     }
@@ -26,14 +26,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Namaka - Centre de Longévité et Bienêtre",
-      "etab_slug": "namaka",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/namaka.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/namaka/",
+      "etab_name": "Origin Float Spa",
+      "etab_slug": "origin-float-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/origin-float-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/origin-float-spa/",
       "canton": "Genève",
-      "visites": 205,
+      "visites": 208,
       "note": "4.5/5",
-      "blurb": "Namaka, bain de flottaison à 500 kg de sel d'Epsom. Apesanteur, chants de baleines, silence vrai : la régénération en magnésium naturel.",
+      "blurb": "ORIGIN, espace de flottaison et de boutique éthique. Tisane, lecture en repos et produits locaux engagés pour la sérénité avant et après la séance.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {

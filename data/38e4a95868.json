@@ -1,14 +1,14 @@
 {
-  "carte": "33410",
-  "name": "Eleni",
+  "carte": "37059",
+  "name": "Myriam",
   "yesterday_date": "2026-10-07",
   "yesterday_date_pretty": "le 7 octobre 2026",
   "visits": [
     {
-      "etab_name": "BL Institut",
-      "etab_slug": "bl-institut-2",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bl-institut-2.jpg",
-      "visite_id": "v_cccbb4e00835",
+      "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
+      "etab_slug": "le-centre-geneve-by-charline",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
+      "visite_id": "v_c32ec4638b9c",
       "canton": "Genève",
       "date_iso": "2026-10-07"
     }
@@ -26,14 +26,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
-      "etab_slug": "le-centre-geneve-by-charline",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
+      "etab_name": "FLEUR D’EPIDERME",
+      "etab_slug": "fleur-depiderme",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
       "canton": "Genève",
-      "visites": 150,
+      "visites": 122,
       "note": "5/5",
-      "blurb": "Le Centre Genève by Charline. Soins corps, esthétique, thérapies douces et accompagnement émotionnel sous un même toit, pour une beauté pensée comme équilibre intérieur.",
+      "blurb": "La maison de beauté A Fleur d'Épiderme, spécialiste soins de la peau et épilation définitive. Technicité médicale et douceur esthétique, sans compromis sur le résultat.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {

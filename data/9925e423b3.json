@@ -1,14 +1,14 @@
 {
-  "carte": "33410",
-  "name": "Eleni",
+  "carte": "37008",
+  "name": "Véronique",
   "yesterday_date": "2026-10-07",
   "yesterday_date_pretty": "le 7 octobre 2026",
   "visits": [
     {
-      "etab_name": "BL Institut",
-      "etab_slug": "bl-institut-2",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bl-institut-2.jpg",
-      "visite_id": "v_cccbb4e00835",
+      "etab_name": "Thai Corner",
+      "etab_slug": "thai-corner-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thai-corner-3.jpg",
+      "visite_id": "v_a9078bae8d1f",
       "canton": "Genève",
       "date_iso": "2026-10-07"
     }
@@ -26,14 +26,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
-      "etab_slug": "le-centre-geneve-by-charline",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
+      "etab_name": "Blossom Institut",
+      "etab_slug": "blossom-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "canton": "Genève",
-      "visites": 150,
+      "visites": 548,
       "note": "5/5",
-      "blurb": "Le Centre Genève by Charline. Soins corps, esthétique, thérapies douces et accompagnement émotionnel sous un même toit, pour une beauté pensée comme équilibre intérieur.",
+      "blurb": "L'institut genevois spécialiste visage, mené par Nadège. Plus de dix ans de soins faciaux et de massages pointus au service d'une beauté naturelle.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {
