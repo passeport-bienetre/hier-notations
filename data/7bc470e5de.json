@@ -1,14 +1,14 @@
 {
-  "carte": "35576",
-  "name": "Vanessa",
+  "carte": "35419",
+  "name": "Claude",
   "yesterday_date": "2026-10-08",
   "yesterday_date_pretty": "le 8 octobre 2026",
   "visits": [
     {
-      "etab_name": "Institut Kaori",
-      "etab_slug": "institut-kaori",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-kaori.jpg",
-      "visite_id": "v_d8df0ec3d890",
+      "etab_name": "Karré Long",
+      "etab_slug": "karre-long-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/karre-long-3.jpg",
+      "visite_id": "v_f9d380f977ef",
       "canton": "Vaud",
       "date_iso": "2026-10-08"
     }

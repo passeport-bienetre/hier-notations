@@ -1,14 +1,22 @@
 {
-  "carte": "35576",
-  "name": "Vanessa",
+  "carte": "36029",
+  "name": "Vasiliki",
   "yesterday_date": "2026-10-08",
   "yesterday_date_pretty": "le 8 octobre 2026",
   "visits": [
     {
-      "etab_name": "Institut Kaori",
-      "etab_slug": "institut-kaori",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-kaori.jpg",
-      "visite_id": "v_d8df0ec3d890",
+      "etab_name": "Salon Privé Gare",
+      "etab_slug": "salon-prive",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive.jpg",
+      "visite_id": "v_90f6c42da66f",
+      "canton": "Vaud",
+      "date_iso": "2026-10-08"
+    },
+    {
+      "etab_name": "Royal Savoy Hôtel & Spa",
+      "etab_slug": "royal-savoy-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+      "visite_id": "v_2b8aa4fe2880",
       "canton": "Vaud",
       "date_iso": "2026-10-08"
     }
