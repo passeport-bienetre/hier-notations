@@ -1,28 +1,28 @@
 {
-  "carte": "34222",
-  "name": "Yolande",
+  "carte": "30964",
+  "name": "Mathias",
   "yesterday_date": "2026-10-09",
   "yesterday_date_pretty": "le 9 octobre 2026",
   "visits": [
     {
-      "etab_name": "Arte Beauty Lutry",
-      "etab_slug": "arte-beauty-lutry",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
-      "visite_id": "v_f60bbee905fb",
-      "canton": "Vaud",
+      "etab_name": "SPA BY CLARINS – HÔTEL MONT-BLANC CHAMONIX",
+      "etab_slug": "spa-by-clarins",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-by-clarins.jpg",
+      "visite_id": "v_1d2566ef7170",
+      "canton": null,
       "date_iso": "2026-10-09"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "Atmosp'hair",
-      "etab_slug": "atmosphair",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
-      "canton": "Vaud",
-      "visites": 185,
+      "etab_name": "Centre de bien-être J&J",
+      "etab_slug": "centre-de-bien-etre-jj",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/centre-de-bien-etre-jj.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/centre-de-bien-etre-jj/",
+      "canton": null,
+      "visites": 256,
       "note": "5/5",
-      "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
+      "blurb": "Le centre de bien-être à La Tour-de-Peilz. Technologies de pointe, soins ciblés et accompagnement attentif pour une beauté qui se voit autant qu'elle se ressent.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {

@@ -1,15 +1,15 @@
 {
-  "carte": "35813",
-  "name": "Patricia",
+  "carte": "36786",
+  "name": "Bastien",
   "yesterday_date": "2026-10-09",
   "yesterday_date_pretty": "le 9 octobre 2026",
   "visits": [
     {
-      "etab_name": "Institut Bienitude & Bienitude Natura",
-      "etab_slug": "institut-bienitude-bienitude-natura",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-bienitude-bienitude-natura.jpg",
-      "visite_id": "v_831c5b3a82cd",
-      "canton": "Vaud",
+      "etab_name": "Maison B",
+      "etab_slug": "maison-b",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
+      "visite_id": "v_9bdcf12a3a93",
+      "canton": null,
       "date_iso": "2026-10-09"
     }
   ],
