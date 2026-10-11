@@ -1,50 +1,50 @@
 {
   "carte": "33692",
   "name": "Marion",
-  "yesterday_date": "2026-08-21",
-  "yesterday_date_pretty": "le 21 août 2026",
+  "yesterday_date": "2026-10-10",
+  "yesterday_date_pretty": "le 10 octobre 2026",
   "visits": [
     {
-      "etab_name": "Bhumi",
-      "etab_slug": "biotonique-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
-      "visite_id": "v_0afc92ab322a",
-      "canton": "Vaud",
-      "date_iso": "2026-08-21"
+      "etab_name": "LES FITNESS HARMONY",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--signy.jpg",
+      "visite_id": "v_4e10ab58175b",
+      "canton": " ",
+      "date_iso": "2026-10-10"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
-      "etab_slug": "la-villa-dermo-esthetique-by-lorella",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa-dermo-esthetique-by-lorella.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/",
+      "etab_name": "FITNESS HARMONY - DENGES",
+      "etab_slug": "les-fitness-harmony/denges",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--denges.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-fitness-harmony/denges/",
       "canton": "Vaud",
-      "visites": 84,
-      "note": "5/5",
-      "blurb": "La Villa Dermo-Esthétique by Lorella, duo Lorella et Orphane. Kobido avancé, technologies de régénération et esthétique médicale : l'art du mieux-vieillir.",
+      "visites": 0,
+      "note": null,
+      "blurb": "Harmony Fitness Denges, dans un cadre de verdure et de calme. Loft sportif lumineux et appareils performants pour bouger au naturel.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "La VILLA Kobido et Massage",
-      "etab_slug": "la-villa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa/",
+      "etab_name": "FITNESS HARMONY - SIGNY",
+      "etab_slug": "les-fitness-harmony/signy",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--signy.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-fitness-harmony/signy/",
       "canton": "Vaud",
-      "visites": 228,
-      "note": "5/5",
-      "blurb": "La Villa à St-Légier, ancien institut Karin Herzog avec vue lac. Kobido à la rose, sauna infrarouge et Lipo Slim Massage exclusif, le bien-être nocturne en after-work.",
+      "visites": 0,
+      "note": null,
+      "blurb": null,
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
-      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
-      "etab_slug": "bpnight-hotel-nendaz-4-vallees",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/",
-      "canton": null,
+      "etab_name": "CHALET ROYALP HÔTEL & SPA",
+      "etab_slug": "chalet-royalp-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
+      "canton": "Vaud",
       "visites": null,
       "note": null,
-      "blurb": null,
+      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
       "reason": "Nouveau partenaire du réseau"
     }
   ]

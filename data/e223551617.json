@@ -1,16 +1,16 @@
 {
   "carte": "36525",
   "name": "Louise",
-  "yesterday_date": "2026-08-27",
-  "yesterday_date_pretty": "le 27 août 2026",
+  "yesterday_date": "2026-10-10",
+  "yesterday_date_pretty": "le 10 octobre 2026",
   "visits": [
     {
-      "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
-      "etab_slug": "le-centre-geneve-by-charline",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
-      "visite_id": "v_8f7ba5c6f7fb",
+      "etab_name": "SAKURA LAB",
+      "etab_slug": "sakura-lab",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sakura-lab.jpg",
+      "visite_id": "v_85cf9e3b0b4f",
       "canton": "Genève",
-      "date_iso": "2026-08-27"
+      "date_iso": "2026-10-10"
     }
   ],
   "suggestions": [
@@ -20,7 +20,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
       "canton": "Genève",
-      "visites": 148,
+      "visites": 152,
       "note": "5/5",
       "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
       "reason": "Nous pensons que vous allez aimer"
@@ -31,20 +31,20 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
       "canton": "Genève",
-      "visites": 111,
+      "visites": 124,
       "note": "5/5",
       "blurb": "La maison de beauté A Fleur d'Épiderme, spécialiste soins de la peau et épilation définitive. Technicité médicale et douceur esthétique, sans compromis sur le résultat.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {
-      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
-      "etab_slug": "bpnight-hotel-nendaz-4-vallees",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/",
-      "canton": null,
+      "etab_name": "CHALET ROYALP HÔTEL & SPA",
+      "etab_slug": "chalet-royalp-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
+      "canton": "Vaud",
       "visites": null,
       "note": null,
-      "blurb": null,
+      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
       "reason": "Nouveau partenaire du réseau"
     }
   ]
