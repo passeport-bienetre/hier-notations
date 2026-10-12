@@ -1,50 +1,50 @@
 {
   "carte": "35732",
   "name": "Corinne",
-  "yesterday_date": "2026-06-21",
-  "yesterday_date_pretty": "le 21 juin 2026",
+  "yesterday_date": "2026-10-11",
+  "yesterday_date_pretty": "le 11 octobre 2026",
   "visits": [
     {
-      "etab_name": "Hôtel & Spa Le National",
-      "etab_slug": "hotel-spa-le-national",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-spa-le-national.jpg",
-      "visite_id": "v_433a21e02acb",
-      "canton": "Valais",
-      "date_iso": "2026-06-21"
+      "etab_name": "LES FITNESS HARMONY",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--blandonnet.jpg",
+      "visite_id": "v_f55ed7258298",
+      "canton": " ",
+      "date_iso": "2026-10-11"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "BEAUTY B",
-      "etab_slug": "bv-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
+      "etab_name": "FITNESS HARMONY - BLANDONNET",
+      "etab_slug": "les-fitness-harmony/blandonnet",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--blandonnet.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-fitness-harmony/blandonnet/",
       "canton": "Genève",
-      "visites": 145,
-      "note": "5/5",
-      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
+      "visites": 0,
+      "note": null,
+      "blurb": "Harmony Fitness Blandonnet, face au centre commercial. Aménagement résolument contemporain et conditions d'entraînement pensées : le club nouvelle génération.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Blossom Institut",
-      "etab_slug": "blossom-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
+      "etab_name": "FITNESS HARMONY - VERSOIX",
+      "etab_slug": "les-fitness-harmony/versoix",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--versoix.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-fitness-harmony/versoix/",
       "canton": "Genève",
-      "visites": 524,
-      "note": "5/5",
-      "blurb": "L'institut genevois spécialiste visage, mené par Nadège. Plus de dix ans de soins faciaux et de massages pointus au service d'une beauté naturelle.",
+      "visites": 0,
+      "note": null,
+      "blurb": "Harmony Fitness Versoix, vue lac et Alpes. Grandes baies vitrées et technologie alliant force et douceur, avec le sentiment d'être en vacances à chaque séance.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
-      "etab_slug": "chandolin-boutique-hotel",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
-      "canton": null,
+      "etab_name": "CHALET ROYALP HÔTEL & SPA",
+      "etab_slug": "chalet-royalp-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
+      "canton": "Vaud",
       "visites": null,
       "note": null,
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
       "reason": "Nouveau partenaire du réseau"
     }
   ]
