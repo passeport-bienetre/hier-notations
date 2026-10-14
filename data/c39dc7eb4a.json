@@ -1,16 +1,16 @@
 {
   "carte": "36882",
   "name": "Simmi",
-  "yesterday_date": "2026-09-24",
-  "yesterday_date_pretty": "le 24 septembre 2026",
+  "yesterday_date": "2026-10-13",
+  "yesterday_date_pretty": "le 13 octobre 2026",
   "visits": [
     {
-      "etab_name": "Salon Privé Chailly",
-      "etab_slug": "salon-prive-chailly",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-chailly.jpg",
-      "visite_id": "v_08b234de3e67",
+      "etab_name": "Rituels Beauté",
+      "etab_slug": "rituels-beaute",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/rituels-beaute.jpg",
+      "visite_id": "v_76dd3428ad68",
       "canton": "Vaud",
-      "date_iso": "2026-09-24"
+      "date_iso": "2026-10-13"
     }
   ],
   "suggestions": [
@@ -20,7 +20,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "canton": "Vaud",
-      "visites": 738,
+      "visites": 743,
       "note": "5/5",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "reason": "Nous pensons que vous allez aimer"
@@ -31,7 +31,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
       "canton": "Vaud",
-      "visites": 184,
+      "visites": 185,
       "note": "5/5",
       "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
       "reason": "À découvrir dans le canton de Vaud"
