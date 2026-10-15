@@ -1,16 +1,16 @@
 {
   "carte": "35064",
   "name": "Joanne",
-  "yesterday_date": "2026-10-09",
-  "yesterday_date_pretty": "le 9 octobre 2026",
+  "yesterday_date": "2026-10-14",
+  "yesterday_date_pretty": "le 14 octobre 2026",
   "visits": [
     {
-      "etab_name": "Luna aesthetic",
-      "etab_slug": "luna-aesthetic",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/luna-aesthetic.jpg",
-      "visite_id": "v_fb95f7669788",
-      "canton": "Vaud",
-      "date_iso": "2026-10-09"
+      "etab_name": "LES TRESOMS",
+      "etab_slug": "les-tresoms-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-tresoms-2.jpg",
+      "visite_id": "v_0ac9db8afcf1",
+      "canton": null,
+      "date_iso": "2026-10-14"
     }
   ],
   "suggestions": [
@@ -42,7 +42,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/",
       "canton": "Valais",
-      "visites": null,
+      "visites": 1,
       "note": null,
       "blurb": "Au cœur de Haute-Nendaz et du domaine skiable des 4 Vallées, l'Hôtel Nendaz 4 Vallées & Spa marie style valaisan contemporain, atmosphère authentique et un spa d'exception de 2'200 m².",
       "reason": "Nouveau partenaire du réseau"
