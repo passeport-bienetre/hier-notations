@@ -1,16 +1,16 @@
 {
   "carte": "37231",
   "name": "Leeilah",
-  "yesterday_date": "2026-10-13",
-  "yesterday_date_pretty": "le 13 octobre 2026",
+  "yesterday_date": "2026-10-15",
+  "yesterday_date_pretty": "le 15 octobre 2026",
   "visits": [
     {
-      "etab_name": "Skin Solution",
-      "etab_slug": "skin-solution",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/skin-solution.jpg",
-      "visite_id": "v_502d3167eb60",
-      "canton": "Genève",
-      "date_iso": "2026-10-13"
+      "etab_name": "Les Cliniques Matignon",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--capsule-geneve-clinique-matignon.jpg",
+      "visite_id": "v_a57f88e014e2",
+      "canton": " ",
+      "date_iso": "2026-10-15"
     }
   ],
   "suggestions": [
