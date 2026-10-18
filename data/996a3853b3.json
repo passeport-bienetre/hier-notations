@@ -1,0 +1,51 @@
+{
+  "carte": "36603",
+  "name": "Josiane",
+  "yesterday_date": "2026-10-17",
+  "yesterday_date_pretty": "le 17 octobre 2026",
+  "visits": [
+    {
+      "etab_name": "Tête à Clak",
+      "etab_slug": "tete-a-clak",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/tete-a-clak.jpg",
+      "visite_id": "v_be71c8e3919f",
+      "canton": null,
+      "date_iso": "2026-10-17"
+    }
+  ],
+  "suggestions": [
+    {
+      "etab_name": "Le Lokal",
+      "etab_slug": "le-lokal",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-lokal.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-lokal/",
+      "canton": "Valais",
+      "visites": 52,
+      "note": "5/5",
+      "blurb": "Le LoKal à Martigny-Bourg, fondé en 2015. Coiffure cadre zen et partenaire Keune depuis 1922 : la beauté capillaire au tempo lent.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "Prestige Coiffure",
+      "etab_slug": "prestige-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/prestige-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/prestige-coiffure/",
+      "canton": "Valais",
+      "visites": 0,
+      "note": null,
+      "blurb": "Prestige Coiffure et maquillage, spécialiste visagisme. Coupe, couleur et maquillage en harmonie avec la personnalité, le conseil avant le geste.",
+      "reason": "À découvrir dans le canton de Valais"
+    },
+    {
+      "etab_name": "CHALET ROYALP HÔTEL & SPA",
+      "etab_slug": "chalet-royalp-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
+      "canton": "Vaud",
+      "visites": null,
+      "note": null,
+      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}
