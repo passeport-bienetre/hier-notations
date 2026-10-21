@@ -1,39 +1,39 @@
 {
   "carte": "35950",
   "name": "Daniela",
-  "yesterday_date": "2026-10-09",
-  "yesterday_date_pretty": "le 9 octobre 2026",
+  "yesterday_date": "2026-10-20",
+  "yesterday_date_pretty": "le 20 octobre 2026",
   "visits": [
     {
-      "etab_name": "NUANCES NATURE",
-      "etab_slug": "nuances-nature",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nuances-nature.jpg",
-      "visite_id": "v_a781d76fdb2b",
+      "etab_name": "Thaiotop",
+      "etab_slug": "thaiotop-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thaiotop-3.jpg",
+      "visite_id": "v_ade8df997cc8",
       "canton": "Genève",
-      "date_iso": "2026-10-09"
+      "date_iso": "2026-10-20"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "Le Cabinet de Beauté",
-      "etab_slug": "le-cabinet-de-beaute",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-cabinet-de-beaute.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/le-cabinet-de-beaute/",
+      "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
+      "etab_slug": "hotel-intercontinental-spa-5-mondes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-intercontinental-spa-5-mondes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "canton": "Genève",
-      "visites": 369,
+      "visites": 455,
       "note": "5/5",
-      "blurb": "Le Cabinet de Beauté, ambiance boisée et soins Dr Hauschka. Bio-esthéticienne spécialiste du visage et plantes médicinales biologiques : la cosmétique \"autrement\" à Genève.",
+      "blurb": "Au cœur de Genève, l'adresse urbaine signée Cinq Mondes. Rituels d'ailleurs et piscine au 30e étage pour une pause hors du monde.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Wulan Studio",
-      "etab_slug": "wulan-studio",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/wulan-studio.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/wulan-studio/",
+      "etab_name": "Namaka - Centre de Longévité et Bienêtre",
+      "etab_slug": "namaka",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/namaka.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/namaka/",
       "canton": "Genève",
-      "visites": 76,
-      "note": "5/5",
-      "blurb": "Wulan HeadCare studio. Inspiré des traditions asiatiques, massage crânien et soin capillaire aux produits certifiés bio : la beauté du cuir chevelu en mode holistique.",
+      "visites": 206,
+      "note": "4.5/5",
+      "blurb": "Namaka, bain de flottaison à 500 kg de sel d'Epsom. Apesanteur, chants de baleines, silence vrai : la régénération en magnésium naturel.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {
