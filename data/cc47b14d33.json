@@ -1,16 +1,16 @@
 {
   "carte": "36195",
   "name": "Elsa",
-  "yesterday_date": "2026-10-10",
-  "yesterday_date_pretty": "le 10 octobre 2026",
+  "yesterday_date": "2026-10-21",
+  "yesterday_date_pretty": "le 21 octobre 2026",
   "visits": [
     {
-      "etab_name": "BL Institut",
-      "etab_slug": "bl-institut-2",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bl-institut-2.jpg",
-      "visite_id": "v_858c339911b4",
+      "etab_name": "So Beauty Home",
+      "etab_slug": "so-beauty-home",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/so-beauty-home.jpg",
+      "visite_id": "v_c8ad62ec2f5d",
       "canton": "Genève",
-      "date_iso": "2026-10-10"
+      "date_iso": "2026-10-21"
     }
   ],
   "suggestions": [
@@ -26,14 +26,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "SUBLIMEYES",
-      "etab_slug": "institut-sublimeyes",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sublimeyes/",
+      "etab_name": "CLINIQUE LA JOUVENCE GENÈVE",
+      "etab_slug": "clinique-la-jouvence-geneve",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-geneve.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-geneve/",
       "canton": "Genève",
-      "visites": 138,
+      "visites": 12,
       "note": "5/5",
-      "blurb": "SublimEyes au cœur de Genève, spécialiste du regard. Épilation au fil, teinture, rehaussement de cils et Microblading : la beauté pensée à hauteur d'œil.",
+      "blurb": "La Clinique La Jouvence à Genève. Approche personnalisée selon chaque type de peau, conseils sur-mesure : la médecine esthétique à l'écoute.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {

@@ -1,40 +1,40 @@
 {
   "carte": "35624",
   "name": "Jennifer",
-  "yesterday_date": "2026-10-03",
-  "yesterday_date_pretty": "le 3 octobre 2026",
+  "yesterday_date": "2026-10-21",
+  "yesterday_date_pretty": "le 21 octobre 2026",
   "visits": [
     {
-      "etab_name": "Hôtel de Rougemont & Spa",
-      "etab_slug": "hotel-de-rougemont-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-de-rougemont-spa.jpg",
-      "visite_id": "v_532d0dc01635",
-      "canton": "Berne",
-      "date_iso": "2026-10-03"
+      "etab_name": "Les Vagabondes",
+      "etab_slug": "les-vagabondes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-vagabondes.jpg",
+      "visite_id": "v_ab6015b42b45",
+      "canton": "Vaud",
+      "date_iso": "2026-10-21"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "Centre Sattva",
-      "etab_slug": "centre-sattva",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/centre-sattva.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/centre-sattva/",
-      "canton": "Berne",
-      "visites": 5,
+      "etab_name": "1er Acte Coiffure",
+      "etab_slug": "1er-acte-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
+      "canton": "Vaud",
+      "visites": 747,
       "note": "5/5",
-      "blurb": "Le centre dédié à l'Ayurveda et au yoga, à Orvin (Berne). À 10 min de Bienne, 25 min de Neuchâtel, la sagesse millénaire pose ses valises au plateau de Diesse.",
+      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Hôtel Schweizerhof Bern & Spa",
-      "etab_slug": "schweizerhof-bern-hotel-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/schweizerhof-bern-hotel-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/schweizerhof-bern-hotel-spa/",
-      "canton": "Berne",
-      "visites": 55,
-      "note": "4/5",
-      "blurb": "Le spa du Schweizerhof Bern. Sauna, bain de vapeur, piscine de vitalité chauffée, salle de relaxation aux lits aqueux et équipement Techno Gym, ouvert aux visiteurs de jour.",
-      "reason": "À découvrir dans le canton de Berne"
+      "etab_name": "Atmosp'hair",
+      "etab_slug": "atmosphair",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
+      "canton": "Vaud",
+      "visites": 185,
+      "note": "5/5",
+      "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
+      "reason": "À découvrir dans le canton de Vaud"
     },
     {
       "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
@@ -42,7 +42,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/",
       "canton": "Valais",
-      "visites": null,
+      "visites": 1,
       "note": null,
       "blurb": "Au cœur de Haute-Nendaz et du domaine skiable des 4 Vallées, l'Hôtel Nendaz 4 Vallées & Spa marie style valaisan contemporain, atmosphère authentique et un spa d'exception de 2'200 m².",
       "reason": "Nouveau partenaire du réseau"
