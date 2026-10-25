@@ -1,50 +1,50 @@
 {
   "carte": "34727",
   "name": "Fanny",
-  "yesterday_date": "2026-07-31",
-  "yesterday_date_pretty": "le 31 juillet 2026",
+  "yesterday_date": "2026-10-24",
+  "yesterday_date_pretty": "le 24 octobre 2026",
   "visits": [
     {
-      "etab_name": "Le Mirador Resort & Spa",
-      "etab_slug": "le-mirador-resort-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
-      "visite_id": "v_5c7dc6419957",
-      "canton": "Vaud",
-      "date_iso": "2026-07-31"
+      "etab_name": "Hôtel Ermitage Spa des Quatre Terres",
+      "etab_slug": "hotel-ermitage-spa-des-quatre-terres",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-ermitage-spa-des-quatre-terres.jpg",
+      "visite_id": "v_a3db9e9da7e4",
+      "canton": null,
+      "date_iso": "2026-10-24"
     }
   ],
   "suggestions": [
+    {
+      "etab_name": "Bhumi",
+      "etab_slug": "biotonique-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
+      "canton": "Vaud",
+      "visites": 315,
+      "note": "5/5",
+      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
     {
       "etab_name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
       "etab_slug": "la-villa-dermo-esthetique-by-lorella",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa-dermo-esthetique-by-lorella.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/",
       "canton": "Vaud",
-      "visites": 83,
+      "visites": 89,
       "note": "5/5",
       "blurb": "La Villa Dermo-Esthétique by Lorella, duo Lorella et Orphane. Kobido avancé, technologies de régénération et esthétique médicale : l'art du mieux-vieillir.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
-    {
-      "etab_name": "La VILLA Kobido et Massage",
-      "etab_slug": "la-villa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa/",
-      "canton": "Vaud",
-      "visites": 228,
-      "note": "5/5",
-      "blurb": "La Villa à St-Légier, ancien institut Karin Herzog avec vue lac. Kobido à la rose, sauna infrarouge et Lipo Slim Massage exclusif, le bien-être nocturne en after-work.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
-      "etab_name": "SPA DES BISSES 4 VALLÉES",
-      "etab_slug": "spa-hotel-nendaz-4-vallees",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
-      "canton": "Valais",
-      "visites": 0,
+      "etab_name": "CHALET ROYALP HÔTEL & SPA",
+      "etab_slug": "chalet-royalp-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
+      "canton": "Vaud",
+      "visites": null,
       "note": null,
-      "blurb": null,
+      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
       "reason": "Nouveau partenaire du réseau"
     }
   ]
