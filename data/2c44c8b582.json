@@ -1,16 +1,16 @@
 {
   "carte": "38108",
   "name": "Esther",
-  "yesterday_date": "2026-09-30",
-  "yesterday_date_pretty": "le 30 septembre 2026",
+  "yesterday_date": "2026-10-25",
+  "yesterday_date_pretty": "le 25 octobre 2026",
   "visits": [
     {
-      "etab_name": "Le Passage",
-      "etab_slug": "le-passage",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-passage.jpg",
-      "visite_id": "v_95185dd801ac",
+      "etab_name": "JOIA LAUSANNE",
+      "etab_slug": "joia-lausanne",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/joia-lausanne.jpg",
+      "visite_id": "v_21ad2925cc25",
       "canton": "Vaud",
-      "date_iso": "2026-09-30"
+      "date_iso": "2026-10-25"
     }
   ],
   "suggestions": [
@@ -20,7 +20,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "canton": "Vaud",
-      "visites": 739,
+      "visites": 747,
       "note": "5/5",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "reason": "Nous pensons que vous allez aimer"
@@ -31,7 +31,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
       "canton": "Vaud",
-      "visites": 184,
+      "visites": 186,
       "note": "5/5",
       "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
       "reason": "À découvrir dans le canton de Vaud"

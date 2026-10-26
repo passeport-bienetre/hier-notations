@@ -1,16 +1,16 @@
 {
   "carte": "36388",
   "name": "Nathalie",
-  "yesterday_date": "2026-10-05",
-  "yesterday_date_pretty": "le 5 octobre 2026",
+  "yesterday_date": "2026-10-25",
+  "yesterday_date_pretty": "le 25 octobre 2026",
   "visits": [
     {
-      "etab_name": "Spa La Santé, Bulles de Champagne",
-      "etab_slug": "la-sante-a-champagne",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-sante-a-champagne.jpg",
-      "visite_id": "v_696c3ae9af9a",
-      "canton": "Vaud",
-      "date_iso": "2026-10-05"
+      "etab_name": "Flocoon Spa Cinq Mondes",
+      "etab_slug": "flocoon-spa-cinq-mondes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/flocoon-spa-cinq-mondes.jpg",
+      "visite_id": "v_85f6c97cfd63",
+      "canton": "Valais",
+      "date_iso": "2026-10-25"
     }
   ],
   "suggestions": [
@@ -20,7 +20,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "canton": "Vaud",
-      "visites": 960,
+      "visites": 976,
       "note": "5/5",
       "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
       "reason": "Nous pensons que vous allez aimer"
@@ -42,7 +42,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/",
       "canton": "Valais",
-      "visites": null,
+      "visites": 1,
       "note": null,
       "blurb": "Au cœur de Haute-Nendaz et du domaine skiable des 4 Vallées, l'Hôtel Nendaz 4 Vallées & Spa marie style valaisan contemporain, atmosphère authentique et un spa d'exception de 2'200 m².",
       "reason": "Nouveau partenaire du réseau"
