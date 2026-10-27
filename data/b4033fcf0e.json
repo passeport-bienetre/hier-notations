@@ -1,16 +1,16 @@
 {
   "carte": "35285",
   "name": "Julie",
-  "yesterday_date": "2026-10-21",
-  "yesterday_date_pretty": "le 21 octobre 2026",
+  "yesterday_date": "2026-10-26",
+  "yesterday_date_pretty": "le 26 octobre 2026",
   "visits": [
     {
-      "etab_name": "Odyssée Santé & Beauté",
-      "etab_slug": "odyssee-sante-beaute",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/odyssee-sante-beaute.jpg",
-      "visite_id": "v_8712bc7b7b1f",
+      "etab_name": "Institut Bienitude & Bienitude Natura",
+      "etab_slug": "institut-bienitude-bienitude-natura",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-bienitude-bienitude-natura.jpg",
+      "visite_id": "v_7f2909975ef7",
       "canton": "Vaud",
-      "date_iso": "2026-10-21"
+      "date_iso": "2026-10-26"
     }
   ],
   "suggestions": [
@@ -31,7 +31,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
       "canton": "Vaud",
-      "visites": 185,
+      "visites": 186,
       "note": "5/5",
       "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
       "reason": "À découvrir dans le canton de Vaud"
