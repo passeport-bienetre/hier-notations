@@ -1,16 +1,16 @@
 {
   "carte": "37299",
   "name": "Melis",
-  "yesterday_date": "2026-10-22",
-  "yesterday_date_pretty": "le 22 octobre 2026",
+  "yesterday_date": "2026-10-27",
+  "yesterday_date_pretty": "le 27 octobre 2026",
   "visits": [
     {
-      "etab_name": "Salon Privé Gare",
-      "etab_slug": "salon-prive",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive.jpg",
-      "visite_id": "v_5f78d4bf9b99",
+      "etab_name": "Salon Privé Ecublens",
+      "etab_slug": "salon-prive-ecublens",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-ecublens.jpg",
+      "visite_id": "v_02bc93b0c1fa",
       "canton": "Vaud",
-      "date_iso": "2026-10-22"
+      "date_iso": "2026-10-27"
     }
   ],
   "suggestions": [
@@ -31,7 +31,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
       "canton": "Vaud",
-      "visites": 185,
+      "visites": 186,
       "note": "5/5",
       "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
       "reason": "À découvrir dans le canton de Vaud"
