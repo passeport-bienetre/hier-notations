@@ -1,16 +1,16 @@
 {
   "carte": "35364",
   "name": "Emma",
-  "yesterday_date": "2026-10-03",
-  "yesterday_date_pretty": "le 3 octobre 2026",
+  "yesterday_date": "2026-10-28",
+  "yesterday_date_pretty": "le 28 octobre 2026",
   "visits": [
     {
-      "etab_name": "CJ Coiffure",
-      "etab_slug": "cj-coiffure",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/cj-coiffure.jpg",
-      "visite_id": "v_b750061a2ac1",
-      "canton": "Vaud",
-      "date_iso": "2026-10-03"
+      "etab_name": "Maison B",
+      "etab_slug": "maison-b",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
+      "visite_id": "v_0ee9c0f212d4",
+      "canton": null,
+      "date_iso": "2026-10-28"
     }
   ],
   "suggestions": [
@@ -20,7 +20,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "canton": "Vaud",
-      "visites": 740,
+      "visites": 747,
       "note": "5/5",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "reason": "Nous pensons que vous allez aimer"
@@ -31,7 +31,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
       "canton": "Vaud",
-      "visites": 184,
+      "visites": 186,
       "note": "5/5",
       "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
       "reason": "À découvrir dans le canton de Vaud"
