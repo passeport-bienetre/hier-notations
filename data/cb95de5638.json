@@ -1,16 +1,16 @@
 {
   "carte": "36132",
   "name": "Angela",
-  "yesterday_date": "2026-10-02",
-  "yesterday_date_pretty": "le 2 octobre 2026",
+  "yesterday_date": "2026-10-30",
+  "yesterday_date_pretty": "le 30 octobre 2026",
   "visits": [
     {
-      "etab_name": "SUBLIMEYES",
-      "etab_slug": "institut-sublimeyes",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
-      "visite_id": "v_bf60e352e1fb",
+      "etab_name": "19th AVENUE – Versonnex",
+      "etab_slug": "versonnex",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/versonnex.jpg",
+      "visite_id": "v_c623e5fe75ca",
       "canton": "Genève",
-      "date_iso": "2026-10-02"
+      "date_iso": "2026-10-30"
     }
   ],
   "suggestions": [
@@ -20,7 +20,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
       "canton": "Genève",
-      "visites": 151,
+      "visites": 152,
       "note": "5/5",
       "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
       "reason": "Nous pensons que vous allez aimer"
@@ -31,7 +31,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "canton": "Genève",
-      "visites": 547,
+      "visites": 557,
       "note": "5/5",
       "blurb": "L'institut genevois spécialiste visage, mené par Nadège. Plus de dix ans de soins faciaux et de massages pointus au service d'une beauté naturelle.",
       "reason": "À découvrir dans le canton de Genève"

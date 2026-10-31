@@ -1,16 +1,16 @@
 {
   "carte": "36831",
   "name": "Véronique",
-  "yesterday_date": "2026-10-09",
-  "yesterday_date_pretty": "le 9 octobre 2026",
+  "yesterday_date": "2026-10-30",
+  "yesterday_date_pretty": "le 30 octobre 2026",
   "visits": [
     {
-      "etab_name": "Le Mirador Resort & Spa",
-      "etab_slug": "le-mirador-resort-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
-      "visite_id": "v_aa234473ae6c",
+      "etab_name": "Royal Savoy Hôtel & Spa",
+      "etab_slug": "royal-savoy-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+      "visite_id": "v_484ebdc3bf75",
       "canton": "Vaud",
-      "date_iso": "2026-10-09"
+      "date_iso": "2026-10-30"
     }
   ],
   "suggestions": [
@@ -20,7 +20,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
       "canton": "Vaud",
-      "visites": 312,
+      "visites": 316,
       "note": "5/5",
       "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
       "reason": "Nous pensons que vous allez aimer"
@@ -31,7 +31,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa-dermo-esthetique-by-lorella.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/",
       "canton": "Vaud",
-      "visites": 87,
+      "visites": 89,
       "note": "5/5",
       "blurb": "La Villa Dermo-Esthétique by Lorella, duo Lorella et Orphane. Kobido avancé, technologies de régénération et esthétique médicale : l'art du mieux-vieillir.",
       "reason": "À découvrir dans le canton de Vaud"

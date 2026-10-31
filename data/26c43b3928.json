@@ -1,50 +1,50 @@
 {
   "carte": "39088",
-  "name": "Be",
-  "yesterday_date": "2026-07-24",
-  "yesterday_date_pretty": "le 24 juillet 2026",
+  "name": "Ben",
+  "yesterday_date": "2026-10-30",
+  "yesterday_date_pretty": "le 30 octobre 2026",
   "visits": [
     {
-      "etab_name": "Thaiotop",
-      "etab_slug": "thaiotop-3",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thaiotop-3.jpg",
-      "visite_id": "v_8b90c09b16c3",
+      "etab_name": "Mon Bonheur Ayurvédique",
+      "etab_slug": "mon-bonheur-ayurvedique",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/mon-bonheur-ayurvedique.jpg",
+      "visite_id": "v_485019ad9f86",
       "canton": "Genève",
-      "date_iso": "2026-07-24"
+      "date_iso": "2026-10-30"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "Centre de bien-être J&J",
-      "etab_slug": "centre-de-bien-etre-jj",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/centre-de-bien-etre-jj.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/centre-de-bien-etre-jj/",
-      "canton": null,
-      "visites": 246,
+      "etab_name": "BEAUTY B",
+      "etab_slug": "bv-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
+      "canton": "Genève",
+      "visites": 152,
       "note": "5/5",
-      "blurb": "Le centre de bien-être à La Tour-de-Peilz. Technologies de pointe, soins ciblés et accompagnement attentif pour une beauté qui se voit autant qu'elle se ressent.",
+      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Chalet Royalp Hôtel & Spa",
+      "etab_name": "Blossom Institut",
+      "etab_slug": "blossom-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
+      "canton": "Genève",
+      "visites": 557,
+      "note": "5/5",
+      "blurb": "L'institut genevois spécialiste visage, mené par Nadège. Plus de dix ans de soins faciaux et de massages pointus au service d'une beauté naturelle.",
+      "reason": "À découvrir dans le canton de Genève"
+    },
+    {
+      "etab_name": "CHALET ROYALP HÔTEL & SPA",
       "etab_slug": "chalet-royalp-hotel-spa",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "canton": "Vaud",
-      "visites": 930,
-      "note": "5/5",
-      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
-      "reason": "À découvrir dans le canton de Vaud"
-    },
-    {
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
-      "etab_slug": "chandolin-boutique-hotel",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
-      "canton": null,
       "visites": null,
       "note": null,
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
       "reason": "Nouveau partenaire du réseau"
     }
   ]

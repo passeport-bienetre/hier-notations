@@ -1,39 +1,39 @@
 {
   "carte": "36135",
   "name": "Erin",
-  "yesterday_date": "2026-10-20",
-  "yesterday_date_pretty": "le 20 octobre 2026",
+  "yesterday_date": "2026-10-30",
+  "yesterday_date_pretty": "le 30 octobre 2026",
   "visits": [
     {
-      "etab_name": "Thaiotop",
-      "etab_slug": "thaiotop-3",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thaiotop-3.jpg",
-      "visite_id": "v_b28adc69d4e4",
-      "canton": "Genève",
-      "date_iso": "2026-10-20"
+      "etab_name": "Les Cliniques Matignon",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--capsule-geneve-clinique-matignon.jpg",
+      "visite_id": "v_1e20335339df",
+      "canton": " ",
+      "date_iso": "2026-10-30"
     }
   ],
   "suggestions": [
+    {
+      "etab_name": "BEAUTY B",
+      "etab_slug": "bv-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
+      "canton": "Genève",
+      "visites": 152,
+      "note": "5/5",
+      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
     {
       "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
       "etab_slug": "hotel-intercontinental-spa-5-mondes",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-intercontinental-spa-5-mondes.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "canton": "Genève",
-      "visites": 455,
+      "visites": 463,
       "note": "5/5",
       "blurb": "Au cœur de Genève, l'adresse urbaine signée Cinq Mondes. Rituels d'ailleurs et piscine au 30e étage pour une pause hors du monde.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
-    {
-      "etab_name": "Namaka - Centre de Longévité et Bienêtre",
-      "etab_slug": "namaka",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/namaka.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/namaka/",
-      "canton": "Genève",
-      "visites": 206,
-      "note": "4.5/5",
-      "blurb": "Namaka, bain de flottaison à 500 kg de sel d'Epsom. Apesanteur, chants de baleines, silence vrai : la régénération en magnésium naturel.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {
