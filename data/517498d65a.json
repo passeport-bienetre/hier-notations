@@ -1,40 +1,40 @@
 {
   "carte": "37116",
   "name": "Stephanie",
-  "yesterday_date": "2026-09-23",
-  "yesterday_date_pretty": "le 23 septembre 2026",
+  "yesterday_date": "2026-10-31",
+  "yesterday_date_pretty": "le 31 octobre 2026",
   "visits": [
     {
-      "etab_name": "Salon Privé Ecublens",
-      "etab_slug": "salon-prive-ecublens",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-ecublens.jpg",
-      "visite_id": "v_37751a3240c6",
+      "etab_name": "Guess What",
+      "etab_slug": "guess-what-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/guess-what-3.jpg",
+      "visite_id": "v_3bef5b6bd946",
       "canton": "Vaud",
-      "date_iso": "2026-09-23"
+      "date_iso": "2026-10-31"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "Chandolin Boutique Hôtel",
-      "etab_slug": "chandolin-boutique-hotel",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
-      "canton": "Valais",
-      "visites": 177,
+      "etab_name": "1er Acte Coiffure",
+      "etab_slug": "1er-acte-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
+      "canton": "Vaud",
+      "visites": 750,
       "note": "5/5",
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "LECRANS HOTEL & SPA",
-      "etab_slug": "le-st-gervais-hotel-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-st-gervais-hotel-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
-      "canton": "Valais",
-      "visites": 187,
+      "etab_name": "Atmosp'hair",
+      "etab_slug": "atmosphair",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
+      "canton": "Vaud",
+      "visites": 186,
       "note": "5/5",
-      "blurb": "Le Saint Gervais Hôtel & Spa au pied du Mont-Blanc, dans une demeure historique. Soins [comfort zone] certifiés B Corp depuis 2016, la beauté durable en cure thermale.",
-      "reason": "À découvrir dans le canton de Valais"
+      "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
+      "reason": "À découvrir dans le canton de Vaud"
     },
     {
       "etab_name": "CHALET ROYALP HÔTEL & SPA",
