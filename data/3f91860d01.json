@@ -1,50 +1,50 @@
 {
   "carte": "34126",
   "name": "N",
-  "yesterday_date": "2026-09-16",
-  "yesterday_date_pretty": "le 16 septembre 2026",
+  "yesterday_date": "2026-11-03",
+  "yesterday_date_pretty": "le 3 novembre 2026",
   "visits": [
     {
-      "etab_name": "LES FITNESS HARMONY",
-      "etab_slug": null,
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--eaux-vives.jpg",
-      "visite_id": "v_5613724bfe56",
-      "canton": " ",
-      "date_iso": "2026-09-16"
+      "etab_name": "So Beauty Home",
+      "etab_slug": "so-beauty-home",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/so-beauty-home.jpg",
+      "visite_id": "v_74d4b2eaa609",
+      "canton": "Genève",
+      "date_iso": "2026-11-03"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "FITNESS HARMONY - BLANDONNET",
-      "etab_slug": "les-fitness-harmony/blandonnet",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--blandonnet.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/les-fitness-harmony/blandonnet/",
+      "etab_name": "BEAUTY B",
+      "etab_slug": "bv-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
       "canton": "Genève",
-      "visites": 0,
-      "note": null,
-      "blurb": "Harmony Fitness Blandonnet, face au centre commercial. Aménagement résolument contemporain et conditions d'entraînement pensées : le club nouvelle génération.",
+      "visites": 152,
+      "note": "5/5",
+      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "FITNESS HARMONY - VERSOIX",
-      "etab_slug": "les-fitness-harmony/versoix",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--versoix.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/les-fitness-harmony/versoix/",
+      "etab_name": "CLINIQUE LA JOUVENCE GENÈVE",
+      "etab_slug": "clinique-la-jouvence-geneve",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-geneve.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-geneve/",
       "canton": "Genève",
-      "visites": 0,
-      "note": null,
-      "blurb": "Harmony Fitness Versoix, vue lac et Alpes. Grandes baies vitrées et technologie alliant force et douceur, avec le sentiment d'être en vacances à chaque séance.",
+      "visites": 13,
+      "note": "5/5",
+      "blurb": "La Clinique La Jouvence à Genève. Approche personnalisée selon chaque type de peau, conseils sur-mesure : la médecine esthétique à l'écoute.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {
-      "etab_name": "CHALET ROYALP HÔTEL & SPA",
-      "etab_slug": "chalet-royalp-hotel-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
-      "canton": "Vaud",
+      "etab_name": "CLARELYS",
+      "etab_slug": "clarelys",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clarelys.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/clarelys/",
+      "canton": "Valais",
       "visites": null,
       "note": null,
-      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
+      "blurb": null,
       "reason": "Nouveau partenaire du réseau"
     }
   ]
