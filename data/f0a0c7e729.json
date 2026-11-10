@@ -1,50 +1,50 @@
 {
   "carte": "35478",
   "name": "Aurélie",
-  "yesterday_date": "2026-09-24",
-  "yesterday_date_pretty": "le 24 septembre 2026",
+  "yesterday_date": "2026-11-09",
+  "yesterday_date_pretty": "le 9 novembre 2026",
   "visits": [
     {
-      "etab_name": "Parallèles Coiffure",
-      "etab_slug": "paralleles-coiffure",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/paralleles-coiffure.jpg",
-      "visite_id": "v_06b52b66248c",
-      "canton": "Genève",
-      "date_iso": "2026-09-24"
+      "etab_name": "CLARINS BOUTIQUE & SKIN SPA CHAVANNES",
+      "etab_slug": "boutique-skin-spa-clarins-chavannes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/boutique-skin-spa-clarins-chavannes.jpg",
+      "visite_id": "v_348eecf1dc41",
+      "canton": "Vaud",
+      "date_iso": "2026-11-09"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "19th AVENUE - Versonnex",
-      "etab_slug": "versonnex",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/versonnex.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/versonnex/",
-      "canton": "Genève",
-      "visites": 42,
-      "note": "4.5/5",
-      "blurb": "19th Avenue, ligne genevoise imaginée par Pascale Combettes et Andreas Gleichweit en 2001. Quatre salons et quatre équipes : coloristes spécialisés, lissage, extensions et botox capillaire.",
+      "etab_name": "1er Acte Coiffure",
+      "etab_slug": "1er-acte-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
+      "canton": "Vaud",
+      "visites": 753,
+      "note": "5/5",
+      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "AVEDA VIEILLE-VILLE",
-      "etab_slug": "aveda-vieille-ville",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/aveda-vieille-ville.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/",
-      "canton": "Genève",
-      "visites": 76,
-      "note": "4.5/5",
-      "blurb": "Le premier salon Aveda officiel de Genève, en plein cœur de la vieille ville. Coiffure, couleur et esthétique avec vue sur la cathédrale.",
-      "reason": "À découvrir dans le canton de Genève"
+      "etab_name": "Atmosp'hair",
+      "etab_slug": "atmosphair",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
+      "canton": "Vaud",
+      "visites": 186,
+      "note": "5/5",
+      "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
+      "reason": "À découvrir dans le canton de Vaud"
     },
     {
-      "etab_name": "CHALET ROYALP HÔTEL & SPA",
-      "etab_slug": "chalet-royalp-hotel-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
-      "canton": "Vaud",
+      "etab_name": "CLARELYS",
+      "etab_slug": "clarelys",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clarelys.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/clarelys/",
+      "canton": "Valais",
       "visites": null,
       "note": null,
-      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
+      "blurb": null,
       "reason": "Nouveau partenaire du réseau"
     }
   ]
