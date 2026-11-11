@@ -1,40 +1,40 @@
 {
   "carte": "35478",
   "name": "Aurélie",
-  "yesterday_date": "2026-11-09",
-  "yesterday_date_pretty": "le 9 novembre 2026",
+  "yesterday_date": "2026-11-10",
+  "yesterday_date_pretty": "le 10 novembre 2026",
   "visits": [
     {
-      "etab_name": "CLARINS BOUTIQUE & SKIN SPA CHAVANNES",
-      "etab_slug": "boutique-skin-spa-clarins-chavannes",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/boutique-skin-spa-clarins-chavannes.jpg",
-      "visite_id": "v_348eecf1dc41",
+      "etab_name": "Nueva Luna Yoga",
+      "etab_slug": "nueva-luna-yoga",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nueva-luna-yoga.jpg",
+      "visite_id": "v_6cade064bf2e",
       "canton": "Vaud",
-      "date_iso": "2026-11-09"
+      "date_iso": "2026-11-10"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "1er Acte Coiffure",
-      "etab_slug": "1er-acte-coiffure",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
-      "canton": "Vaud",
-      "visites": 753,
+      "etab_name": "CLINIQUE LA JOUVENCE GENÈVE",
+      "etab_slug": "clinique-la-jouvence-geneve",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-geneve.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-geneve/",
+      "canton": "Genève",
+      "visites": 14,
       "note": "5/5",
-      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
+      "blurb": "La Clinique La Jouvence à Genève. Approche personnalisée selon chaque type de peau, conseils sur-mesure : la médecine esthétique à l'écoute.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Atmosp'hair",
-      "etab_slug": "atmosphair",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
-      "canton": "Vaud",
-      "visites": 186,
+      "etab_name": "INSTITUT VALMONT CHEZ GLOBUS GENEVE",
+      "etab_slug": "institut-valmont-chez-globus-geneve",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-valmont-chez-globus-geneve.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-valmont-chez-globus-geneve/",
+      "canton": "Genève",
+      "visites": 37,
       "note": "5/5",
-      "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
-      "reason": "À découvrir dans le canton de Vaud"
+      "blurb": "L'Institut Valmont chez Globus Genève, rue du Rhône. Cosmétique cellulaire signature et gestuelle Valmont pour une régénération profonde côté shopping de luxe.",
+      "reason": "À découvrir dans le canton de Genève"
     },
     {
       "etab_name": "CLARELYS",

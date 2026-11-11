@@ -1,39 +1,39 @@
 {
   "carte": "37881",
   "name": "Isabelle",
-  "yesterday_date": "2026-11-08",
-  "yesterday_date_pretty": "le 8 novembre 2026",
+  "yesterday_date": "2026-11-10",
+  "yesterday_date_pretty": "le 10 novembre 2026",
   "visits": [
     {
-      "etab_name": "LES BAINS PUBLICS",
-      "etab_slug": "les-bains-publics",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-bains-publics.jpg",
-      "visite_id": "v_d28fd5aca0ae",
-      "canton": "Valais",
-      "date_iso": "2026-11-08"
+      "etab_name": "Espace Beauté Sarah",
+      "etab_slug": "espace-beaute-sarah",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/espace-beaute-sarah.jpg",
+      "visite_id": "v_af6b135a58c1",
+      "canton": "Vaud",
+      "date_iso": "2026-11-10"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "Chandolin Boutique Hôtel",
-      "etab_slug": "chandolin-boutique-hotel",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
+      "etab_name": "Chanelle and Co.",
+      "etab_slug": "chanelle-and-co",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chanelle-and-co.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chanelle-and-co/",
       "canton": "Valais",
-      "visites": 177,
+      "visites": 15,
       "note": "5/5",
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "blurb": "L'espace beauté Chanelle&co. Soins du visage adaptés à chaque type de peau dans une ambiance reposante, la pause beauté à la carte.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "LECRANS HOTEL & SPA",
-      "etab_slug": "le-st-gervais-hotel-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-st-gervais-hotel-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
+      "etab_name": "LR Beauté Sierre",
+      "etab_slug": "lr-beaute-sierre",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lr-beaute-sierre.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/lr-beaute-sierre/",
       "canton": "Valais",
-      "visites": 198,
-      "note": "5/5",
-      "blurb": "Le Saint Gervais Hôtel & Spa au pied du Mont-Blanc, dans une demeure historique. Soins [comfort zone] certifiés B Corp depuis 2016, la beauté durable en cure thermale.",
+      "visites": 1,
+      "note": null,
+      "blurb": "Léa, esthéticienne diplômée CFC et Cidesco à Sierre. Soins sur quatre jours par semaine : le rendez-vous esthétique valaisan, simplement.",
       "reason": "À découvrir dans le canton de Valais"
     },
     {
