@@ -1,50 +1,50 @@
 {
   "carte": "36657",
   "name": "Lucia",
-  "yesterday_date": "2026-07-03",
-  "yesterday_date_pretty": "le 3 juillet 2026",
+  "yesterday_date": "2026-11-11",
+  "yesterday_date_pretty": "le 11 novembre 2026",
   "visits": [
-    {
-      "etab_name": "Les Cliniques Matignon",
-      "etab_slug": null,
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--capsule-geneve-clinique-matignon.jpg",
-      "visite_id": "v_d5d95a1cba51",
-      "canton": " ",
-      "date_iso": "2026-07-03"
-    }
-  ],
-  "suggestions": [
     {
       "etab_name": "CLINIQUE LA JOUVENCE NEUCHÂTEL",
       "etab_slug": "clinique-la-jouvence-neuchatel",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-neuchatel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-neuchatel/",
+      "visite_id": "v_03ed9a9f5356",
       "canton": "Neuchâtel",
-      "visites": 12,
-      "note": "5/5",
-      "blurb": "La Clinique La Jouvence à Neuchâtel. Approche personnalisée selon chaque type de peau, conseils sur-mesure : la médecine esthétique à l'écoute.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
+      "date_iso": "2026-11-11"
+    }
+  ],
+  "suggestions": [
     {
       "etab_name": "Institut Sabaidee",
       "etab_slug": "institut-sabaidee",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sabaidee.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sabaidee/",
       "canton": "Neuchâtel",
-      "visites": 33,
+      "visites": 36,
       "note": "5/5",
       "blurb": "L'institut Sabaidee, dont le nom signifie \"bonjour\" en laotien. Soins inspirés des traditions asiatiques, masseuse thaïlandaise, cosmétiques naturels : le dépaysement sans sortir du canton.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "CLINIQUE MATIGNON NEUCHÂTEL",
+      "etab_slug": "les-cliniques-matignon/neuchatel",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--neuchatel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-cliniques-matignon/neuchatel/",
+      "canton": "Neuchâtel",
+      "visites": 0,
+      "note": null,
+      "blurb": "La clinique Matignon Neuchâtel, leader suisse en médecine esthétique non-invasive. Dermatologie, médecine esthétique et chirurgie plastique sous un même toit.",
       "reason": "À découvrir dans le canton de Neuchâtel"
     },
     {
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
-      "etab_slug": "chandolin-boutique-hotel",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
-      "canton": null,
+      "etab_name": "CLARELYS",
+      "etab_slug": "clarelys",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clarelys.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/clarelys/",
+      "canton": "Valais",
       "visites": null,
       "note": null,
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
+      "blurb": null,
       "reason": "Nouveau partenaire du réseau"
     }
   ]
