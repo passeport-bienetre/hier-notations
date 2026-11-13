@@ -1,39 +1,39 @@
 {
   "carte": "31957",
   "name": "Natacha",
-  "yesterday_date": "2026-11-10",
-  "yesterday_date_pretty": "le 10 novembre 2026",
+  "yesterday_date": "2026-11-12",
+  "yesterday_date_pretty": "le 12 novembre 2026",
   "visits": [
     {
-      "etab_name": "LES FITNESS HARMONY",
-      "etab_slug": null,
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--gland.jpg",
-      "visite_id": "v_aa2dab7b2d15",
-      "canton": " ",
-      "date_iso": "2026-11-10"
+      "etab_name": "CLARINS BOUTIQUE & SKIN SPA GENÈVE",
+      "etab_slug": "clarins-boutique-geneve",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clarins-boutique-geneve.jpg",
+      "visite_id": "v_0cba1b165e07",
+      "canton": "Genève",
+      "date_iso": "2026-11-12"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "FITNESS HARMONY - BLANDONNET",
-      "etab_slug": "les-fitness-harmony/blandonnet",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--blandonnet.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/les-fitness-harmony/blandonnet/",
+      "etab_name": "BEAUTY B",
+      "etab_slug": "bv-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
       "canton": "Genève",
-      "visites": 0,
-      "note": null,
-      "blurb": "Harmony Fitness Blandonnet, face au centre commercial. Aménagement résolument contemporain et conditions d'entraînement pensées : le club nouvelle génération.",
+      "visites": 152,
+      "note": "5/5",
+      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "FITNESS HARMONY - VERSOIX",
-      "etab_slug": "les-fitness-harmony/versoix",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--versoix.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/les-fitness-harmony/versoix/",
+      "etab_name": "Corps Sains",
+      "etab_slug": "corps-sains",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-sains.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/",
       "canton": "Genève",
-      "visites": 0,
-      "note": null,
-      "blurb": "Harmony Fitness Versoix, vue lac et Alpes. Grandes baies vitrées et technologie alliant force et douceur, avec le sentiment d'être en vacances à chaque séance.",
+      "visites": 145,
+      "note": "5/5",
+      "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {
