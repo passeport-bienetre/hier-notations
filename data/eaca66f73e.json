@@ -1,16 +1,16 @@
 {
   "carte": "35138",
   "name": "Manuela",
-  "yesterday_date": "2026-11-11",
-  "yesterday_date_pretty": "le 11 novembre 2026",
+  "yesterday_date": "2026-11-13",
+  "yesterday_date_pretty": "le 13 novembre 2026",
   "visits": [
     {
-      "etab_name": "Swiss Aesthetica",
-      "etab_slug": "swiss-aesthetica",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/swiss-aesthetica.jpg",
-      "visite_id": "v_3ea85004fc1e",
-      "canton": "Vaud",
-      "date_iso": "2026-11-11"
+      "etab_name": "LES BAINS PUBLICS",
+      "etab_slug": "les-bains-publics",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-bains-publics.jpg",
+      "visite_id": "v_aa3336517fd7",
+      "canton": "Valais",
+      "date_iso": "2026-11-13"
     }
   ],
   "suggestions": [
@@ -20,7 +20,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "canton": "Vaud",
-      "visites": 754,
+      "visites": 755,
       "note": "5/5",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "reason": "Nous pensons que vous allez aimer"

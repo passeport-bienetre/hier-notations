@@ -1,16 +1,16 @@
 {
   "carte": "35627",
   "name": "Laura",
-  "yesterday_date": "2026-11-08",
-  "yesterday_date_pretty": "le 8 novembre 2026",
+  "yesterday_date": "2026-11-13",
+  "yesterday_date_pretty": "le 13 novembre 2026",
   "visits": [
     {
-      "etab_name": "EVERNESS <br>Hôtel & Resort",
-      "etab_slug": "everness-resort",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/everness-resort.jpg",
-      "visite_id": "v_75bb27fae04a",
+      "etab_name": "CLARINS BOUTIQUE & SKIN SPA CHAVANNES",
+      "etab_slug": "boutique-skin-spa-clarins-chavannes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/boutique-skin-spa-clarins-chavannes.jpg",
+      "visite_id": "v_3d6ed7c34a0d",
       "canton": "Vaud",
-      "date_iso": "2026-11-08"
+      "date_iso": "2026-11-13"
     }
   ],
   "suggestions": [
@@ -20,7 +20,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "canton": "Vaud",
-      "visites": 753,
+      "visites": 755,
       "note": "5/5",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "reason": "Nous pensons que vous allez aimer"

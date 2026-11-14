@@ -1,40 +1,40 @@
 {
   "carte": "32738",
   "name": "Laila",
-  "yesterday_date": "2026-11-12",
-  "yesterday_date_pretty": "le 12 novembre 2026",
+  "yesterday_date": "2026-11-13",
+  "yesterday_date_pretty": "le 13 novembre 2026",
   "visits": [
     {
-      "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
-      "etab_slug": "le-centre-geneve-by-charline",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
-      "visite_id": "v_a4d969872fcf",
+      "etab_name": "MAISON DU TEMPS",
+      "etab_slug": "maison-du-temps",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-du-temps.jpg",
+      "visite_id": "v_c7b1f73b5552",
       "canton": "Genève",
-      "date_iso": "2026-11-12"
+      "date_iso": "2026-11-13"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "Chanelle and Co.",
-      "etab_slug": "chanelle-and-co",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chanelle-and-co.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chanelle-and-co/",
-      "canton": "Valais",
-      "visites": 15,
+      "etab_name": "Corps Sains",
+      "etab_slug": "corps-sains",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-sains.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/",
+      "canton": "Genève",
+      "visites": 145,
       "note": "5/5",
-      "blurb": "L'espace beauté Chanelle&co. Soins du visage adaptés à chaque type de peau dans une ambiance reposante, la pause beauté à la carte.",
+      "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "LR Beauté Sierre",
-      "etab_slug": "lr-beaute-sierre",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lr-beaute-sierre.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/lr-beaute-sierre/",
-      "canton": "Valais",
-      "visites": 1,
-      "note": null,
-      "blurb": "Léa, esthéticienne diplômée CFC et Cidesco à Sierre. Soins sur quatre jours par semaine : le rendez-vous esthétique valaisan, simplement.",
-      "reason": "À découvrir dans le canton de Valais"
+      "etab_name": "Bhumi",
+      "etab_slug": "biotonique-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
+      "canton": "Vaud",
+      "visites": 320,
+      "note": "5/5",
+      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
+      "reason": "À découvrir dans le canton de Vaud"
     },
     {
       "etab_name": "CLARELYS",
