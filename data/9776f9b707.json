@@ -1,16 +1,16 @@
 {
   "carte": "36995",
   "name": "Valentine",
-  "yesterday_date": "2026-10-23",
-  "yesterday_date_pretty": "le 23 octobre 2026",
+  "yesterday_date": "2026-11-14",
+  "yesterday_date_pretty": "le 14 novembre 2026",
   "visits": [
     {
-      "etab_name": "Corps et Sons",
-      "etab_slug": "corps-et-sons",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-et-sons.jpg",
-      "visite_id": "v_8eb6b0118217",
+      "etab_name": "Organik Beauty",
+      "etab_slug": "organik-beauty",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/organik-beauty.jpg",
+      "visite_id": "v_7ea7552a08e9",
       "canton": "Vaud",
-      "date_iso": "2026-10-23"
+      "date_iso": "2026-11-14"
     }
   ],
   "suggestions": [
@@ -20,31 +20,31 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
       "canton": "Vaud",
-      "visites": 315,
+      "visites": 320,
       "note": "5/5",
       "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Chalet Royalp Hôtel & Spa",
-      "etab_slug": "chalet-royalp-hotel-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
+      "etab_name": "Institut Biotiful",
+      "etab_slug": "institut-biotiful-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-biotiful-2.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-biotiful-2/",
       "canton": "Vaud",
-      "visites": 974,
-      "note": "5/5",
-      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
+      "visites": 132,
+      "note": "4.5/5",
+      "blurb": "L'institut Bio'tiful de Margaux Nussbaumer et Marion Gudit. Soins avec gammes certifiées biologiques, ambiance zen et décoration naturelle. L'arrêt dans le temps.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
-      "etab_name": "HÔTEL NENDAZ 4 VALLÉES",
-      "etab_slug": "bpnight-hotel-nendaz-4-vallees",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-nendaz-4-vallees.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-nendaz-4-vallees/",
+      "etab_name": "CLARELYS",
+      "etab_slug": "clarelys",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clarelys.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/clarelys/",
       "canton": "Valais",
-      "visites": 1,
+      "visites": null,
       "note": null,
-      "blurb": "Au cœur de Haute-Nendaz et du domaine skiable des 4 Vallées, l'Hôtel Nendaz 4 Vallées & Spa marie style valaisan contemporain, atmosphère authentique et un spa d'exception de 2'200 m².",
+      "blurb": null,
       "reason": "Nouveau partenaire du réseau"
     }
   ]

@@ -1,0 +1,51 @@
+{
+  "carte": "37835",
+  "name": "Anne",
+  "yesterday_date": "2026-11-14",
+  "yesterday_date_pretty": "le 14 novembre 2026",
+  "visits": [
+    {
+      "etab_name": "MAISON DU TEMPS",
+      "etab_slug": "maison-du-temps",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-du-temps.jpg",
+      "visite_id": "v_0812627252a8",
+      "canton": "Genève",
+      "date_iso": "2026-11-14"
+    }
+  ],
+  "suggestions": [
+    {
+      "etab_name": "Corps Sains",
+      "etab_slug": "corps-sains",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-sains.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/",
+      "canton": "Genève",
+      "visites": 145,
+      "note": "5/5",
+      "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "Bhumi",
+      "etab_slug": "biotonique-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
+      "canton": "Vaud",
+      "visites": 320,
+      "note": "5/5",
+      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
+      "reason": "À découvrir dans le canton de Vaud"
+    },
+    {
+      "etab_name": "CLARELYS",
+      "etab_slug": "clarelys",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clarelys.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/clarelys/",
+      "canton": "Valais",
+      "visites": null,
+      "note": null,
+      "blurb": null,
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}

@@ -1,39 +1,39 @@
 {
   "carte": "35241",
   "name": "Stefanie",
-  "yesterday_date": "2026-11-13",
-  "yesterday_date_pretty": "le 13 novembre 2026",
+  "yesterday_date": "2026-11-14",
+  "yesterday_date_pretty": "le 14 novembre 2026",
   "visits": [
     {
-      "etab_name": "So Beauty Home",
-      "etab_slug": "so-beauty-home",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/so-beauty-home.jpg",
-      "visite_id": "v_68ea33d1676e",
+      "etab_name": "NUANCES NATURE",
+      "etab_slug": "nuances-nature",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nuances-nature.jpg",
+      "visite_id": "v_312ec29e85fb",
       "canton": "Genève",
-      "date_iso": "2026-11-13"
+      "date_iso": "2026-11-14"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "BEAUTY B",
-      "etab_slug": "bv-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
+      "etab_name": "Wulan Studio",
+      "etab_slug": "wulan-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/wulan-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/wulan-studio/",
       "canton": "Genève",
-      "visites": 152,
+      "visites": 78,
       "note": "5/5",
-      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
+      "blurb": "Wulan HeadCare studio. Inspiré des traditions asiatiques, massage crânien et soin capillaire aux produits certifiés bio : la beauté du cuir chevelu en mode holistique.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "CLINIQUE LA JOUVENCE GENÈVE",
-      "etab_slug": "clinique-la-jouvence-geneve",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-geneve.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-geneve/",
+      "etab_name": "GLOW GENÈVE TEMPLE",
+      "etab_slug": "glow-geneve-temple",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/glow-geneve-temple.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/glow-geneve-temple/",
       "canton": "Genève",
-      "visites": 15,
-      "note": "5/5",
-      "blurb": "La Clinique La Jouvence à Genève. Approche personnalisée selon chaque type de peau, conseils sur-mesure : la médecine esthétique à l'écoute.",
+      "visites": null,
+      "note": null,
+      "blurb": null,
       "reason": "À découvrir dans le canton de Genève"
     },
     {

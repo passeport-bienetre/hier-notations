@@ -1,50 +1,50 @@
 {
   "carte": "34503",
   "name": "Jessy",
-  "yesterday_date": "2026-10-17",
-  "yesterday_date_pretty": "le 17 octobre 2026",
+  "yesterday_date": "2026-11-14",
+  "yesterday_date_pretty": "le 14 novembre 2026",
   "visits": [
     {
-      "etab_name": "Maison Perle",
-      "etab_slug": "maison-perle",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-perle.jpg",
-      "visite_id": "v_93600f238299",
+      "etab_name": "Spa La Santé, Bulles de Champagne",
+      "etab_slug": "la-sante-a-champagne",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-sante-a-champagne.jpg",
+      "visite_id": "v_41bc2550a220",
       "canton": "Vaud",
-      "date_iso": "2026-10-17"
+      "date_iso": "2026-11-14"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "1er Acte Coiffure",
-      "etab_slug": "1er-acte-coiffure",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
-      "canton": "Vaud",
-      "visites": 745,
-      "note": "5/5",
-      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
-    {
-      "etab_name": "Atmosp'hair",
-      "etab_slug": "atmosphair",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
-      "canton": "Vaud",
-      "visites": 185,
-      "note": "5/5",
-      "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
-      "reason": "À découvrir dans le canton de Vaud"
-    },
-    {
-      "etab_name": "CHALET ROYALP HÔTEL & SPA",
+      "etab_name": "Chalet Royalp Hôtel & Spa",
       "etab_slug": "chalet-royalp-hotel-spa",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "canton": "Vaud",
+      "visites": 980,
+      "note": "5/5",
+      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "Lausanne Palace & Spa",
+      "etab_slug": "lausanne-palace-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lausanne-palace-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
+      "canton": "Vaud",
+      "visites": 797,
+      "note": "4.5/5",
+      "blurb": "L'institution lausannoise. Le CBE Concept Spa s'étend sur 1 800 m², avec les soins Cinq Mondes et une piscine art déco.",
+      "reason": "À découvrir dans le canton de Vaud"
+    },
+    {
+      "etab_name": "CLARELYS",
+      "etab_slug": "clarelys",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clarelys.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/clarelys/",
+      "canton": "Valais",
       "visites": null,
       "note": null,
-      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
+      "blurb": null,
       "reason": "Nouveau partenaire du réseau"
     }
   ]
