@@ -1,49 +1,49 @@
 {
   "carte": "35478",
   "name": "Aurélie",
-  "yesterday_date": "2026-11-10",
-  "yesterday_date_pretty": "le 10 novembre 2026",
+  "yesterday_date": "2026-11-18",
+  "yesterday_date_pretty": "le 18 novembre 2026",
   "visits": [
     {
-      "etab_name": "Nueva Luna Yoga",
-      "etab_slug": "nueva-luna-yoga",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nueva-luna-yoga.jpg",
-      "visite_id": "v_6cade064bf2e",
-      "canton": "Vaud",
-      "date_iso": "2026-11-10"
+      "etab_name": "The Wax Bar Genève",
+      "etab_slug": "the-wax-bar-geneve",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/the-wax-bar-geneve.jpg",
+      "visite_id": "v_95c0c114a7b0",
+      "canton": "Genève",
+      "date_iso": "2026-11-18"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "CLINIQUE LA JOUVENCE GENÈVE",
-      "etab_slug": "clinique-la-jouvence-geneve",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-geneve.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-geneve/",
+      "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
+      "etab_slug": "le-centre-geneve-by-charline",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
       "canton": "Genève",
-      "visites": 14,
+      "visites": 166,
       "note": "5/5",
-      "blurb": "La Clinique La Jouvence à Genève. Approche personnalisée selon chaque type de peau, conseils sur-mesure : la médecine esthétique à l'écoute.",
+      "blurb": "Le Centre Genève by Charline. Soins corps, esthétique, thérapies douces et accompagnement émotionnel sous un même toit, pour une beauté pensée comme équilibre intérieur.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "INSTITUT VALMONT CHEZ GLOBUS GENEVE",
-      "etab_slug": "institut-valmont-chez-globus-geneve",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-valmont-chez-globus-geneve.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-valmont-chez-globus-geneve/",
+      "etab_name": "Swiss Beauty Studio",
+      "etab_slug": "swiss-beauty-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/swiss-beauty-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/swiss-beauty-studio/",
       "canton": "Genève",
-      "visites": 37,
+      "visites": 307,
       "note": "5/5",
-      "blurb": "L'Institut Valmont chez Globus Genève, rue du Rhône. Cosmétique cellulaire signature et gestuelle Valmont pour une régénération profonde côté shopping de luxe.",
+      "blurb": "Swiss Beauty Studio aux Eaux-Vives. Carte variée et soins haute qualité pour la pause bien-être en plein cœur de Genève.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {
-      "etab_name": "CLARELYS",
-      "etab_slug": "clarelys",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clarelys.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/clarelys/",
-      "canton": "Valais",
-      "visites": null,
-      "note": null,
+      "etab_name": "CLARINS BOUTIQUE & SKIN SPA VEVEY",
+      "etab_slug": "boutique-skin-spa-clarins-vevey",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/boutique-skin-spa-clarins-vevey.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/boutique-skin-spa-clarins-vevey/",
+      "canton": null,
+      "visites": 3,
+      "note": "5/5",
       "blurb": null,
       "reason": "Nouveau partenaire du réseau"
     }
