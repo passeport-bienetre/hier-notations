@@ -1,49 +1,49 @@
 {
   "carte": "38775",
   "name": "Mariam",
-  "yesterday_date": "2026-11-12",
-  "yesterday_date_pretty": "le 12 novembre 2026",
+  "yesterday_date": "2026-11-19",
+  "yesterday_date_pretty": "le 19 novembre 2026",
   "visits": [
     {
-      "etab_name": "Spa La Santé, Bulles de Champagne",
-      "etab_slug": "la-sante-a-champagne",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-sante-a-champagne.jpg",
-      "visite_id": "v_baf8c40d2113",
-      "canton": "Vaud",
-      "date_iso": "2026-11-12"
+      "etab_name": "Amiia Clinique",
+      "etab_slug": "amiia-clinique",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/amiia-clinique.jpg",
+      "visite_id": "v_ef6430463a6a",
+      "canton": null,
+      "date_iso": "2026-11-19"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "Chalet Royalp Hôtel & Spa",
-      "etab_slug": "chalet-royalp-hotel-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
+      "etab_name": "Bhumi",
+      "etab_slug": "biotonique-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
       "canton": "Vaud",
-      "visites": 980,
+      "visites": 321,
       "note": "5/5",
-      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
+      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "RUBIS SPA",
-      "etab_slug": "rubis-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/rubis-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/rubis-spa/",
+      "etab_name": "Espace Beauté Harmonie",
+      "etab_slug": "espace-beaute-harmonie",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/espace-beaute-harmonie.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/espace-beaute-harmonie/",
       "canton": "Vaud",
-      "visites": 167,
+      "visites": 90,
       "note": "5/5",
-      "blurb": "Rubis Spa sur les hauteurs de Corseaux (Vaud), à quelques minutes de Vevey. Pierre et bois naturels, lumière tamisée, loin du tumulte.",
+      "blurb": "L'institut au cœur du quartier de Chailly. Cadre calme et chaleureux pour une pause détente en mode quartier.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
-      "etab_name": "CLARELYS",
-      "etab_slug": "clarelys",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clarelys.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/clarelys/",
-      "canton": "Valais",
-      "visites": null,
-      "note": null,
+      "etab_name": "CLARINS BOUTIQUE & SKIN SPA VEVEY",
+      "etab_slug": "boutique-skin-spa-clarins-vevey",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/boutique-skin-spa-clarins-vevey.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/boutique-skin-spa-clarins-vevey/",
+      "canton": null,
+      "visites": 4,
+      "note": "5/5",
       "blurb": null,
       "reason": "Nouveau partenaire du réseau"
     }

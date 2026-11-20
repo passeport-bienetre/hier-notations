@@ -1,39 +1,39 @@
 {
   "carte": "35478",
   "name": "Aurélie",
-  "yesterday_date": "2026-11-18",
-  "yesterday_date_pretty": "le 18 novembre 2026",
+  "yesterday_date": "2026-11-19",
+  "yesterday_date_pretty": "le 19 novembre 2026",
   "visits": [
     {
-      "etab_name": "The Wax Bar Genève",
-      "etab_slug": "the-wax-bar-geneve",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/the-wax-bar-geneve.jpg",
-      "visite_id": "v_95c0c114a7b0",
-      "canton": "Genève",
-      "date_iso": "2026-11-18"
+      "etab_name": "Bhumi",
+      "etab_slug": "biotonique-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
+      "visite_id": "v_bcfa6828ab5c",
+      "canton": "Vaud",
+      "date_iso": "2026-11-19"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
-      "etab_slug": "le-centre-geneve-by-charline",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
+      "etab_name": "Corps Sains",
+      "etab_slug": "corps-sains",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-sains.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/",
       "canton": "Genève",
-      "visites": 166,
+      "visites": 145,
       "note": "5/5",
-      "blurb": "Le Centre Genève by Charline. Soins corps, esthétique, thérapies douces et accompagnement émotionnel sous un même toit, pour une beauté pensée comme équilibre intérieur.",
+      "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Swiss Beauty Studio",
-      "etab_slug": "swiss-beauty-studio",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/swiss-beauty-studio.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/swiss-beauty-studio/",
+      "etab_name": "MAISON DU TEMPS",
+      "etab_slug": "maison-du-temps",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-du-temps.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-du-temps/",
       "canton": "Genève",
-      "visites": 307,
+      "visites": 71,
       "note": "5/5",
-      "blurb": "Swiss Beauty Studio aux Eaux-Vives. Carte variée et soins haute qualité pour la pause bien-être en plein cœur de Genève.",
+      "blurb": null,
       "reason": "À découvrir dans le canton de Genève"
     },
     {
@@ -42,7 +42,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/boutique-skin-spa-clarins-vevey.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/boutique-skin-spa-clarins-vevey/",
       "canton": null,
-      "visites": 3,
+      "visites": 4,
       "note": "5/5",
       "blurb": null,
       "reason": "Nouveau partenaire du réseau"
