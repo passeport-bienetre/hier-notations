@@ -1,50 +1,50 @@
 {
   "carte": "33456",
-  "name": "Xhemajli",
-  "yesterday_date": "2026-10-21",
-  "yesterday_date_pretty": "le 21 octobre 2026",
+  "name": "Alla",
+  "yesterday_date": "2026-11-20",
+  "yesterday_date_pretty": "le 20 novembre 2026",
   "visits": [
     {
-      "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
-      "etab_slug": "hotel-intercontinental-spa-5-mondes",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-intercontinental-spa-5-mondes.jpg",
-      "visite_id": "v_5469aedf98ff",
+      "etab_name": "Le Bal des Créateurs",
+      "etab_slug": "le-bal-des-createurs-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-bal-des-createurs-3.jpg",
+      "visite_id": "v_2bc7a68636a1",
       "canton": "Genève",
-      "date_iso": "2026-10-21"
+      "date_iso": "2026-11-20"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "ERINGER INSTITUT",
-      "etab_slug": "eringer-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/eringer-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/eringer-institut/",
-      "canton": "Valais",
-      "visites": 70,
-      "note": "4.5/5",
-      "blurb": "L'Institut Eringer Beauty & SPA, au 2ème étage des Bains d'Hérémence. Soins visage, massages relaxants et technologies amincissantes prolongent le bain valaisan.",
+      "etab_name": "Parallèles Coiffure",
+      "etab_slug": "paralleles-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/paralleles-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/paralleles-coiffure/",
+      "canton": "Genève",
+      "visites": 251,
+      "note": "5/5",
+      "blurb": "Parallèles, salon en triplex aux produits Davines exclusivement. Équipe jeune et trendy, ambiance détendue, écologie en arrière-plan.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Centre de bien-être J&J",
-      "etab_slug": "centre-de-bien-etre-jj",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/centre-de-bien-etre-jj.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/centre-de-bien-etre-jj/",
-      "canton": null,
-      "visites": 258,
+      "etab_name": "So Hair",
+      "etab_slug": "so-hair",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/so-hair.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/so-hair/",
+      "canton": "Genève",
+      "visites": 406,
       "note": "5/5",
-      "blurb": "Le centre de bien-être à La Tour-de-Peilz. Technologies de pointe, soins ciblés et accompagnement attentif pour une beauté qui se voit autant qu'elle se ressent.",
-      "reason": "À découvrir dans le canton de nan"
+      "blurb": "So Hair, près de la gare Cornavin dans une rue calme. Coiffeurs, coloristes, manucures et maquilleurs sous le même toit, dans une ambiance sobre et épurée.",
+      "reason": "À découvrir dans le canton de Genève"
     },
     {
-      "etab_name": "CHALET ROYALP HÔTEL & SPA",
-      "etab_slug": "chalet-royalp-hotel-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
-      "canton": "Vaud",
-      "visites": null,
-      "note": null,
-      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
+      "etab_name": "CLARINS BOUTIQUE & SKIN SPA VEVEY",
+      "etab_slug": "boutique-skin-spa-clarins-vevey",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/boutique-skin-spa-clarins-vevey.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/boutique-skin-spa-clarins-vevey/",
+      "canton": null,
+      "visites": 4,
+      "note": "5/5",
+      "blurb": null,
       "reason": "Nouveau partenaire du réseau"
     }
   ]
