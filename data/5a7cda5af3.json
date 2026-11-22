@@ -1,16 +1,16 @@
 {
   "carte": "32320",
   "name": "Monika",
-  "yesterday_date": "2026-11-20",
-  "yesterday_date_pretty": "le 20 novembre 2026",
+  "yesterday_date": "2026-11-21",
+  "yesterday_date_pretty": "le 21 novembre 2026",
   "visits": [
     {
-      "etab_name": "EVERNESS <br>Hôtel & Resort",
-      "etab_slug": "everness-resort",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/everness-resort.jpg",
-      "visite_id": "v_3b3f2e922cd2",
+      "etab_name": "Salon Privé Ecublens",
+      "etab_slug": "salon-prive-ecublens",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-ecublens.jpg",
+      "visite_id": "v_dd93b7be63bb",
       "canton": "Vaud",
-      "date_iso": "2026-11-20"
+      "date_iso": "2026-11-21"
     }
   ],
   "suggestions": [
