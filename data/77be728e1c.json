@@ -1,16 +1,16 @@
 {
   "carte": "37093",
   "name": "Estelle",
-  "yesterday_date": "2026-08-06",
-  "yesterday_date_pretty": "le 6 août 2026",
+  "yesterday_date": "2026-11-22",
+  "yesterday_date_pretty": "le 22 novembre 2026",
   "visits": [
     {
-      "etab_name": "Chalet-Hôtel la Marmotte",
-      "etab_slug": "chalet-hotel-la-marmotte",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-hotel-la-marmotte.jpg",
-      "visite_id": "v_034d0fea39eb",
-      "canton": null,
-      "date_iso": "2026-08-06"
+      "etab_name": "SPA DES BISSES 4 VALLÉES",
+      "etab_slug": "spa-hotel-nendaz-4-vallees",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
+      "visite_id": "v_baad75823ee0",
+      "canton": "Valais",
+      "date_iso": "2026-11-22"
     }
   ],
   "suggestions": [
@@ -20,30 +20,30 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/comme-sur-un-nuage.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/comme-sur-un-nuage/",
       "canton": "Neuchâtel",
-      "visites": 55,
+      "visites": 61,
       "note": "5/5",
       "blurb": "Le centre de Typhaine Bessey, dix ans d'expérience entre spa hôtelier et bains thermaux. Formée en Ayurveda et aromathérapie, elle mise sur des cosmétiques sains.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Chandolin Boutique Hôtel",
-      "etab_slug": "chandolin-boutique-hotel",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
-      "canton": "Valais",
-      "visites": 171,
+      "etab_name": "Bhumi",
+      "etab_slug": "biotonique-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
+      "canton": "Vaud",
+      "visites": 321,
       "note": "5/5",
-      "blurb": "L'Altitude Wellness du Chandolin Boutique Hotel, à 2000m d'altitude. Hammam, sauna, baie vitrée panoramique et soins signature Belle Luce en sommet valaisan.",
-      "reason": "À découvrir dans le canton de Valais"
+      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
+      "reason": "À découvrir dans le canton de Vaud"
     },
     {
-      "etab_name": "SPA DES BISSES 4 VALLÉES",
-      "etab_slug": "spa-hotel-nendaz-4-vallees",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
-      "canton": "Valais",
-      "visites": 1,
-      "note": null,
+      "etab_name": "CLARINS BOUTIQUE & SKIN SPA VEVEY",
+      "etab_slug": "boutique-skin-spa-clarins-vevey",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/boutique-skin-spa-clarins-vevey.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/boutique-skin-spa-clarins-vevey/",
+      "canton": null,
+      "visites": 4,
+      "note": "5/5",
       "blurb": null,
       "reason": "Nouveau partenaire du réseau"
     }
