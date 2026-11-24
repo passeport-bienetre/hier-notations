@@ -1,16 +1,16 @@
 {
   "carte": "33191",
   "name": "Lucia",
-  "yesterday_date": "2026-11-19",
-  "yesterday_date_pretty": "le 19 novembre 2026",
+  "yesterday_date": "2026-11-23",
+  "yesterday_date_pretty": "le 23 novembre 2026",
   "visits": [
     {
-      "etab_name": "Namasté",
-      "etab_slug": "namaste",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/namaste.jpg",
-      "visite_id": "v_80ad0d60b15d",
-      "canton": "Vaud",
-      "date_iso": "2026-11-19"
+      "etab_name": "Amiia Clinique",
+      "etab_slug": "amiia-clinique",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/amiia-clinique.jpg",
+      "visite_id": "v_f9167446b678",
+      "canton": null,
+      "date_iso": "2026-11-23"
     }
   ],
   "suggestions": [
@@ -42,7 +42,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/boutique-skin-spa-clarins-vevey.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/boutique-skin-spa-clarins-vevey/",
       "canton": null,
-      "visites": 4,
+      "visites": 7,
       "note": "5/5",
       "blurb": null,
       "reason": "Nouveau partenaire du réseau"
