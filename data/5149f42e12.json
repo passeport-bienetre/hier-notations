@@ -1,30 +1,19 @@
 {
   "carte": "39118",
   "name": "Olivia",
-  "yesterday_date": "2026-11-05",
-  "yesterday_date_pretty": "le 5 novembre 2026",
+  "yesterday_date": "2026-11-26",
+  "yesterday_date_pretty": "le 26 novembre 2026",
   "visits": [
     {
-      "etab_name": "CLARINS BOUTIQUE & SKIN SPA GENÈVE",
-      "etab_slug": "clarins-boutique-geneve",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clarins-boutique-geneve.jpg",
-      "visite_id": "v_acd31ad951ae",
+      "etab_name": "MAISON DU TEMPS",
+      "etab_slug": "maison-du-temps",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-du-temps.jpg",
+      "visite_id": "v_0c8d9b9d89ce",
       "canton": "Genève",
-      "date_iso": "2026-11-05"
+      "date_iso": "2026-11-26"
     }
   ],
   "suggestions": [
-    {
-      "etab_name": "BEAUTY B",
-      "etab_slug": "bv-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
-      "canton": "Genève",
-      "visites": 152,
-      "note": "5/5",
-      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
     {
       "etab_name": "Corps Sains",
       "etab_slug": "corps-sains",
@@ -34,16 +23,27 @@
       "visites": 145,
       "note": "5/5",
       "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
-      "reason": "À découvrir dans le canton de Genève"
+      "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "CLARELYS",
-      "etab_slug": "clarelys",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clarelys.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/clarelys/",
-      "canton": "Valais",
-      "visites": null,
-      "note": null,
+      "etab_name": "Bhumi",
+      "etab_slug": "biotonique-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
+      "canton": "Vaud",
+      "visites": 322,
+      "note": "5/5",
+      "blurb": "L'institut Bhumi mise sur la cosmétique naturelle et artisanale. Soins bio, ingrédients sourcés, atmosphère lumineuse : la beauté en mode conscient.",
+      "reason": "À découvrir dans le canton de Vaud"
+    },
+    {
+      "etab_name": "CLARINS BOUTIQUE & SKIN SPA VEVEY",
+      "etab_slug": "boutique-skin-spa-clarins-vevey",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/boutique-skin-spa-clarins-vevey.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/boutique-skin-spa-clarins-vevey/",
+      "canton": null,
+      "visites": 8,
+      "note": "5/5",
       "blurb": null,
       "reason": "Nouveau partenaire du réseau"
     }

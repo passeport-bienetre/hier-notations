@@ -1,0 +1,51 @@
+{
+  "carte": "35543",
+  "name": "Arlinda",
+  "yesterday_date": "2026-11-26",
+  "yesterday_date_pretty": "le 26 novembre 2026",
+  "visits": [
+    {
+      "etab_name": "Royal Savoy Hôtel & Spa",
+      "etab_slug": "royal-savoy-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+      "visite_id": "v_e88d12637b68",
+      "canton": "Vaud",
+      "date_iso": "2026-11-26"
+    }
+  ],
+  "suggestions": [
+    {
+      "etab_name": "LECRANS HOTEL & SPA",
+      "etab_slug": "le-st-gervais-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-st-gervais-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
+      "canton": "Valais",
+      "visites": 202,
+      "note": "5/5",
+      "blurb": "Le Saint Gervais Hôtel & Spa au pied du Mont-Blanc, dans une demeure historique. Soins [comfort zone] certifiés B Corp depuis 2016, la beauté durable en cure thermale.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "Hostellerie du Pas de l'Ours",
+      "etab_slug": "hostellerie-du-pas-de-lours",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hostellerie-du-pas-de-lours.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hostellerie-du-pas-de-lours/",
+      "canton": "Valais",
+      "visites": 112,
+      "note": "4/5",
+      "blurb": "Le spa de l'Hostellerie du Pas-de-l'Ours à Crans-Montana. Soins visage Hormeta, soins corps Phytomer et atmosphère relaxante avec la personnalisation au cœur du geste.",
+      "reason": "À découvrir dans le canton de Valais"
+    },
+    {
+      "etab_name": "CLARINS BOUTIQUE & SKIN SPA VEVEY",
+      "etab_slug": "boutique-skin-spa-clarins-vevey",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/boutique-skin-spa-clarins-vevey.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/boutique-skin-spa-clarins-vevey/",
+      "canton": null,
+      "visites": 8,
+      "note": "5/5",
+      "blurb": null,
+      "reason": "Nouveau partenaire du réseau"
+    }
+  ]
+}
