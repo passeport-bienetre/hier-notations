@@ -1,39 +1,39 @@
 {
   "carte": "35482",
   "name": "Maeva",
-  "yesterday_date": "2026-11-19",
-  "yesterday_date_pretty": "le 19 novembre 2026",
+  "yesterday_date": "2026-11-27",
+  "yesterday_date_pretty": "le 27 novembre 2026",
   "visits": [
     {
-      "etab_name": "NUANCES NATURE",
-      "etab_slug": "nuances-nature",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nuances-nature.jpg",
-      "visite_id": "v_49fc176cec13",
+      "etab_name": "CLARINS BOUTIQUE & SKIN SPA GENÈVE",
+      "etab_slug": "clarins-boutique-geneve",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clarins-boutique-geneve.jpg",
+      "visite_id": "v_3d96b107fe54",
       "canton": "Genève",
-      "date_iso": "2026-11-19"
+      "date_iso": "2026-11-27"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "Le Cabinet de Beauté",
-      "etab_slug": "le-cabinet-de-beaute",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-cabinet-de-beaute.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/le-cabinet-de-beaute/",
+      "etab_name": "Corps Sains",
+      "etab_slug": "corps-sains",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-sains.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/",
       "canton": "Genève",
-      "visites": 370,
+      "visites": 145,
       "note": "5/5",
-      "blurb": "Le Cabinet de Beauté, ambiance boisée et soins Dr Hauschka. Bio-esthéticienne spécialiste du visage et plantes médicinales biologiques : la cosmétique \"autrement\" à Genève.",
+      "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Wulan Studio",
-      "etab_slug": "wulan-studio",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/wulan-studio.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/wulan-studio/",
+      "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
+      "etab_slug": "hotel-intercontinental-spa-5-mondes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-intercontinental-spa-5-mondes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "canton": "Genève",
-      "visites": 78,
+      "visites": 476,
       "note": "5/5",
-      "blurb": "Wulan HeadCare studio. Inspiré des traditions asiatiques, massage crânien et soin capillaire aux produits certifiés bio : la beauté du cuir chevelu en mode holistique.",
+      "blurb": "Au cœur de Genève, l'adresse urbaine signée Cinq Mondes. Rituels d'ailleurs et piscine au 30e étage pour une pause hors du monde.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {
@@ -42,7 +42,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/boutique-skin-spa-clarins-vevey.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/boutique-skin-spa-clarins-vevey/",
       "canton": null,
-      "visites": 4,
+      "visites": 8,
       "note": "5/5",
       "blurb": null,
       "reason": "Nouveau partenaire du réseau"

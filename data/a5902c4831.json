@@ -1,39 +1,39 @@
 {
   "carte": "34755",
   "name": "Laure",
-  "yesterday_date": "2026-11-25",
-  "yesterday_date_pretty": "le 25 novembre 2026",
+  "yesterday_date": "2026-11-27",
+  "yesterday_date_pretty": "le 27 novembre 2026",
   "visits": [
     {
-      "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
-      "etab_slug": "le-centre-geneve-by-charline",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
-      "visite_id": "v_f41d0cf546a3",
+      "etab_name": "INSTITUT VALMONT CHEZ GLOBUS GENEVE",
+      "etab_slug": "institut-valmont-chez-globus-geneve",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-valmont-chez-globus-geneve.jpg",
+      "visite_id": "v_12b75b6072c6",
       "canton": "Genève",
-      "date_iso": "2026-11-25"
+      "date_iso": "2026-11-27"
     }
   ],
   "suggestions": [
     {
-      "etab_name": "SUBLIMEYES",
-      "etab_slug": "institut-sublimeyes",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sublimeyes/",
+      "etab_name": "CLINIQUE LA JOUVENCE GENÈVE",
+      "etab_slug": "clinique-la-jouvence-geneve",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-geneve.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-geneve/",
       "canton": "Genève",
-      "visites": 151,
+      "visites": 17,
       "note": "5/5",
-      "blurb": "SublimEyes au cœur de Genève, spécialiste du regard. Épilation au fil, teinture, rehaussement de cils et Microblading : la beauté pensée à hauteur d'œil.",
+      "blurb": "La Clinique La Jouvence à Genève. Approche personnalisée selon chaque type de peau, conseils sur-mesure : la médecine esthétique à l'écoute.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "Swiss Beauty Studio",
-      "etab_slug": "swiss-beauty-studio",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/swiss-beauty-studio.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/swiss-beauty-studio/",
+      "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
+      "etab_slug": "hotel-intercontinental-spa-5-mondes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-intercontinental-spa-5-mondes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "canton": "Genève",
-      "visites": 309,
+      "visites": 476,
       "note": "5/5",
-      "blurb": "Swiss Beauty Studio aux Eaux-Vives. Carte variée et soins haute qualité pour la pause bien-être en plein cœur de Genève.",
+      "blurb": "Au cœur de Genève, l'adresse urbaine signée Cinq Mondes. Rituels d'ailleurs et piscine au 30e étage pour une pause hors du monde.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {

@@ -1,30 +1,19 @@
 {
   "carte": "36977",
   "name": "Zlatan",
-  "yesterday_date": "2026-11-14",
-  "yesterday_date_pretty": "le 14 novembre 2026",
+  "yesterday_date": "2026-11-27",
+  "yesterday_date_pretty": "le 27 novembre 2026",
   "visits": [
     {
-      "etab_name": "Saai Nam Massage – Manor",
-      "etab_slug": "saai-nam-massage-manor",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/saai-nam-massage-manor.jpg",
-      "visite_id": "v_5e351ad1ff1a",
-      "canton": "Genève",
-      "date_iso": "2026-11-14"
+      "etab_name": "Royal Savoy Hôtel & Spa",
+      "etab_slug": "royal-savoy-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+      "visite_id": "v_3de5c0bfd05e",
+      "canton": "Vaud",
+      "date_iso": "2026-11-27"
     }
   ],
   "suggestions": [
-    {
-      "etab_name": "BEAUTY B",
-      "etab_slug": "bv-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
-      "canton": "Genève",
-      "visites": 152,
-      "note": "5/5",
-      "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
     {
       "etab_name": "Corps Sains",
       "etab_slug": "corps-sains",
@@ -34,16 +23,27 @@
       "visites": 145,
       "note": "5/5",
       "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
+    {
+      "etab_name": "MAISON DU TEMPS",
+      "etab_slug": "maison-du-temps",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-du-temps.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-du-temps/",
+      "canton": "Genève",
+      "visites": 75,
+      "note": "5/5",
+      "blurb": null,
       "reason": "À découvrir dans le canton de Genève"
     },
     {
-      "etab_name": "CLARELYS",
-      "etab_slug": "clarelys",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clarelys.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/clarelys/",
-      "canton": "Valais",
-      "visites": null,
-      "note": null,
+      "etab_name": "CLARINS BOUTIQUE & SKIN SPA VEVEY",
+      "etab_slug": "boutique-skin-spa-clarins-vevey",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/boutique-skin-spa-clarins-vevey.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/boutique-skin-spa-clarins-vevey/",
+      "canton": null,
+      "visites": 8,
+      "note": "5/5",
       "blurb": null,
       "reason": "Nouveau partenaire du réseau"
     }
